@@ -1,0 +1,587 @@
+# aa
+msgid "Afar"
+msgstr "아파르어"
+
+# ab
+msgid "Abkhazian"
+msgstr "압하스어"
+
+# af
+msgid "Afrikaans"
+msgstr "아프리칸스어"
+
+# am
+msgid "Amharic"
+msgstr "암하라어"
+
+# an
+msgid "Aragonese"
+msgstr "아라곤어"
+
+# as
+msgid "Assamese"
+msgstr "아삼어"
+
+# av
+msgid "Avaric"
+msgstr "아바르어"
+
+# ba
+msgid "Bashkir"
+msgstr "바시키르어"
+
+# be
+msgid "Belarusian"
+msgstr "벨로루시어"
+
+# bg
+msgid "Bulgarian"
+msgstr "불가리아어"
+
+# bi
+msgid "Bislama"
+msgstr "비슬라마"
+
+# bm
+msgid "Bambara"
+msgstr "밤바라어"
+
+# bn
+msgid "Bengali"
+msgstr "벵골어"
+
+# bo
+msgid "Tibetan"
+msgstr "티베트어"
+
+# br
+msgid "Breton"
+msgstr "브르타뉴어"
+
+# bs
+msgid "Bosnian"
+msgstr "보스니아어"
+
+# ca
+# original msgid: "Catalan; Valencian"
+msgid "Catalan"
+msgstr "카탈루냐어"
+
+# ce
+msgid "Chechen"
+msgstr "체첸어"
+
+# ch
+msgid "Chamorro"
+msgstr "차모로어"
+
+# co
+msgid "Corsican"
+msgstr "코르시카어"
+
+# cs
+msgid "Czech"
+msgstr "체코어"
+
+# cv
+msgid "Chuvash"
+msgstr "추바슈어"
+
+# cy
+msgid "Welsh"
+msgstr "웨일스어"
+
+# da
+msgid "Danish"
+msgstr "덴마크어"
+
+# de
+msgid "German"
+msgstr "독일어"
+
+# dv
+# original msgid: "Divehi; Dhivehi; Maldivian"
+msgid "Dhivehi"
+msgstr "디베히어"
+
+# dz
+msgid "Dzongkha"
+msgstr "종카어"
+
+# ee
+msgid "Ewe"
+msgstr "에웨어"
+
+# el
+# original msgid: "Greek, Modern (1453-)"
+msgid "Greek"
+msgstr "그리스어 (현대) (1453년 이후)"
+
+# en
+msgid "English"
+msgstr "영어"
+
+# es
+# original msgid: "Spanish; Castilian"
+msgid "Spanish"
+msgstr "스페인어"
+
+# eu
+msgid "Basque"
+msgstr "바스크어"
+
+# fi
+msgid "Finnish"
+msgstr "핀란드어"
+
+# fj
+msgid "Fijian"
+msgstr "피지어"
+
+# fo
+msgid "Faroese"
+msgstr "페로스어"
+
+# fr
+msgid "French"
+msgstr "프랑스어"
+
+# fy
+msgid "Western Frisian"
+msgstr "프리지아어 (서부)"
+
+# ga
+msgid "Irish"
+msgstr "아일랜드어"
+
+# gd
+# original msgid: "Gaelic; Scottish Gaelic"
+msgid "Scottish Gaelic"
+msgstr "고이델어"
+
+# gl
+msgid "Galician"
+msgstr "갈리시아어"
+
+# gu
+msgid "Gujarati"
+msgstr "구자라트어"
+
+# gv
+msgid "Manx"
+msgstr "맨어"
+
+# ha
+msgid "Hausa"
+msgstr "하우사어"
+
+# he
+msgid "Hebrew"
+msgstr "히브리어"
+
+# hi
+msgid "Hindi"
+msgstr "힌두어"
+
+# ho
+msgid "Hiri Motu"
+msgstr "히리 모투"
+
+# hr
+msgid "Croatian"
+msgstr "크로아티아어"
+
+# ht
+# original msgid: "Haitian; Haitian Creole"
+msgid "Haitian"
+msgstr "아이티어"
+
+# hu
+msgid "Hungarian"
+msgstr "헝가리어"
+
+# hy
+msgid "Armenian"
+msgstr "아르메니아어"
+
+# hz
+msgid "Herero"
+msgstr "헤레로어"
+
+# id
+msgid "Indonesian"
+msgstr "인도네시아어"
+
+# ig
+msgid "Igbo"
+msgstr "이그보어"
+
+# ii
+# original msgid: "Sichuan Yi; Nuosu"
+msgid "Sichuan Yi"
+msgstr "쓰촨 이어"
+
+# is
+msgid "Icelandic"
+msgstr "아이슬란드어"
+
+# it
+msgid "Italian"
+msgstr "이탈리아어"
+
+# ja
+msgid "Japanese"
+msgstr "일본어"
+
+# jv
+msgid "Javanese"
+msgstr "자와어"
+
+# ka
+msgid "Georgian"
+msgstr "조지아어"
+
+# ki
+# original msgid: "Kikuyu; Gikuyu"
+msgid "Kikuyu"
+msgstr "키쿠유어"
+
+# kj
+# original msgid: "Kuanyama; Kwanyama"
+msgid "Kuanyama"
+msgstr "콰냐마어"
+
+# kk
+msgid "Kazakh"
+msgstr "카자흐어"
+
+# kl
+# original msgid: "Kalaallisut; Greenlandic"
+msgid "Kalaallisut"
+msgstr "그린란드어"
+
+# km
+msgid "Central Khmer"
+msgstr "중부 크메르어"
+
+# kn
+msgid "Kannada"
+msgstr "칸나다어"
+
+# ko
+msgid "Korean"
+msgstr "한국어"
+
+# ks
+msgid "Kashmiri"
+msgstr "카슈미르어"
+
+# kw
+msgid "Cornish"
+msgstr "콘월어"
+
+# ky
+# original msgid: "Kirghiz; Kyrgyz"
+msgid "Kirghiz"
+msgstr "키르기스어"
+
+# lb
+# original msgid: "Luxembourgish; Letzeburgesch"
+msgid "Luxembourgish"
+msgstr "룩셈부르크어"
+
+# lg
+msgid "Ganda"
+msgstr "간다어"
+
+# li
+# original msgid: "Limburgan; Limburger; Limburgish"
+msgid "Limburgan"
+msgstr "림뷔르흐어"
+
+# ln
+msgid "Lingala"
+msgstr "링갈라어"
+
+# lo
+msgid "Lao"
+msgstr "라오어"
+
+# lt
+msgid "Lithuanian"
+msgstr "리투아니아어"
+
+# lu
+msgid "Luba-Katanga"
+msgstr "루바카탕가어"
+
+# mh
+msgid "Marshallese"
+msgstr "마셜어"
+
+# mi
+msgid "Maori"
+msgstr "마오리어"
+
+# mk
+msgid "Macedonian"
+msgstr "마케도니아어"
+
+# ml
+msgid "Malayalam"
+msgstr "말라얄람어"
+
+# mr
+msgid "Marathi"
+msgstr "마라티어"
+
+# mt
+msgid "Maltese"
+msgstr "몰타어"
+
+# my
+msgid "Burmese"
+msgstr "버마어"
+
+# na
+msgid "Nauru"
+msgstr "나우루어"
+
+# nb
+# original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
+msgid "Norwegian Bokmål"
+msgstr "보크몰"
+
+# nd
+# original msgid: "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
+msgstr "은데벨레어 (북)"
+
+# ng
+msgid "Ndonga"
+msgstr "은동가어"
+
+# nl
+# original msgid: "Dutch; Flemish"
+msgid "Dutch"
+msgstr "네덜란드어"
+
+# nn
+# original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "뉘노리스크"
+
+# nr
+# original msgid: "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
+msgstr "은데벨레어 (남)"
+
+# nv
+# original msgid: "Navajo; Navaho"
+msgid "Navajo"
+msgstr "나바호어"
+
+# ny
+# original msgid: "Chichewa; Chewa; Nyanja"
+msgid "Nyanja"
+msgstr "니안자어"
+
+# oc
+# original msgid: "Occitan (post 1500); Provençal"
+msgid "Occitan"
+msgstr "오크어 (1500년 이후)"
+
+# os
+# original msgid: "Ossetian; Ossetic"
+msgid "Ossetian"
+msgstr "오세트어"
+
+# pa
+# original msgid: "Panjabi; Punjabi"
+msgid "Panjabi"
+msgstr "펀자브어"
+
+# pl
+msgid "Polish"
+msgstr "폴란드어"
+
+# pt
+msgid "Portuguese"
+msgstr "포르투갈어"
+
+# rm
+msgid "Romansh"
+msgstr "로만슈어"
+
+# rn
+msgid "Rundi"
+msgstr "룬디어"
+
+# ro
+# original msgid: "Romanian; Moldavian; Moldovan"
+msgid "Romanian"
+msgstr "루마니아어"
+
+# ru
+msgid "Russian"
+msgstr "러시아어"
+
+# rw
+msgid "Kinyarwanda"
+msgstr "르완다어"
+
+# sd
+msgid "Sindhi"
+msgstr "신디어"
+
+# se
+msgid "Northern Sami"
+msgstr "사미어 (북)"
+
+# sg
+msgid "Sango"
+msgstr "상고어"
+
+# si
+# original msgid: "Sinhala; Sinhalese"
+msgid "Sinhala"
+msgstr "싱할라어"
+
+# sk
+msgid "Slovak"
+msgstr "슬로바키아어"
+
+# sl
+msgid "Slovenian"
+msgstr "슬로베니아어"
+
+# sm
+msgid "Samoan"
+msgstr "사모아어"
+
+# sn
+msgid "Shona"
+msgstr "쇼나어"
+
+# so
+msgid "Somali"
+msgstr "소말리아어"
+
+# sr
+msgid "Serbian"
+msgstr "세르비아어"
+
+# ss
+msgid "Swati"
+msgstr "스와티어"
+
+# st
+# original msgid: "Sotho, Southern"
+msgid "Southern Sotho"
+msgstr "소토어 (남)"
+
+# su
+msgid "Sundanese"
+msgstr "순다어"
+
+# sv
+msgid "Swedish"
+msgstr "스웨덴어"
+
+# ta
+msgid "Tamil"
+msgstr "타밀어"
+
+# te
+msgid "Telugu"
+msgstr "텔루구어"
+
+# tg
+msgid "Tajik"
+msgstr "타지크어"
+
+# th
+msgid "Thai"
+msgstr "태국어"
+
+# ti
+msgid "Tigrinya"
+msgstr "티그리냐어"
+
+# tk
+msgid "Turkmen"
+msgstr "투르크멘어"
+
+# tl
+msgid "Tagalog"
+msgstr "타갈로그어"
+
+# tn
+msgid "Tswana"
+msgstr "츠와나어"
+
+# to
+# original msgid: "Tonga (Tonga Islands)"
+msgid "Tonga"
+msgstr "통가어 (통가 제도)"
+
+# tr
+msgid "Turkish"
+msgstr "터키어"
+
+# ts
+msgid "Tsonga"
+msgstr "총가어"
+
+# tt
+msgid "Tatar"
+msgstr "타타르어"
+
+# tw
+msgid "Twi"
+msgstr "알칸어군"
+
+# ty
+msgid "Tahitian"
+msgstr "타히티어"
+
+# ug
+# original msgid: "Uighur; Uyghur"
+msgid "Uighur"
+msgstr "위구르어"
+
+# uk
+msgid "Ukrainian"
+msgstr "우크라이나어"
+
+# ur
+msgid "Urdu"
+msgstr "우르두어"
+
+# ve
+msgid "Venda"
+msgstr "벤다어"
+
+# vi
+msgid "Vietnamese"
+msgstr "베트남어"
+
+# wa
+msgid "Walloon"
+msgstr "왈론어"
+
+# wo
+msgid "Wolof"
+msgstr "월로프어"
+
+# xh
+msgid "Xhosa"
+msgstr "코사어"
+
+# yo
+msgid "Yoruba"
+msgstr "요루바어"
+
+# zu
+msgid "Zulu"
+msgstr "줄루어"

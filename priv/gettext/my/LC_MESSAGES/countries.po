@@ -1,0 +1,996 @@
+# AD
+msgid "Andorra"
+msgstr "အင်ဒိုရာနိုင်ငံ"
+
+# AE
+msgid "United Arab Emirates"
+msgstr "အာရပ်စော်ဘွားများပြည်ထောင်စု"
+
+# AF
+msgid "Afghanistan"
+msgstr "အာဖဂန်နစ္စတန်နိုင်ငံ"
+
+# AG
+msgid "Antigua and Barbuda"
+msgstr "အင်တီဂွါနှင့် ဘာဘူဒါနိုင်ငံ"
+
+# AI
+msgid "Anguilla"
+msgstr ""
+
+# AL
+msgid "Albania"
+msgstr "အယ်လ်ဘေးနီးယားနိုင်ငံ"
+
+# AM
+msgid "Armenia"
+msgstr "အာမေးနီးယားနိုင်ငံ"
+
+# AO
+msgid "Angola"
+msgstr "အင်ဂိုလာနိုင်ငံ"
+
+# AQ
+msgid "Antarctica"
+msgstr ""
+
+# AR
+msgid "Argentina"
+msgstr "အာဂျင်တီးနားနိုင်ငံ"
+
+# AS
+msgid "American Samoa"
+msgstr ""
+
+# AT
+msgid "Austria"
+msgstr "သြစတြီးယားနိုင်ငံ"
+
+# AU
+msgid "Australia"
+msgstr "ဩစတြေးလျနိုင်ငံ"
+
+# AW
+msgid "Aruba"
+msgstr ""
+
+# AX
+msgid "Åland Islands"
+msgstr ""
+
+# AZ
+msgid "Azerbaijan"
+msgstr "အဇာဘိုင်ဂျန်နိုင်ငံ"
+
+# BA
+msgid "Bosnia and Herzegovina"
+msgstr "ဘော့စနီးယားနှင့် ဟာဇီဂိုဗီးနားနိုင်ငံ"
+
+# BB
+msgid "Barbados"
+msgstr "ဘာဘေးဒိုးစ်နိုင်ငံ"
+
+# BD
+msgid "Bangladesh"
+msgstr "banglaဘင်္ဂလားဒေ့ရှ်နိုင်ငံ"
+
+# BE
+msgid "Belgium"
+msgstr "ဘယ်လ်ဂျီယမ်နိုင်ငံ"
+
+# BF
+msgid "Burkina Faso"
+msgstr "ဘာကီးနားဖားဆိုနိုင်ငံ"
+
+# BG
+msgid "Bulgaria"
+msgstr "ဘူလ်ဂေးရီးယားနိုင်ငံ"
+
+# BH
+msgid "Bahrain"
+msgstr "ဘာရိန်းနိုင်ငံ"
+
+# BI
+msgid "Burundi"
+msgstr "ဘူရွန်ဒီနိုင်ငံ"
+
+# BJ
+msgid "Benin"
+msgstr "ဘီနင်နိုင်ငံ"
+
+# BL
+msgid "Saint Barthélemy"
+msgstr ""
+
+# BM
+msgid "Bermuda"
+msgstr ""
+
+# BN
+msgid "Brunei Darussalam"
+msgstr ""
+
+# BO
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+# BQ
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+# BR
+msgid "Brazil"
+msgstr "ဘရာဇီးနိုင်ငံ"
+
+# BS
+msgid "Bahamas"
+msgstr ""
+
+# BT
+msgid "Bhutan"
+msgstr "ဘူတန်နိုင်ငံ"
+
+# BV
+msgid "Bouvet Island"
+msgstr ""
+
+# BW
+msgid "Botswana"
+msgstr "ဘော့ဆွာနာနိုင်ငံ"
+
+# BY
+msgid "Belarus"
+msgstr "ဘီလာရုဇ်နိုင်ငံ"
+
+# BZ
+msgid "Belize"
+msgstr "ဘလိဇ်နိုင်ငံ"
+
+# CA
+msgid "Canada"
+msgstr "ကနေဒါနိုင်ငံ"
+
+# CC
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+# CD
+msgid "Congo, The Democratic Republic of the"
+msgstr ""
+
+# CF
+msgid "Central African Republic"
+msgstr "ဗဟိုအာဖရိကသမ္မတနိုင်ငံ"
+
+# CG
+msgid "Congo"
+msgstr ""
+
+# CH
+msgid "Switzerland"
+msgstr "ဆွစ်ဇာလန်နိုင်ငံ"
+
+# CI
+msgid "Côte d'Ivoire"
+msgstr ""
+
+# CK
+msgid "Cook Islands"
+msgstr "ကွတ်ကျွန်းစု"
+
+# CL
+msgid "Chile"
+msgstr "ချီလီပြည်သူ့သမ္မတနိုင်ငံ"
+
+# CM
+msgid "Cameroon"
+msgstr "ကင်မရွန်းနိုင်ငံ"
+
+# CN
+msgid "China"
+msgstr ""
+
+# CO
+msgid "Colombia"
+msgstr "ကိုလံဘီယာနိုင်ငံ"
+
+# CR
+msgid "Costa Rica"
+msgstr "ကော့စတာရီကာနိုင်ငံ"
+
+# CU
+msgid "Cuba"
+msgstr "ကျူးဘားနိုင်ငံ"
+
+# CV
+msgid "Cabo Verde"
+msgstr ""
+
+# CW
+msgid "Curaçao"
+msgstr "ကျူရေကိုးနယ်"
+
+# CX
+msgid "Christmas Island"
+msgstr ""
+
+# CY
+msgid "Cyprus"
+msgstr "ဆိုက်ပရပ်စ်နိုင်ငံ"
+
+# CZ
+msgid "Czechia"
+msgstr ""
+
+# DE
+msgid "Germany"
+msgstr "ဂျာမနီနိုင်ငံ"
+
+# DJ
+msgid "Djibouti"
+msgstr "ဂျီဘူတီနိုင်ငံ"
+
+# DK
+msgid "Denmark"
+msgstr "ဒိန်းမတ်နိုင်ငံ"
+
+# DM
+msgid "Dominica"
+msgstr "ဒိုမီနီကာနိုင်ငံ"
+
+# DO
+msgid "Dominican Republic"
+msgstr "ဒိုမီနီကန်သမ္မတနိုင်ငံ"
+
+# DZ
+msgid "Algeria"
+msgstr "အယ်လ်ဂျီးရီးယားနိုင်ငံ"
+
+# EC
+msgid "Ecuador"
+msgstr "အီကွေဒေါနိုင်ငံ"
+
+# EE
+msgid "Estonia"
+msgstr ""
+
+# EG
+msgid "Egypt"
+msgstr "အီဂျစ်နိုင်ငံ"
+
+# EH
+msgid "Western Sahara"
+msgstr ""
+
+# ER
+msgid "Eritrea"
+msgstr "အီရီထရီးယားနိုင်ငံ"
+
+# ES
+msgid "Spain"
+msgstr "စပိန်နိုင်ငံ"
+
+# ET
+msgid "Ethiopia"
+msgstr "အီသီယိုးပီးယားနိုင်ငံ"
+
+# FI
+msgid "Finland"
+msgstr "ဖင်လန်နိုင်ငံ"
+
+# FJ
+msgid "Fiji"
+msgstr "ဖီဂျီနိုင်ငံ"
+
+# FK
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+# FM
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+# FO
+msgid "Faroe Islands"
+msgstr ""
+
+# FR
+msgid "France"
+msgstr "ပြင်သစ်နိုင်ငံ"
+
+# GA
+msgid "Gabon"
+msgstr "ဂါဘွန်နိုင်ငံ"
+
+# GB
+msgid "United Kingdom"
+msgstr "ယူနိုက်တက် ကင်းဒမ်း"
+
+# GD
+msgid "Grenada"
+msgstr "ဂရီနေဒါနိုင်ငံ"
+
+# GE
+msgid "Georgia"
+msgstr "ဂျော်ဂျီယာနိုင်ငံ"
+
+# GF
+msgid "French Guiana"
+msgstr ""
+
+# GG
+msgid "Guernsey"
+msgstr ""
+
+# GH
+msgid "Ghana"
+msgstr "ဂါနာနိုင်ငံ"
+
+# GI
+msgid "Gibraltar"
+msgstr "ဂျီဘရော်လ်တာ"
+
+# GL
+msgid "Greenland"
+msgstr "ဂရင်းလန်ကျွန်း"
+
+# GM
+msgid "Gambia"
+msgstr ""
+
+# GN
+msgid "Guinea"
+msgstr "ဂီနီနိုင်ငံ"
+
+# GP
+msgid "Guadeloupe"
+msgstr "ဂွါဒလ်ကျွန်း"
+
+# GQ
+msgid "Equatorial Guinea"
+msgstr "အီကွေတာဂီနီနိုင်ငံ"
+
+# GR
+msgid "Greece"
+msgstr "ဂရိနိုင်ငံ"
+
+# GS
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+# GT
+msgid "Guatemala"
+msgstr "ဂွါတီမာလာနိုင်ငံ"
+
+# GU
+msgid "Guam"
+msgstr "ဂူအမ်ကျွန်း"
+
+# GW
+msgid "Guinea-Bissau"
+msgstr "ဂင်းနီဗစ်ဆောနိုင်ငံ"
+
+# GY
+msgid "Guyana"
+msgstr "ဂိုင်ယာနာနိုင်ငံ"
+
+# HK
+msgid "Hong Kong"
+msgstr "ဟောင်ကောင်"
+
+# HM
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+# HN
+msgid "Honduras"
+msgstr "ဟွန်ဒူးရပ်စ်နိုင်ငံ"
+
+# HR
+msgid "Croatia"
+msgstr "ခရိုအေးရှားနိုင်ငံ"
+
+# HT
+msgid "Haiti"
+msgstr "ဟေတီနိုင်ငံ"
+
+# HU
+msgid "Hungary"
+msgstr "ဟန်ဂေရီနိုင်ငံ"
+
+# ID
+msgid "Indonesia"
+msgstr "အင်ဒိုနီးရှားနိုင်ငံ"
+
+# IE
+msgid "Ireland"
+msgstr "အိုင်ယာလန်သမ္မတနိုင်ငံ"
+
+# IL
+msgid "Israel"
+msgstr "အစ္စရေးနိုင်ငံ"
+
+# IM
+msgid "Isle of Man"
+msgstr ""
+
+# IN
+msgid "India"
+msgstr "အိန္ဒိယနိုင်ငံ"
+
+# IO
+msgid "British Indian Ocean Territory"
+msgstr "ဗြိတိသျှ အိန္ဒိယသမုဒ္ဒရာ နယ်မြေ"
+
+# IQ
+msgid "Iraq"
+msgstr "အီရတ်နိုင်ငံ"
+
+# IR
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+# IS
+msgid "Iceland"
+msgstr "အိုက်စလန်နိုင်ငံ"
+
+# IT
+msgid "Italy"
+msgstr "အီတလီနိုင်ငံ"
+
+# JE
+msgid "Jersey"
+msgstr ""
+
+# JM
+msgid "Jamaica"
+msgstr "ဂျမေကာနိုင်ငံ"
+
+# JO
+msgid "Jordan"
+msgstr "ဂျော်ဒန်နိုင်ငံ"
+
+# JP
+msgid "Japan"
+msgstr "ဂျပန်နိုင်ငံ"
+
+# KE
+msgid "Kenya"
+msgstr "ကင်ညာနိုင်ငံ"
+
+# KG
+msgid "Kyrgyzstan"
+msgstr "ကာဂျစ္စတန်နိုင်ငံ"
+
+# KH
+msgid "Cambodia"
+msgstr "ကမ္ဘောဒီးယားနိုင်ငံ"
+
+# KI
+msgid "Kiribati"
+msgstr "ကီရီဘတ်စ်နိုင်ငံ"
+
+# KM
+msgid "Comoros"
+msgstr "ကိုမိုရိုနိုင်ငံ"
+
+# KN
+msgid "Saint Kitts and Nevis"
+msgstr "စိန့်ကစ်နှင့် နီးဗစ်နိုင်ငံ"
+
+# KP
+# original msgid: "Korea, Democratic People's Republic of"
+msgid "North Korea"
+msgstr ""
+
+# KR
+msgid "Korea, Republic of"
+msgstr ""
+
+# KW
+msgid "Kuwait"
+msgstr "ကူဝိတ်နိုင်ငံ"
+
+# KY
+msgid "Cayman Islands"
+msgstr ""
+
+# KZ
+msgid "Kazakhstan"
+msgstr "ကာဇက်စတန်နိုင်ငံ"
+
+# LA
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+# LB
+msgid "Lebanon"
+msgstr "လက်ဘနွန်နိုင်ငံ"
+
+# LC
+msgid "Saint Lucia"
+msgstr "စိန့်လူစီယာနိုင်ငံ"
+
+# LI
+msgid "Liechtenstein"
+msgstr "လစ်တန်စတိန်းနိုင်ငံ"
+
+# LK
+msgid "Sri Lanka"
+msgstr "သီရိလင်္ကာနိုင်ငံ"
+
+# LR
+msgid "Liberia"
+msgstr "လိုက်ဘေးရီးယားနိုင်ငံ"
+
+# LS
+msgid "Lesotho"
+msgstr "လီဆိုသိုနိုင်ငံ"
+
+# LT
+msgid "Lithuania"
+msgstr "လစ်သူယေးနီးယားနိုင်ငံ"
+
+# LU
+msgid "Luxembourg"
+msgstr "လူဇင်ဘတ်နိုင်ငံ"
+
+# LV
+msgid "Latvia"
+msgstr "လတ်ဗီယာနိုင်ငံ"
+
+# LY
+msgid "Libya"
+msgstr "လစ်ဗျားနိုင်ငံ"
+
+# MA
+msgid "Morocco"
+msgstr "မော်ရိုကိုနိုင်ငံ"
+
+# MC
+msgid "Monaco"
+msgstr "မိုနာကိုနိုင်ငံ"
+
+# MD
+msgid "Moldova, Republic of"
+msgstr ""
+
+# ME
+msgid "Montenegro"
+msgstr "မွန်တီနီဂရိုးနိုင်ငံ"
+
+# MF
+msgid "Saint Martin (French part)"
+msgstr ""
+
+# MG
+msgid "Madagascar"
+msgstr "မဒါဂတ်စကားနိုင်ငံ"
+
+# MH
+msgid "Marshall Islands"
+msgstr ""
+
+# MK
+msgid "North Macedonia"
+msgstr ""
+
+# ML
+msgid "Mali"
+msgstr "မာလီနိုင်ငံ"
+
+# MM
+msgid "Myanmar"
+msgstr "မြန်မာနိုင်ငံ"
+
+# MN
+msgid "Mongolia"
+msgstr "မွန်ဂိုးလီးယားနိုင်ငံ"
+
+# MO
+msgid "Macao"
+msgstr ""
+
+# MP
+msgid "Northern Mariana Islands"
+msgstr ""
+
+# MQ
+msgid "Martinique"
+msgstr ""
+
+# MR
+msgid "Mauritania"
+msgstr "မော်ရီတေးနီးယားနိုင်ငံ"
+
+# MS
+msgid "Montserrat"
+msgstr ""
+
+# MT
+msgid "Malta"
+msgstr "မော်လတာနိုင်ငံ"
+
+# MU
+msgid "Mauritius"
+msgstr "မောရစ်ရှနိုင်ငံ"
+
+# MV
+msgid "Maldives"
+msgstr "မော်လဒိုက်နိုင်ငံ"
+
+# MW
+msgid "Malawi"
+msgstr "မာလဝီနိုင်ငံ"
+
+# MX
+msgid "Mexico"
+msgstr "မက္ကဆီကိုနိုင်ငံ"
+
+# MY
+msgid "Malaysia"
+msgstr "မလေးရှားနိုင်ငံ"
+
+# MZ
+msgid "Mozambique"
+msgstr "မိုဇမ်ဘစ်နိုင်ငံ"
+
+# NA
+msgid "Namibia"
+msgstr "နမီးဘီးယားနိုင်ငံ"
+
+# NC
+msgid "New Caledonia"
+msgstr ""
+
+# NE
+msgid "Niger"
+msgstr "နိုင်ဂျာနိုင်ငံ"
+
+# NF
+msgid "Norfolk Island"
+msgstr ""
+
+# NG
+msgid "Nigeria"
+msgstr "နိုင်ဂျီးရီးယားနိုင်ငံ"
+
+# NI
+msgid "Nicaragua"
+msgstr "နီကာရာဂွါနိုင်ငံ"
+
+# NL
+msgid "Netherlands"
+msgstr "နယ်သာလန်နိုင်ငံ"
+
+# NO
+msgid "Norway"
+msgstr "နော်ဝေနိုင်ငံ"
+
+# NP
+msgid "Nepal"
+msgstr "နီပေါနိုင်ငံ"
+
+# NR
+msgid "Nauru"
+msgstr "နအူရူးနိုင်ငံ"
+
+# NU
+msgid "Niue"
+msgstr ""
+
+# NZ
+msgid "New Zealand"
+msgstr "နယူးဇီလန်နိုင်ငံ"
+
+# OM
+msgid "Oman"
+msgstr "အိုမန်နိုင်ငံ"
+
+# PA
+msgid "Panama"
+msgstr "ပနားမားနိုင်ငံ"
+
+# PE
+msgid "Peru"
+msgstr "ပီရူးနိုင်ငံ"
+
+# PF
+msgid "French Polynesia"
+msgstr ""
+
+# PG
+msgid "Papua New Guinea"
+msgstr "ပါပူအာနယူးဂီနီနိုင်ငံ"
+
+# PH
+msgid "Philippines"
+msgstr "ဖိလစ်ပိုင်နိုင်ငံ"
+
+# PK
+msgid "Pakistan"
+msgstr "ပါကစ္စတန်နိုင်ငံ"
+
+# PL
+msgid "Poland"
+msgstr "ပိုလန်နိုင်ငံ"
+
+# PM
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+# PN
+msgid "Pitcairn"
+msgstr ""
+
+# PR
+msgid "Puerto Rico"
+msgstr ""
+
+# PS
+msgid "Palestine, State of"
+msgstr ""
+
+# PT
+msgid "Portugal"
+msgstr "ပေါ်တူဂီနိုင်ငံ"
+
+# PW
+msgid "Palau"
+msgstr "ပလောင်းနိုင်ငံ"
+
+# PY
+msgid "Paraguay"
+msgstr "ပါရာဂွေးနိုင်ငံ"
+
+# QA
+msgid "Qatar"
+msgstr "ကာတာနိုင်ငံ"
+
+# RE
+msgid "Réunion"
+msgstr ""
+
+# RO
+msgid "Romania"
+msgstr "ရိုမေးနီးယားနိုင်ငံ"
+
+# RS
+msgid "Serbia"
+msgstr "ဆားဘီးယားနိုင်ငံ"
+
+# RU
+msgid "Russian Federation"
+msgstr ""
+
+# RW
+msgid "Rwanda"
+msgstr "ရဝမ်ဒါနိုင်ငံ"
+
+# SA
+msgid "Saudi Arabia"
+msgstr "ဆော်ဒီအာရေဗျနိုင်ငံ"
+
+# SB
+msgid "Solomon Islands"
+msgstr "ဆော်လမွန်အိုင်းလန်းနိုင်ငံ"
+
+# SC
+msgid "Seychelles"
+msgstr "ဆေးရှဲနိုင်ငံ"
+
+# SD
+msgid "Sudan"
+msgstr "ဆူဒန်နိုင်ငံ"
+
+# SE
+msgid "Sweden"
+msgstr "ဆွီဒင်နိုင်ငံ"
+
+# SG
+msgid "Singapore"
+msgstr "စင်ကာပူနိုင်ငံ"
+
+# SH
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+# SI
+msgid "Slovenia"
+msgstr "ဆလိုဗေးနီးယားနိုင်ငံ"
+
+# SJ
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+# SK
+msgid "Slovakia"
+msgstr "ဆလိုဗားကီးယားနိုင်ငံ"
+
+# SL
+msgid "Sierra Leone"
+msgstr "ဆီရာလီယွန်နိုင်ငံ"
+
+# SM
+msgid "San Marino"
+msgstr "ဆန်မာရီနိုနိုင်ငံ"
+
+# SN
+msgid "Senegal"
+msgstr "ဆီနီဂေါနိုင်ငံ"
+
+# SO
+msgid "Somalia"
+msgstr "ဆိုမာလီယာနိုင်ငံ"
+
+# SR
+msgid "Suriname"
+msgstr "ဆူရာနမ်နိုင်ငံ"
+
+# SS
+msgid "South Sudan"
+msgstr "တောင်ဆူဒန်နိုင်ငံ"
+
+# ST
+msgid "Sao Tome and Principe"
+msgstr "ဆောင်တူမေးနှင့် ပရင်စီပီနိုင်ငံ"
+
+# SV
+msgid "El Salvador"
+msgstr "အယ်ဆာဗေဒိုနိုင်ငံ"
+
+# SX
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+# SY
+msgid "Syrian Arab Republic"
+msgstr ""
+
+# SZ
+msgid "Eswatini"
+msgstr ""
+
+# TC
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+# TD
+msgid "Chad"
+msgstr "ချဒ်သမ္မတနိုင်ငံ"
+
+# TF
+msgid "French Southern Territories"
+msgstr ""
+
+# TG
+msgid "Togo"
+msgstr "တိုဂိုနိုင်ငံ"
+
+# TH
+msgid "Thailand"
+msgstr "ထိုင်းနိုင်ငံ"
+
+# TJ
+msgid "Tajikistan"
+msgstr "တာဂျစ်ကစ္စတန်နိုင်ငံ"
+
+# TK
+msgid "Tokelau"
+msgstr ""
+
+# TL
+msgid "Timor-Leste"
+msgstr ""
+
+# TM
+msgid "Turkmenistan"
+msgstr "တာ့ခ်မင်နစ္စတန်နိုင်ငံ"
+
+# TN
+msgid "Tunisia"
+msgstr "တူနီးရှားနိုင်ငံ"
+
+# TO
+msgid "Tonga"
+msgstr "တုံဂါနိုင်ငံ"
+
+# TR
+msgid "Turkey"
+msgstr "တူရကီနိုင်ငံ"
+
+# TT
+msgid "Trinidad and Tobago"
+msgstr "ထရီနီဒတ်နှင့် တိုဘက်ဂိုနိုင်ငံ"
+
+# TV
+msgid "Tuvalu"
+msgstr "တူဗားလူနိုင်ငံ"
+
+# TW
+msgid "Taiwan, Province of China"
+msgstr ""
+
+# TZ
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+# UA
+msgid "Ukraine"
+msgstr "ယူကရိန်းနိုင်ငံ"
+
+# UG
+msgid "Uganda"
+msgstr "ယူဂန်းဒါးနိုင်ငံ"
+
+# UM
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+# US
+msgid "United States"
+msgstr ""
+
+# UY
+msgid "Uruguay"
+msgstr "ဥရုဂွေးနိုင်ငံ"
+
+# UZ
+msgid "Uzbekistan"
+msgstr "ဥဇဘက်ကစ္စတန်နိုင်ငံ"
+
+# VA
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+# VC
+msgid "Saint Vincent and the Grenadines"
+msgstr "စိန့်ဗင်းဆင့်နှင့်ဂရိနေဒိုင်နိုင်ငံ"
+
+# VE
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+# VG
+msgid "Virgin Islands, British"
+msgstr ""
+
+# VI
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+# VN
+msgid "Viet Nam"
+msgstr ""
+
+# VU
+msgid "Vanuatu"
+msgstr "ဗနွားတူနိုင်ငံ"
+
+# WF
+msgid "Wallis and Futuna"
+msgstr ""
+
+# WS
+msgid "Samoa"
+msgstr "ဆမိုးအားနိုင်ငံ"
+
+# YE
+msgid "Yemen"
+msgstr "ယီမင်နိုင်ငံ"
+
+# YT
+msgid "Mayotte"
+msgstr ""
+
+# ZA
+msgid "South Africa"
+msgstr "တောင်အာဖရိကနိုင်ငံ"
+
+# ZM
+msgid "Zambia"
+msgstr "ဇမ်ဘီယာနိုင်ငံ"
+
+# ZW
+msgid "Zimbabwe"
+msgstr "ဇင်ဘာဘွေနိုင်ငံ"

@@ -1,0 +1,996 @@
+# AD
+msgid "Andorra"
+msgstr "ጐን፦ሲ"
+
+# AE
+msgid "United Arab Emirates"
+msgstr "ፘተባበሩት ጐረብ ጔሤሳትስ"
+
+# AF
+msgid "Afghanistan"
+msgstr "አፍጋኒስታን"
+
+# AG
+msgid "Antigua and Barbuda"
+msgstr "አንቲጋ እና ባርቡዳ"
+
+# AI
+msgid "Anguilla"
+msgstr ""
+
+# AL
+msgid "Albania"
+msgstr "ጐሔባኒ።"
+
+# AM
+msgid "Armenia"
+msgstr "ጐሴሣኒ።"
+
+# AO
+msgid "Angola"
+msgstr "አንጎላ"
+
+# AQ
+msgid "Antarctica"
+msgstr ""
+
+# AR
+msgid "Argentina"
+msgstr "ጐሴጀንቲና"
+
+# AS
+msgid "American Samoa"
+msgstr ""
+
+# AT
+msgid "Austria"
+msgstr "጖ስትሱ።"
+
+# AU
+msgid "Australia"
+msgstr "ጐፄስትሳሑ።"
+
+# AW
+msgid "Aruba"
+msgstr "አሩባ"
+
+# AX
+msgid "Åland Islands"
+msgstr ""
+
+# AZ
+msgid "Azerbaijan"
+msgstr "ጐፈሴባጃን"
+
+# BA
+msgid "Bosnia and Herzegovina"
+msgstr "ቦስኒ። ጕና ሄሴፕጕቱኒ።"
+
+# BB
+msgid "Barbados"
+msgstr "ባሴቤ፦ስ"
+
+# BD
+msgid "Bangladesh"
+msgstr "ባንግላዴሽ"
+
+# BE
+msgid "Belgium"
+msgstr "ቤሔጄሤ"
+
+# BF
+msgid "Burkina Faso"
+msgstr "ቡርኪና ፋሶ"
+
+# BG
+msgid "Bulgaria"
+msgstr "ቡሔጓሱ።"
+
+# BH
+msgid "Bahrain"
+msgstr "ባህሳን"
+
+# BI
+msgid "Burundi"
+msgstr "ቡሩንዲ"
+
+# BJ
+msgid "Benin"
+msgstr "ቤኒን"
+
+# BL
+msgid "Saint Barthélemy"
+msgstr ""
+
+# BM
+msgid "Bermuda"
+msgstr "ቤሴሙ፣"
+
+# BN
+msgid "Brunei Darussalam"
+msgstr ""
+
+# BO
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+# BQ
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+# BR
+msgid "Brazil"
+msgstr "ብሲፑሔ"
+
+# BS
+msgid "Bahamas"
+msgstr ""
+
+# BT
+msgid "Bhutan"
+msgstr "ቡህታን"
+
+# BV
+msgid "Bouvet Island"
+msgstr ""
+
+# BW
+msgid "Botswana"
+msgstr "ቦትስዋና"
+
+# BY
+msgid "Belarus"
+msgstr "ቤሒሩስ"
+
+# BZ
+msgid "Belize"
+msgstr "ቤሑፈ"
+
+# CA
+msgid "Canada"
+msgstr "ካናዳ"
+
+# CC
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+# CD
+msgid "Congo, The Democratic Republic of the"
+msgstr "ጥንጕ"
+
+# CF
+msgid "Central African Republic"
+msgstr "ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ"
+
+# CG
+msgid "Congo"
+msgstr "ኮንጎ"
+
+# CH
+msgid "Switzerland"
+msgstr "ስፁፈሴሒን፥"
+
+# CI
+msgid "Côte d'Ivoire"
+msgstr ""
+
+# CK
+msgid "Cook Islands"
+msgstr ""
+
+# CL
+msgid "Chile"
+msgstr "ኁሑ"
+
+# CM
+msgid "Cameroon"
+msgstr "ጢሣሩን"
+
+# CN
+msgid "China"
+msgstr "ኂ፤ና"
+
+# CO
+msgid "Colombia"
+msgstr "ጥሕሤቢ።"
+
+# CR
+msgid "Costa Rica"
+msgstr "ኮስታ ሪካ"
+
+# CU
+msgid "Cuba"
+msgstr "ኩባ"
+
+# CV
+msgid "Cabo Verde"
+msgstr "ጣፕ ታሴ፤"
+
+# CW
+msgid "Curaçao"
+msgstr ""
+
+# CX
+msgid "Christmas Island"
+msgstr ""
+
+# CY
+msgid "Cyprus"
+msgstr "ሳ፤ፕረስ"
+
+# CZ
+msgid "Czechia"
+msgstr ""
+
+# DE
+msgid "Germany"
+msgstr "ጀሴመን"
+
+# DJ
+msgid "Djibouti"
+msgstr "ጅቡቲ"
+
+# DK
+msgid "Denmark"
+msgstr "፤ንሢሴጤ"
+
+# DM
+msgid "Dominica"
+msgstr "፦ሡኒጢ"
+
+# DO
+msgid "Dominican Republic"
+msgstr "፦ሡኒጤ ሱፑብሑጤ"
+
+# DZ
+msgid "Algeria"
+msgstr "ጐሔጄሱ።"
+
+# EC
+msgid "Ecuador"
+msgstr "ጒጣ፦ሴ"
+
+# EE
+msgid "Estonia"
+msgstr "ጔስቶኒ።"
+
+# EG
+msgid "Egypt"
+msgstr "ጔብፄ"
+
+# EH
+msgid "Western Sahara"
+msgstr "ሤፅሲባፁ ሳህሲ"
+
+# ER
+msgid "Eritrea"
+msgstr "ጔሴትሲ"
+
+# ES
+msgid "Spain"
+msgstr "ስፔን"
+
+# ET
+msgid "Ethiopia"
+msgstr "ጒት፥ጵ።"
+
+# FI
+msgid "Finland"
+msgstr "ፑንሒን፥"
+
+# FJ
+msgid "Fiji"
+msgstr "ፑጂ"
+
+# FK
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+# FM
+msgid "Micronesia, Federated States of"
+msgstr "ሡጤስኔፒ።"
+
+# FO
+msgid "Faroe Islands"
+msgstr "ፋሮ ደሴቶች"
+
+# FR
+msgid "France"
+msgstr "ፈረንሣይ"
+
+# GA
+msgid "Gabon"
+msgstr "ጋቦን"
+
+# GB
+msgid "United Kingdom"
+msgstr "ጕንጔሑፔ"
+
+# GD
+msgid "Grenada"
+msgstr "ግረነይዳ"
+
+# GE
+msgid "Georgia"
+msgstr "ጆሴጂ።"
+
+# GF
+msgid "French Guiana"
+msgstr "ፘፈረንሳ፤ ጉፁጐና"
+
+# GG
+msgid "Guernsey"
+msgstr ""
+
+# GH
+msgid "Ghana"
+msgstr "ጋና"
+
+# GI
+msgid "Gibraltar"
+msgstr "ጅብራልታር"
+
+# GL
+msgid "Greenland"
+msgstr "ግሪንላንድ"
+
+# GM
+msgid "Gambia"
+msgstr "ጒሤቢ።"
+
+# GN
+msgid "Guinea"
+msgstr "ጊኔ"
+
+# GP
+msgid "Guadeloupe"
+msgstr ""
+
+# GQ
+msgid "Equatorial Guinea"
+msgstr "ጒጣቶሱ።ሔ ጑ኒ"
+
+# GR
+msgid "Greece"
+msgstr "ጔሱጤ"
+
+# GS
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+# GT
+msgid "Guatemala"
+msgstr "ጓቴማላ"
+
+# GU
+msgid "Guam"
+msgstr ""
+
+# GW
+msgid "Guinea-Bissau"
+msgstr "ቢሳፅ"
+
+# GY
+msgid "Guyana"
+msgstr "ጉ።ና"
+
+# HK
+msgid "Hong Kong"
+msgstr "ሆንጔ ጥንጔ"
+
+# HM
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+# HN
+msgid "Honduras"
+msgstr "ሆንዱራስ"
+
+# HR
+msgid "Croatia"
+msgstr "ጤስጔቄ።"
+
+# HT
+msgid "Haiti"
+msgstr "ሀ፤ቲ"
+
+# HU
+msgid "Hungary"
+msgstr "ሀንጒሱ"
+
+# ID
+msgid "Indonesia"
+msgstr "ጒን፦ኔፒ።"
+
+# IE
+msgid "Ireland"
+msgstr "ጐፘሴሒን፥"
+
+# IL
+msgid "Israel"
+msgstr "ጕስሲጔሔ"
+
+# IM
+msgid "Isle of Man"
+msgstr ""
+
+# IN
+msgid "India"
+msgstr "ህን፥"
+
+# IO
+msgid "British Indian Ocean Territory"
+msgstr "የብሪታንያ ሕንድ ውቅያኖስ ግዛት"
+
+# IQ
+msgid "Iraq"
+msgstr "ጒሲቅ"
+
+# IR
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+# IS
+msgid "Iceland"
+msgstr "ጐ፤ስሒን፥"
+
+# IT
+msgid "Italy"
+msgstr "ጣሑ።ን"
+
+# JE
+msgid "Jersey"
+msgstr ""
+
+# JM
+msgid "Jamaica"
+msgstr "ጃሢ፤ጢ"
+
+# JO
+msgid "Jordan"
+msgstr "ጆሴ፣ን"
+
+# JP
+msgid "Japan"
+msgstr "ጃፓን"
+
+# KE
+msgid "Kenya"
+msgstr "ኬንያ"
+
+# KG
+msgid "Kyrgyzstan"
+msgstr "ኪርጊዝስታን"
+
+# KH
+msgid "Cambodia"
+msgstr "ጢሤቦ።።"
+
+# KI
+msgid "Kiribati"
+msgstr "ኪሪባስ"
+
+# KM
+msgid "Comoros"
+msgstr "ጥሥስስ"
+
+# KN
+msgid "Saint Kitts and Nevis"
+msgstr "ሰይንት ኪትስና ኒቨስ"
+
+# KP
+# original msgid: "Korea, Democratic People's Republic of"
+msgid "North Korea"
+msgstr "፠ቡብ ጥሱ።"
+
+# KR
+msgid "Korea, Republic of"
+msgstr "ሰሣን ጥሱ።"
+
+# KW
+msgid "Kuwait"
+msgstr "ጤፃት"
+
+# KY
+msgid "Cayman Islands"
+msgstr ""
+
+# KZ
+msgid "Kazakhstan"
+msgstr "ካዛክስታን"
+
+# LA
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+# LB
+msgid "Lebanon"
+msgstr "ሑባኖስ"
+
+# LC
+msgid "Saint Lucia"
+msgstr "ሰይንት ሉሻ"
+
+# LI
+msgid "Liechtenstein"
+msgstr "ሊክተንስታይን"
+
+# LK
+msgid "Sri Lanka"
+msgstr "ሽሪ ላንካ"
+
+# LR
+msgid "Liberia"
+msgstr "ላይቤሪያ"
+
+# LS
+msgid "Lesotho"
+msgstr "ሌሶቶ"
+
+# LT
+msgid "Lithuania"
+msgstr "ሑቱፃኒ።"
+
+# LU
+msgid "Luxembourg"
+msgstr "ሉክሰምበርግ"
+
+# LV
+msgid "Latvia"
+msgstr "ሒትቱ።"
+
+# LY
+msgid "Libya"
+msgstr "ሊቢያ"
+
+# MA
+msgid "Morocco"
+msgstr "ሥስጥ"
+
+# MC
+msgid "Monaco"
+msgstr "ሞናኮ"
+
+# MD
+msgid "Moldova, Republic of"
+msgstr "ሥሔ፦ቲ"
+
+# ME
+msgid "Montenegro"
+msgstr "ሞንቴኔግሮ"
+
+# MF
+msgid "Saint Martin (French part)"
+msgstr ""
+
+# MG
+msgid "Madagascar"
+msgstr "ማዳጋስካር"
+
+# MH
+msgid "Marshall Islands"
+msgstr ""
+
+# MK
+msgid "North Macedonia"
+msgstr "ኒፄ ጢሓ፦ኒ።"
+
+# ML
+msgid "Mali"
+msgstr "ማሊ"
+
+# MM
+msgid "Myanmar"
+msgstr "ምየንማ"
+
+# MN
+msgid "Mongolia"
+msgstr "ሥንጕሑ።"
+
+# MO
+msgid "Macao"
+msgstr "ሢጢፅ"
+
+# MP
+msgid "Northern Mariana Islands"
+msgstr ""
+
+# MQ
+msgid "Martinique"
+msgstr ""
+
+# MR
+msgid "Mauritania"
+msgstr "ሥሱቴኒ።"
+
+# MS
+msgid "Montserrat"
+msgstr ""
+
+# MT
+msgid "Malta"
+msgstr "ሢሔታ"
+
+# MU
+msgid "Mauritius"
+msgstr "ሢሩሸስ"
+
+# MV
+msgid "Maldives"
+msgstr "ማልዲቭስ"
+
+# MW
+msgid "Malawi"
+msgstr "ማላዊ"
+
+# MX
+msgid "Mexico"
+msgstr "ሣጤሲጥ"
+
+# MY
+msgid "Malaysia"
+msgstr "ሢሓፒ።"
+
+# MZ
+msgid "Mozambique"
+msgstr "ሞዛምቢክ"
+
+# NA
+msgid "Namibia"
+msgstr "ናሡቢ።"
+
+# NC
+msgid "New Caledonia"
+msgstr "ኒፄ ጢሓ፦ኒ።"
+
+# NE
+msgid "Niger"
+msgstr "ኒጄር"
+
+# NF
+msgid "Norfolk Island"
+msgstr ""
+
+# NG
+msgid "Nigeria"
+msgstr "ና፤ጄሱ።"
+
+# NI
+msgid "Nicaragua"
+msgstr "ኒካራጓ"
+
+# NL
+msgid "Netherlands"
+msgstr "ኔፈሴሒን፥"
+
+# NO
+msgid "Norway"
+msgstr "ኖሴፃ"
+
+# NP
+msgid "Nepal"
+msgstr "ኔፓሔ"
+
+# NR
+msgid "Nauru"
+msgstr "ናውሩ"
+
+# NU
+msgid "Niue"
+msgstr "ኒዌ"
+
+# NZ
+msgid "New Zealand"
+msgstr "ኒፄ ፑሒን፥"
+
+# OM
+msgid "Oman"
+msgstr "ኦማን"
+
+# PA
+msgid "Panama"
+msgstr "ፓናማ"
+
+# PE
+msgid "Peru"
+msgstr "ፔሩ"
+
+# PF
+msgid "French Polynesia"
+msgstr "ፘፈረንሳ፤ ፖሑኔፒ።"
+
+# PG
+msgid "Papua New Guinea"
+msgstr "ፓፑፂ ኒፄ ጑ኒ"
+
+# PH
+msgid "Philippines"
+msgstr "ፊሊፒንስ"
+
+# PK
+msgid "Pakistan"
+msgstr "ፓኪስታን"
+
+# PL
+msgid "Poland"
+msgstr "ፖሒን፥"
+
+# PM
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+# PN
+msgid "Pitcairn"
+msgstr ""
+
+# PR
+msgid "Puerto Rico"
+msgstr "ፖሴታ ሱጥ"
+
+# PS
+msgid "Palestine, State of"
+msgstr ""
+
+# PT
+msgid "Portugal"
+msgstr "ፖርቱጋል"
+
+# PW
+msgid "Palau"
+msgstr "ፐላው"
+
+# PY
+msgid "Paraguay"
+msgstr "ፓራጓይ"
+
+# QA
+msgid "Qatar"
+msgstr "ቃጣር"
+
+# RE
+msgid "Réunion"
+msgstr "ሬዩንዮን"
+
+# RO
+msgid "Romania"
+msgstr "ስሣኒ።"
+
+# RS
+msgid "Serbia"
+msgstr "ጐፈሴባጃን"
+
+# RU
+msgid "Russian Federation"
+msgstr "ሲቁ።"
+
+# RW
+msgid "Rwanda"
+msgstr "ሩዋንዳ"
+
+# SA
+msgid "Saudi Arabia"
+msgstr "ሳፄ፥ጐረቢ።"
+
+# SB
+msgid "Solomon Islands"
+msgstr "ሰለሞን ደሴቶች"
+
+# SC
+msgid "Seychelles"
+msgstr "ሲሸልስ"
+
+# SD
+msgid "Sudan"
+msgstr "ሱ፣ን"
+
+# SE
+msgid "Sweden"
+msgstr "ስፁ፥ን"
+
+# SG
+msgid "Singapore"
+msgstr "ሲንጒፖሴ"
+
+# SH
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr "ሴይንት ህሊና፣ አሰንሽንና ትሪስተን ደ ኩና"
+
+# SI
+msgid "Slovenia"
+msgstr "ስሕታኒ።"
+
+# SJ
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+# SK
+msgid "Slovakia"
+msgstr "ስሕቲጡ።"
+
+# SL
+msgid "Sierra Leone"
+msgstr "ሴየራ ሌዎን"
+
+# SM
+msgid "San Marino"
+msgstr "ሳን ማሪኖ"
+
+# SN
+msgid "Senegal"
+msgstr "ሴኔጒሔ"
+
+# SO
+msgid "Somalia"
+msgstr "ሱሢሓ"
+
+# SR
+msgid "Suriname"
+msgstr "ሱሪናም"
+
+# SS
+msgid "South Sudan"
+msgstr "፠ቡብ ጐፔሱጢ"
+
+# ST
+msgid "Sao Tome and Principe"
+msgstr "ሳን ቶሜ እና ፕሪንሲፔ"
+
+# SV
+msgid "El Salvador"
+msgstr "ኤል ሳልቫዶር"
+
+# SX
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+# SY
+msgid "Syrian Arab Republic"
+msgstr "ሲሱ።"
+
+# SZ
+msgid "Eswatini"
+msgstr ""
+
+# TC
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+# TD
+msgid "Chad"
+msgstr "ኂ፥"
+
+# TF
+msgid "French Southern Territories"
+msgstr "ፘፈረንሳ፤ ፠ቡባፁ ጔፒቶኄ"
+
+# TG
+msgid "Togo"
+msgstr "ቶጎ"
+
+# TH
+msgid "Thailand"
+msgstr "ታ፤ሒን፥"
+
+# TJ
+msgid "Tajikistan"
+msgstr "ታጃጡስታን"
+
+# TK
+msgid "Tokelau"
+msgstr ""
+
+# TL
+msgid "Timor-Leste"
+msgstr "ሤስሲቅ ቲሥሴ"
+
+# TM
+msgid "Turkmenistan"
+msgstr "ቱርክመኒስታን"
+
+# TN
+msgid "Tunisia"
+msgstr "ቱኒፑ።"
+
+# TO
+msgid "Tonga"
+msgstr "ቶንጋ"
+
+# TR
+msgid "Turkey"
+msgstr "ቱሴጤ"
+
+# TT
+msgid "Trinidad and Tobago"
+msgstr "ትሱኒ፣፥ ጕና ቶባጕ"
+
+# TV
+msgid "Tuvalu"
+msgstr "ቱቫሉ"
+
+# TW
+msgid "Taiwan, Province of China"
+msgstr ""
+
+# TZ
+msgid "Tanzania, United Republic of"
+msgstr "ታንፒኒ።"
+
+# UA
+msgid "Ukraine"
+msgstr "ዩክሬን"
+
+# UG
+msgid "Uganda"
+msgstr "ፙጒን፣"
+
+# UM
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+# US
+msgid "United States"
+msgstr "ጐሣሱጢ"
+
+# UY
+msgid "Uruguay"
+msgstr "ኡራጓይ"
+
+# UZ
+msgid "Uzbekistan"
+msgstr "ፙፔበጡስታን"
+
+# VA
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+# VC
+msgid "Saint Vincent and the Grenadines"
+msgstr "ሰይንት ቪንሰንትና ዘ ግረነዲንዝ"
+
+# VE
+msgid "Venezuela, Bolivarian Republic of"
+msgstr "ሥሔ፦ቲ"
+
+# VG
+msgid "Virgin Islands, British"
+msgstr "ፘጕንጔሑፔ ፥ንጔሔ ፠ሴቶኄ"
+
+# VI
+msgid "Virgin Islands, U.S."
+msgstr "ፘጐሣሱጢ ቨሴጂን ፠ሴቶኄ"
+
+# VN
+msgid "Viet Nam"
+msgstr ""
+
+# VU
+msgid "Vanuatu"
+msgstr "ቫኑአቱ"
+
+# WF
+msgid "Wallis and Futuna"
+msgstr ""
+
+# WS
+msgid "Samoa"
+msgstr "ሳሞዓ"
+
+# YE
+msgid "Yemen"
+msgstr "ፘመን"
+
+# YT
+msgid "Mayotte"
+msgstr ""
+
+# ZA
+msgid "South Africa"
+msgstr "፠ቡብ ጐፔሱጢ"
+
+# ZM
+msgid "Zambia"
+msgstr "ዛምቢያ"
+
+# ZW
+msgid "Zimbabwe"
+msgstr "ፒሤቢ።"

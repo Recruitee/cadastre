@@ -1,0 +1,996 @@
+# AD
+msgid "Andorra"
+msgstr "Andorra"
+
+# AE
+msgid "United Arab Emirates"
+msgstr "Ny h-Emmiraidyn Arabagh Unnaneysit"
+
+# AF
+msgid "Afghanistan"
+msgstr "Yn Afghanistaan"
+
+# AG
+msgid "Antigua and Barbuda"
+msgstr "Antigua as Barbuda"
+
+# AI
+msgid "Anguilla"
+msgstr ""
+
+# AL
+msgid "Albania"
+msgstr "Yn Albaan"
+
+# AM
+msgid "Armenia"
+msgstr "Yn Armeain"
+
+# AO
+msgid "Angola"
+msgstr "Angoley"
+
+# AQ
+msgid "Antarctica"
+msgstr ""
+
+# AR
+msgid "Argentina"
+msgstr "Yn Argenteen"
+
+# AS
+msgid "American Samoa"
+msgstr ""
+
+# AT
+msgid "Austria"
+msgstr "Yn Austeyr"
+
+# AU
+msgid "Australia"
+msgstr "Yn Austrail"
+
+# AW
+msgid "Aruba"
+msgstr ""
+
+# AX
+msgid "Åland Islands"
+msgstr "Åland"
+
+# AZ
+msgid "Azerbaijan"
+msgstr "Yn Asserbajaan"
+
+# BA
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia as Herzegovina"
+
+# BB
+msgid "Barbados"
+msgstr "Barbados"
+
+# BD
+msgid "Bangladesh"
+msgstr "Yn Vangladesh"
+
+# BE
+msgid "Belgium"
+msgstr "Yn Velg"
+
+# BF
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+# BG
+msgid "Bulgaria"
+msgstr "Yn Vulgeyr"
+
+# BH
+msgid "Bahrain"
+msgstr "Bahrain"
+
+# BI
+msgid "Burundi"
+msgstr "Burundee"
+
+# BJ
+msgid "Benin"
+msgstr "Benin"
+
+# BL
+msgid "Saint Barthélemy"
+msgstr ""
+
+# BM
+msgid "Bermuda"
+msgstr "Ny Bermioodee"
+
+# BN
+msgid "Brunei Darussalam"
+msgstr ""
+
+# BO
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+# BQ
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+# BR
+msgid "Brazil"
+msgstr "Yn Vrasseel"
+
+# BS
+msgid "Bahamas"
+msgstr ""
+
+# BT
+msgid "Bhutan"
+msgstr "Yn Vutaan"
+
+# BV
+msgid "Bouvet Island"
+msgstr ""
+
+# BW
+msgid "Botswana"
+msgstr "Yn Votswaan"
+
+# BY
+msgid "Belarus"
+msgstr "Yn Velaroosh"
+
+# BZ
+msgid "Belize"
+msgstr "Yn Veleesh"
+
+# CA
+msgid "Canada"
+msgstr "Yn Chanadey"
+
+# CC
+msgid "Cocos (Keeling) Islands"
+msgstr "Ellanyn Cocos"
+
+# CD
+msgid "Congo, The Democratic Republic of the"
+msgstr ""
+
+# CF
+msgid "Central African Republic"
+msgstr "Pobblaght yn Affrick Veanagh"
+
+# CG
+msgid "Congo"
+msgstr ""
+
+# CH
+msgid "Switzerland"
+msgstr "Yn Elveeish"
+
+# CI
+msgid "Côte d'Ivoire"
+msgstr ""
+
+# CK
+msgid "Cook Islands"
+msgstr ""
+
+# CL
+msgid "Chile"
+msgstr "Yn Çhillee"
+
+# CM
+msgid "Cameroon"
+msgstr "Cameroon"
+
+# CN
+msgid "China"
+msgstr ""
+
+# CO
+msgid "Colombia"
+msgstr "Yn Cholombey"
+
+# CR
+msgid "Costa Rica"
+msgstr "Yn Coose Berçhagh"
+
+# CU
+msgid "Cuba"
+msgstr "Yn Choobey"
+
+# CV
+msgid "Cabo Verde"
+msgstr ""
+
+# CW
+msgid "Curaçao"
+msgstr ""
+
+# CX
+msgid "Christmas Island"
+msgstr ""
+
+# CY
+msgid "Cyprus"
+msgstr "Yn Cheeprey"
+
+# CZ
+msgid "Czechia"
+msgstr ""
+
+# DE
+msgid "Germany"
+msgstr "Yn Ghermaan"
+
+# DJ
+msgid "Djibouti"
+msgstr "Djibouti"
+
+# DK
+msgid "Denmark"
+msgstr "Yn Danvarg"
+
+# DM
+msgid "Dominica"
+msgstr "Dominica"
+
+# DO
+msgid "Dominican Republic"
+msgstr "Yn Phobblaght Ghominicagh"
+
+# DZ
+msgid "Algeria"
+msgstr "Yn Algear"
+
+# EC
+msgid "Ecuador"
+msgstr "Ecuador"
+
+# EE
+msgid "Estonia"
+msgstr ""
+
+# EG
+msgid "Egypt"
+msgstr "Yn Egypt"
+
+# EH
+msgid "Western Sahara"
+msgstr ""
+
+# ER
+msgid "Eritrea"
+msgstr "Eritrea"
+
+# ES
+msgid "Spain"
+msgstr "Yn Spaainey"
+
+# ET
+msgid "Ethiopia"
+msgstr "Yn Eetoip"
+
+# FI
+msgid "Finland"
+msgstr "Finnlynn"
+
+# FJ
+msgid "Fiji"
+msgstr "Fiji"
+
+# FK
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+# FM
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+# FO
+msgid "Faroe Islands"
+msgstr "Ellanyn ny Geyrragh"
+
+# FR
+msgid "France"
+msgstr "Yn Rank"
+
+# GA
+msgid "Gabon"
+msgstr "Gabon"
+
+# GB
+msgid "United Kingdom"
+msgstr "Reeriaght Unnaneysit"
+
+# GD
+msgid "Grenada"
+msgstr "Grenada"
+
+# GE
+msgid "Georgia"
+msgstr "Yn Çhorshey"
+
+# GF
+msgid "French Guiana"
+msgstr ""
+
+# GG
+msgid "Guernsey"
+msgstr "Guernsey"
+
+# GH
+msgid "Ghana"
+msgstr "Yn Ghaney"
+
+# GI
+msgid "Gibraltar"
+msgstr "Gibraaltar"
+
+# GL
+msgid "Greenland"
+msgstr "Greenlynn"
+
+# GM
+msgid "Gambia"
+msgstr ""
+
+# GN
+msgid "Guinea"
+msgstr "Yn Ghuinea"
+
+# GP
+msgid "Guadeloupe"
+msgstr ""
+
+# GQ
+msgid "Equatorial Guinea"
+msgstr "Guinea Chryss ny Cruinney"
+
+# GR
+msgid "Greece"
+msgstr "Yn Ghreag"
+
+# GS
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+# GT
+msgid "Guatemala"
+msgstr "Yn Ghuatemaley"
+
+# GU
+msgid "Guam"
+msgstr ""
+
+# GW
+msgid "Guinea-Bissau"
+msgstr "Yn Ghuinea-Bissau"
+
+# GY
+msgid "Guyana"
+msgstr "Geeaaney"
+
+# HK
+msgid "Hong Kong"
+msgstr ""
+
+# HM
+msgid "Heard Island and McDonald Islands"
+msgstr "Ellan Heard as Ellanyn McDonald"
+
+# HN
+msgid "Honduras"
+msgstr "Ny Hondooraghyn"
+
+# HR
+msgid "Croatia"
+msgstr "Yn Chroit"
+
+# HT
+msgid "Haiti"
+msgstr "Haiti"
+
+# HU
+msgid "Hungary"
+msgstr "Yn Ungaar"
+
+# ID
+msgid "Indonesia"
+msgstr "Yn Indoneesh"
+
+# IE
+msgid "Ireland"
+msgstr "Pobblaght Nerin"
+
+# IL
+msgid "Israel"
+msgstr "Israel"
+
+# IM
+msgid "Isle of Man"
+msgstr "Mannin"
+
+# IN
+msgid "India"
+msgstr "Yn Injey"
+
+# IO
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+# IQ
+msgid "Iraq"
+msgstr "Yn Earack"
+
+# IR
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+# IS
+msgid "Iceland"
+msgstr "Yn Eeslynn"
+
+# IT
+msgid "Italy"
+msgstr "Yn Iddaal"
+
+# JE
+msgid "Jersey"
+msgstr "Jersee"
+
+# JM
+msgid "Jamaica"
+msgstr "Yn Yamaicey"
+
+# JO
+msgid "Jordan"
+msgstr "Yn Jordaan"
+
+# JP
+msgid "Japan"
+msgstr "Yn Çhapaan"
+
+# KE
+msgid "Kenya"
+msgstr "Yn Cheinney"
+
+# KG
+msgid "Kyrgyzstan"
+msgstr "Yn Chyrgistaan"
+
+# KH
+msgid "Cambodia"
+msgstr "Yn Chamboyd"
+
+# KI
+msgid "Kiribati"
+msgstr "Yn Chiribati"
+
+# KM
+msgid "Comoros"
+msgstr "Ny h-Ellanyn Chomoro"
+
+# KN
+msgid "Saint Kitts and Nevis"
+msgstr "Noo Kitts as Nevis"
+
+# KP
+# original msgid: "Korea, Democratic People's Republic of"
+msgid "North Korea"
+msgstr ""
+
+# KR
+msgid "Korea, Republic of"
+msgstr ""
+
+# KW
+msgid "Kuwait"
+msgstr "Yn Choowait"
+
+# KY
+msgid "Cayman Islands"
+msgstr ""
+
+# KZ
+msgid "Kazakhstan"
+msgstr "Yn Chassaghstaan"
+
+# LA
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+# LB
+msgid "Lebanon"
+msgstr "Yn Livaan"
+
+# LC
+msgid "Saint Lucia"
+msgstr "Noo Lucia"
+
+# LI
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+# LK
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+# LR
+msgid "Liberia"
+msgstr "Yn Laibeer"
+
+# LS
+msgid "Lesotho"
+msgstr "Lesoto"
+
+# LT
+msgid "Lithuania"
+msgstr "Yn Litaan"
+
+# LU
+msgid "Luxembourg"
+msgstr "Lucsemburg"
+
+# LV
+msgid "Latvia"
+msgstr "Yn Latvey"
+
+# LY
+msgid "Libya"
+msgstr "Yn Leeb"
+
+# MA
+msgid "Morocco"
+msgstr "Yn Varoc"
+
+# MC
+msgid "Monaco"
+msgstr "Monaco"
+
+# MD
+msgid "Moldova, Republic of"
+msgstr ""
+
+# ME
+msgid "Montenegro"
+msgstr "Montenegro"
+
+# MF
+msgid "Saint Martin (French part)"
+msgstr ""
+
+# MG
+msgid "Madagascar"
+msgstr "Madagascar"
+
+# MH
+msgid "Marshall Islands"
+msgstr ""
+
+# MK
+msgid "North Macedonia"
+msgstr ""
+
+# ML
+msgid "Mali"
+msgstr "Malee"
+
+# MM
+msgid "Myanmar"
+msgstr "Myanmar"
+
+# MN
+msgid "Mongolia"
+msgstr "Yn Vongoil"
+
+# MO
+msgid "Macao"
+msgstr ""
+
+# MP
+msgid "Northern Mariana Islands"
+msgstr ""
+
+# MQ
+msgid "Martinique"
+msgstr ""
+
+# MR
+msgid "Mauritania"
+msgstr "Yn Varitaan"
+
+# MS
+msgid "Montserrat"
+msgstr ""
+
+# MT
+msgid "Malta"
+msgstr "Yn Valta"
+
+# MU
+msgid "Mauritius"
+msgstr "Ellan Wirrish"
+
+# MV
+msgid "Maldives"
+msgstr "Ny Maldeevaghyn"
+
+# MW
+msgid "Malawi"
+msgstr "Malawi"
+
+# MX
+msgid "Mexico"
+msgstr "Meksico"
+
+# MY
+msgid "Malaysia"
+msgstr "Yn Valaysia"
+
+# MZ
+msgid "Mozambique"
+msgstr "Yn Vosambeeck"
+
+# NA
+msgid "Namibia"
+msgstr "Yn Nameeb"
+
+# NC
+msgid "New Caledonia"
+msgstr ""
+
+# NE
+msgid "Niger"
+msgstr "Yn Neegeyr"
+
+# NF
+msgid "Norfolk Island"
+msgstr "Ellan Norfolk"
+
+# NG
+msgid "Nigeria"
+msgstr "Yn Naigeer"
+
+# NI
+msgid "Nicaragua"
+msgstr "Yn Nickeraag"
+
+# NL
+msgid "Netherlands"
+msgstr "Yn Çheer Injil"
+
+# NO
+msgid "Norway"
+msgstr "Norlynn"
+
+# NP
+msgid "Nepal"
+msgstr "Nepaal"
+
+# NR
+msgid "Nauru"
+msgstr "Naaroo"
+
+# NU
+msgid "Niue"
+msgstr "Niue"
+
+# NZ
+msgid "New Zealand"
+msgstr "Yn Teelynn Noa"
+
+# OM
+msgid "Oman"
+msgstr "Yn Omaan"
+
+# PA
+msgid "Panama"
+msgstr "Yn Phanamaa"
+
+# PE
+msgid "Peru"
+msgstr "Yn Pheroo"
+
+# PF
+msgid "French Polynesia"
+msgstr ""
+
+# PG
+msgid "Papua New Guinea"
+msgstr "Papooey Guinea Noa"
+
+# PH
+msgid "Philippines"
+msgstr "Ny h-Ellanyn Philippeenagh"
+
+# PK
+msgid "Pakistan"
+msgstr "Yn Phakistaan"
+
+# PL
+msgid "Poland"
+msgstr "Yn Pholynn"
+
+# PM
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+# PN
+msgid "Pitcairn"
+msgstr ""
+
+# PR
+msgid "Puerto Rico"
+msgstr "Yn Phurt Verçhagh"
+
+# PS
+msgid "Palestine, State of"
+msgstr ""
+
+# PT
+msgid "Portugal"
+msgstr "Yn Phortiugal"
+
+# PW
+msgid "Palau"
+msgstr "Palau"
+
+# PY
+msgid "Paraguay"
+msgstr "Yn Pharaguay"
+
+# QA
+msgid "Qatar"
+msgstr "Yn Chatar"
+
+# RE
+msgid "Réunion"
+msgstr ""
+
+# RO
+msgid "Romania"
+msgstr "Yn Romaan"
+
+# RS
+msgid "Serbia"
+msgstr "Yn Serb"
+
+# RU
+msgid "Russian Federation"
+msgstr ""
+
+# RW
+msgid "Rwanda"
+msgstr "Rooandey"
+
+# SA
+msgid "Saudi Arabia"
+msgstr "Yn Araab Saudi"
+
+# SB
+msgid "Solomon Islands"
+msgstr "Ny h-Ellanyn Holomon"
+
+# SC
+msgid "Seychelles"
+msgstr "Ny h-Ellanyn Heshell"
+
+# SD
+msgid "Sudan"
+msgstr "Yn Toodaan"
+
+# SE
+msgid "Sweden"
+msgstr "Yn Toolynn"
+
+# SG
+msgid "Singapore"
+msgstr "Singapore"
+
+# SH
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+# SI
+msgid "Slovenia"
+msgstr "Yn Clovean"
+
+# SJ
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+# SK
+msgid "Slovakia"
+msgstr "Yn Clovack"
+
+# SL
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+# SM
+msgid "San Marino"
+msgstr "San Marino"
+
+# SN
+msgid "Senegal"
+msgstr "Yn Tenegaal"
+
+# SO
+msgid "Somalia"
+msgstr "Yn Tomaal"
+
+# SR
+msgid "Suriname"
+msgstr "Yn Toorinam"
+
+# SS
+msgid "South Sudan"
+msgstr "Yn Toodaan Yiass"
+
+# ST
+msgid "Sao Tome and Principe"
+msgstr "São Tomé as Príncipe"
+
+# SV
+msgid "El Salvador"
+msgstr "Yn Salvador"
+
+# SX
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+# SY
+msgid "Syrian Arab Republic"
+msgstr ""
+
+# SZ
+msgid "Eswatini"
+msgstr ""
+
+# TC
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+# TD
+msgid "Chad"
+msgstr "Shad"
+
+# TF
+msgid "French Southern Territories"
+msgstr ""
+
+# TG
+msgid "Togo"
+msgstr "Yn Togo"
+
+# TH
+msgid "Thailand"
+msgstr "Yn Çheer Thai"
+
+# TJ
+msgid "Tajikistan"
+msgstr "Yn Tajikistaan"
+
+# TK
+msgid "Tokelau"
+msgstr "Tokelau"
+
+# TL
+msgid "Timor-Leste"
+msgstr ""
+
+# TM
+msgid "Turkmenistan"
+msgstr "Yn Turkmenistaan"
+
+# TN
+msgid "Tunisia"
+msgstr "Yn Tooneesh"
+
+# TO
+msgid "Tonga"
+msgstr "Yn Tongey"
+
+# TR
+msgid "Turkey"
+msgstr "Yn Turkee"
+
+# TT
+msgid "Trinidad and Tobago"
+msgstr "Trinaid as Tobago"
+
+# TV
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+# TW
+msgid "Taiwan, Province of China"
+msgstr ""
+
+# TZ
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+# UA
+msgid "Ukraine"
+msgstr "Yn Ookraan"
+
+# UG
+msgid "Uganda"
+msgstr "Ooganda"
+
+# UM
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+# US
+msgid "United States"
+msgstr ""
+
+# UY
+msgid "Uruguay"
+msgstr "Yn Ooraguay"
+
+# UZ
+msgid "Uzbekistan"
+msgstr "Yn Oosbeckistaan"
+
+# VA
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+# VC
+msgid "Saint Vincent and the Grenadines"
+msgstr "Noo Winsen as ny Grenadeenyn"
+
+# VE
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+# VG
+msgid "Virgin Islands, British"
+msgstr ""
+
+# VI
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+# VN
+msgid "Viet Nam"
+msgstr ""
+
+# VU
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+# WF
+msgid "Wallis and Futuna"
+msgstr ""
+
+# WS
+msgid "Samoa"
+msgstr "Samoa"
+
+# YE
+msgid "Yemen"
+msgstr "Yn Yeaman"
+
+# YT
+msgid "Mayotte"
+msgstr ""
+
+# ZA
+msgid "South Africa"
+msgstr "Yn Affrick Yiass"
+
+# ZM
+msgid "Zambia"
+msgstr "Yn Tambia"
+
+# ZW
+msgid "Zimbabwe"
+msgstr "Yn Çhimbabwe"

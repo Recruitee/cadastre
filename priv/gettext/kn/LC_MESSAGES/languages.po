@@ -1,0 +1,587 @@
+# aa
+msgid "Afar"
+msgstr "ಅಫಾರ್"
+
+# ab
+msgid "Abkhazian"
+msgstr "ಅಬ್‌ಕೇಸಿಯನ್"
+
+# af
+msgid "Afrikaans"
+msgstr "ಆಫ್ರಿಕಾನಾಸ್"
+
+# am
+msgid "Amharic"
+msgstr "ಅಮ್ಹೇರಿಕ್"
+
+# an
+msgid "Aragonese"
+msgstr "ಅರಗನೀ"
+
+# as
+msgid "Assamese"
+msgstr "ಅಸ್ಸಾಮಿ"
+
+# av
+msgid "Avaric"
+msgstr "ಎವಾರಿಕ್"
+
+# ba
+msgid "Bashkir"
+msgstr "ಬಶ್ಕೀರ್"
+
+# be
+msgid "Belarusian"
+msgstr "ಬೆಲಾರುಸಿಯನ್"
+
+# bg
+msgid "Bulgarian"
+msgstr "ಬಲ್ಗೇರಿಯನ್"
+
+# bi
+msgid "Bislama"
+msgstr "ಬಿಸ್ಲಾಮ"
+
+# bm
+msgid "Bambara"
+msgstr "ಬಂಬಾರ"
+
+# bn
+msgid "Bengali"
+msgstr "ಬೆಂಗಾಲಿ"
+
+# bo
+msgid "Tibetan"
+msgstr "ಟಿಬೇಟಿಯನ್"
+
+# br
+msgid "Breton"
+msgstr "ಬ್ರೆಟನ್"
+
+# bs
+msgid "Bosnian"
+msgstr "ಬೋಸ್ನಿಯನ್"
+
+# ca
+# original msgid: "Catalan; Valencian"
+msgid "Catalan"
+msgstr "ಕೆಟಲಾನ್; ವೆಲೆನ್ಶಿಯನ್"
+
+# ce
+msgid "Chechen"
+msgstr "ಶೇಶೆನ್"
+
+# ch
+msgid "Chamorro"
+msgstr "ಶಮೊರೊ"
+
+# co
+msgid "Corsican"
+msgstr "ಕೋರ್ಸಿಕನ್"
+
+# cs
+msgid "Czech"
+msgstr "ಜೆಕ್"
+
+# cv
+msgid "Chuvash"
+msgstr "ಶುವಾಶ್"
+
+# cy
+msgid "Welsh"
+msgstr "ವೆಲ್ಷ್"
+
+# da
+msgid "Danish"
+msgstr "ಡಾನಿಶ್"
+
+# de
+msgid "German"
+msgstr "ಜರ್ಮನ್"
+
+# dv
+# original msgid: "Divehi; Dhivehi; Maldivian"
+msgid "Dhivehi"
+msgstr "ದಿವೇಹಿ; ಧಿವೇಹಿ; ಮಾಲ್ಡಿವಿಯನ್"
+
+# dz
+msgid "Dzongkha"
+msgstr "ಜೋಂಗ್‌ಕಾ"
+
+# ee
+msgid "Ewe"
+msgstr "ಎವೆ"
+
+# el
+# original msgid: "Greek, Modern (1453-)"
+msgid "Greek"
+msgstr "ಗ್ರೀಕ್, ನವೀನ (1453-)"
+
+# en
+msgid "English"
+msgstr "ಇಂಗ್ಲೀಷ್"
+
+# es
+# original msgid: "Spanish; Castilian"
+msgid "Spanish"
+msgstr "ಸ್ಪ್ಯಾನಿಶ್; ಕ್ಯಾಸ್ಟಿಲಿಯನ್"
+
+# eu
+msgid "Basque"
+msgstr "ಬಾಸ್ಕ್ಯೂ"
+
+# fi
+msgid "Finnish"
+msgstr "ಫಿನ್ನಿಶ್"
+
+# fj
+msgid "Fijian"
+msgstr "ಫಿಜಿಯನ್"
+
+# fo
+msgid "Faroese"
+msgstr "ಫರೋಯೀಸ್"
+
+# fr
+msgid "French"
+msgstr "ಫ್ರೆಂಚ್"
+
+# fy
+msgid "Western Frisian"
+msgstr "ವೆಸ್ಟರ್ನ್ ಫ್ರಿಸಿಯನ್"
+
+# ga
+msgid "Irish"
+msgstr "ಐರಿಶ್"
+
+# gd
+# original msgid: "Gaelic; Scottish Gaelic"
+msgid "Scottish Gaelic"
+msgstr "ಗೇಲಿಕ್; ಸ್ಕಾಟಿಶ್ ಗೇಲಿಕ್"
+
+# gl
+msgid "Galician"
+msgstr "ಗೆಲಿಸಿಯಾನ್"
+
+# gu
+msgid "Gujarati"
+msgstr "ಗುಜರಾತಿ"
+
+# gv
+msgid "Manx"
+msgstr "ಮ್ಯಾಂಕ್ಸ್"
+
+# ha
+msgid "Hausa"
+msgstr "ಹೌಸಾ"
+
+# he
+msgid "Hebrew"
+msgstr "ಹೀಬ್ರೂ"
+
+# hi
+msgid "Hindi"
+msgstr "ಹಿಂದಿ"
+
+# ho
+msgid "Hiri Motu"
+msgstr "ಹಿರಿ ಮೋಟು"
+
+# hr
+msgid "Croatian"
+msgstr "ಕ್ರೊಯೇಶಿಯನ್"
+
+# ht
+# original msgid: "Haitian; Haitian Creole"
+msgid "Haitian"
+msgstr "ಹಯಾತಿನ್; ಹಯಾತಿನ್ ಕ್ರೆಯೋಲ್"
+
+# hu
+msgid "Hungarian"
+msgstr "ಹಂಗೇರಿಯನ್"
+
+# hy
+msgid "Armenian"
+msgstr "ಅರ್ಮೇನಿಯನ್"
+
+# hz
+msgid "Herero"
+msgstr "ಹೆರೋರೊ"
+
+# id
+msgid "Indonesian"
+msgstr "ಇಂಡೋನೇಶಿಯನ್"
+
+# ig
+msgid "Igbo"
+msgstr "ಇಗ್ಬೊ"
+
+# ii
+# original msgid: "Sichuan Yi; Nuosu"
+msgid "Sichuan Yi"
+msgstr "ಸಿಶುವಾನ್, ಯಿ; ನೌಸು"
+
+# is
+msgid "Icelandic"
+msgstr "ಐಲ್ಯಾಂಡಿಕ್"
+
+# it
+msgid "Italian"
+msgstr "ಇಟಾಲಿಯನ್"
+
+# ja
+msgid "Japanese"
+msgstr "ಜಾಪನೀಸ್"
+
+# jv
+msgid "Javanese"
+msgstr "ಜಾವಾನೀಸ್"
+
+# ka
+msgid "Georgian"
+msgstr "ಜಾರ್ಜಿಯನ್"
+
+# ki
+# original msgid: "Kikuyu; Gikuyu"
+msgid "Kikuyu"
+msgstr "ಕಿಕುಯು; ಗಿಕುಯು"
+
+# kj
+# original msgid: "Kuanyama; Kwanyama"
+msgid "Kuanyama"
+msgstr "ಕುನ್ಯಾಮ; ಕ್ವನ್ಯಾಮ"
+
+# kk
+msgid "Kazakh"
+msgstr "ಕಜಕ್"
+
+# kl
+# original msgid: "Kalaallisut; Greenlandic"
+msgid "Kalaallisut"
+msgstr "ಕಲಾಲಿಸಟ್; ಗ್ರೀನ್‌ಲ್ಯಾಂಡಿಕ್"
+
+# km
+msgid "Central Khmer"
+msgstr "ಸೆಂಟ್ರಲ್ ಕಮೇರ್"
+
+# kn
+msgid "Kannada"
+msgstr "ಕನ್ನಡ"
+
+# ko
+msgid "Korean"
+msgstr "ಕೊರಿಯನ್"
+
+# ks
+msgid "Kashmiri"
+msgstr "ಕಾಶ್ಮೀರಿ"
+
+# kw
+msgid "Cornish"
+msgstr "ಕಾರ್ನಿಶ್"
+
+# ky
+# original msgid: "Kirghiz; Kyrgyz"
+msgid "Kirghiz"
+msgstr "ಕಿರ್ಗಿಝ್; ಕೈರ್ಗಿಝ್"
+
+# lb
+# original msgid: "Luxembourgish; Letzeburgesch"
+msgid "Luxembourgish"
+msgstr "ಲಕ್ಸೆಂಬರ್ಗಿಶ್; ಲೆಟ್ಸ್‌ಬರ್ಗಿಶ್"
+
+# lg
+msgid "Ganda"
+msgstr "ಗಾಂಡಾ"
+
+# li
+# original msgid: "Limburgan; Limburger; Limburgish"
+msgid "Limburgan"
+msgstr "ಲಿಂಬರ್ಗನ್; ಲಿಂಬರ್ಗರ್; ಲಿಂಬರ್ಗಿಶ್"
+
+# ln
+msgid "Lingala"
+msgstr "ಲಿಂಗಾಲ"
+
+# lo
+msgid "Lao"
+msgstr "ಲಾವೋ"
+
+# lt
+msgid "Lithuanian"
+msgstr "ಲಿತುವಾನಿಯನ್"
+
+# lu
+msgid "Luba-Katanga"
+msgstr "ಲುಬಾ-ಕಟಾಂಗಾ"
+
+# mh
+msgid "Marshallese"
+msgstr "ಮಾರ್ಶಲ್ಲೀಸ್"
+
+# mi
+msgid "Maori"
+msgstr "ಮವೋರಿ"
+
+# mk
+msgid "Macedonian"
+msgstr "ಮೆಸಡೋನಿಯನ್"
+
+# ml
+msgid "Malayalam"
+msgstr "ಮಲೆಯಾಳಂ"
+
+# mr
+msgid "Marathi"
+msgstr "ಮರಾಠಿ"
+
+# mt
+msgid "Maltese"
+msgstr "ಮಾಲ್ಟೀಸ್"
+
+# my
+msgid "Burmese"
+msgstr "ಬರ್ಮೀಸ್"
+
+# na
+msgid "Nauru"
+msgstr "ನೌರು"
+
+# nb
+# original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
+msgid "Norwegian Bokmål"
+msgstr "ಬೋಕ್‌ಮಾಲ್, ನಾರ್ವೇಜಿಯನ್, ನಾರ್ವೇಜಿಯನ್ ಬೋಕ್‌ಮಾಲ್"
+
+# nd
+# original msgid: "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
+msgstr "ಡೆಬೀಲಿ, ಉತ್ತರ; ಉತ್ತರ ಡೆಬೀಲಿ"
+
+# ng
+msgid "Ndonga"
+msgstr "ಡೋಂಗ"
+
+# nl
+# original msgid: "Dutch; Flemish"
+msgid "Dutch"
+msgstr "ಡಚ್, ಫ್ಲೆಮಿಶ್"
+
+# nn
+# original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "ನಾರ್ವೇಜಿಯನ್ ನೈನೋರ್ಸ್ಕ್; ನೈನೋರ್ಸ್ಕ್, ನಾರ್ವೇಜಿಯನ್"
+
+# nr
+# original msgid: "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
+msgstr "ಡೆಬೀಲಿ, ಸೌತ್‌; ಸೌತ್‌ ಡೆಬೀಲಿ"
+
+# nv
+# original msgid: "Navajo; Navaho"
+msgid "Navajo"
+msgstr "ನವಾ; ನವಾಹೊ"
+
+# ny
+# original msgid: "Chichewa; Chewa; Nyanja"
+msgid "Nyanja"
+msgstr "ಶಿಶೇವಾ; ಶೆವಾ; ನಿಂಜಾ"
+
+# oc
+# original msgid: "Occitan (post 1500); Provençal"
+msgid "Occitan"
+msgstr "ಆಕ್ಸೈಟನ್ (1500 ನಂತರ)"
+
+# os
+# original msgid: "Ossetian; Ossetic"
+msgid "Ossetian"
+msgstr "ಒಸೇಶಿಯನ್; ಒಸೆಟಿಕ್"
+
+# pa
+# original msgid: "Panjabi; Punjabi"
+msgid "Panjabi"
+msgstr "ಪಂಜಾಬಿ; ಪಂಜಾಬಿ"
+
+# pl
+msgid "Polish"
+msgstr "ಪೋಲಿಶ್"
+
+# pt
+msgid "Portuguese"
+msgstr "ಪೋರ್ಚುಗೀಸ್"
+
+# rm
+msgid "Romansh"
+msgstr "ರೊಮಾಂಶ್"
+
+# rn
+msgid "Rundi"
+msgstr "ರುಂಡಿ"
+
+# ro
+# original msgid: "Romanian; Moldavian; Moldovan"
+msgid "Romanian"
+msgstr "ಮಾಲ್ಡೋವಿಯನ್; ಮಾಲ್ಡೋವನ್"
+
+# ru
+msgid "Russian"
+msgstr "ರಶಿಯನ್"
+
+# rw
+msgid "Kinyarwanda"
+msgstr "ಕಿನ್ಯಾರ್ವಾಂಡ"
+
+# sd
+msgid "Sindhi"
+msgstr "ಸಿಂಧಿ"
+
+# se
+msgid "Northern Sami"
+msgstr "ಉತ್ತರ ಸಾಮಿ"
+
+# sg
+msgid "Sango"
+msgstr "ಸ್ಯಾಂಗೊ"
+
+# si
+# original msgid: "Sinhala; Sinhalese"
+msgid "Sinhala"
+msgstr "ಸಿಂಹಳ, ಸಿಂಹಳೀಯ"
+
+# sk
+msgid "Slovak"
+msgstr "ಸ್ಲೊವಾಕ್"
+
+# sl
+msgid "Slovenian"
+msgstr "ಸ್ಲೊವೇನಿಯನ್"
+
+# sm
+msgid "Samoan"
+msgstr "ಸಮೋವನ್"
+
+# sn
+msgid "Shona"
+msgstr "ಶೋನಾ"
+
+# so
+msgid "Somali"
+msgstr "ಸೋಮಾಲಿ"
+
+# sr
+msgid "Serbian"
+msgstr "ಸರ್ಬಿಯಾ"
+
+# ss
+msgid "Swati"
+msgstr "ಸ್ವಾಟಿ"
+
+# st
+# original msgid: "Sotho, Southern"
+msgid "Southern Sotho"
+msgstr "ಸೋತೊ, ಸತರ್ನ್"
+
+# su
+msgid "Sundanese"
+msgstr "ಸುಂಡನೀಸ್"
+
+# sv
+msgid "Swedish"
+msgstr "ಸ್ವೀಡಿಶ್"
+
+# ta
+msgid "Tamil"
+msgstr "ತಮಿಳು"
+
+# te
+msgid "Telugu"
+msgstr "ತೆಲುಗು"
+
+# tg
+msgid "Tajik"
+msgstr "ತಾಝಿಕ್"
+
+# th
+msgid "Thai"
+msgstr "ಥಾಯ್"
+
+# ti
+msgid "Tigrinya"
+msgstr "ಟಿಗ್ರಿನ್ಯ"
+
+# tk
+msgid "Turkmen"
+msgstr "ಟರ್ಕಮೆನ್"
+
+# tl
+msgid "Tagalog"
+msgstr "ಟೆಗಾಲಾಗ್"
+
+# tn
+msgid "Tswana"
+msgstr "ಸ್ವಾನಾ"
+
+# to
+# original msgid: "Tonga (Tonga Islands)"
+msgid "Tonga"
+msgstr "ಟೋಂಗ (ಟೋಂಗ ದ್ವೀಪಗಳು)"
+
+# tr
+msgid "Turkish"
+msgstr "ಟರ್ಕಿಶ್"
+
+# ts
+msgid "Tsonga"
+msgstr "ಸೋಂಗ"
+
+# tt
+msgid "Tatar"
+msgstr "ತಾತರ್"
+
+# tw
+msgid "Twi"
+msgstr "ಟ್ವಿ"
+
+# ty
+msgid "Tahitian"
+msgstr "ತಾಹಿತಿಯನ್"
+
+# ug
+# original msgid: "Uighur; Uyghur"
+msgid "Uighur"
+msgstr "ವಿಗೂರ್; ವಿಗೂರ್"
+
+# uk
+msgid "Ukrainian"
+msgstr "ಉಕ್ರೇನಿಯನ್"
+
+# ur
+msgid "Urdu"
+msgstr "ಉರ್ದು"
+
+# ve
+msgid "Venda"
+msgstr "ವೆಂಡಾ"
+
+# vi
+msgid "Vietnamese"
+msgstr "ವಿಯೆಟ್ನಾಮೀಸ್"
+
+# wa
+msgid "Walloon"
+msgstr "ವೆಲೋನ್"
+
+# wo
+msgid "Wolof"
+msgstr "ವುಲೋಫ್"
+
+# xh
+msgid "Xhosa"
+msgstr "ಸೋಸಾ"
+
+# yo
+msgid "Yoruba"
+msgstr "ಯೊರುಬ"
+
+# zu
+msgid "Zulu"
+msgstr "ಝುಲು"

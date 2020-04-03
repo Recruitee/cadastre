@@ -1,0 +1,587 @@
+# aa
+msgid "Afar"
+msgstr ""
+
+# ab
+msgid "Abkhazian"
+msgstr "isi-Azerbaijani"
+
+# af
+msgid "Afrikaans"
+msgstr "isiBhulu"
+
+# am
+msgid "Amharic"
+msgstr "isi-Arabhu"
+
+# an
+msgid "Aragonese"
+msgstr ""
+
+# as
+msgid "Assamese"
+msgstr ""
+
+# av
+msgid "Avaric"
+msgstr "isi-Arabhu"
+
+# ba
+msgid "Bashkir"
+msgstr ""
+
+# be
+msgid "Belarusian"
+msgstr "isiBulgarian"
+
+# bg
+msgid "Bulgarian"
+msgstr "isiBulgarian"
+
+# bi
+msgid "Bislama"
+msgstr ""
+
+# bm
+msgid "Bambara"
+msgstr ""
+
+# bn
+msgid "Bengali"
+msgstr ""
+
+# bo
+msgid "Tibetan"
+msgstr ""
+
+# br
+msgid "Breton"
+msgstr "isiBreton"
+
+# bs
+msgid "Bosnian"
+msgstr "isiRoma"
+
+# ca
+# original msgid: "Catalan; Valencian"
+msgid "Catalan"
+msgstr ""
+
+# ce
+msgid "Chechen"
+msgstr "isiCzech"
+
+# ch
+msgid "Chamorro"
+msgstr ""
+
+# co
+msgid "Corsican"
+msgstr ""
+
+# cs
+msgid "Czech"
+msgstr "isiCzech"
+
+# cv
+msgid "Chuvash"
+msgstr ""
+
+# cy
+msgid "Welsh"
+msgstr "isiWelsh"
+
+# da
+msgid "Danish"
+msgstr "isiDanish"
+
+# de
+msgid "German"
+msgstr "isiJamani"
+
+# dv
+# original msgid: "Divehi; Dhivehi; Maldivian"
+msgid "Dhivehi"
+msgstr ""
+
+# dz
+msgid "Dzongkha"
+msgstr ""
+
+# ee
+msgid "Ewe"
+msgstr ""
+
+# el
+# original msgid: "Greek, Modern (1453-)"
+msgid "Greek"
+msgstr ""
+
+# en
+msgid "English"
+msgstr "isiNgesi (UK)"
+
+# es
+# original msgid: "Spanish; Castilian"
+msgid "Spanish"
+msgstr "isiPanish"
+
+# eu
+msgid "Basque"
+msgstr "isiBasque"
+
+# fi
+msgid "Finnish"
+msgstr "isiFinnish"
+
+# fj
+msgid "Fijian"
+msgstr ""
+
+# fo
+msgid "Faroese"
+msgstr ""
+
+# fr
+msgid "French"
+msgstr "isiFrentshi"
+
+# fy
+msgid "Western Frisian"
+msgstr "isi-Ukranian"
+
+# ga
+msgid "Irish"
+msgstr "isi-Irish"
+
+# gd
+# original msgid: "Gaelic; Scottish Gaelic"
+msgid "Scottish Gaelic"
+msgstr ""
+
+# gl
+msgid "Galician"
+msgstr "isiGalacian"
+
+# gu
+msgid "Gujarati"
+msgstr ""
+
+# gv
+msgid "Manx"
+msgstr ""
+
+# ha
+msgid "Hausa"
+msgstr ""
+
+# he
+msgid "Hebrew"
+msgstr "isiHebhere"
+
+# hi
+msgid "Hindi"
+msgstr ""
+
+# ho
+msgid "Hiri Motu"
+msgstr "isiTurkish"
+
+# hr
+msgid "Croatian"
+msgstr "isiCroatian"
+
+# ht
+# original msgid: "Haitian; Haitian Creole"
+msgid "Haitian"
+msgstr ""
+
+# hu
+msgid "Hungarian"
+msgstr "isiHungarian"
+
+# hy
+msgid "Armenian"
+msgstr "isiRoma"
+
+# hz
+msgid "Herero"
+msgstr "isiHebhere"
+
+# id
+msgid "Indonesian"
+msgstr "isiBosnian"
+
+# ig
+msgid "Igbo"
+msgstr ""
+
+# ii
+# original msgid: "Sichuan Yi; Nuosu"
+msgid "Sichuan Yi"
+msgstr "Lithuania"
+
+# is
+msgid "Icelandic"
+msgstr "isi-Icelandic"
+
+# it
+msgid "Italian"
+msgstr "isiTaliyane"
+
+# ja
+msgid "Japanese"
+msgstr "isiJaphani"
+
+# jv
+msgid "Javanese"
+msgstr "isiJaphani"
+
+# ka
+msgid "Georgian"
+msgstr "isiJamani"
+
+# ki
+# original msgid: "Kikuyu; Gikuyu"
+msgid "Kikuyu"
+msgstr ""
+
+# kj
+# original msgid: "Kuanyama; Kwanyama"
+msgid "Kuanyama"
+msgstr ""
+
+# kk
+msgid "Kazakh"
+msgstr ""
+
+# kl
+# original msgid: "Kalaallisut; Greenlandic"
+msgid "Kalaallisut"
+msgstr ""
+
+# km
+msgid "Central Khmer"
+msgstr ""
+
+# kn
+msgid "Kannada"
+msgstr ""
+
+# ko
+msgid "Korean"
+msgstr "isiKorea"
+
+# ks
+msgid "Kashmiri"
+msgstr ""
+
+# kw
+msgid "Cornish"
+msgstr "isi-Irish"
+
+# ky
+# original msgid: "Kirghiz; Kyrgyz"
+msgid "Kirghiz"
+msgstr ""
+
+# lb
+# original msgid: "Luxembourgish; Letzeburgesch"
+msgid "Luxembourgish"
+msgstr ""
+
+# lg
+msgid "Ganda"
+msgstr ""
+
+# li
+# original msgid: "Limburgan; Limburger; Limburgish"
+msgid "Limburgan"
+msgstr ""
+
+# ln
+msgid "Lingala"
+msgstr ""
+
+# lo
+msgid "Lao"
+msgstr ""
+
+# lt
+msgid "Lithuanian"
+msgstr "Lithuania"
+
+# lu
+msgid "Luba-Katanga"
+msgstr ""
+
+# mh
+msgid "Marshallese"
+msgstr "isiMaltese"
+
+# mi
+msgid "Maori"
+msgstr "isiMaori"
+
+# mk
+msgid "Macedonian"
+msgstr "isiMacedonian"
+
+# ml
+msgid "Malayalam"
+msgstr ""
+
+# mr
+msgid "Marathi"
+msgstr "isiMaori"
+
+# mt
+msgid "Maltese"
+msgstr "isiMaltese"
+
+# my
+msgid "Burmese"
+msgstr ""
+
+# na
+msgid "Nauru"
+msgstr ""
+
+# nb
+# original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
+msgid "Norwegian Bokmål"
+msgstr ""
+
+# nd
+# original msgid: "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
+msgstr ""
+
+# ng
+msgid "Ndonga"
+msgstr "isiBosnian"
+
+# nl
+# original msgid: "Dutch; Flemish"
+msgid "Dutch"
+msgstr ""
+
+# nn
+# original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "isiNorwegian (Nynorsk)"
+
+# nr
+# original msgid: "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
+msgstr ""
+
+# nv
+# original msgid: "Navajo; Navaho"
+msgid "Navajo"
+msgstr ""
+
+# ny
+# original msgid: "Chichewa; Chewa; Nyanja"
+msgid "Nyanja"
+msgstr ""
+
+# oc
+# original msgid: "Occitan (post 1500); Provençal"
+msgid "Occitan"
+msgstr ""
+
+# os
+# original msgid: "Ossetian; Ossetic"
+msgid "Ossetian"
+msgstr "isiRashiya"
+
+# pa
+# original msgid: "Panjabi; Punjabi"
+msgid "Panjabi"
+msgstr ""
+
+# pl
+msgid "Polish"
+msgstr "isiPolish"
+
+# pt
+msgid "Portuguese"
+msgstr "isiPhuthukesi"
+
+# rm
+msgid "Romansh"
+msgstr "isiRoma"
+
+# rn
+msgid "Rundi"
+msgstr ""
+
+# ro
+# original msgid: "Romanian; Moldavian; Moldovan"
+msgid "Romanian"
+msgstr "isiLatvian"
+
+# ru
+msgid "Russian"
+msgstr "isiRashiya"
+
+# rw
+msgid "Kinyarwanda"
+msgstr ""
+
+# sd
+msgid "Sindhi"
+msgstr ""
+
+# se
+msgid "Northern Sami"
+msgstr ""
+
+# sg
+msgid "Sango"
+msgstr ""
+
+# si
+# original msgid: "Sinhala; Sinhalese"
+msgid "Sinhala"
+msgstr "isiVietnamese"
+
+# sk
+msgid "Slovak"
+msgstr "isiSlovak"
+
+# sl
+msgid "Slovenian"
+msgstr "isiSlovenian"
+
+# sm
+msgid "Samoan"
+msgstr ""
+
+# sn
+msgid "Shona"
+msgstr ""
+
+# so
+msgid "Somali"
+msgstr ""
+
+# sr
+msgid "Serbian"
+msgstr "isiSerbian"
+
+# ss
+msgid "Swati"
+msgstr "isiSwati"
+
+# st
+# original msgid: "Sotho, Southern"
+msgid "Southern Sotho"
+msgstr ""
+
+# su
+msgid "Sundanese"
+msgstr ""
+
+# sv
+msgid "Swedish"
+msgstr "isiSwedish"
+
+# ta
+msgid "Tamil"
+msgstr "isiTamil"
+
+# te
+msgid "Telugu"
+msgstr ""
+
+# tg
+msgid "Tajik"
+msgstr "isiThai"
+
+# th
+msgid "Thai"
+msgstr "isiThai"
+
+# ti
+msgid "Tigrinya"
+msgstr "isiTurkish"
+
+# tk
+msgid "Turkmen"
+msgstr ""
+
+# tl
+msgid "Tagalog"
+msgstr ""
+
+# tn
+msgid "Tswana"
+msgstr "isiTswana"
+
+# to
+# original msgid: "Tonga (Tonga Islands)"
+msgid "Tonga"
+msgstr ""
+
+# tr
+msgid "Turkish"
+msgstr "isiTurkish"
+
+# ts
+msgid "Tsonga"
+msgstr "isiTsonga"
+
+# tt
+msgid "Tatar"
+msgstr ""
+
+# tw
+msgid "Twi"
+msgstr ""
+
+# ty
+msgid "Tahitian"
+msgstr "isiLatvian"
+
+# ug
+# original msgid: "Uighur; Uyghur"
+msgid "Uighur"
+msgstr ""
+
+# uk
+msgid "Ukrainian"
+msgstr "isi-Ukranian"
+
+# ur
+msgid "Urdu"
+msgstr ""
+
+# ve
+msgid "Venda"
+msgstr "isiVenda"
+
+# vi
+msgid "Vietnamese"
+msgstr "isiVietnamese"
+
+# wa
+msgid "Walloon"
+msgstr "isiWalloon"
+
+# wo
+msgid "Wolof"
+msgstr ""
+
+# xh
+msgid "Xhosa"
+msgstr "isiXhosa"
+
+# yo
+msgid "Yoruba"
+msgstr ""
+
+# zu
+msgid "Zulu"
+msgstr "isiZulu"
