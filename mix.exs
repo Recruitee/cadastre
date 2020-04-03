@@ -29,7 +29,8 @@ defmodule Ambassador.MixProject do
   defp deps do
     [
       # Dev tools
-      {:dialyxir, "~> 1.0", only: :dev, runtime: false}
+      {:dialyxir, "~> 1.0", only: :dev, runtime: false},
+      {:credo, "~> 1.1", only: :dev, runtime: false}
     ]
   end
 end
