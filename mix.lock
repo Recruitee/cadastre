@@ -3,5 +3,7 @@
   "credo": {:hex, :credo, "1.1.5", "caec7a3cadd2e58609d7ee25b3931b129e739e070539ad1a0cd7efeeb47014f4", [:mix], [{:bunt, "~> 0.2.0", [hex: :bunt, repo: "hexpm", optional: false]}, {:jason, "~> 1.0", [hex: :jason, repo: "hexpm", optional: false]}], "hexpm", "d0bbd3222607ccaaac5c0340f7f525c627ae4d7aee6c8c8c108922620c5b6446"},
   "dialyxir": {:hex, :dialyxir, "1.0.0", "6a1fa629f7881a9f5aaf3a78f094b2a51a0357c843871b8bc98824e7342d00a5", [:mix], [{:erlex, ">= 0.2.6", [hex: :erlex, repo: "hexpm", optional: false]}], "hexpm", "aeb06588145fac14ca08d8061a142d52753dbc2cf7f0d00fc1013f53f8654654"},
   "erlex": {:hex, :erlex, "0.2.6", "c7987d15e899c7a2f34f5420d2a2ea0d659682c06ac607572df55a43753aa12e", [:mix], [], "hexpm", "2ed2e25711feb44d52b17d2780eabf998452f6efda104877a3881c2f8c0c0c75"},
+  "gettext": {:hex, :gettext, "0.17.4", "f13088e1ec10ce01665cf25f5ff779e7df3f2dc71b37084976cf89d1aa124d5c", [:mix], [], "hexpm", "3c75b5ea8288e2ee7ea503ff9e30dfe4d07ad3c054576a6e60040e79a801e14d"},
   "jason": {:hex, :jason, "1.2.0", "10043418c42d2493d0ee212d3fddd25d7ffe484380afad769a0a38795938e448", [:mix], [{:decimal, "~> 1.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "116747dbe057794c3a3e4e143b7c8390b29f634e16c78a7f59ba75bfa6852e7f"},
+  "nimble_csv": {:hex, :nimble_csv, "0.7.0", "52f23ce46eee304d063d1716e19e45ea544bd751536bc53e5d41cb7fc0ca9405", [:mix], [], "hexpm", "e7051e7a95b5c4f26512af5805c320ee9185e752d949f048bf318fedef86cccc"},
 }
