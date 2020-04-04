@@ -15,15 +15,19 @@ defmodule AmbassadorDev.PO do
     msgid_per_id = msgid_per_id |> Enum.sort_by(fn {id, _} -> id end)
 
     langs(msgstr_per_msgid_per_lang, override_per_lang_per_id)
-    |> Enum.each(fn lang ->
-      msgstr_per_msgid = msgstr_per_msgid_per_lang |> Map.get(lang, %{})
+    |> Enum.each(fn
+      "en" ->
+        :ok
 
-      msgid_per_id
-      |> Enum.map(fn {id, msgid} ->
-        msgstr = msgstr_per_msgid |> Map.get(msgid, "")
-        po_translation(lang, id, msgid, msgstr, override_per_lang_per_id)
-      end)
-      |> write(lang, domain)
+      lang ->
+        msgstr_per_msgid = msgstr_per_msgid_per_lang |> Map.get(lang, %{})
+
+        msgid_per_id
+        |> Enum.map(fn {id, msgid} ->
+          msgstr = msgstr_per_msgid |> Map.get(msgid, "")
+          po_translation(lang, id, msgid, msgstr, override_per_lang_per_id)
+        end)
+        |> write(lang, domain)
     end)
   end
 

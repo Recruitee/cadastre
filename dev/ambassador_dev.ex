@@ -14,7 +14,7 @@ defmodule AmbassadorDev do
 
   def update_data do
     subdivisions_msgstr_per_msgid_per_lang_task =
-      Countries |> Task.async(:msgstr_per_msgid_per_lang, [])
+      Subdivisions |> Task.async(:msgstr_per_msgid_per_lang, [])
 
     countries_msgstr_per_msgid_per_lang_task =
       Countries |> Task.async(:msgstr_per_msgid_per_lang, [])
