@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr "bambarština"
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr "bengálština"
 
 # bo
@@ -102,7 +103,7 @@ msgstr "němčina"
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "divehi; maledivština"
 
 # dz
@@ -194,7 +195,7 @@ msgstr "chorvatština"
 
 # ht
 # original msgid: "Haitian; Haitian Creole"
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "haitská kreolština"
 
 # hu
@@ -262,7 +263,8 @@ msgid "Kalaallisut"
 msgstr "kalmyčtina; grónština"
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr "centrální khmerština"
 
 # kn
@@ -283,7 +285,7 @@ msgstr "kornština"
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr "kyrgyzština"
 
 # lb
@@ -297,7 +299,7 @@ msgstr "ganda"
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr "limburština"
 
 # ln
@@ -394,12 +396,12 @@ msgstr "okcitánština (po 1500); provensálština"
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr "osečtina"
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr "paňdžábština"
 
 # pl
@@ -523,7 +525,7 @@ msgstr "tswanština (čwanština)"
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr "tongština (tonžské ostrovy)"
 
 # tr
@@ -548,7 +550,7 @@ msgstr "tahitština"
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr "ujgurština"
 
 # uk

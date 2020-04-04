@@ -2327,7 +2327,8 @@ msgid "Southern"
 msgstr ""
 
 # BY-BR
-msgid "Brèsckaja voblasc'"
+# original msgid: "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 # BY-HM
@@ -2335,23 +2336,28 @@ msgid "Horad Minsk"
 msgstr ""
 
 # BY-HO
-msgid "Homel'skaja voblasc'"
+# original msgid: "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 # BY-HR
-msgid "Hrodzenskaja voblasc'"
+# original msgid: "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 # BY-MA
-msgid "Mahilëuskaja voblasc'"
+# original msgid: "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 # BY-MI
-msgid "Minskaja voblasc'"
+# original msgid: "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 # BY-VI
-msgid "Vicebskaja voblasc'"
+# original msgid: "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 # BZ-BZ
@@ -18055,39 +18061,48 @@ msgid "Manyara"
 msgstr ""
 
 # UA-05
-msgid "Vinnyts'ka Oblast'"
+# original msgid: "Vinnyts'ka Oblast'"
+msgid "Vinnytska oblast"
 msgstr ""
 
 # UA-07
-msgid "Volyns'ka Oblast'"
+# original msgid: "Volyns'ka Oblast'"
+msgid "Volynska oblast"
 msgstr ""
 
 # UA-09
-msgid "Luhans'ka Oblast'"
+# original msgid: "Luhans'ka Oblast'"
+msgid "Luhanska oblast"
 msgstr ""
 
 # UA-12
-msgid "Dnipropetrovs'ka Oblast'"
+# original msgid: "Dnipropetrovs'ka Oblast'"
+msgid "Dnipropetrovska oblast"
 msgstr ""
 
 # UA-14
-msgid "Donets'ka Oblast'"
+# original msgid: "Donets'ka Oblast'"
+msgid "Donetska oblast"
 msgstr ""
 
 # UA-18
-msgid "Zhytomyrs'ka Oblast'"
+# original msgid: "Zhytomyrs'ka Oblast'"
+msgid "Zhytomyrska oblast"
 msgstr ""
 
 # UA-21
-msgid "Zakarpats'ka Oblast'"
+# original msgid: "Zakarpats'ka Oblast'"
+msgid "Zakarpatska oblast"
 msgstr ""
 
 # UA-23
-msgid "Zaporiz'ka Oblast'"
+# original msgid: "Zaporiz'ka Oblast'"
+msgid "Zaporizka oblast"
 msgstr ""
 
 # UA-26
-msgid "Ivano-Frankivs'ka Oblast'"
+# original msgid: "Ivano-Frankivs'ka Oblast'"
+msgid "Ivano-Frankivska oblast"
 msgstr ""
 
 # UA-30
@@ -18097,11 +18112,12 @@ msgstr ""
 
 # UA-32
 # original msgid: "Kyïvs'ka Oblast'"
-msgid "Kyivs'ka Oblast'"
+msgid "Kyivska oblast"
 msgstr ""
 
 # UA-35
-msgid "Kirovohrads'ka Oblast'"
+# original msgid: "Kirovohrads'ka Oblast'"
+msgid "Kirovohradska oblast"
 msgstr ""
 
 # UA-40
@@ -18109,59 +18125,73 @@ msgid "Sevastopol"
 msgstr ""
 
 # UA-43
-msgid "Respublika Krym"
+# original msgid: "Respublika Krym"
+msgid "Avtonomna Respublika Krym"
 msgstr ""
 
 # UA-46
-msgid "L'vivs'ka Oblast'"
+# original msgid: "L'vivs'ka Oblast'"
+msgid "Lvivska oblast"
 msgstr ""
 
 # UA-48
-msgid "Mykolaïvs'ka Oblast'"
+# original msgid: "Mykolaïvs'ka Oblast'"
+msgid "Mykolaivska oblast"
 msgstr ""
 
 # UA-51
-msgid "Odes'ka Oblast'"
+# original msgid: "Odes'ka Oblast'"
+msgid "Odeska oblast"
 msgstr ""
 
 # UA-53
-msgid "Poltavs'ka Oblast'"
+# original msgid: "Poltavs'ka Oblast'"
+msgid "Poltavska oblast"
 msgstr ""
 
 # UA-56
-msgid "Rivnens'ka Oblast'"
+# original msgid: "Rivnens'ka Oblast'"
+msgid "Rivnenska oblast"
 msgstr ""
 
 # UA-59
-msgid "Sums 'ka Oblast'"
+# original msgid: "Sums 'ka Oblast'"
+msgid "Sumska oblast"
 msgstr ""
 
 # UA-61
-msgid "Ternopil's'ka Oblast'"
+# original msgid: "Ternopil's'ka Oblast'"
+msgid "Ternopilska oblast"
 msgstr ""
 
 # UA-63
-msgid "Kharkivs'ka Oblast'"
+# original msgid: "Kharkivs'ka Oblast'"
+msgid "Kharkivska oblast"
 msgstr ""
 
 # UA-65
-msgid "Khersons'ka Oblast'"
+# original msgid: "Khersons'ka Oblast'"
+msgid "Khersonska oblast"
 msgstr ""
 
 # UA-68
-msgid "Khmel'nyts'ka Oblast'"
+# original msgid: "Khmel'nyts'ka Oblast'"
+msgid "Khmelnytska oblast"
 msgstr ""
 
 # UA-71
-msgid "Cherkas'ka Oblast'"
+# original msgid: "Cherkas'ka Oblast'"
+msgid "Cherkaska oblast"
 msgstr ""
 
 # UA-74
-msgid "Chernihivs'ka Oblast'"
+# original msgid: "Chernihivs'ka Oblast'"
+msgid "Chernihivska oblast"
 msgstr ""
 
 # UA-77
-msgid "Chernivets'ka Oblast'"
+# original msgid: "Chernivets'ka Oblast'"
+msgid "Chernivetska oblast"
 msgstr ""
 
 # UG-101

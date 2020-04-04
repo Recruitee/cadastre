@@ -1,18 +1,18 @@
 # AD-02
 msgid "Canillo"
-msgstr ""
+msgstr "캐나다"
 
 # AD-03
 msgid "Encamp"
-msgstr ""
+msgstr "통가"
 
 # AD-04
 msgid "La Massana"
-msgstr ""
+msgstr "라트비아"
 
 # AD-05
 msgid "Ordino"
-msgstr ""
+msgstr "파키스탄"
 
 # AD-06
 msgid "Sant Julià de Lòria"
@@ -28,7 +28,7 @@ msgstr ""
 
 # AE-AJ
 msgid "'Ajmān"
-msgstr ""
+msgstr "오만"
 
 # AE-AZ
 msgid "Abū Ȥaby [Abu Dhabi]"
@@ -36,7 +36,7 @@ msgstr ""
 
 # AE-DU
 msgid "Dubayy"
-msgstr ""
+msgstr "쿠바"
 
 # AE-FU
 msgid "Al Fujayrah"
@@ -68,19 +68,19 @@ msgstr ""
 
 # AF-BDS
 msgid "Badakhshān"
-msgstr ""
+msgstr "카자흐스탄"
 
 # AF-BGL
 msgid "Baghlān"
-msgstr ""
+msgstr "바레인"
 
 # AF-DAY
 msgid "Dāykundī"
-msgstr ""
+msgstr "리투아니아"
 
 # AF-FRA
 msgid "Farāh"
-msgstr ""
+msgstr "프랑스"
 
 # AF-FYB
 msgid "Fāryāb"
@@ -88,7 +88,7 @@ msgstr ""
 
 # AF-GHA
 msgid "Ghaznī"
-msgstr ""
+msgstr "가나"
 
 # AF-GHO
 msgid "Ghōr"
@@ -96,15 +96,15 @@ msgstr ""
 
 # AF-HEL
 msgid "Helmand"
-msgstr ""
+msgstr "아이스랜드"
 
 # AF-HER
 msgid "Herāt"
-msgstr ""
+msgstr "하이티"
 
 # AF-JOW
 msgid "Jowzjān"
-msgstr ""
+msgstr "요르단"
 
 # AF-KAB
 msgid "Kābul"
@@ -112,7 +112,7 @@ msgstr ""
 
 # AF-KAN
 msgid "Kandahār"
-msgstr ""
+msgstr "캐나다"
 
 # AF-KAP
 msgid "Kāpīsā"
@@ -140,7 +140,7 @@ msgstr ""
 
 # AF-NAN
 msgid "Nangarhār"
-msgstr ""
+msgstr "통가"
 
 # AF-NIM
 msgid "Nīmrōz"
@@ -148,27 +148,27 @@ msgstr ""
 
 # AF-NUR
 msgid "Nūristān"
-msgstr ""
+msgstr "파키스탄"
 
 # AF-PAN
 msgid "Panjshayr"
-msgstr ""
+msgstr "뉴헴프셔"
 
 # AF-PAR
 msgid "Parwān"
-msgstr ""
+msgstr "바레인"
 
 # AF-PIA
 msgid "Paktiyā"
-msgstr ""
+msgstr "파키스탄"
 
 # AF-PKA
 msgid "Paktīkā"
-msgstr ""
+msgstr "파키스탄"
 
 # AF-SAM
 msgid "Samangān"
-msgstr ""
+msgstr "사모아"
 
 # AF-SAR
 msgid "Sar-e Pul"
@@ -176,15 +176,15 @@ msgstr ""
 
 # AF-TAK
 msgid "Takhār"
-msgstr ""
+msgstr "사모아"
 
 # AF-URU
 msgid "Uruzgān"
-msgstr ""
+msgstr "오레곤"
 
 # AF-WAR
 msgid "Wardak"
-msgstr ""
+msgstr "괌"
 
 # AF-ZAB
 msgid "Zābul"
@@ -192,11 +192,11 @@ msgstr ""
 
 # AG-03
 msgid "Saint George"
-msgstr ""
+msgstr "시/도"
 
 # AG-04
 msgid "Saint John"
-msgstr ""
+msgstr "수리남"
 
 # AG-05
 msgid "Saint Mary"
@@ -204,11 +204,11 @@ msgstr ""
 
 # AG-06
 msgid "Saint Paul"
-msgstr ""
+msgstr "수리남"
 
 # AG-07
 msgid "Saint Peter"
-msgstr ""
+msgstr "시/도"
 
 # AG-08
 msgid "Saint Philip"
@@ -216,7 +216,7 @@ msgstr ""
 
 # AG-10
 msgid "Barbuda"
-msgstr ""
+msgstr "버뮤다"
 
 # AG-11
 msgid "Redonda"
@@ -224,19 +224,19 @@ msgstr ""
 
 # AL-01
 msgid "Berat"
-msgstr ""
+msgstr "하이티"
 
 # AL-02
 msgid "Durrës"
-msgstr ""
+msgstr "터키"
 
 # AL-03
 msgid "Elbasan"
-msgstr ""
+msgstr "말레이시아"
 
 # AL-04
 msgid "Fier"
-msgstr ""
+msgstr "라이베리아"
 
 # AL-05
 msgid "Gjirokastër"
@@ -244,7 +244,7 @@ msgstr ""
 
 # AL-06
 msgid "Korçë"
-msgstr ""
+msgstr "케냐"
 
 # AL-07
 msgid "Kukës"
@@ -256,7 +256,7 @@ msgstr ""
 
 # AL-09
 msgid "Dibër"
-msgstr ""
+msgstr "라이베리아"
 
 # AL-10
 msgid "Shkodër"
@@ -264,15 +264,15 @@ msgstr ""
 
 # AL-11
 msgid "Tiranë"
-msgstr ""
+msgstr "통가"
 
 # AL-12
 msgid "Vlorë"
-msgstr ""
+msgstr "플로리다"
 
 # AL-BR
 msgid "Berat"
-msgstr ""
+msgstr "하이티"
 
 # AL-BU
 msgid "Bulqizë"
@@ -280,15 +280,15 @@ msgstr ""
 
 # AL-DI
 msgid "Dibër"
-msgstr ""
+msgstr "라이베리아"
 
 # AL-DL
 msgid "Delvinë"
-msgstr ""
+msgstr "헬릭스"
 
 # AL-DR
 msgid "Durrës"
-msgstr ""
+msgstr "터키"
 
 # AL-DV
 msgid "Devoll"
@@ -296,15 +296,15 @@ msgstr ""
 
 # AL-EL
 msgid "Elbasan"
-msgstr ""
+msgstr "말레이시아"
 
 # AL-ER
 msgid "Kolonjë"
-msgstr ""
+msgstr "카메룬"
 
 # AL-FR
 msgid "Fier"
-msgstr ""
+msgstr "라이베리아"
 
 # AL-GJ
 msgid "Gjirokastër"
@@ -312,7 +312,7 @@ msgstr ""
 
 # AL-GR
 msgid "Gramsh"
-msgstr ""
+msgstr "가나"
 
 # AL-HA
 msgid "Has"
@@ -320,11 +320,11 @@ msgstr ""
 
 # AL-KA
 msgid "Kavajë"
-msgstr ""
+msgstr "캔사스"
 
 # AL-KB
 msgid "Kurbin"
-msgstr ""
+msgstr "K메일"
 
 # AL-KC
 msgid "Kuçovë"
@@ -332,11 +332,11 @@ msgstr ""
 
 # AL-KO
 msgid "Korçë"
-msgstr ""
+msgstr "케냐"
 
 # AL-KR
 msgid "Krujë"
-msgstr ""
+msgstr "케냐"
 
 # AL-KU
 msgid "Kukës"
@@ -344,7 +344,7 @@ msgstr ""
 
 # AL-LB
 msgid "Librazhd"
-msgstr ""
+msgstr "라이베리아"
 
 # AL-LE
 msgid "Lezhë"
@@ -352,7 +352,7 @@ msgstr ""
 
 # AL-LU
 msgid "Lushnjë"
-msgstr ""
+msgstr "없음"
 
 # AL-MK
 msgid "Mallakastër"
@@ -364,27 +364,27 @@ msgstr ""
 
 # AL-MR
 msgid "Mirditë"
-msgstr ""
+msgstr "바레인"
 
 # AL-MT
 msgid "Mat"
-msgstr ""
+msgstr "몬타나"
 
 # AL-PG
 msgid "Pogradec"
-msgstr ""
+msgstr "노르웨이"
 
 # AL-PQ
 msgid "Peqin"
-msgstr ""
+msgstr "예멘"
 
 # AL-PR
 msgid "Përmet"
-msgstr ""
+msgstr "버몬트"
 
 # AL-PU
 msgid "Pukë"
-msgstr ""
+msgstr "쿠바"
 
 # AL-SH
 msgid "Shkodër"
@@ -396,23 +396,23 @@ msgstr ""
 
 # AL-SR
 msgid "Sarandë"
-msgstr ""
+msgstr "아일랜드"
 
 # AL-TE
 msgid "Tepelenë"
-msgstr ""
+msgstr "스웨덴"
 
 # AL-TP
 msgid "Tropojë"
-msgstr ""
+msgstr "모로코"
 
 # AL-TR
 msgid "Tiranë"
-msgstr ""
+msgstr "통가"
 
 # AL-VL
 msgid "Vlorë"
-msgstr ""
+msgstr "플로리다"
 
 # AM-AG
 msgid "Aragacotn"
@@ -420,7 +420,7 @@ msgstr ""
 
 # AM-AR
 msgid "Ararat"
-msgstr ""
+msgstr "안도라"
 
 # AM-AV
 msgid "Armavir"
@@ -428,7 +428,7 @@ msgstr ""
 
 # AM-ER
 msgid "Erevan"
-msgstr ""
+msgstr "아일랜드"
 
 # AM-GR
 msgid "Gegarkunik'"
@@ -440,7 +440,7 @@ msgstr ""
 
 # AM-LO
 msgid "Lory"
-msgstr ""
+msgstr "노르웨이"
 
 # AM-SH
 msgid "Sirak"
@@ -452,7 +452,7 @@ msgstr ""
 
 # AM-TV
 msgid "Tavus"
-msgstr ""
+msgstr "텍사스"
 
 # AM-VD
 msgid "Vayoc Jor"
@@ -460,11 +460,11 @@ msgstr ""
 
 # AO-BGO
 msgid "Bengo"
-msgstr ""
+msgstr "콩고"
 
 # AO-BGU
 msgid "Benguela"
-msgstr ""
+msgstr "베네수엘라"
 
 # AO-BIE
 msgid "Bié"
@@ -472,7 +472,7 @@ msgstr ""
 
 # AO-CAB
 msgid "Cabinda"
-msgstr ""
+msgstr "캐나다"
 
 # AO-CCU
 msgid "Cuando-Cubango"
@@ -492,7 +492,7 @@ msgstr ""
 
 # AO-HUA
 msgid "Huambo"
-msgstr ""
+msgstr "괌"
 
 # AO-HUI
 msgid "Huíla"
@@ -508,7 +508,7 @@ msgstr ""
 
 # AO-LUA
 msgid "Luanda"
-msgstr ""
+msgstr "루이지아나"
 
 # AO-MAL
 msgid "Malange"
@@ -516,11 +516,11 @@ msgstr ""
 
 # AO-MOX
 msgid "Moxico"
-msgstr ""
+msgstr "멕시코"
 
 # AO-NAM
 msgid "Namibe"
-msgstr ""
+msgstr "나미비아"
 
 # AO-UIG
 msgid "Uíge"
@@ -528,11 +528,11 @@ msgstr ""
 
 # AO-ZAI
 msgid "Zaire"
-msgstr ""
+msgstr "자이레"
 
 # AR-A
 msgid "Salta"
-msgstr ""
+msgstr "소말리아"
 
 # AR-B
 msgid "Buenos Aires"
@@ -556,15 +556,15 @@ msgstr ""
 
 # AR-H
 msgid "Chaco"
-msgstr ""
+msgstr "중국"
 
 # AR-J
 msgid "San Juan"
-msgstr ""
+msgstr "수리남"
 
 # AR-K
 msgid "Catamarca"
-msgstr ""
+msgstr "자메이카"
 
 # AR-L
 msgid "La Pampa"
@@ -572,11 +572,11 @@ msgstr ""
 
 # AR-M
 msgid "Mendoza"
-msgstr ""
+msgstr "마케도니아"
 
 # AR-N
 msgid "Misiones"
-msgstr ""
+msgstr "미크로네시아"
 
 # AR-P
 msgid "Formosa"
@@ -600,7 +600,7 @@ msgstr ""
 
 # AR-U
 msgid "Chubut"
-msgstr ""
+msgstr "쿠바"
 
 # AR-V
 msgid "Tierra del Fuego"
@@ -612,7 +612,7 @@ msgstr ""
 
 # AR-X
 msgid "Cordoba"
-msgstr ""
+msgstr "콜로라도"
 
 # AR-Y
 msgid "Jujuy"
@@ -620,11 +620,11 @@ msgstr ""
 
 # AR-Z
 msgid "Santa Cruz"
-msgstr ""
+msgstr "몬타나"
 
 # AT-1
 msgid "Burgenland"
-msgstr ""
+msgstr "그린랜드"
 
 # AT-2
 msgid "Kärnten"
@@ -672,23 +672,23 @@ msgstr ""
 
 # AU-QLD
 msgid "Queensland"
-msgstr ""
+msgstr "그린랜드"
 
 # AU-SA
 msgid "South Australia"
-msgstr ""
+msgstr "호주"
 
 # AU-TAS
 msgid "Tasmania"
-msgstr ""
+msgstr "자메이카"
 
 # AU-VIC
 msgid "Victoria"
-msgstr ""
+msgstr "버지니아"
 
 # AU-WA
 msgid "Western Australia"
-msgstr ""
+msgstr "호주"
 
 # AZ-ABS
 msgid "Abşeron"
@@ -696,7 +696,7 @@ msgstr ""
 
 # AZ-AGA
 msgid "Ağstafa"
-msgstr ""
+msgstr "호주"
 
 # AZ-AGC
 msgid "Ağcabədi"
@@ -704,7 +704,7 @@ msgstr ""
 
 # AZ-AGM
 msgid "Ağdam"
-msgstr ""
+msgstr "수단"
 
 # AZ-AGS
 msgid "Ağdaş"
@@ -716,19 +716,19 @@ msgstr ""
 
 # AZ-AST
 msgid "Astara"
-msgstr ""
+msgstr "오스트리아"
 
 # AZ-BA
 msgid "Bakı"
-msgstr ""
+msgstr "브라질"
 
 # AZ-BAB
 msgid "Babək"
-msgstr ""
+msgstr "브라질"
 
 # AZ-BAL
 msgid "Balakən"
-msgstr ""
+msgstr "알라스카"
 
 # AZ-BAR
 msgid "Bərdə"
@@ -736,11 +736,11 @@ msgstr ""
 
 # AZ-BEY
 msgid "Beyləqan"
-msgstr ""
+msgstr "케냐"
 
 # AZ-BIL
 msgid "Biləsuvar"
-msgstr ""
+msgstr "볼리비아"
 
 # AZ-CAB
 msgid "Cəbrayıl"
@@ -752,7 +752,7 @@ msgstr ""
 
 # AZ-CUL
 msgid "Culfa"
-msgstr ""
+msgstr "쿠바"
 
 # AZ-DAS
 msgid "Daşkəsən"
@@ -772,7 +772,7 @@ msgstr ""
 
 # AZ-GOR
 msgid "Goranboy"
-msgstr ""
+msgstr "독일"
 
 # AZ-GOY
 msgid "Göyçay"
@@ -820,11 +820,11 @@ msgstr ""
 
 # AZ-LER
 msgid "Lerik"
-msgstr ""
+msgstr "라이베리아"
 
 # AZ-MAS
 msgid "Masallı"
-msgstr ""
+msgstr "말리"
 
 # AZ-MI
 msgid "Mingəçevir"
@@ -836,7 +836,7 @@ msgstr ""
 
 # AZ-NEF
 msgid "Neftçala"
-msgstr ""
+msgstr "네스케이프"
 
 # AZ-NV
 msgid "Naxçıvan"
@@ -868,11 +868,11 @@ msgstr ""
 
 # AZ-QBA
 msgid "Quba"
-msgstr ""
+msgstr "쿠바"
 
 # AZ-QBI
 msgid "Qubadlı"
-msgstr ""
+msgstr "쿠바"
 
 # AZ-QOB
 msgid "Qobustan"
@@ -888,7 +888,7 @@ msgstr ""
 
 # AZ-SAB
 msgid "Sabirabad"
-msgstr ""
+msgstr "사우디아라비아"
 
 # AZ-SAD
 msgid "Sədərək"
@@ -904,7 +904,7 @@ msgstr ""
 
 # AZ-SAL
 msgid "Salyan"
-msgstr ""
+msgstr "소말리아"
 
 # AZ-SAR
 msgid "Şərur"
@@ -912,7 +912,7 @@ msgstr ""
 
 # AZ-SAT
 msgid "Saatlı"
-msgstr ""
+msgstr "소말리아"
 
 # AZ-SBN
 msgid "Şabran"
@@ -936,7 +936,7 @@ msgstr ""
 
 # AZ-SMX
 msgid "Samux"
-msgstr ""
+msgstr "사모아"
 
 # AZ-SR
 msgid "Şirvan"
@@ -968,7 +968,7 @@ msgstr ""
 
 # AZ-XCI
 msgid "Xocalı"
-msgstr ""
+msgstr "소말리아"
 
 # AZ-XIZ
 msgid "Xızı"
@@ -992,7 +992,7 @@ msgstr ""
 
 # AZ-ZAN
 msgid "Zəngilan"
-msgstr ""
+msgstr "태국"
 
 # AZ-ZAQ
 msgid "Zaqatala"
@@ -1032,7 +1032,7 @@ msgstr ""
 
 # BA-08
 msgid "Zapadnohercegovački kanton"
-msgstr ""
+msgstr "캐나다"
 
 # BA-09
 msgid "Kanton Sarajevo"
@@ -1064,19 +1064,19 @@ msgstr ""
 
 # BB-03
 msgid "Saint George"
-msgstr ""
+msgstr "시/도"
 
 # BB-04
 msgid "Saint James"
-msgstr ""
+msgstr "수리남"
 
 # BB-05
 msgid "Saint John"
-msgstr ""
+msgstr "수리남"
 
 # BB-06
 msgid "Saint Joseph"
-msgstr ""
+msgstr "수리남"
 
 # BB-07
 msgid "Saint Lucy"
@@ -1084,11 +1084,11 @@ msgstr ""
 
 # BB-08
 msgid "Saint Michael"
-msgstr ""
+msgstr "수리남"
 
 # BB-09
 msgid "Saint Peter"
-msgstr ""
+msgstr "시/도"
 
 # BB-10
 msgid "Saint Philip"
@@ -1096,35 +1096,35 @@ msgstr ""
 
 # BB-11
 msgid "Saint Thomas"
-msgstr ""
+msgstr "수리남"
 
 # BD-01
 msgid "Bandarban"
-msgstr ""
+msgstr "브라질"
 
 # BD-02
 msgid "Barguna"
-msgstr ""
+msgstr "브라질"
 
 # BD-03
 msgid "Bogra"
-msgstr ""
+msgstr "하이티"
 
 # BD-04
 msgid "Brahmanbaria"
-msgstr ""
+msgstr "온타리오"
 
 # BD-05
 msgid "Bagerhat"
-msgstr ""
+msgstr "브라질"
 
 # BD-06
 msgid "Barisal"
-msgstr ""
+msgstr "라트비아"
 
 # BD-07
 msgid "Bhola"
-msgstr ""
+msgstr "브라질"
 
 # BD-08
 msgid "Comilla"
@@ -1132,7 +1132,7 @@ msgstr ""
 
 # BD-09
 msgid "Chandpur"
-msgstr ""
+msgstr "중국"
 
 # BD-10
 msgid "Chittagong"
@@ -1144,11 +1144,11 @@ msgstr ""
 
 # BD-12
 msgid "Chuadanga"
-msgstr ""
+msgstr "마다가스카르"
 
 # BD-13
 msgid "Dhaka"
-msgstr ""
+msgstr "알라스카"
 
 # BD-14
 msgid "Dinajpur"
@@ -1172,15 +1172,15 @@ msgstr ""
 
 # BD-19
 msgid "Gaibandha"
-msgstr ""
+msgstr "루이지아나"
 
 # BD-20
 msgid "Habiganj"
-msgstr ""
+msgstr "미시간"
 
 # BD-21
 msgid "Jamalpur"
-msgstr ""
+msgstr "자메이카"
 
 # BD-22
 msgid "Jessore"
@@ -1196,7 +1196,7 @@ msgstr ""
 
 # BD-25
 msgid "Jhalakati"
-msgstr ""
+msgstr "알라스카"
 
 # BD-26
 msgid "Kishorganj"
@@ -1212,7 +1212,7 @@ msgstr ""
 
 # BD-29
 msgid "Khagrachari"
-msgstr ""
+msgstr "프랑스"
 
 # BD-30
 msgid "Kushtia"
@@ -1228,7 +1228,7 @@ msgstr ""
 
 # BD-33
 msgid "Manikganj"
-msgstr ""
+msgstr "마케도니아"
 
 # BD-34
 msgid "Mymensingh"
@@ -1236,7 +1236,7 @@ msgstr ""
 
 # BD-35
 msgid "Munshiganj"
-msgstr ""
+msgstr "미시간"
 
 # BD-36
 msgid "Madaripur"
@@ -1244,7 +1244,7 @@ msgstr ""
 
 # BD-37
 msgid "Magura"
-msgstr ""
+msgstr "호주"
 
 # BD-38
 msgid "Moulvibazar"
@@ -1256,11 +1256,11 @@ msgstr ""
 
 # BD-40
 msgid "Narayanganj"
-msgstr ""
+msgstr "나우루"
 
 # BD-41
 msgid "Netrakona"
-msgstr ""
+msgstr "리투아니아"
 
 # BD-42
 msgid "Narsingdi"
@@ -1268,11 +1268,11 @@ msgstr ""
 
 # BD-43
 msgid "Narail"
-msgstr ""
+msgstr "나우루"
 
 # BD-44
 msgid "Natore"
-msgstr ""
+msgstr "남아프리카"
 
 # BD-45
 msgid "Nawabganj"
@@ -1292,7 +1292,7 @@ msgstr ""
 
 # BD-49
 msgid "Pabna"
-msgstr ""
+msgstr "파나마"
 
 # BD-50
 msgid "Pirojpur"
@@ -1300,7 +1300,7 @@ msgstr ""
 
 # BD-51
 msgid "Patuakhali"
-msgstr ""
+msgstr "파나마"
 
 # BD-52
 msgid "Panchagarh"
@@ -1320,7 +1320,7 @@ msgstr ""
 
 # BD-56
 msgid "Rangamati"
-msgstr ""
+msgstr "말리"
 
 # BD-57
 msgid "Sherpur"
@@ -1348,7 +1348,7 @@ msgstr ""
 
 # BD-63
 msgid "Tangail"
-msgstr ""
+msgstr "통가"
 
 # BD-64
 msgid "Thakurgaon"
@@ -1356,7 +1356,7 @@ msgstr ""
 
 # BD-A
 msgid "Barisal"
-msgstr ""
+msgstr "라트비아"
 
 # BD-B
 msgid "Chittagong"
@@ -1364,7 +1364,7 @@ msgstr ""
 
 # BD-C
 msgid "Dhaka"
-msgstr ""
+msgstr "알라스카"
 
 # BD-D
 msgid "Khulna"
@@ -1400,7 +1400,7 @@ msgstr ""
 
 # BE-VLI
 msgid "Limburg"
-msgstr ""
+msgstr "라이베리아"
 
 # BE-VOV
 msgid "Oost-Vlaanderen"
@@ -1420,11 +1420,11 @@ msgstr ""
 
 # BE-WHT
 msgid "Hainaut"
-msgstr ""
+msgstr "하이티"
 
 # BE-WLG
 msgid "Liège"
-msgstr ""
+msgstr "아르헨티나"
 
 # BE-WLX
 msgid "Luxembourg"
@@ -1432,7 +1432,7 @@ msgstr "룩셈부르크"
 
 # BE-WNA
 msgid "Namur"
-msgstr ""
+msgstr "나우루"
 
 # BF-01
 msgid "Boucle du Mouhoun"
@@ -1440,31 +1440,31 @@ msgstr ""
 
 # BF-02
 msgid "Cascades"
-msgstr ""
+msgstr "쿠바"
 
 # BF-03
 msgid "Centre"
-msgstr ""
+msgstr "캐나다"
 
 # BF-04
 msgid "Centre-Est"
-msgstr ""
+msgstr "캐나다"
 
 # BF-05
 msgid "Centre-Nord"
-msgstr ""
+msgstr "캐나다"
 
 # BF-06
 msgid "Centre-Ouest"
-msgstr ""
+msgstr "캐나다"
 
 # BF-07
 msgid "Centre-Sud"
-msgstr ""
+msgstr "캐나다"
 
 # BF-08
 msgid "Est"
-msgstr ""
+msgstr "동티모르"
 
 # BF-09
 msgid "Hauts-Bassins"
@@ -1472,11 +1472,11 @@ msgstr ""
 
 # BF-10
 msgid "Nord"
-msgstr ""
+msgstr "노르웨이"
 
 # BF-11
 msgid "Plateau-Central"
-msgstr ""
+msgstr "파키스탄"
 
 # BF-12
 msgid "Sahel"
@@ -1488,7 +1488,7 @@ msgstr ""
 
 # BF-BAL
 msgid "Balé"
-msgstr ""
+msgstr "브라질"
 
 # BF-BAM
 msgid "Bam"
@@ -1496,15 +1496,15 @@ msgstr ""
 
 # BF-BAN
 msgid "Banwa"
-msgstr ""
+msgstr "가나"
 
 # BF-BAZ
 msgid "Bazèga"
-msgstr ""
+msgstr "파라과이"
 
 # BF-BGR
 msgid "Bougouriba"
-msgstr ""
+msgstr "불가리아"
 
 # BF-BLG
 msgid "Boulgou"
@@ -1512,11 +1512,11 @@ msgstr ""
 
 # BF-BLK
 msgid "Boulkiemdé"
-msgstr ""
+msgstr "브라질"
 
 # BF-COM
 msgid "Comoé"
-msgstr ""
+msgstr "콩고"
 
 # BF-GAN
 msgid "Ganzourgou"
@@ -1524,11 +1524,11 @@ msgstr ""
 
 # BF-GNA
 msgid "Gnagna"
-msgstr ""
+msgstr "가나"
 
 # BF-GOU
 msgid "Gourma"
-msgstr ""
+msgstr "조지아"
 
 # BF-HOU
 msgid "Houet"
@@ -1556,7 +1556,7 @@ msgstr ""
 
 # BF-KOP
 msgid "Koulpélogo"
-msgstr ""
+msgstr "쿠바"
 
 # BF-KOS
 msgid "Kossi"
@@ -1572,7 +1572,7 @@ msgstr ""
 
 # BF-LER
 msgid "Léraba"
-msgstr ""
+msgstr "레바논"
 
 # BF-LOR
 msgid "Loroum"
@@ -1588,7 +1588,7 @@ msgstr ""
 
 # BF-NAO
 msgid "Naouri"
-msgstr ""
+msgstr "나우루"
 
 # BF-NAY
 msgid "Nayala"
@@ -1604,7 +1604,7 @@ msgstr ""
 
 # BF-OUD
 msgid "Oudalan"
-msgstr ""
+msgstr "수단"
 
 # BF-PAS
 msgid "Passoré"
@@ -1612,15 +1612,15 @@ msgstr ""
 
 # BF-PON
 msgid "Poni"
-msgstr ""
+msgstr "전화"
 
 # BF-SEN
 msgid "Séno"
-msgstr ""
+msgstr "스웨덴"
 
 # BF-SIS
 msgid "Sissili"
-msgstr ""
+msgstr "루이지아나"
 
 # BF-SMT
 msgid "Sanmatenga"
@@ -1628,7 +1628,7 @@ msgstr ""
 
 # BF-SNG
 msgid "Sanguié"
-msgstr ""
+msgstr "가나"
 
 # BF-SOM
 msgid "Soum"
@@ -1640,11 +1640,11 @@ msgstr ""
 
 # BF-TAP
 msgid "Tapoa"
-msgstr ""
+msgstr "통가"
 
 # BF-TUI
 msgid "Tui"
-msgstr ""
+msgstr "튀니지"
 
 # BF-YAG
 msgid "Yagha"
@@ -1656,7 +1656,7 @@ msgstr ""
 
 # BF-ZIR
 msgid "Ziro"
-msgstr ""
+msgstr "자이레"
 
 # BF-ZON
 msgid "Zondoma"
@@ -1676,7 +1676,7 @@ msgstr ""
 
 # BG-03
 msgid "Varna"
-msgstr ""
+msgstr "버지니아"
 
 # BG-04
 msgid "Veliko Tarnovo"
@@ -1684,35 +1684,35 @@ msgstr ""
 
 # BG-05
 msgid "Vidin"
-msgstr ""
+msgstr "버지니아"
 
 # BG-06
 msgid "Vratsa"
-msgstr ""
+msgstr "프랑스"
 
 # BG-07
 msgid "Gabrovo"
-msgstr ""
+msgstr "가봉"
 
 # BG-08
 msgid "Dobrich"
-msgstr ""
+msgstr "조지아"
 
 # BG-09
 msgid "Kardzhali"
-msgstr ""
+msgstr "말리"
 
 # BG-10
 msgid "Kyustendil"
-msgstr ""
+msgstr "에스토니아"
 
 # BG-11
 msgid "Lovech"
-msgstr ""
+msgstr "모나코"
 
 # BG-12
 msgid "Montana"
-msgstr ""
+msgstr "몬타나"
 
 # BG-13
 msgid "Pazardzhik"
@@ -1720,11 +1720,11 @@ msgstr ""
 
 # BG-14
 msgid "Pernik"
-msgstr ""
+msgstr "라이베리아"
 
 # BG-15
 msgid "Pleven"
-msgstr ""
+msgstr "예멘"
 
 # BG-16
 msgid "Plovdiv"
@@ -1732,7 +1732,7 @@ msgstr ""
 
 # BG-17
 msgid "Razgrad"
-msgstr ""
+msgstr "가나"
 
 # BG-18
 msgid "Ruse"
@@ -1740,27 +1740,27 @@ msgstr ""
 
 # BG-19
 msgid "Silistra"
-msgstr ""
+msgstr "유타"
 
 # BG-20
 msgid "Sliven"
-msgstr ""
+msgstr "세네갈"
 
 # BG-21
 msgid "Smolyan"
-msgstr ""
+msgstr "사모아"
 
 # BG-22
 msgid "Sofia-Grad"
-msgstr ""
+msgstr "소말리아"
 
 # BG-23
 msgid "Sofia"
-msgstr ""
+msgstr "소말리아"
 
 # BG-24
 msgid "Stara Zagora"
-msgstr ""
+msgstr "파라과이"
 
 # BG-25
 msgid "Targovishte"
@@ -1772,11 +1772,11 @@ msgstr ""
 
 # BG-27
 msgid "Shumen"
-msgstr ""
+msgstr "스웨덴"
 
 # BG-28
 msgid "Yambol"
-msgstr ""
+msgstr "가봉"
 
 # BH-13
 msgid "Al Manāmah (Al ‘Āşimah)"
@@ -1784,15 +1784,15 @@ msgstr ""
 
 # BH-14
 msgid "Al Janūbīyah"
-msgstr ""
+msgstr "알라바마"
 
 # BH-15
 msgid "Al Muḩarraq"
-msgstr ""
+msgstr "알라스카"
 
 # BH-16
 msgid "Al Wusţá"
-msgstr ""
+msgstr "오스트리아"
 
 # BH-17
 msgid "Ash Shamālīyah"
@@ -1800,19 +1800,19 @@ msgstr ""
 
 # BI-BB
 msgid "Bubanza"
-msgstr ""
+msgstr "가나"
 
 # BI-BL
 msgid "Bujumbura Rural"
-msgstr ""
+msgstr "쿠바"
 
 # BI-BM
 msgid "Bujumbura Mairie"
-msgstr ""
+msgstr "쿠바"
 
 # BI-BR
 msgid "Bururi"
-msgstr ""
+msgstr "불가리아"
 
 # BI-CA
 msgid "Cankuzo"
@@ -1824,31 +1824,31 @@ msgstr ""
 
 # BI-GI
 msgid "Gitega"
-msgstr ""
+msgstr "조지아"
 
 # BI-KI
 msgid "Kirundo"
-msgstr ""
+msgstr "자이레"
 
 # BI-KR
 msgid "Karuzi"
-msgstr ""
+msgstr "말리"
 
 # BI-KY
 msgid "Kayanza"
-msgstr ""
+msgstr "캔사스"
 
 # BI-MA
 msgid "Makamba"
-msgstr ""
+msgstr "마다가스카르"
 
 # BI-MU
 msgid "Muramvya"
-msgstr ""
+msgstr "버뮤다"
 
 # BI-MW
 msgid "Mwaro"
-msgstr ""
+msgstr "몬타나"
 
 # BI-NG
 msgid "Ngozi"
@@ -1856,7 +1856,7 @@ msgstr ""
 
 # BI-RT
 msgid "Rutana"
-msgstr ""
+msgstr "부탄"
 
 # BI-RY
 msgid "Ruyigi"
@@ -1864,11 +1864,11 @@ msgstr ""
 
 # BJ-AK
 msgid "Atakora"
-msgstr ""
+msgstr "알라스카"
 
 # BJ-AL
 msgid "Alibori"
-msgstr ""
+msgstr "알제리"
 
 # BJ-AQ
 msgid "Atlantique"
@@ -1876,15 +1876,15 @@ msgstr ""
 
 # BJ-BO
 msgid "Borgou"
-msgstr ""
+msgstr "통고"
 
 # BJ-CO
 msgid "Collines"
-msgstr ""
+msgstr "우크라이나"
 
 # BJ-DO
 msgid "Donga"
-msgstr ""
+msgstr "세네갈"
 
 # BJ-KO
 msgid "Kouffo"
@@ -1892,11 +1892,11 @@ msgstr ""
 
 # BJ-LI
 msgid "Littoral"
-msgstr ""
+msgstr "라이베리아"
 
 # BJ-MO
 msgid "Mono"
-msgstr ""
+msgstr "모나코"
 
 # BJ-OU
 msgid "Ouémé"
@@ -1904,7 +1904,7 @@ msgstr ""
 
 # BJ-PL
 msgid "Plateau"
-msgstr ""
+msgstr "파키스탄"
 
 # BJ-ZO
 msgid "Zou"
@@ -1912,7 +1912,7 @@ msgstr ""
 
 # BN-BE
 msgid "Belait"
-msgstr ""
+msgstr "벨기에"
 
 # BN-BM
 msgid "Brunei-Muara"
@@ -1924,7 +1924,7 @@ msgstr ""
 
 # BN-TU
 msgid "Tutong"
-msgstr ""
+msgstr "통가"
 
 # BO-B
 msgid "El Beni"
@@ -1940,11 +1940,11 @@ msgstr ""
 
 # BO-L
 msgid "La Paz"
-msgstr ""
+msgstr "이름"
 
 # BO-N
 msgid "Pando"
-msgstr ""
+msgstr "폴란드"
 
 # BO-O
 msgid "Oruro"
@@ -1952,11 +1952,11 @@ msgstr ""
 
 # BO-P
 msgid "Potosí"
-msgstr ""
+msgstr "포르투갈"
 
 # BO-S
 msgid "Santa Cruz"
-msgstr ""
+msgstr "몬타나"
 
 # BO-T
 msgid "Tarija"
@@ -1964,15 +1964,15 @@ msgstr ""
 
 # BQ-BO
 msgid "Bonaire"
-msgstr ""
+msgstr "자이레"
 
 # BQ-SA
 msgid "Saba"
-msgstr ""
+msgstr "사모아"
 
 # BQ-SE
 msgid "Sint Eustatius"
-msgstr ""
+msgstr "수리남"
 
 # BR-AC
 msgid "Acre"
@@ -1980,23 +1980,23 @@ msgstr ""
 
 # BR-AL
 msgid "Alagoas"
-msgstr ""
+msgstr "앙골라"
 
 # BR-AM
 msgid "Amazonas"
-msgstr ""
+msgstr "아리조나"
 
 # BR-AP
 msgid "Amapá"
-msgstr ""
+msgstr "일본"
 
 # BR-BA
 msgid "Bahia"
-msgstr ""
+msgstr "불가리아"
 
 # BR-CE
 msgid "Ceará"
-msgstr ""
+msgstr "캐나다"
 
 # BR-DF
 msgid "Distrito Federal"
@@ -2012,11 +2012,11 @@ msgstr ""
 
 # BR-GO
 msgid "Goiás"
-msgstr ""
+msgstr "조지아"
 
 # BR-MA
 msgid "Maranhão"
-msgstr ""
+msgstr "프랑스"
 
 # BR-MG
 msgid "Minas Gerais"
@@ -2032,11 +2032,11 @@ msgstr ""
 
 # BR-PA
 msgid "Pará"
-msgstr ""
+msgstr "파나마"
 
 # BR-PB
 msgid "Paraíba"
-msgstr ""
+msgstr "파라과이"
 
 # BR-PE
 msgid "Pernambuco"
@@ -2044,11 +2044,11 @@ msgstr ""
 
 # BR-PI
 msgid "Piauí"
-msgstr ""
+msgstr "라트비아"
 
 # BR-PR
 msgid "Paraná"
-msgstr ""
+msgstr "파라과이"
 
 # BR-RJ
 msgid "Rio de Janeiro"
@@ -2060,7 +2060,7 @@ msgstr ""
 
 # BR-RO
 msgid "Rondônia"
-msgstr ""
+msgstr "인도네시아"
 
 # BR-RR
 msgid "Roraima"
@@ -2072,7 +2072,7 @@ msgstr ""
 
 # BR-SC
 msgid "Santa Catarina"
-msgstr ""
+msgstr "시/도"
 
 # BR-SE
 msgid "Sergipe"
@@ -2080,15 +2080,15 @@ msgstr ""
 
 # BR-SP
 msgid "São Paulo"
-msgstr ""
+msgstr "수리남"
 
 # BR-TO
 msgid "Tocantins"
-msgstr ""
+msgstr "통가"
 
 # BS-AK
 msgid "Acklins"
-msgstr ""
+msgstr "인도"
 
 # BS-BI
 msgid "Bimini"
@@ -2100,11 +2100,11 @@ msgstr ""
 
 # BS-BY
 msgid "Berry Islands"
-msgstr ""
+msgstr "핀란드"
 
 # BS-CE
 msgid "Central Eleuthera"
-msgstr ""
+msgstr "캐나다"
 
 # BS-CI
 msgid "Cat Island"
@@ -2116,15 +2116,15 @@ msgstr ""
 
 # BS-CO
 msgid "Central Abaco"
-msgstr ""
+msgstr "캐나다"
 
 # BS-CS
 msgid "Central Andros"
-msgstr ""
+msgstr "캐나다"
 
 # BS-EG
 msgid "East Grand Bahama"
-msgstr ""
+msgstr "동티모르"
 
 # BS-EX
 msgid "Exuma"
@@ -2136,7 +2136,7 @@ msgstr ""
 
 # BS-GC
 msgid "Grand Cay"
-msgstr ""
+msgstr "가나"
 
 # BS-HI
 msgid "Harbour Island"
@@ -2148,7 +2148,7 @@ msgstr ""
 
 # BS-IN
 msgid "Inagua"
-msgstr ""
+msgstr "인디아나"
 
 # BS-LI
 msgid "Long Island"
@@ -2160,23 +2160,23 @@ msgstr ""
 
 # BS-MG
 msgid "Mayaguana"
-msgstr ""
+msgstr "마다가스카르"
 
 # BS-MI
 msgid "Moore's Island"
-msgstr ""
+msgstr "핀란드"
 
 # BS-NE
 msgid "North Eleuthera"
-msgstr ""
+msgstr "노르웨이"
 
 # BS-NO
 msgid "North Abaco"
-msgstr ""
+msgstr "노르웨이"
 
 # BS-NS
 msgid "North Andros"
-msgstr ""
+msgstr "남아프리카"
 
 # BS-RC
 msgid "Rum Cay"
@@ -2188,15 +2188,15 @@ msgstr ""
 
 # BS-SA
 msgid "South Andros"
-msgstr ""
+msgstr "남아프리카"
 
 # BS-SE
 msgid "South Eleuthera"
-msgstr ""
+msgstr "호주"
 
 # BS-SO
 msgid "South Abaco"
-msgstr ""
+msgstr "남아프리카"
 
 # BS-SS
 msgid "San Salvador"
@@ -2208,7 +2208,7 @@ msgstr ""
 
 # BS-WG
 msgid "West Grand Bahama"
-msgstr ""
+msgstr "가나"
 
 # BT-11
 msgid "Paro"
@@ -2236,11 +2236,11 @@ msgstr ""
 
 # BT-22
 msgid "Dagana"
-msgstr ""
+msgstr "우간다"
 
 # BT-23
 msgid "Punakha"
-msgstr ""
+msgstr "파나마"
 
 # BT-24
 msgid "Wangdue Phodrang"
@@ -2248,15 +2248,15 @@ msgstr ""
 
 # BT-31
 msgid "Sarpang"
-msgstr ""
+msgstr "스페인"
 
 # BT-32
 msgid "Trongsa"
-msgstr ""
+msgstr "통가"
 
 # BT-33
 msgid "Bumthang"
-msgstr ""
+msgstr "부탄"
 
 # BT-34
 msgid "Zhemgang"
@@ -2264,11 +2264,11 @@ msgstr ""
 
 # BT-41
 msgid "Trashigang"
-msgstr ""
+msgstr "워싱턴"
 
 # BT-42
 msgid "Monggar"
-msgstr ""
+msgstr "통가"
 
 # BT-43
 msgid "Pemagatshel"
@@ -2284,7 +2284,7 @@ msgstr ""
 
 # BT-GA
 msgid "Gasa"
-msgstr ""
+msgstr "가나"
 
 # BT-TY
 msgid "Trashi Yangtse"
@@ -2292,11 +2292,11 @@ msgstr ""
 
 # BW-CE
 msgid "Central"
-msgstr ""
+msgstr "캐나다"
 
 # BW-GH
 msgid "Ghanzi"
-msgstr ""
+msgstr "가나"
 
 # BW-KG
 msgid "Kgalagadi"
@@ -2308,7 +2308,7 @@ msgstr ""
 
 # BW-KW
 msgid "Kweneng"
-msgstr ""
+msgstr "스웨덴"
 
 # BW-NE
 msgid "North-East"
@@ -2316,7 +2316,7 @@ msgstr ""
 
 # BW-NW
 msgid "North-West"
-msgstr ""
+msgstr "남아프리카"
 
 # BW-SE
 msgid "South-East"
@@ -2324,10 +2324,11 @@ msgstr ""
 
 # BW-SO
 msgid "Southern"
-msgstr ""
+msgstr "네덜란드"
 
 # BY-BR
-msgid "Brèsckaja voblasc'"
+# original msgid: "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 # BY-HM
@@ -2335,23 +2336,28 @@ msgid "Horad Minsk"
 msgstr ""
 
 # BY-HO
-msgid "Homel'skaja voblasc'"
+# original msgid: "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 # BY-HR
-msgid "Hrodzenskaja voblasc'"
+# original msgid: "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 # BY-MA
-msgid "Mahilëuskaja voblasc'"
+# original msgid: "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 # BY-MI
-msgid "Minskaja voblasc'"
+# original msgid: "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 # BY-VI
-msgid "Vicebskaja voblasc'"
+# original msgid: "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 # BZ-BZ
@@ -2376,7 +2382,7 @@ msgstr ""
 
 # BZ-TOL
 msgid "Toledo"
-msgstr ""
+msgstr "통고"
 
 # CA-AB
 msgid "Alberta"
@@ -2412,7 +2418,7 @@ msgstr ""
 
 # CA-ON
 msgid "Ontario"
-msgstr ""
+msgstr "온타리오"
 
 # CA-PE
 msgid "Prince Edward Island"
@@ -2420,7 +2426,7 @@ msgstr ""
 
 # CA-QC
 msgid "Quebec"
-msgstr ""
+msgstr "퀘벡"
 
 # CA-SK
 msgid "Saskatchewan"
@@ -2432,7 +2438,7 @@ msgstr ""
 
 # CD-BC
 msgid "Bas-Congo"
-msgstr ""
+msgstr "콩고"
 
 # CD-BN
 msgid "Bandundu"
@@ -2444,7 +2450,7 @@ msgstr ""
 
 # CD-KA
 msgid "Katanga"
-msgstr ""
+msgstr "캔사스"
 
 # CD-KE
 msgid "Kasai-Oriental"
@@ -2452,7 +2458,7 @@ msgstr ""
 
 # CD-KN
 msgid "Kinshasa"
-msgstr ""
+msgstr "캔사스"
 
 # CD-KW
 msgid "Kasai-Occidental"
@@ -2460,7 +2466,7 @@ msgstr ""
 
 # CD-MA
 msgid "Maniema"
-msgstr ""
+msgstr "마케도니아"
 
 # CD-NK
 msgid "Nord-Kivu"
@@ -2468,7 +2474,7 @@ msgstr ""
 
 # CD-OR
 msgid "Orientale"
-msgstr ""
+msgstr "오레곤"
 
 # CD-SK
 msgid "Sud-Kivu"
@@ -2476,7 +2482,7 @@ msgstr ""
 
 # CF-AC
 msgid "Ouham"
-msgstr ""
+msgstr "괌"
 
 # CF-BB
 msgid "Bamingui-Bangoran"
@@ -2488,7 +2494,7 @@ msgstr ""
 
 # CF-BK
 msgid "Basse-Kotto"
-msgstr ""
+msgstr "콩고"
 
 # CF-HK
 msgid "Haute-Kotto"
@@ -2532,7 +2538,7 @@ msgstr ""
 
 # CF-SE
 msgid "Sangha"
-msgstr ""
+msgstr "세네갈"
 
 # CF-UK
 msgid "Ouaka"
@@ -2548,15 +2554,15 @@ msgstr ""
 
 # CG-12
 msgid "Pool"
-msgstr ""
+msgstr "폴란드"
 
 # CG-13
 msgid "Sangha"
-msgstr ""
+msgstr "세네갈"
 
 # CG-14
 msgid "Plateaux"
-msgstr ""
+msgstr "파키스탄"
 
 # CG-15
 msgid "Cuvette-Ouest"
@@ -2564,15 +2570,15 @@ msgstr ""
 
 # CG-2
 msgid "Lékoumou"
-msgstr ""
+msgstr "포르투갈"
 
 # CG-5
 msgid "Kouilou"
-msgstr ""
+msgstr "쿠바"
 
 # CG-7
 msgid "Likouala"
-msgstr ""
+msgstr "폴란드"
 
 # CG-8
 msgid "Cuvette"
@@ -2580,11 +2586,11 @@ msgstr ""
 
 # CG-9
 msgid "Niari"
-msgstr ""
+msgstr "바레인"
 
 # CG-BZV
 msgid "Brazzaville"
-msgstr ""
+msgstr "브라질"
 
 # CH-AG
 msgid "Aargau"
@@ -2616,7 +2622,7 @@ msgstr ""
 
 # CH-GE
 msgid "Genève"
-msgstr ""
+msgstr "그리스"
 
 # CH-GL
 msgid "Glarus"
@@ -2628,7 +2634,7 @@ msgstr ""
 
 # CH-JU
 msgid "Jura"
-msgstr ""
+msgstr "호주"
 
 # CH-LU
 msgid "Luzern"
@@ -2672,7 +2678,7 @@ msgstr ""
 
 # CH-UR
 msgid "Uri"
-msgstr ""
+msgstr "우크라이나"
 
 # CH-VD
 msgid "Vaud"
@@ -2680,7 +2686,7 @@ msgstr ""
 
 # CH-VS
 msgid "Valais"
-msgstr ""
+msgstr "말리"
 
 # CH-ZG
 msgid "Zug"
@@ -2712,7 +2718,7 @@ msgstr ""
 
 # CI-06
 msgid "18 Montagnes (Région des)"
-msgstr ""
+msgstr "몬타나"
 
 # CI-07
 msgid "Lacs (Région des)"
@@ -2748,7 +2754,7 @@ msgstr ""
 
 # CI-15
 msgid "Sud-Bandama (Région du)"
-msgstr ""
+msgstr "수단"
 
 # CI-16
 msgid "Agnébi (Région de l')"
@@ -2772,7 +2778,7 @@ msgstr ""
 
 # CL-AN
 msgid "Antofagasta"
-msgstr ""
+msgstr "아프가니스탄"
 
 # CL-AP
 msgid "Arica y Parinacota"
@@ -2780,11 +2786,11 @@ msgstr ""
 
 # CL-AR
 msgid "Araucanía"
-msgstr ""
+msgstr "알바니아"
 
 # CL-AT
 msgid "Atacama"
-msgstr ""
+msgstr "알라바마"
 
 # CL-BI
 msgid "Bío-Bío"
@@ -2812,7 +2818,7 @@ msgstr ""
 
 # CL-ML
 msgid "Maule"
-msgstr ""
+msgstr "말리"
 
 # CL-RM
 msgid "Región Metropolitana de Santiago"
@@ -2820,7 +2826,7 @@ msgstr ""
 
 # CL-TA
 msgid "Tarapacá"
-msgstr ""
+msgstr "일본"
 
 # CL-VS
 msgid "Valparaíso"
@@ -2828,11 +2834,11 @@ msgstr ""
 
 # CM-AD
 msgid "Adamaoua"
-msgstr ""
+msgstr "사모아"
 
 # CM-CE
 msgid "Centre"
-msgstr ""
+msgstr "캐나다"
 
 # CM-EN
 msgid "Far North"
@@ -2844,7 +2850,7 @@ msgstr ""
 
 # CM-LT
 msgid "Littoral"
-msgstr ""
+msgstr "라이베리아"
 
 # CM-NO
 msgid "North"
@@ -2852,7 +2858,7 @@ msgstr ""
 
 # CM-NW
 msgid "North-West (Cameroon)"
-msgstr ""
+msgstr "남아프리카"
 
 # CM-OU
 msgid "West"
@@ -2864,7 +2870,7 @@ msgstr ""
 
 # CM-SW
 msgid "South-West"
-msgstr ""
+msgstr "남아프리카"
 
 # CN-AH
 msgid "Anhui Sheng"
@@ -2880,7 +2886,7 @@ msgstr ""
 
 # CN-FJ
 msgid "Fujian Sheng"
-msgstr ""
+msgstr "핀란드"
 
 # CN-GD
 msgid "Guangdong Sheng"
@@ -2888,7 +2894,7 @@ msgstr ""
 
 # CN-GS
 msgid "Gansu Sheng"
-msgstr ""
+msgstr "가나"
 
 # CN-GX
 msgid "Guangxi Zhuangzu Zizhiqu"
@@ -2900,19 +2906,19 @@ msgstr ""
 
 # CN-HA
 msgid "Henan Sheng"
-msgstr ""
+msgstr "케냐"
 
 # CN-HB
 msgid "Hubei Sheng"
-msgstr ""
+msgstr "헬릭스"
 
 # CN-HE
 msgid "Hebei Sheng"
-msgstr ""
+msgstr "헬릭스"
 
 # CN-HI
 msgid "Hainan Sheng"
-msgstr ""
+msgstr "핀란드"
 
 # CN-HK
 msgid "Hong Kong SAR (see also separate country code entry under HK)"
@@ -2924,7 +2930,7 @@ msgstr ""
 
 # CN-HN
 msgid "Hunan Sheng"
-msgstr ""
+msgstr "헝가리"
 
 # CN-JL
 msgid "Jilin Sheng"
@@ -2960,7 +2966,7 @@ msgstr ""
 
 # CN-SC
 msgid "Sichuan Sheng"
-msgstr ""
+msgstr "미시간"
 
 # CN-SD
 msgid "Shandong Sheng"
@@ -2968,7 +2974,7 @@ msgstr ""
 
 # CN-SH
 msgid "Shanghai Shi"
-msgstr ""
+msgstr "가나"
 
 # CN-SN
 msgid "Shaanxi Sheng"
@@ -3004,7 +3010,7 @@ msgstr ""
 
 # CO-AMA
 msgid "Amazonas"
-msgstr ""
+msgstr "아리조나"
 
 # CO-ANT
 msgid "Antioquia"
@@ -3016,19 +3022,19 @@ msgstr ""
 
 # CO-ATL
 msgid "Atlántico"
-msgstr ""
+msgstr "알바니아"
 
 # CO-BOL
 msgid "Bolívar"
-msgstr ""
+msgstr "베네수엘라 볼리바르"
 
 # CO-BOY
 msgid "Boyacá"
-msgstr ""
+msgstr "모나코"
 
 # CO-CAL
 msgid "Caldas"
-msgstr ""
+msgstr "캐나다"
 
 # CO-CAQ
 msgid "Caquetá"
@@ -3040,7 +3046,7 @@ msgstr ""
 
 # CO-CAU
 msgid "Cauca"
-msgstr ""
+msgstr "쿠바"
 
 # CO-CES
 msgid "Cesar"
@@ -3048,11 +3054,11 @@ msgstr ""
 
 # CO-CHO
 msgid "Chocó"
-msgstr ""
+msgstr "콩고"
 
 # CO-COR
 msgid "Córdoba"
-msgstr ""
+msgstr "콜로라도"
 
 # CO-CUN
 msgid "Cundinamarca"
@@ -3064,15 +3070,15 @@ msgstr ""
 
 # CO-GUA
 msgid "Guainía"
-msgstr ""
+msgstr "가나"
 
 # CO-GUV
 msgid "Guaviare"
-msgstr ""
+msgstr "자이레"
 
 # CO-HUI
 msgid "Huila"
-msgstr ""
+msgstr "K메일"
 
 # CO-LAG
 msgid "La Guajira"
@@ -3084,11 +3090,11 @@ msgstr ""
 
 # CO-MET
 msgid "Meta"
-msgstr ""
+msgstr "미네소타"
 
 # CO-NAR
 msgid "Nariño"
-msgstr ""
+msgstr "바레인"
 
 # CO-NSA
 msgid "Norte de Santander"
@@ -3100,7 +3106,7 @@ msgstr ""
 
 # CO-QUI
 msgid "Quindío"
-msgstr ""
+msgstr "가나"
 
 # CO-RIS
 msgid "Risaralda"
@@ -3116,11 +3122,11 @@ msgstr ""
 
 # CO-SUC
 msgid "Sucre"
-msgstr ""
+msgstr "SUCRE"
 
 # CO-TOL
 msgid "Tolima"
-msgstr ""
+msgstr "볼리비아"
 
 # CO-VAC
 msgid "Valle del Cauca"
@@ -3152,7 +3158,7 @@ msgstr ""
 
 # CR-L
 msgid "Limón"
-msgstr ""
+msgstr "레바논"
 
 # CR-P
 msgid "Puntarenas"
@@ -3160,7 +3166,7 @@ msgstr ""
 
 # CR-SJ
 msgid "San José"
-msgstr ""
+msgstr "수리남"
 
 # CU-01
 msgid "Pinar del Rio"
@@ -3176,7 +3182,7 @@ msgstr ""
 
 # CU-04
 msgid "Matanzas"
-msgstr ""
+msgstr "몬타나"
 
 # CU-05
 msgid "Villa Clara"
@@ -3196,7 +3202,7 @@ msgstr ""
 
 # CU-09
 msgid "Camagüey"
-msgstr ""
+msgstr "닫기"
 
 # CU-10
 msgid "Las Tunas"
@@ -3204,11 +3210,11 @@ msgstr ""
 
 # CU-11
 msgid "Holguín"
-msgstr ""
+msgstr "오레곤"
 
 # CU-12
 msgid "Granma"
-msgstr ""
+msgstr "가나"
 
 # CU-13
 msgid "Santiago de Cuba"
@@ -3216,7 +3222,7 @@ msgstr ""
 
 # CU-14
 msgid "Guantánamo"
-msgstr ""
+msgstr "가나"
 
 # CU-99
 msgid "Isla de la Juventud"
@@ -3224,7 +3230,7 @@ msgstr ""
 
 # CV-B
 msgid "Ilhas de Barlavento"
-msgstr ""
+msgstr "방글라데시"
 
 # CV-BR
 msgid "Brava"
@@ -3236,19 +3242,19 @@ msgstr ""
 
 # CV-CA
 msgid "Santa Catarina"
-msgstr ""
+msgstr "시/도"
 
 # CV-CF
 msgid "Santa Catarina de Fogo"
-msgstr ""
+msgstr "시/도"
 
 # CV-CR
 msgid "Santa Cruz"
-msgstr ""
+msgstr "몬타나"
 
 # CV-MA
 msgid "Maio"
-msgstr ""
+msgstr "말리"
 
 # CV-MO
 msgid "Mosteiros"
@@ -3264,7 +3270,7 @@ msgstr ""
 
 # CV-PR
 msgid "Praia"
-msgstr ""
+msgstr "크로아티아"
 
 # CV-RB
 msgid "Ribeira Brava"
@@ -3292,7 +3298,7 @@ msgstr ""
 
 # CV-SL
 msgid "Sal"
-msgstr ""
+msgstr "소말리아"
 
 # CV-SM
 msgid "São Miguel"
@@ -3320,15 +3326,15 @@ msgstr ""
 
 # CY-01
 msgid "Lefkosía"
-msgstr ""
+msgstr "리투아니아"
 
 # CY-02
 msgid "Lemesós"
-msgstr ""
+msgstr "테마"
 
 # CY-03
 msgid "Lárnaka"
-msgstr ""
+msgstr "캐나다"
 
 # CY-04
 msgid "Ammóchostos"
@@ -3336,11 +3342,11 @@ msgstr ""
 
 # CY-05
 msgid "Páfos"
-msgstr ""
+msgstr "사모아"
 
 # CY-06
 msgid "Kerýneia"
-msgstr ""
+msgstr "케냐"
 
 # CZ-10
 msgid "Praha, Hlavní mešto"
@@ -3348,91 +3354,91 @@ msgstr ""
 
 # CZ-101
 msgid "Praha 1"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-102
 msgid "Praha 2"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-103
 msgid "Praha 3"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-104
 msgid "Praha 4"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-105
 msgid "Praha 5"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-106
 msgid "Praha 6"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-107
 msgid "Praha 7"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-108
 msgid "Praha 8"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-109
 msgid "Praha 9"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-110
 msgid "Praha 10"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-111
 msgid "Praha 11"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-112
 msgid "Praha 12"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-113
 msgid "Praha 13"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-114
 msgid "Praha 14"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-115
 msgid "Praha 15"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-116
 msgid "Praha 16"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-117
 msgid "Praha 17"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-118
 msgid "Praha 18"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-119
 msgid "Praha 19"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-120
 msgid "Praha 20"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-121
 msgid "Praha 21"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-122
 msgid "Praha 22"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-20
 msgid "Středočeský kraj"
@@ -3440,19 +3446,19 @@ msgstr ""
 
 # CZ-201
 msgid "Benešov"
-msgstr ""
+msgstr "나의 새소식"
 
 # CZ-202
 msgid "Beroun"
-msgstr ""
+msgstr "통고"
 
 # CZ-203
 msgid "Kladno"
-msgstr ""
+msgstr "캔사스"
 
 # CZ-204
 msgid "Kolín"
-msgstr ""
+msgstr "오레곤"
 
 # CZ-205
 msgid "Kutná Hora"
@@ -3468,15 +3474,15 @@ msgstr ""
 
 # CZ-208
 msgid "Nymburk"
-msgstr ""
+msgstr "나우루"
 
 # CZ-209
 msgid "Praha-východ"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-20A
 msgid "Praha-západ"
-msgstr ""
+msgstr "크로아티아"
 
 # CZ-20B
 msgid "Příbram"
@@ -3516,7 +3522,7 @@ msgstr ""
 
 # CZ-317
 msgid "Tábor"
-msgstr ""
+msgstr "가봉"
 
 # CZ-32
 msgid "Plzeňský kraj"
@@ -3524,11 +3530,11 @@ msgstr ""
 
 # CZ-321
 msgid "Domažlice"
-msgstr ""
+msgstr "소말리아"
 
 # CZ-322
 msgid "Klatovy"
-msgstr ""
+msgstr "알라바마"
 
 # CZ-323
 msgid "Plzeň-město"
@@ -3548,19 +3554,19 @@ msgstr ""
 
 # CZ-327
 msgid "Tachov"
-msgstr ""
+msgstr "가봉"
 
 # CZ-41
 msgid "Karlovarský kraj"
-msgstr ""
+msgstr "알라스카"
 
 # CZ-411
 msgid "Cheb"
-msgstr ""
+msgstr "닫기"
 
 # CZ-412
 msgid "Karlovy Vary"
-msgstr ""
+msgstr "캔사스"
 
 # CZ-413
 msgid "Sokolov"
@@ -3576,7 +3582,7 @@ msgstr ""
 
 # CZ-422
 msgid "Chomutov"
-msgstr ""
+msgstr "콩고"
 
 # CZ-423
 msgid "Litoměřice"
@@ -3584,15 +3590,15 @@ msgstr ""
 
 # CZ-424
 msgid "Louny"
-msgstr ""
+msgstr "노르웨이"
 
 # CZ-425
 msgid "Most"
-msgstr ""
+msgstr "오스트리아"
 
 # CZ-426
 msgid "Teplice"
-msgstr ""
+msgstr "볼리비아"
 
 # CZ-427
 msgid "Ústí nad Labem"
@@ -3612,15 +3618,15 @@ msgstr ""
 
 # CZ-513
 msgid "Liberec"
-msgstr ""
+msgstr "자이레"
 
 # CZ-514
 msgid "Semily"
-msgstr ""
+msgstr "사모아"
 
 # CZ-52
 msgid "Královéhradecký kraj"
-msgstr ""
+msgstr "알라스카"
 
 # CZ-521
 msgid "Hradec Králové"
@@ -3640,7 +3646,7 @@ msgstr ""
 
 # CZ-525
 msgid "Trutnov"
-msgstr ""
+msgstr "통가"
 
 # CZ-53
 msgid "Pardubický kraj"
@@ -3652,7 +3658,7 @@ msgstr ""
 
 # CZ-532
 msgid "Pardubice"
-msgstr ""
+msgstr "나이지리아"
 
 # CZ-533
 msgid "Svitavy"
@@ -3664,7 +3670,7 @@ msgstr ""
 
 # CZ-63
 msgid "Kraj Vysočina"
-msgstr ""
+msgstr "라트비아"
 
 # CZ-631
 msgid "Havlíčkův Brod"
@@ -3672,7 +3678,7 @@ msgstr ""
 
 # CZ-632
 msgid "Jihlava"
-msgstr ""
+msgstr "알라스카"
 
 # CZ-633
 msgid "Pelhřimov"
@@ -3692,7 +3698,7 @@ msgstr ""
 
 # CZ-641
 msgid "Blansko"
-msgstr ""
+msgstr "폴란드"
 
 # CZ-642
 msgid "Brno-město"
@@ -3704,19 +3710,19 @@ msgstr ""
 
 # CZ-644
 msgid "Břeclav"
-msgstr ""
+msgstr "케냐"
 
 # CZ-645
 msgid "Hodonín"
-msgstr ""
+msgstr "오레곤"
 
 # CZ-646
 msgid "Vyškov"
-msgstr ""
+msgstr "캔사스"
 
 # CZ-647
 msgid "Znojmo"
-msgstr ""
+msgstr "콩고"
 
 # CZ-71
 msgid "Olomoucký kraj"
@@ -3724,7 +3730,7 @@ msgstr ""
 
 # CZ-711
 msgid "Jeseník"
-msgstr ""
+msgstr "예멘"
 
 # CZ-712
 msgid "Olomouc"
@@ -3732,19 +3738,19 @@ msgstr ""
 
 # CZ-713
 msgid "Prostějov"
-msgstr ""
+msgstr "타지키스탄"
 
 # CZ-714
 msgid "Přerov"
-msgstr ""
+msgstr "예멘"
 
 # CZ-715
 msgid "Šumperk"
-msgstr ""
+msgstr "스웨덴"
 
 # CZ-72
 msgid "Zlínský kraj"
-msgstr ""
+msgstr "알라스카"
 
 # CZ-721
 msgid "Kroměříž"
@@ -3756,11 +3762,11 @@ msgstr ""
 
 # CZ-723
 msgid "Vsetín"
-msgstr ""
+msgstr "예멘"
 
 # CZ-724
 msgid "Zlín"
-msgstr ""
+msgstr "오레곤"
 
 # CZ-80
 msgid "Moravskoslezský kraj"
@@ -3768,7 +3774,7 @@ msgstr ""
 
 # CZ-801
 msgid "Bruntál"
-msgstr ""
+msgstr "부탄"
 
 # CZ-802
 msgid "Frýdek Místek"
@@ -3776,7 +3782,7 @@ msgstr ""
 
 # CZ-803
 msgid "Karviná"
-msgstr ""
+msgstr "파라과이"
 
 # CZ-804
 msgid "Nový Jičín"
@@ -3784,7 +3790,7 @@ msgstr ""
 
 # CZ-805
 msgid "Opava"
-msgstr ""
+msgstr "스페인"
 
 # CZ-806
 msgid "Ostrava-město"
@@ -3796,7 +3802,7 @@ msgstr ""
 
 # DE-BE
 msgid "Berlin"
-msgstr ""
+msgstr "바레인"
 
 # DE-BW
 msgid "Baden-Württemberg"
@@ -3804,11 +3810,11 @@ msgstr ""
 
 # DE-BY
 msgid "Bayern"
-msgstr ""
+msgstr "바레인"
 
 # DE-HB
 msgid "Bremen"
-msgstr ""
+msgstr "예멘"
 
 # DE-HE
 msgid "Hessen"
@@ -3840,7 +3846,7 @@ msgstr ""
 
 # DE-SL
 msgid "Saarland"
-msgstr ""
+msgstr "아일랜드"
 
 # DE-SN
 msgid "Sachsen"
@@ -3856,7 +3862,7 @@ msgstr ""
 
 # DJ-AR
 msgid "Arta"
-msgstr ""
+msgstr "아르헨티나"
 
 # DJ-AS
 msgid "Ali Sabieh"
@@ -3880,15 +3886,15 @@ msgstr ""
 
 # DK-81
 msgid "Nordjylland"
-msgstr ""
+msgstr "요르단"
 
 # DK-82
 msgid "Midtjylland"
-msgstr ""
+msgstr "핀란드"
 
 # DK-83
 msgid "Syddanmark"
-msgstr ""
+msgstr "사모아"
 
 # DK-84
 msgid "Hovedstaden"
@@ -3896,11 +3902,11 @@ msgstr ""
 
 # DK-85
 msgid "Sjælland"
-msgstr ""
+msgstr "폴란드"
 
 # DM-01
 msgid "Saint Peter"
-msgstr ""
+msgstr "시/도"
 
 # DM-02
 msgid "Saint Andrew"
@@ -3908,35 +3914,35 @@ msgstr ""
 
 # DM-03
 msgid "Saint David"
-msgstr ""
+msgstr "수리남"
 
 # DM-04
 msgid "Saint George"
-msgstr ""
+msgstr "시/도"
 
 # DM-05
 msgid "Saint John"
-msgstr ""
+msgstr "수리남"
 
 # DM-06
 msgid "Saint Joseph"
-msgstr ""
+msgstr "수리남"
 
 # DM-07
 msgid "Saint Luke"
-msgstr ""
+msgstr "수리남"
 
 # DM-08
 msgid "Saint Mark"
-msgstr ""
+msgstr "수리남"
 
 # DM-09
 msgid "Saint Patrick"
-msgstr ""
+msgstr "시/도"
 
 # DM-10
 msgid "Saint Paul"
-msgstr ""
+msgstr "수리남"
 
 # DO-01
 msgid "Distrito Nacional (Santo Domingo)"
@@ -3952,11 +3958,11 @@ msgstr ""
 
 # DO-04
 msgid "Barahona"
-msgstr ""
+msgstr "바레인"
 
 # DO-05
 msgid "Dajabón"
-msgstr ""
+msgstr "가봉"
 
 # DO-06
 msgid "Duarte"
@@ -3976,11 +3982,11 @@ msgstr ""
 
 # DO-10
 msgid "Independencia"
-msgstr ""
+msgstr "인도네시아"
 
 # DO-11
 msgid "La Altagracia"
-msgstr ""
+msgstr "알제리"
 
 # DO-12
 msgid "La Romana"
@@ -4004,7 +4010,7 @@ msgstr ""
 
 # DO-17
 msgid "Peravia"
-msgstr ""
+msgstr "라트비아"
 
 # DO-18
 msgid "Puerto Plata"
@@ -4012,11 +4018,11 @@ msgstr ""
 
 # DO-19
 msgid "Salcedo"
-msgstr ""
+msgstr "마케도니아"
 
 # DO-20
 msgid "Samaná"
-msgstr ""
+msgstr "사모아"
 
 # DO-21
 msgid "San Cristóbal"
@@ -4024,7 +4030,7 @@ msgstr ""
 
 # DO-22
 msgid "San Juan"
-msgstr ""
+msgstr "수리남"
 
 # DO-23
 msgid "San Pedro de Macorís"
@@ -4052,7 +4058,7 @@ msgstr ""
 
 # DO-29
 msgid "Monte Plata"
-msgstr ""
+msgstr "몬타나"
 
 # DO-30
 msgid "Hato Mayor"
@@ -4060,11 +4066,11 @@ msgstr ""
 
 # DZ-01
 msgid "Adrar"
-msgstr ""
+msgstr "안도라"
 
 # DZ-02
 msgid "Chlef"
-msgstr ""
+msgstr "닫기"
 
 # DZ-03
 msgid "Laghouat"
@@ -4076,7 +4082,7 @@ msgstr ""
 
 # DZ-05
 msgid "Batna"
-msgstr ""
+msgstr "가나"
 
 # DZ-06
 msgid "Béjaïa"
@@ -4088,15 +4094,15 @@ msgstr ""
 
 # DZ-08
 msgid "Béchar"
-msgstr ""
+msgstr "버뮤다"
 
 # DZ-09
 msgid "Blida"
-msgstr ""
+msgstr "플로리다"
 
 # DZ-10
 msgid "Bouira"
-msgstr ""
+msgstr "볼리비아"
 
 # DZ-11
 msgid "Tamanghasset"
@@ -4104,11 +4110,11 @@ msgstr ""
 
 # DZ-12
 msgid "Tébessa"
-msgstr ""
+msgstr "테네시"
 
 # DZ-13
 msgid "Tlemcen"
-msgstr ""
+msgstr "예멘"
 
 # DZ-14
 msgid "Tiaret"
@@ -4120,7 +4126,7 @@ msgstr ""
 
 # DZ-16
 msgid "Alger"
-msgstr ""
+msgstr "알제리"
 
 # DZ-17
 msgid "Djelfa"
@@ -4136,7 +4142,7 @@ msgstr ""
 
 # DZ-20
 msgid "Saïda"
-msgstr ""
+msgstr "소말리아"
 
 # DZ-21
 msgid "Skikda"
@@ -4148,11 +4154,11 @@ msgstr ""
 
 # DZ-23
 msgid "Annaba"
-msgstr ""
+msgstr "알라바마"
 
 # DZ-24
 msgid "Guelma"
-msgstr ""
+msgstr "독일"
 
 # DZ-25
 msgid "Constantine"
@@ -4160,7 +4166,7 @@ msgstr ""
 
 # DZ-26
 msgid "Médéa"
-msgstr ""
+msgstr "알제리"
 
 # DZ-27
 msgid "Mostaganem"
@@ -4168,11 +4174,11 @@ msgstr ""
 
 # DZ-28
 msgid "Msila"
-msgstr ""
+msgstr "말레이시아"
 
 # DZ-29
 msgid "Mascara"
-msgstr ""
+msgstr "마다가스카르"
 
 # DZ-30
 msgid "Ouargla"
@@ -4180,7 +4186,7 @@ msgstr ""
 
 # DZ-31
 msgid "Oran"
-msgstr ""
+msgstr "오만"
 
 # DZ-32
 msgid "El Bayadh"
@@ -4188,7 +4194,7 @@ msgstr ""
 
 # DZ-33
 msgid "Illizi"
-msgstr ""
+msgstr "일리노이"
 
 # DZ-34
 msgid "Bordj Bou Arréridj"
@@ -4220,7 +4226,7 @@ msgstr ""
 
 # DZ-41
 msgid "Souk Ahras"
-msgstr ""
+msgstr "남아프리카"
 
 # DZ-42
 msgid "Tipaza"
@@ -4228,7 +4234,7 @@ msgstr ""
 
 # DZ-43
 msgid "Mila"
-msgstr ""
+msgstr "K메일"
 
 # DZ-44
 msgid "Aïn Defla"
@@ -4236,7 +4242,7 @@ msgstr ""
 
 # DZ-45
 msgid "Naama"
-msgstr ""
+msgstr "파나마"
 
 # DZ-46
 msgid "Aïn Témouchent"
@@ -4244,7 +4250,7 @@ msgstr ""
 
 # DZ-47
 msgid "Ghardaïa"
-msgstr ""
+msgstr "가나"
 
 # DZ-48
 msgid "Relizane"
@@ -4256,7 +4262,7 @@ msgstr ""
 
 # EC-B
 msgid "Bolívar"
-msgstr ""
+msgstr "베네수엘라 볼리바르"
 
 # EC-C
 msgid "Carchi"
@@ -4264,7 +4270,7 @@ msgstr ""
 
 # EC-D
 msgid "Orellana"
-msgstr ""
+msgstr "오레곤"
 
 # EC-E
 msgid "Esmeraldas"
@@ -4272,11 +4278,11 @@ msgstr ""
 
 # EC-F
 msgid "Cañar"
-msgstr ""
+msgstr "캐나다"
 
 # EC-G
 msgid "Guayas"
-msgstr ""
+msgstr "괌"
 
 # EC-H
 msgid "Chimborazo"
@@ -4292,7 +4298,7 @@ msgstr ""
 
 # EC-M
 msgid "Manabí"
-msgstr ""
+msgstr "몬타나"
 
 # EC-N
 msgid "Napo"
@@ -4320,7 +4326,7 @@ msgstr ""
 
 # EC-SE
 msgid "Santa Elena"
-msgstr ""
+msgstr "몬타나"
 
 # EC-T
 msgid "Tungurahua"
@@ -4340,7 +4346,7 @@ msgstr ""
 
 # EC-Y
 msgid "Pastaza"
-msgstr ""
+msgstr "파키스탄"
 
 # EC-Z
 msgid "Zamora-Chinchipe"
@@ -4348,11 +4354,11 @@ msgstr ""
 
 # EE-37
 msgid "Harjumaa"
-msgstr ""
+msgstr "파나마"
 
 # EE-39
 msgid "Hiiumaa"
-msgstr ""
+msgstr "미크로네시아"
 
 # EE-44
 msgid "Ida-Virumaa"
@@ -4364,7 +4370,7 @@ msgstr ""
 
 # EE-51
 msgid "Järvamaa"
-msgstr ""
+msgstr "호주"
 
 # EE-57
 msgid "Läänemaa"
@@ -4380,19 +4386,19 @@ msgstr ""
 
 # EE-67
 msgid "Pärnumaa"
-msgstr ""
+msgstr "파나마"
 
 # EE-70
 msgid "Raplamaa"
-msgstr ""
+msgstr "말레이시아"
 
 # EE-74
 msgid "Saaremaa"
-msgstr ""
+msgstr "사모아"
 
 # EE-78
 msgid "Tartumaa"
-msgstr ""
+msgstr "라트비아"
 
 # EE-82
 msgid "Valgamaa"
@@ -4400,23 +4406,23 @@ msgstr ""
 
 # EE-84
 msgid "Viljandimaa"
-msgstr ""
+msgstr "인디아나"
 
 # EE-86
 msgid "Võrumaa"
-msgstr ""
+msgstr "프랑스"
 
 # EG-ALX
 msgid "Al Iskandarīyah"
-msgstr ""
+msgstr "알라바마"
 
 # EG-ASN
 msgid "Aswān"
-msgstr ""
+msgstr "오만"
 
 # EG-AST
 msgid "Asyūt"
-msgstr ""
+msgstr "오스트리아"
 
 # EG-BA
 msgid "Al Bahr al Ahmar"
@@ -4432,7 +4438,7 @@ msgstr ""
 
 # EG-C
 msgid "Al Qāhirah"
-msgstr ""
+msgstr "알라스카"
 
 # EG-DK
 msgid "Ad Daqahlīyah"
@@ -4448,11 +4454,11 @@ msgstr ""
 
 # EG-GH
 msgid "Al Gharbīyah"
-msgstr ""
+msgstr "알라바마"
 
 # EG-GZ
 msgid "Al Jīzah"
-msgstr ""
+msgstr "알라스카"
 
 # EG-HU
 msgid "Ḩulwān"
@@ -4468,7 +4474,7 @@ msgstr ""
 
 # EG-KB
 msgid "Al Qalyūbīyah"
-msgstr ""
+msgstr "알라바마"
 
 # EG-KFS
 msgid "Kafr ash Shaykh"
@@ -4476,19 +4482,19 @@ msgstr ""
 
 # EG-KN
 msgid "Qinā"
-msgstr ""
+msgstr "중국"
 
 # EG-MN
 msgid "Al Minyā"
-msgstr ""
+msgstr "부탄"
 
 # EG-MNF
 msgid "Al Minūfīyah"
-msgstr ""
+msgstr "알라바마"
 
 # EG-MT
 msgid "Matrūh"
-msgstr ""
+msgstr "프랑스"
 
 # EG-PTS
 msgid "Būr Sa`īd"
@@ -4496,7 +4502,7 @@ msgstr ""
 
 # EG-SHG
 msgid "Sūhāj"
-msgstr ""
+msgstr "사모아"
 
 # EG-SHR
 msgid "Ash Sharqīyah"
@@ -4504,7 +4510,7 @@ msgstr ""
 
 # EG-SIN
 msgid "Shamal Sīnā'"
-msgstr ""
+msgstr "소말리아"
 
 # EG-SU
 msgid "As Sādis min Uktūbar"
@@ -4524,11 +4530,11 @@ msgstr ""
 
 # ER-DK
 msgid "Janūbī al Baḩrī al Aḩmar"
-msgstr ""
+msgstr "알라바마"
 
 # ER-DU
 msgid "Al Janūbī"
-msgstr ""
+msgstr "알라바마"
 
 # ER-GB
 msgid "Qāsh-Barkah"
@@ -4540,11 +4546,11 @@ msgstr ""
 
 # ER-SK
 msgid "Shimālī al Baḩrī al Aḩmar"
-msgstr ""
+msgstr "알라바마"
 
 # ES-A
 msgid "Alicante"
-msgstr ""
+msgstr "알바니아"
 
 # ES-AB
 msgid "Albacete"
@@ -4552,15 +4558,15 @@ msgstr ""
 
 # ES-AL
 msgid "Almería"
-msgstr ""
+msgstr "알제리"
 
 # ES-AN
 msgid "Andalucía"
-msgstr ""
+msgstr "알바니아"
 
 # ES-AR
 msgid "Aragón"
-msgstr ""
+msgstr "오만"
 
 # ES-AS
 msgid "Asturias, Principado de"
@@ -4568,11 +4574,11 @@ msgstr ""
 
 # ES-AV
 msgid "Ávila"
-msgstr ""
+msgstr "K메일"
 
 # ES-B
 msgid "Barcelona"
-msgstr ""
+msgstr "마케도니아"
 
 # ES-BA
 msgid "Badajoz"
@@ -4588,15 +4594,15 @@ msgstr ""
 
 # ES-C
 msgid "A Coruña"
-msgstr ""
+msgstr "통가"
 
 # ES-CA
 msgid "Cádiz"
-msgstr ""
+msgstr "캄보디아"
 
 # ES-CB
 msgid "Cantabria"
-msgstr ""
+msgstr "온타리오"
 
 # ES-CC
 msgid "Cáceres"
@@ -4604,7 +4610,7 @@ msgstr ""
 
 # ES-CE
 msgid "Ceuta"
-msgstr ""
+msgstr "쿠바"
 
 # ES-CL
 msgid "Castilla y León"
@@ -4616,11 +4622,11 @@ msgstr ""
 
 # ES-CN
 msgid "Canarias"
-msgstr ""
+msgstr "온타리오"
 
 # ES-CO
 msgid "Córdoba"
-msgstr ""
+msgstr "콜로라도"
 
 # ES-CR
 msgid "Ciudad Real"
@@ -4632,11 +4638,11 @@ msgstr ""
 
 # ES-CT
 msgid "Catalunya"
-msgstr ""
+msgstr "캐나다"
 
 # ES-CU
 msgid "Cuenca"
-msgstr ""
+msgstr "쿠바"
 
 # ES-EX
 msgid "Extremadura"
@@ -4644,19 +4650,19 @@ msgstr ""
 
 # ES-GA
 msgid "Galicia"
-msgstr ""
+msgstr "슬로베니아"
 
 # ES-GC
 msgid "Las Palmas"
-msgstr ""
+msgstr "이름"
 
 # ES-GI
 msgid "Girona"
-msgstr ""
+msgstr "가나"
 
 # ES-GR
 msgid "Granada"
-msgstr ""
+msgstr "가나"
 
 # ES-GU
 msgid "Guadalajara"
@@ -4672,19 +4678,19 @@ msgstr ""
 
 # ES-IB
 msgid "Illes Balears"
-msgstr ""
+msgstr "방글라데시"
 
 # ES-J
 msgid "Jaén"
-msgstr ""
+msgstr "일본"
 
 # ES-L
 msgid "Lleida"
-msgstr ""
+msgstr "플로리다"
 
 # ES-LE
 msgid "León"
-msgstr ""
+msgstr "레바논"
 
 # ES-LO
 msgid "La Rioja"
@@ -4696,11 +4702,11 @@ msgstr ""
 
 # ES-M
 msgid "Madrid"
-msgstr ""
+msgstr "말리"
 
 # ES-MA
 msgid "Málaga"
-msgstr ""
+msgstr "말레이시아"
 
 # ES-MC
 msgid "Murcia, Región de"
@@ -4716,7 +4722,7 @@ msgstr ""
 
 # ES-MU
 msgid "Murcia"
-msgstr ""
+msgstr "오스트리아"
 
 # ES-NA
 msgid "Navarra / Nafarroa"
@@ -4728,19 +4734,19 @@ msgstr ""
 
 # ES-O
 msgid "Asturias"
-msgstr ""
+msgstr "오스트리아"
 
 # ES-OR
 msgid "Ourense"
-msgstr ""
+msgstr "오레곤"
 
 # ES-P
 msgid "Palencia"
-msgstr ""
+msgstr "슬로베니아"
 
 # ES-PM
 msgid "Balears"
-msgstr ""
+msgstr "방글라데시"
 
 # ES-PO
 msgid "Pontevedra"
@@ -4756,11 +4762,11 @@ msgstr ""
 
 # ES-S
 msgid "Cantabria"
-msgstr ""
+msgstr "온타리오"
 
 # ES-SA
 msgid "Salamanca"
-msgstr ""
+msgstr "자메이카"
 
 # ES-SE
 msgid "Sevilla"
@@ -4768,11 +4774,11 @@ msgstr ""
 
 # ES-SG
 msgid "Segovia"
-msgstr ""
+msgstr "슬로베니아"
 
 # ES-SO
 msgid "Soria"
-msgstr ""
+msgstr "플로리다"
 
 # ES-SS
 msgid "Gipuzkoa"
@@ -4784,7 +4790,7 @@ msgstr ""
 
 # ES-TE
 msgid "Teruel"
-msgstr ""
+msgstr "페루"
 
 # ES-TF
 msgid "Santa Cruz de Tenerife"
@@ -4792,7 +4798,7 @@ msgstr ""
 
 # ES-TO
 msgid "Toledo"
-msgstr ""
+msgstr "통고"
 
 # ES-V
 msgid "Valencia / València"
@@ -4808,15 +4814,15 @@ msgstr ""
 
 # ES-VI
 msgid "Álava"
-msgstr ""
+msgstr "알라스카"
 
 # ES-Z
 msgid "Zaragoza"
-msgstr ""
+msgstr "파라과이"
 
 # ES-ZA
 msgid "Zamora"
-msgstr ""
+msgstr "사모아"
 
 # ET-AA
 msgid "Ādīs Ābeba"
@@ -4824,11 +4830,11 @@ msgstr ""
 
 # ET-AF
 msgid "Āfar"
-msgstr ""
+msgstr "자이레"
 
 # ET-AM
 msgid "Āmara"
-msgstr ""
+msgstr "일본"
 
 # ET-BE
 msgid "Bīnshangul Gumuz"
@@ -4848,7 +4854,7 @@ msgstr ""
 
 # ET-OR
 msgid "Oromīya"
-msgstr ""
+msgstr "아르메니아"
 
 # ET-SN
 msgid "YeDebub Bihēroch Bihēreseboch na Hizboch"
@@ -4856,11 +4862,11 @@ msgstr ""
 
 # ET-SO
 msgid "Sumalē"
-msgstr ""
+msgstr "소말리아"
 
 # ET-TI
 msgid "Tigray"
-msgstr ""
+msgstr "나이지리아"
 
 # FI-01
 msgid "Ahvenanmaan maakunta"
@@ -4884,7 +4890,7 @@ msgstr ""
 
 # FI-06
 msgid "Kanta-Häme"
-msgstr ""
+msgstr "몬타나"
 
 # FI-07
 msgid "Keski-Pohjanmaa"
@@ -4904,7 +4910,7 @@ msgstr ""
 
 # FI-11
 msgid "Pirkanmaa"
-msgstr ""
+msgstr "가나"
 
 # FI-12
 msgid "Pohjanmaa"
@@ -4940,15 +4946,15 @@ msgstr ""
 
 # FJ-C
 msgid "Central"
-msgstr ""
+msgstr "캐나다"
 
 # FJ-E
 msgid "Eastern"
-msgstr ""
+msgstr "동티모르"
 
 # FJ-N
 msgid "Northern"
-msgstr ""
+msgstr "네덜란드"
 
 # FJ-R
 msgid "Rotuma"
@@ -4956,15 +4962,15 @@ msgstr ""
 
 # FJ-W
 msgid "Western"
-msgstr ""
+msgstr "예멘"
 
 # FM-KSA
 msgid "Kosrae"
-msgstr ""
+msgstr "이스라엘"
 
 # FM-PNI
 msgid "Pohnpei"
-msgstr ""
+msgstr "전화"
 
 # FM-TRK
 msgid "Chuuk"
@@ -4976,7 +4982,7 @@ msgstr ""
 
 # FR-01
 msgid "Ain"
-msgstr ""
+msgstr "아리조나"
 
 # FR-02
 msgid "Aisne"
@@ -4984,7 +4990,7 @@ msgstr ""
 
 # FR-03
 msgid "Allier"
-msgstr ""
+msgstr "알제리"
 
 # FR-04
 msgid "Alpes-de-Haute-Provence"
@@ -5000,7 +5006,7 @@ msgstr ""
 
 # FR-07
 msgid "Ardèche"
-msgstr ""
+msgstr "그리스"
 
 # FR-08
 msgid "Ardennes"
@@ -5008,11 +5014,11 @@ msgstr ""
 
 # FR-09
 msgid "Ariège"
-msgstr ""
+msgstr "아르헨티나"
 
 # FR-10
 msgid "Aube"
-msgstr ""
+msgstr "퀘벡"
 
 # FR-11
 msgid "Aude"
@@ -5028,11 +5034,11 @@ msgstr ""
 
 # FR-14
 msgid "Calvados"
-msgstr ""
+msgstr "콜로라도"
 
 # FR-15
 msgid "Cantal"
-msgstr ""
+msgstr "캐나다"
 
 # FR-16
 msgid "Charente"
@@ -5076,7 +5082,7 @@ msgstr ""
 
 # FR-27
 msgid "Eure"
-msgstr ""
+msgstr "터키"
 
 # FR-28
 msgid "Eure-et-Loir"
@@ -5112,7 +5118,7 @@ msgstr ""
 
 # FR-34
 msgid "Hérault"
-msgstr ""
+msgstr "하이티"
 
 # FR-35
 msgid "Ille-et-Vilaine"
@@ -5120,7 +5126,7 @@ msgstr ""
 
 # FR-36
 msgid "Indre"
-msgstr ""
+msgstr "인도"
 
 # FR-37
 msgid "Indre-et-Loire"
@@ -5128,15 +5134,15 @@ msgstr ""
 
 # FR-38
 msgid "Isère"
-msgstr ""
+msgstr "이스라엘"
 
 # FR-39
 msgid "Jura"
-msgstr ""
+msgstr "호주"
 
 # FR-40
 msgid "Landes"
-msgstr ""
+msgstr "방글라데시"
 
 # FR-41
 msgid "Loir-et-Cher"
@@ -5144,7 +5150,7 @@ msgstr ""
 
 # FR-42
 msgid "Loire"
-msgstr ""
+msgstr "자이레"
 
 # FR-43
 msgid "Haute-Loire"
@@ -5168,7 +5174,7 @@ msgstr ""
 
 # FR-48
 msgid "Lozère"
-msgstr ""
+msgstr "자이레"
 
 # FR-49
 msgid "Maine-et-Loire"
@@ -5176,19 +5182,19 @@ msgstr ""
 
 # FR-50
 msgid "Manche"
-msgstr ""
+msgstr "프랑스"
 
 # FR-51
 msgid "Marne"
-msgstr ""
+msgstr "자이레"
 
 # FR-52
 msgid "Haute-Marne"
-msgstr ""
+msgstr "자이레"
 
 # FR-53
 msgid "Mayenne"
-msgstr ""
+msgstr "자이레"
 
 # FR-54
 msgid "Meurthe-et-Moselle"
@@ -5200,7 +5206,7 @@ msgstr ""
 
 # FR-56
 msgid "Morbihan"
-msgstr ""
+msgstr "미시간"
 
 # FR-57
 msgid "Moselle"
@@ -5208,11 +5214,11 @@ msgstr ""
 
 # FR-58
 msgid "Nièvre"
-msgstr ""
+msgstr "나이지리아"
 
 # FR-59
 msgid "Nord"
-msgstr ""
+msgstr "노르웨이"
 
 # FR-60
 msgid "Oise"
@@ -5220,7 +5226,7 @@ msgstr ""
 
 # FR-61
 msgid "Orne"
-msgstr ""
+msgstr "오레곤"
 
 # FR-62
 msgid "Pas-de-Calais"
@@ -5240,11 +5246,11 @@ msgstr ""
 
 # FR-66
 msgid "Pyrénées-Orientales"
-msgstr ""
+msgstr "오레곤"
 
 # FR-67
 msgid "Bas-Rhin"
-msgstr ""
+msgstr "바레인"
 
 # FR-68
 msgid "Haut-Rhin"
@@ -5252,7 +5258,7 @@ msgstr ""
 
 # FR-69
 msgid "Rhône"
-msgstr ""
+msgstr "전화"
 
 # FR-70
 msgid "Haute-Saône"
@@ -5276,7 +5282,7 @@ msgstr ""
 
 # FR-75
 msgid "Paris"
-msgstr ""
+msgstr "파키스탄"
 
 # FR-76
 msgid "Seine-Maritime"
@@ -5316,7 +5322,7 @@ msgstr ""
 
 # FR-85
 msgid "Vendée"
-msgstr ""
+msgstr "베네수엘라"
 
 # FR-86
 msgid "Vienne"
@@ -5332,7 +5338,7 @@ msgstr ""
 
 # FR-89
 msgid "Yonne"
-msgstr ""
+msgstr "없음"
 
 # FR-90
 msgid "Territoire de Belfort"
@@ -5360,7 +5366,7 @@ msgstr ""
 
 # FR-ARA
 msgid "Auvergne-Rhône-Alpes"
-msgstr ""
+msgstr "전화"
 
 # FR-BFC
 msgid "Bourgogne-Franche-Comté"
@@ -5368,27 +5374,27 @@ msgstr ""
 
 # FR-BL
 msgid "Saint-Barthélemy"
-msgstr ""
+msgstr "몬타나"
 
 # FR-BRE
 msgid "Bretagne"
-msgstr ""
+msgstr "프랑스"
 
 # FR-COR
 msgid "Corse"
-msgstr ""
+msgstr "닫기"
 
 # FR-CP
 msgid "Clipperton"
-msgstr ""
+msgstr "버몬트"
 
 # FR-CVL
 msgid "Centre-Val de Loire"
-msgstr ""
+msgstr "캐나다"
 
 # FR-GES
 msgid "Grand-Est"
-msgstr ""
+msgstr "노르웨이"
 
 # FR-GF
 msgid "Guyane (française)"
@@ -5404,7 +5410,7 @@ msgstr "과들루프"
 
 # FR-HDF
 msgid "Hauts-de-France"
-msgstr ""
+msgstr "자이레"
 
 # FR-IDF
 msgid "Île-de-France"
@@ -5412,7 +5418,7 @@ msgstr ""
 
 # FR-LRE
 msgid "La Réunion"
-msgstr ""
+msgstr "말리"
 
 # FR-MAY
 msgid "Mayotte"
@@ -5420,7 +5426,7 @@ msgstr "마요트"
 
 # FR-MF
 msgid "Saint-Martin"
-msgstr ""
+msgstr "수리남"
 
 # FR-MQ
 msgid "Martinique"
@@ -5428,7 +5434,7 @@ msgstr "마르티니크"
 
 # FR-NAQ
 msgid "Nouvelle-Aquitaine"
-msgstr ""
+msgstr "없음"
 
 # FR-NC
 msgid "Nouvelle-Calédonie"
@@ -5440,7 +5446,7 @@ msgstr ""
 
 # FR-OCC
 msgid "Occitanie"
-msgstr ""
+msgstr "없음"
 
 # FR-PAC
 msgid "Provence-Alpes-Côte-d’Azur"
@@ -5460,7 +5466,7 @@ msgstr ""
 
 # FR-RE
 msgid "La Réunion"
-msgstr ""
+msgstr "말리"
 
 # FR-TF
 msgid "Terres australes françaises"
@@ -5476,11 +5482,11 @@ msgstr "마요트"
 
 # GA-1
 msgid "Estuaire"
-msgstr ""
+msgstr "터키"
 
 # GA-2
 msgid "Haut-Ogooué"
-msgstr ""
+msgstr "콩고"
 
 # GA-3
 msgid "Moyen-Ogooué"
@@ -5488,11 +5494,11 @@ msgstr ""
 
 # GA-4
 msgid "Ngounié"
-msgstr ""
+msgstr "가나"
 
 # GA-5
 msgid "Nyanga"
-msgstr ""
+msgstr "통가"
 
 # GA-6
 msgid "Ogooué-Ivindo"
@@ -5552,7 +5558,7 @@ msgstr ""
 
 # GB-BDF
 msgid "Bedford"
-msgstr ""
+msgstr "버뮤다"
 
 # GB-BDG
 msgid "Barking and Dagenham"
@@ -5568,7 +5574,7 @@ msgstr ""
 
 # GB-BFS
 msgid "Belfast"
-msgstr ""
+msgstr "벨기에"
 
 # GB-BGE
 msgid "Bridgend; Pen-y-bont ar Ogwr"
@@ -5580,7 +5586,7 @@ msgstr ""
 
 # GB-BIR
 msgid "Birmingham"
-msgstr ""
+msgstr "아리조나"
 
 # GB-BKM
 msgid "Buckinghamshire"
@@ -5592,7 +5598,7 @@ msgstr ""
 
 # GB-BNE
 msgid "Barnet"
-msgstr ""
+msgstr "바레인"
 
 # GB-BNH
 msgid "Brighton and Hove"
@@ -5616,7 +5622,7 @@ msgstr ""
 
 # GB-BRD
 msgid "Bradford"
-msgstr ""
+msgstr "버뮤다"
 
 # GB-BRY
 msgid "Bromley"
@@ -5628,7 +5634,7 @@ msgstr ""
 
 # GB-BUR
 msgid "Bury"
-msgstr ""
+msgstr "터키"
 
 # GB-CAM
 msgid "Cambridgeshire"
@@ -5640,7 +5646,7 @@ msgstr ""
 
 # GB-CBF
 msgid "Central Bedfordshire"
-msgstr ""
+msgstr "캐나다"
 
 # GB-CCG
 msgid "Causeway Coast and Glens"
@@ -5668,11 +5674,11 @@ msgstr ""
 
 # GB-CMA
 msgid "Cumbria"
-msgstr ""
+msgstr "쿠바"
 
 # GB-CMD
 msgid "Camden"
-msgstr ""
+msgstr "카메룬"
 
 # GB-CMN
 msgid "Carmarthenshire; Sir Gaerfyrddin"
@@ -5684,23 +5690,23 @@ msgstr ""
 
 # GB-COV
 msgid "Coventry"
-msgstr ""
+msgstr "회사"
 
 # GB-CRF
 msgid "Cardiff; Caerdydd"
-msgstr ""
+msgstr "캄보디아"
 
 # GB-CRY
 msgid "Croydon"
-msgstr ""
+msgstr "카메룬"
 
 # GB-CWY
 msgid "Conwy"
-msgstr ""
+msgstr "회사"
 
 # GB-DAL
 msgid "Darlington"
-msgstr ""
+msgstr "워싱턴"
 
 # GB-DBY
 msgid "Derbyshire"
@@ -5712,7 +5718,7 @@ msgstr ""
 
 # GB-DER
 msgid "Derby"
-msgstr ""
+msgstr "케냐"
 
 # GB-DEV
 msgid "Devon"
@@ -5744,11 +5750,11 @@ msgstr ""
 
 # GB-DUR
 msgid "Durham County"
-msgstr ""
+msgstr "괌"
 
 # GB-EAL
 msgid "Ealing"
-msgstr ""
+msgstr "말리"
 
 # GB-EAW
 msgid "England and Wales"
@@ -5756,7 +5762,7 @@ msgstr ""
 
 # GB-EAY
 msgid "East Ayrshire"
-msgstr ""
+msgstr "동티모르"
 
 # GB-EDH
 msgid "Edinburgh, City of"
@@ -5768,7 +5774,7 @@ msgstr ""
 
 # GB-ELN
 msgid "East Lothian"
-msgstr ""
+msgstr "에스토니아"
 
 # GB-ELS
 msgid "Eilean Siar"
@@ -5780,7 +5786,7 @@ msgstr ""
 
 # GB-ENG
 msgid "England"
-msgstr ""
+msgstr "통가"
 
 # GB-ERW
 msgid "East Renfrewshire"
@@ -5812,7 +5818,7 @@ msgstr ""
 
 # GB-FMO
 msgid "Fermanagh and Omagh"
-msgstr ""
+msgstr "독일"
 
 # GB-GAT
 msgid "Gateshead"
@@ -5832,7 +5838,7 @@ msgstr ""
 
 # GB-GRE
 msgid "Greenwich"
-msgstr ""
+msgstr "그리스"
 
 # GB-GWN
 msgid "Gwynedd"
@@ -5844,7 +5850,7 @@ msgstr ""
 
 # GB-HAM
 msgid "Hampshire"
-msgstr ""
+msgstr "뉴헴프셔"
 
 # GB-HAV
 msgid "Havering"
@@ -5856,7 +5862,7 @@ msgstr ""
 
 # GB-HEF
 msgid "Herefordshire"
-msgstr ""
+msgstr "프랑스"
 
 # GB-HIL
 msgid "Hillingdon"
@@ -5864,7 +5870,7 @@ msgstr ""
 
 # GB-HLD
 msgid "Highland"
-msgstr ""
+msgstr "핀란드"
 
 # GB-HMF
 msgid "Hammersmith and Fulham"
@@ -5900,7 +5906,7 @@ msgstr ""
 
 # GB-ISL
 msgid "Islington"
-msgstr ""
+msgstr "워싱턴"
 
 # GB-IVC
 msgid "Inverclyde"
@@ -5912,11 +5918,11 @@ msgstr ""
 
 # GB-KEN
 msgid "Kent"
-msgstr ""
+msgstr "켄터키"
 
 # GB-KHL
 msgid "Kingston upon Hull"
-msgstr ""
+msgstr "워싱턴"
 
 # GB-KIR
 msgid "Kirklees"
@@ -5948,7 +5954,7 @@ msgstr ""
 
 # GB-LDS
 msgid "Leeds"
-msgstr ""
+msgstr "테마"
 
 # GB-LEC
 msgid "Leicestershire"
@@ -5976,7 +5982,7 @@ msgstr ""
 
 # GB-MAN
 msgid "Manchester"
-msgstr ""
+msgstr "프랑스"
 
 # GB-MDB
 msgid "Middlesbrough"
@@ -5996,7 +6002,7 @@ msgstr ""
 
 # GB-MLN
 msgid "Midlothian"
-msgstr ""
+msgstr "미시간"
 
 # GB-MON
 msgid "Monmouthshire; Sir Fynwy"
@@ -6004,11 +6010,11 @@ msgstr ""
 
 # GB-MRT
 msgid "Merton"
-msgstr ""
+msgstr "버몬트"
 
 # GB-MRY
 msgid "Moray"
-msgstr ""
+msgstr "노르웨이"
 
 # GB-MTY
 msgid "Merthyr Tydfil; Merthyr Tudful"
@@ -6020,11 +6026,11 @@ msgstr ""
 
 # GB-NAY
 msgid "North Ayrshire"
-msgstr ""
+msgstr "남아프리카"
 
 # GB-NBL
 msgid "Northumberland"
-msgstr ""
+msgstr "네덜란드"
 
 # GB-NEL
 msgid "North East Lincolnshire"
@@ -6044,7 +6050,7 @@ msgstr ""
 
 # GB-NIR
 msgid "Northern Ireland"
-msgstr ""
+msgstr "네덜란드"
 
 # GB-NLK
 msgid "North Lanarkshire"
@@ -6064,7 +6070,7 @@ msgstr ""
 
 # GB-NTH
 msgid "Northamptonshire"
-msgstr ""
+msgstr "뉴헴프셔"
 
 # GB-NTL
 msgid "Neath Port Talbot; Castell-nedd Port Talbot"
@@ -6120,7 +6126,7 @@ msgstr ""
 
 # GB-POR
 msgid "Portsmouth"
-msgstr ""
+msgstr "포르투갈"
 
 # GB-POW
 msgid "Powys"
@@ -6152,7 +6158,7 @@ msgstr ""
 
 # GB-RFW
 msgid "Renfrewshire"
-msgstr ""
+msgstr "프랑스"
 
 # GB-RIC
 msgid "Richmond upon Thames"
@@ -6164,7 +6170,7 @@ msgstr ""
 
 # GB-RUT
 msgid "Rutland"
-msgstr ""
+msgstr "부탄"
 
 # GB-SAW
 msgid "Sandwell"
@@ -6172,7 +6178,7 @@ msgstr ""
 
 # GB-SAY
 msgid "South Ayrshire"
-msgstr ""
+msgstr "남아프리카"
 
 # GB-SCB
 msgid "Scottish Borders, The"
@@ -6180,7 +6186,7 @@ msgstr ""
 
 # GB-SCT
 msgid "Scotland"
-msgstr ""
+msgstr "폴란드"
 
 # GB-SFK
 msgid "Suffolk"
@@ -6212,7 +6218,7 @@ msgstr ""
 
 # GB-SLF
 msgid "Salford"
-msgstr ""
+msgstr "사모아"
 
 # GB-SLG
 msgid "Slough"
@@ -6224,7 +6230,7 @@ msgstr ""
 
 # GB-SND
 msgid "Sunderland"
-msgstr ""
+msgstr "폴란드"
 
 # GB-SOL
 msgid "Solihull"
@@ -6232,7 +6238,7 @@ msgstr ""
 
 # GB-SOM
 msgid "Somerset"
-msgstr ""
+msgstr "이스라엘"
 
 # GB-SOS
 msgid "Southend-on-Sea"
@@ -6240,7 +6246,7 @@ msgstr ""
 
 # GB-SRY
 msgid "Surrey"
-msgstr ""
+msgstr "터키"
 
 # GB-STE
 msgid "Stoke-on-Trent"
@@ -6252,7 +6258,7 @@ msgstr ""
 
 # GB-STH
 msgid "Southampton"
-msgstr ""
+msgstr "폴란드"
 
 # GB-STN
 msgid "Sutton"
@@ -6272,11 +6278,11 @@ msgstr ""
 
 # GB-SWA
 msgid "Swansea; Abertawe"
-msgstr ""
+msgstr "세네갈"
 
 # GB-SWD
 msgid "Swindon"
-msgstr ""
+msgstr "스웨덴"
 
 # GB-SWK
 msgid "Southwark"
@@ -6296,11 +6302,11 @@ msgstr ""
 
 # GB-TOB
 msgid "Torbay"
-msgstr ""
+msgstr "노르웨이"
 
 # GB-TOF
 msgid "Torfaen; Tor-faen"
-msgstr ""
+msgstr "요르단"
 
 # GB-TRF
 msgid "Trafford"
@@ -6336,7 +6342,7 @@ msgstr ""
 
 # GB-WGN
 msgid "Wigan"
-msgstr ""
+msgstr "미시간"
 
 # GB-WIL
 msgid "Wiltshire"
@@ -6344,7 +6350,7 @@ msgstr ""
 
 # GB-WKF
 msgid "Wakefield"
-msgstr ""
+msgstr "뉴질랜드"
 
 # GB-WLL
 msgid "Walsall"
@@ -6384,7 +6390,7 @@ msgstr ""
 
 # GB-WRT
 msgid "Warrington"
-msgstr ""
+msgstr "워싱턴"
 
 # GB-WRX
 msgid "Wrexham; Wrecsam"
@@ -6400,7 +6406,7 @@ msgstr ""
 
 # GB-YOR
 msgid "York"
-msgstr ""
+msgstr "뉴욕"
 
 # GB-ZET
 msgid "Shetland Islands"
@@ -6412,47 +6418,47 @@ msgstr ""
 
 # GD-02
 msgid "Saint David"
-msgstr ""
+msgstr "수리남"
 
 # GD-03
 msgid "Saint George"
-msgstr ""
+msgstr "시/도"
 
 # GD-04
 msgid "Saint John"
-msgstr ""
+msgstr "수리남"
 
 # GD-05
 msgid "Saint Mark"
-msgstr ""
+msgstr "수리남"
 
 # GD-06
 msgid "Saint Patrick"
-msgstr ""
+msgstr "시/도"
 
 # GD-10
 msgid "Southern Grenadine Islands"
-msgstr ""
+msgstr "네덜란드"
 
 # GE-AB
 msgid "Abkhazia"
-msgstr ""
+msgstr "호주"
 
 # GE-AJ
 msgid "Ajaria"
-msgstr ""
+msgstr "일본"
 
 # GE-GU
 msgid "Guria"
-msgstr ""
+msgstr "괌"
 
 # GE-IM
 msgid "Imeret’i"
-msgstr ""
+msgstr "이스라엘"
 
 # GE-KA
 msgid "Kakhet’i"
-msgstr ""
+msgstr "파키스탄"
 
 # GE-KK
 msgid "K’vemo K’art’li"
@@ -6472,7 +6478,7 @@ msgstr ""
 
 # GE-SK
 msgid "Shida K’art’li"
-msgstr ""
+msgstr "소말리아"
 
 # GE-SZ
 msgid "Samegrelo-Zemo Svanet’i"
@@ -6480,7 +6486,7 @@ msgstr ""
 
 # GE-TB
 msgid "T’bilisi"
-msgstr ""
+msgstr "K메일"
 
 # GH-AA
 msgid "Greater Accra"
@@ -6496,15 +6502,15 @@ msgstr ""
 
 # GH-CP
 msgid "Central"
-msgstr ""
+msgstr "캐나다"
 
 # GH-EP
 msgid "Eastern"
-msgstr ""
+msgstr "동티모르"
 
 # GH-NP
 msgid "Northern"
-msgstr ""
+msgstr "네덜란드"
 
 # GH-TV
 msgid "Volta"
@@ -6520,7 +6526,7 @@ msgstr ""
 
 # GH-WP
 msgid "Western"
-msgstr ""
+msgstr "예멘"
 
 # GL-KU
 msgid "Kommune Kujalleq"
@@ -6548,7 +6554,7 @@ msgstr ""
 
 # GM-M
 msgid "Central River"
-msgstr ""
+msgstr "캐나다"
 
 # GM-N
 msgid "North Bank"
@@ -6560,15 +6566,15 @@ msgstr ""
 
 # GM-W
 msgid "Western"
-msgstr ""
+msgstr "예멘"
 
 # GN-B
 msgid "Boké"
-msgstr ""
+msgstr "브라질"
 
 # GN-BE
 msgid "Beyla"
-msgstr ""
+msgstr "케냐"
 
 # GN-BF
 msgid "Boffa"
@@ -6576,11 +6582,11 @@ msgstr ""
 
 # GN-BK
 msgid "Boké"
-msgstr ""
+msgstr "브라질"
 
 # GN-C
 msgid "Conakry"
-msgstr ""
+msgstr "통가"
 
 # GN-CO
 msgid "Coyah"
@@ -6588,7 +6594,7 @@ msgstr ""
 
 # GN-D
 msgid "Kindia"
-msgstr ""
+msgstr "인도"
 
 # GN-DB
 msgid "Dabola"
@@ -6600,7 +6606,7 @@ msgstr ""
 
 # GN-DL
 msgid "Dalaba"
-msgstr ""
+msgstr "알라바마"
 
 # GN-DU
 msgid "Dubréka"
@@ -6608,11 +6614,11 @@ msgstr ""
 
 # GN-F
 msgid "Faranah"
-msgstr ""
+msgstr "프랑스"
 
 # GN-FA
 msgid "Faranah"
-msgstr ""
+msgstr "프랑스"
 
 # GN-FO
 msgid "Forécariah"
@@ -6620,11 +6626,11 @@ msgstr ""
 
 # GN-FR
 msgid "Fria"
-msgstr ""
+msgstr "플로리다"
 
 # GN-GA
 msgid "Gaoual"
-msgstr ""
+msgstr "괌"
 
 # GN-GU
 msgid "Guékédou"
@@ -6632,19 +6638,19 @@ msgstr ""
 
 # GN-K
 msgid "Kankan"
-msgstr ""
+msgstr "캔사스"
 
 # GN-KA
 msgid "Kankan"
-msgstr ""
+msgstr "캔사스"
 
 # GN-KB
 msgid "Koubia"
-msgstr ""
+msgstr "쿠바"
 
 # GN-KD
 msgid "Kindia"
-msgstr ""
+msgstr "인도"
 
 # GN-KE
 msgid "Kérouané"
@@ -6652,7 +6658,7 @@ msgstr ""
 
 # GN-KN
 msgid "Koundara"
-msgstr ""
+msgstr "혼두라스"
 
 # GN-KO
 msgid "Kouroussa"
@@ -6664,31 +6670,31 @@ msgstr ""
 
 # GN-L
 msgid "Labé"
-msgstr ""
+msgstr "일본"
 
 # GN-LA
 msgid "Labé"
-msgstr ""
+msgstr "일본"
 
 # GN-LE
 msgid "Lélouma"
-msgstr ""
+msgstr "포르투갈"
 
 # GN-LO
 msgid "Lola"
-msgstr ""
+msgstr "폴란드"
 
 # GN-M
 msgid "Mamou"
-msgstr ""
+msgstr "사모아"
 
 # GN-MC
 msgid "Macenta"
-msgstr ""
+msgstr "마케도니아"
 
 # GN-MD
 msgid "Mandiana"
-msgstr ""
+msgstr "인디아나"
 
 # GN-ML
 msgid "Mali"
@@ -6696,7 +6702,7 @@ msgstr "말리어"
 
 # GN-MM
 msgid "Mamou"
-msgstr ""
+msgstr "사모아"
 
 # GN-N
 msgid "Nzérékoré"
@@ -6708,7 +6714,7 @@ msgstr ""
 
 # GN-PI
 msgid "Pita"
-msgstr ""
+msgstr "파키스탄"
 
 # GN-SI
 msgid "Siguiri"
@@ -6720,7 +6726,7 @@ msgstr ""
 
 # GN-TO
 msgid "Tougué"
-msgstr ""
+msgstr "통고"
 
 # GN-YO
 msgid "Yomou"
@@ -6768,7 +6774,7 @@ msgstr ""
 
 # GR-03
 msgid "Voiotia"
-msgstr ""
+msgstr "하이티"
 
 # GR-04
 msgid "Evvoias"
@@ -6776,43 +6782,43 @@ msgstr ""
 
 # GR-05
 msgid "Evrytania"
-msgstr ""
+msgstr "크로아티아"
 
 # GR-06
 msgid "Fthiotida"
-msgstr ""
+msgstr "중국"
 
 # GR-07
 msgid "Fokida"
-msgstr ""
+msgstr "플로리다"
 
 # GR-11
 msgid "Argolida"
-msgstr ""
+msgstr "플로리다"
 
 # GR-12
 msgid "Arkadia"
-msgstr ""
+msgstr "크로아티아"
 
 # GR-13
 msgid "Achaïa"
-msgstr ""
+msgstr "가나"
 
 # GR-14
 msgid "Ileia"
-msgstr ""
+msgstr "플로리다"
 
 # GR-15
 msgid "Korinthia"
-msgstr ""
+msgstr "인도"
 
 # GR-16
 msgid "Lakonia"
-msgstr ""
+msgstr "리투아니아"
 
 # GR-17
 msgid "Messinia"
-msgstr ""
+msgstr "마케도니아"
 
 # GR-21
 msgid "Zakynthos"
@@ -6820,19 +6826,19 @@ msgstr ""
 
 # GR-22
 msgid "Kerkyra"
-msgstr ""
+msgstr "케냐"
 
 # GR-23
 msgid "Kefallonia"
-msgstr ""
+msgstr "캘리포니아"
 
 # GR-24
 msgid "Lefkada"
-msgstr ""
+msgstr "리투아니아"
 
 # GR-31
 msgid "Arta"
-msgstr ""
+msgstr "아르헨티나"
 
 # GR-32
 msgid "Thesprotia"
@@ -6840,75 +6846,75 @@ msgstr ""
 
 # GR-33
 msgid "Ioannina"
-msgstr ""
+msgstr "인디아나"
 
 # GR-34
 msgid "Preveza"
-msgstr ""
+msgstr "포르투갈"
 
 # GR-41
 msgid "Karditsa"
-msgstr ""
+msgstr "라트비아"
 
 # GR-42
 msgid "Larisa"
-msgstr ""
+msgstr "라트비아"
 
 # GR-43
 msgid "Magnisia"
-msgstr ""
+msgstr "캔사스"
 
 # GR-44
 msgid "Trikala"
-msgstr ""
+msgstr "폴란드"
 
 # GR-51
 msgid "Grevena"
-msgstr ""
+msgstr "그리스"
 
 # GR-52
 msgid "Drama"
-msgstr ""
+msgstr "가나"
 
 # GR-53
 msgid "Imathia"
-msgstr ""
+msgstr "불가리아"
 
 # GR-54
 msgid "Thessaloniki"
-msgstr ""
+msgstr "테네시"
 
 # GR-55
 msgid "Kavala"
-msgstr ""
+msgstr "캐나다"
 
 # GR-56
 msgid "Kastoria"
-msgstr ""
+msgstr "에스토니아"
 
 # GR-57
 msgid "Kilkis"
-msgstr ""
+msgstr "K메일"
 
 # GR-58
 msgid "Kozani"
-msgstr ""
+msgstr "말리"
 
 # GR-59
 msgid "Pella"
-msgstr ""
+msgstr "쿠바"
 
 # GR-61
 msgid "Pieria"
-msgstr ""
+msgstr "라트비아"
 
 # GR-62
 msgid "Serres"
-msgstr ""
+msgstr "터키"
 
 # GR-63
 msgid "Florina"
-msgstr ""
+msgstr "플로리다"
 
 # GR-64
 msgid "Chalkidiki"
@@ -6924,11 +6930,11 @@ msgstr ""
 
 # GR-72
 msgid "Xanthi"
-msgstr ""
+msgstr "불가리아"
 
 # GR-73
 msgid "Rodopi"
-msgstr ""
+msgstr "로그인"
 
 # GR-81
 msgid "Dodekanisos"
@@ -6944,19 +6950,19 @@ msgstr ""
 
 # GR-84
 msgid "Samos"
-msgstr ""
+msgstr "사모아"
 
 # GR-85
 msgid "Chios"
-msgstr ""
+msgstr "중국"
 
 # GR-91
 msgid "Irakleio"
-msgstr ""
+msgstr "나이지리아"
 
 # GR-92
 msgid "Lasithi"
-msgstr ""
+msgstr "워싱턴"
 
 # GR-93
 msgid "Rethymno"
@@ -6964,7 +6970,7 @@ msgstr ""
 
 # GR-94
 msgid "Chania"
-msgstr ""
+msgstr "크로아티아"
 
 # GR-A
 msgid "Anatoliki Makedonia kai Thraki"
@@ -6972,11 +6978,11 @@ msgstr ""
 
 # GR-A1
 msgid "Attiki"
-msgstr ""
+msgstr "오스트리아"
 
 # GR-B
 msgid "Kentriki Makedonia"
-msgstr ""
+msgstr "캐나다"
 
 # GR-C
 msgid "Dytiki Makedonia"
@@ -6988,7 +6994,7 @@ msgstr ""
 
 # GR-E
 msgid "Thessalia"
-msgstr ""
+msgstr "태국"
 
 # GR-F
 msgid "Ionia Nisia"
@@ -7004,7 +7010,7 @@ msgstr ""
 
 # GR-I
 msgid "Attiki"
-msgstr ""
+msgstr "오스트리아"
 
 # GR-J
 msgid "Peloponnisos"
@@ -7020,7 +7026,7 @@ msgstr ""
 
 # GR-M
 msgid "Kriti"
-msgstr ""
+msgstr "K메일"
 
 # GT-AV
 msgid "Alta Verapaz"
@@ -7056,15 +7062,15 @@ msgstr ""
 
 # GT-JA
 msgid "Jalapa"
-msgstr ""
+msgstr "일본"
 
 # GT-JU
 msgid "Jutiapa"
-msgstr ""
+msgstr "일본"
 
 # GT-PE
 msgid "Petén"
-msgstr ""
+msgstr "예멘"
 
 # GT-PR
 msgid "El Progreso"
@@ -7080,7 +7086,7 @@ msgstr ""
 
 # GT-RE
 msgid "Retalhuleu"
-msgstr ""
+msgstr "말리"
 
 # GT-SA
 msgid "Sacatepéquez"
@@ -7112,11 +7118,11 @@ msgstr ""
 
 # GW-BA
 msgid "Bafatá"
-msgstr ""
+msgstr "바레인"
 
 # GW-BL
 msgid "Bolama"
-msgstr ""
+msgstr "볼리비아"
 
 # GW-BM
 msgid "Biombo"
@@ -7132,35 +7138,35 @@ msgstr ""
 
 # GW-GA
 msgid "Gabú"
-msgstr ""
+msgstr "가봉"
 
 # GW-L
 msgid "Leste"
-msgstr ""
+msgstr "예멘"
 
 # GW-N
 msgid "Norte"
-msgstr ""
+msgstr "네덜란드"
 
 # GW-OI
 msgid "Oio"
-msgstr ""
+msgstr "오하이오"
 
 # GW-QU
 msgid "Quinara"
-msgstr ""
+msgstr "중국"
 
 # GW-S
 msgid "Sul"
-msgstr ""
+msgstr "소말리아"
 
 # GW-TO
 msgid "Tombali"
-msgstr ""
+msgstr "소말리아"
 
 # GY-BA
 msgid "Barima-Waini"
-msgstr ""
+msgstr "바레인"
 
 # GY-CU
 msgid "Cuyuni-Mazaruni"
@@ -7200,7 +7206,7 @@ msgstr ""
 
 # HN-AT
 msgid "Atlántida"
-msgstr ""
+msgstr "알바니아"
 
 # HN-CH
 msgid "Choluteca"
@@ -7208,7 +7214,7 @@ msgstr ""
 
 # HN-CL
 msgid "Colón"
-msgstr ""
+msgstr "콜롬비아"
 
 # HN-CM
 msgid "Comayagua"
@@ -7216,11 +7222,11 @@ msgstr ""
 
 # HN-CP
 msgid "Copán"
-msgstr ""
+msgstr "회사"
 
 # HN-CR
 msgid "Cortés"
-msgstr ""
+msgstr "닫기"
 
 # HN-EP
 msgid "El Paraíso"
@@ -7240,15 +7246,15 @@ msgstr ""
 
 # HN-IN
 msgid "Intibucá"
-msgstr ""
+msgstr "인도"
 
 # HN-LE
 msgid "Lempira"
-msgstr ""
+msgstr "온두라스 렘피라"
 
 # HN-LP
 msgid "La Paz"
-msgstr ""
+msgstr "이름"
 
 # HN-OC
 msgid "Ocotepeque"
@@ -7256,11 +7262,11 @@ msgstr ""
 
 # HN-OL
 msgid "Olancho"
-msgstr ""
+msgstr "오클라호마"
 
 # HN-SB
 msgid "Santa Bárbara"
-msgstr ""
+msgstr "시/도"
 
 # HN-VA
 msgid "Valle"
@@ -7352,15 +7358,15 @@ msgstr ""
 
 # HR-21
 msgid "Grad Zagreb"
-msgstr ""
+msgstr "파라과이"
 
 # HT-AR
 msgid "Artibonite"
-msgstr ""
+msgstr "아르헨티나"
 
 # HT-CE
 msgid "Centre"
-msgstr ""
+msgstr "캐나다"
 
 # HT-GA
 msgid "Grande-Anse"
@@ -7368,11 +7374,11 @@ msgstr ""
 
 # HT-ND
 msgid "Nord"
-msgstr ""
+msgstr "노르웨이"
 
 # HT-NE
 msgid "Nord-Est"
-msgstr ""
+msgstr "노르웨이"
 
 # HT-NO
 msgid "Nord-Ouest"
@@ -7384,7 +7390,7 @@ msgstr ""
 
 # HT-SD
 msgid "Sud"
-msgstr ""
+msgstr "수단"
 
 # HT-SE
 msgid "Sud-Est"
@@ -7392,7 +7398,7 @@ msgstr ""
 
 # HU-BA
 msgid "Baranya"
-msgstr ""
+msgstr "바레인"
 
 # HU-BC
 msgid "Békéscsaba"
@@ -7416,7 +7422,7 @@ msgstr ""
 
 # HU-CS
 msgid "Csongrád"
-msgstr ""
+msgstr "콜로라도"
 
 # HU-DE
 msgid "Debrecen"
@@ -7432,7 +7438,7 @@ msgstr ""
 
 # HU-ER
 msgid "Érd"
-msgstr ""
+msgstr "K메일"
 
 # HU-FE
 msgid "Fejér"
@@ -7448,7 +7454,7 @@ msgstr ""
 
 # HU-HB
 msgid "Hajdú-Bihar"
-msgstr ""
+msgstr "핀란드"
 
 # HU-HE
 msgid "Heves"
@@ -7480,11 +7486,11 @@ msgstr ""
 
 # HU-NK
 msgid "Nagykanizsa"
-msgstr ""
+msgstr "튀니지"
 
 # HU-NO
 msgid "Nógrád"
-msgstr ""
+msgstr "노르웨이"
 
 # HU-NY
 msgid "Nyíregyháza"
@@ -7500,7 +7506,7 @@ msgstr ""
 
 # HU-SD
 msgid "Szeged"
-msgstr ""
+msgstr "스웨덴"
 
 # HU-SF
 msgid "Székesfehérvár"
@@ -7540,7 +7546,7 @@ msgstr ""
 
 # HU-TO
 msgid "Tolna"
-msgstr ""
+msgstr "통가"
 
 # HU-VA
 msgid "Vas"
@@ -7556,7 +7562,7 @@ msgstr ""
 
 # HU-ZA
 msgid "Zala"
-msgstr ""
+msgstr "잠비아"
 
 # HU-ZE
 msgid "Zalaegerszeg"
@@ -7568,7 +7574,7 @@ msgstr ""
 
 # ID-BA
 msgid "Bali"
-msgstr ""
+msgstr "말리"
 
 # ID-BB
 msgid "Bangka Belitung"
@@ -7580,19 +7586,19 @@ msgstr ""
 
 # ID-BT
 msgid "Banten"
-msgstr ""
+msgstr "가나"
 
 # ID-GO
 msgid "Gorontalo"
-msgstr ""
+msgstr "고론탈로어"
 
 # ID-IJ
 msgid "Papua"
-msgstr ""
+msgstr "파라과이"
 
 # ID-JA
 msgid "Jambi"
-msgstr ""
+msgstr "잠비아"
 
 # ID-JB
 msgid "Jawa Barat"
@@ -7600,7 +7606,7 @@ msgstr ""
 
 # ID-JI
 msgid "Jawa Timur"
-msgstr ""
+msgstr "동티모르"
 
 # ID-JK
 msgid "Jakarta Raya"
@@ -7612,11 +7618,11 @@ msgstr ""
 
 # ID-JW
 msgid "Jawa"
-msgstr ""
+msgstr "가나"
 
 # ID-KA
 msgid "Kalimantan"
-msgstr ""
+msgstr "케냐"
 
 # ID-KB
 msgid "Kalimantan Barat"
@@ -7636,7 +7642,7 @@ msgstr ""
 
 # ID-KT
 msgid "Kalimantan Tengah"
-msgstr ""
+msgstr "케냐"
 
 # ID-LA
 msgid "Lampung"
@@ -7644,15 +7650,15 @@ msgstr ""
 
 # ID-MA
 msgid "Maluku"
-msgstr ""
+msgstr "말리"
 
 # ID-ML
 msgid "Maluku"
-msgstr ""
+msgstr "말리"
 
 # ID-MU
 msgid "Maluku Utara"
-msgstr ""
+msgstr "오스트리아"
 
 # ID-NB
 msgid "Nusa Tenggara Barat"
@@ -7668,11 +7674,11 @@ msgstr ""
 
 # ID-PA
 msgid "Papua"
-msgstr ""
+msgstr "파라과이"
 
 # ID-PB
 msgid "Papua Barat"
-msgstr ""
+msgstr "스페인"
 
 # ID-RI
 msgid "Riau"
@@ -7692,11 +7698,11 @@ msgstr ""
 
 # ID-SL
 msgid "Sulawesi"
-msgstr ""
+msgstr "스페인"
 
 # ID-SM
 msgid "Sumatera"
-msgstr ""
+msgstr "괌"
 
 # ID-SN
 msgid "Sulawesi Selatan"
@@ -7704,7 +7710,7 @@ msgstr ""
 
 # ID-SR
 msgid "Sulawesi Barat"
-msgstr ""
+msgstr "스페인"
 
 # ID-SS
 msgid "Sumatra Selatan"
@@ -7724,15 +7730,15 @@ msgstr ""
 
 # IE-C
 msgid "Connacht"
-msgstr ""
+msgstr "커넥티컷"
 
 # IE-CE
 msgid "Clare"
-msgstr ""
+msgstr "닫기"
 
 # IE-CN
 msgid "Cavan"
-msgstr ""
+msgstr "일본"
 
 # IE-CO
 msgid "Cork"
@@ -7748,7 +7754,7 @@ msgstr ""
 
 # IE-DL
 msgid "Donegal"
-msgstr ""
+msgstr "세네갈"
 
 # IE-G
 msgid "Galway"
@@ -7760,11 +7766,11 @@ msgstr ""
 
 # IE-KK
 msgid "Kilkenny"
-msgstr ""
+msgstr "케냐"
 
 # IE-KY
 msgid "Kerry"
-msgstr ""
+msgstr "케냐"
 
 # IE-L
 msgid "Leinster"
@@ -7772,7 +7778,7 @@ msgstr ""
 
 # IE-LD
 msgid "Longford"
-msgstr ""
+msgstr "콩고"
 
 # IE-LH
 msgid "Louth"
@@ -7780,7 +7786,7 @@ msgstr ""
 
 # IE-LK
 msgid "Limerick"
-msgstr ""
+msgstr "라이베리아"
 
 # IE-LM
 msgid "Leitrim"
@@ -7792,7 +7798,7 @@ msgstr ""
 
 # IE-M
 msgid "Munster"
-msgstr ""
+msgstr "페루"
 
 # IE-MH
 msgid "Meath"
@@ -7800,11 +7806,11 @@ msgstr ""
 
 # IE-MN
 msgid "Monaghan"
-msgstr ""
+msgstr "몬타나"
 
 # IE-MO
 msgid "Mayo"
-msgstr ""
+msgstr "모나코"
 
 # IE-OY
 msgid "Offaly"
@@ -7888,11 +7894,11 @@ msgstr ""
 
 # IN-CH
 msgid "Chandigarh"
-msgstr ""
+msgstr "중국"
 
 # IN-CT
 msgid "Chhattisgarh"
-msgstr ""
+msgstr "캐나다"
 
 # IN-DD
 msgid "Daman and Diu"
@@ -7900,7 +7906,7 @@ msgstr ""
 
 # IN-DL
 msgid "Delhi"
-msgstr ""
+msgstr "헬릭스"
 
 # IN-DN
 msgid "Dadra and Nagar Haveli"
@@ -7908,11 +7914,11 @@ msgstr ""
 
 # IN-GA
 msgid "Goa"
-msgstr ""
+msgstr "조지아"
 
 # IN-GJ
 msgid "Gujarat"
-msgstr ""
+msgstr "나우루"
 
 # IN-HP
 msgid "Himachal Pradesh"
@@ -7920,7 +7926,7 @@ msgstr ""
 
 # IN-HR
 msgid "Haryana"
-msgstr ""
+msgstr "나우루"
 
 # IN-JH
 msgid "Jharkhand"
@@ -7932,7 +7938,7 @@ msgstr ""
 
 # IN-KA
 msgid "Karnataka"
-msgstr ""
+msgstr "캐나다"
 
 # IN-KL
 msgid "Kerala"
@@ -7944,11 +7950,11 @@ msgstr ""
 
 # IN-MH
 msgid "Maharashtra"
-msgstr ""
+msgstr "몬타나"
 
 # IN-ML
 msgid "Meghalaya"
-msgstr ""
+msgstr "말레이시아"
 
 # IN-MN
 msgid "Manipur"
@@ -7964,7 +7970,7 @@ msgstr ""
 
 # IN-NL
 msgid "Nagaland"
-msgstr ""
+msgstr "태국"
 
 # IN-OR
 msgid "Odisha"
@@ -7972,7 +7978,7 @@ msgstr ""
 
 # IN-PB
 msgid "Punjab"
-msgstr ""
+msgstr "파나마"
 
 # IN-PY
 msgid "Puducherry"
@@ -7980,19 +7986,19 @@ msgstr ""
 
 # IN-RJ
 msgid "Rajasthan"
-msgstr ""
+msgstr "타지키스탄"
 
 # IN-SK
 msgid "Sikkim"
-msgstr ""
+msgstr "시킴"
 
 # IN-TG
 msgid "Telangana"
-msgstr ""
+msgstr "통가"
 
 # IN-TN
 msgid "Tamil Nadu"
-msgstr ""
+msgstr "태국"
 
 # IN-TR
 msgid "Tripura"
@@ -8008,7 +8014,7 @@ msgstr ""
 
 # IN-WB
 msgid "West Bengal"
-msgstr ""
+msgstr "예멘"
 
 # IQ-AN
 msgid "Al Anbar"
@@ -8020,11 +8026,11 @@ msgstr ""
 
 # IQ-BA
 msgid "Al Basrah"
-msgstr ""
+msgstr "알라스카"
 
 # IQ-BB
 msgid "Babil"
-msgstr ""
+msgstr "브라질"
 
 # IQ-BG
 msgid "Baghdad"
@@ -8048,7 +8054,7 @@ msgstr ""
 
 # IQ-MA
 msgid "Maysan"
-msgstr ""
+msgstr "말레이시아"
 
 # IQ-MU
 msgid "Al Muthanna"
@@ -8080,7 +8086,7 @@ msgstr ""
 
 # IQ-WA
 msgid "Wasit"
-msgstr ""
+msgstr "워싱턴"
 
 # IR-01
 msgid "Āzarbāyjān-e Sharqī"
@@ -8092,11 +8098,11 @@ msgstr ""
 
 # IR-03
 msgid "Ardabīl"
-msgstr ""
+msgstr "K메일"
 
 # IR-04
 msgid "Eşfahān"
-msgstr ""
+msgstr "바레인"
 
 # IR-05
 msgid "Īlām"
@@ -8104,11 +8110,11 @@ msgstr ""
 
 # IR-06
 msgid "Būshehr"
-msgstr ""
+msgstr "버뮤다"
 
 # IR-07
 msgid "Tehrān"
-msgstr ""
+msgstr "통가"
 
 # IR-08
 msgid "Chahār Mahāll va Bakhtīārī"
@@ -8116,15 +8122,15 @@ msgstr ""
 
 # IR-10
 msgid "Khūzestān"
-msgstr ""
+msgstr "카자흐스탄"
 
 # IR-11
 msgid "Zanjān"
-msgstr ""
+msgstr "태국"
 
 # IR-12
 msgid "Semnān"
-msgstr ""
+msgstr "케냐"
 
 # IR-13
 msgid "Sīstān va Balūchestān"
@@ -8132,19 +8138,19 @@ msgstr ""
 
 # IR-14
 msgid "Fārs"
-msgstr ""
+msgstr "캔사스"
 
 # IR-15
 msgid "Kermān"
-msgstr ""
+msgstr "독일"
 
 # IR-16
 msgid "Kordestān"
-msgstr ""
+msgstr "케냐"
 
 # IR-17
 msgid "Kermānshāh"
-msgstr ""
+msgstr "독일"
 
 # IR-18
 msgid "Kohgīlūyeh va Būyer Ahmad"
@@ -8156,23 +8162,23 @@ msgstr ""
 
 # IR-20
 msgid "Lorestān"
-msgstr ""
+msgstr "파키스탄"
 
 # IR-21
 msgid "Māzandarān"
-msgstr ""
+msgstr "말레이시아"
 
 # IR-22
 msgid "Markazī"
-msgstr ""
+msgstr "바레인"
 
 # IR-23
 msgid "Hormozgān"
-msgstr ""
+msgstr "오레곤"
 
 # IR-24
 msgid "Hamadān"
-msgstr ""
+msgstr "사모아"
 
 # IR-25
 msgid "Yazd"
@@ -8184,11 +8190,11 @@ msgstr ""
 
 # IR-27
 msgid "Golestān"
-msgstr ""
+msgstr "오스트리아"
 
 # IR-28
 msgid "Qazvīn"
-msgstr ""
+msgstr "중국"
 
 # IR-29
 msgid "Khorāsān-e Janūbī"
@@ -8212,11 +8218,11 @@ msgstr ""
 
 # IS-2
 msgid "Suðurnes"
-msgstr ""
+msgstr "수리남"
 
 # IS-3
 msgid "Vesturland"
-msgstr ""
+msgstr "네덜란드"
 
 # IS-4
 msgid "Vestfirðir"
@@ -8232,15 +8238,15 @@ msgstr ""
 
 # IS-7
 msgid "Austurland"
-msgstr ""
+msgstr "호주"
 
 # IS-8
 msgid "Suðurland"
-msgstr ""
+msgstr "폴란드"
 
 # IT-21
 msgid "Piemonte"
-msgstr ""
+msgstr "버몬트"
 
 # IT-23
 msgid "Valle d'Aosta"
@@ -8248,7 +8254,7 @@ msgstr ""
 
 # IT-25
 msgid "Lombardia"
-msgstr ""
+msgstr "라트비아"
 
 # IT-32
 msgid "Trentino-Alto Adige"
@@ -8256,7 +8262,7 @@ msgstr ""
 
 # IT-34
 msgid "Veneto"
-msgstr ""
+msgstr "베네수엘라"
 
 # IT-36
 msgid "Friuli-Venezia Giulia"
@@ -8264,7 +8270,7 @@ msgstr ""
 
 # IT-42
 msgid "Liguria"
-msgstr ""
+msgstr "라이베리아"
 
 # IT-45
 msgid "Emilia-Romagna"
@@ -8272,67 +8278,67 @@ msgstr ""
 
 # IT-52
 msgid "Toscana"
-msgstr ""
+msgstr "통가"
 
 # IT-55
 msgid "Umbria"
-msgstr ""
+msgstr "쿠바"
 
 # IT-57
 msgid "Marche"
-msgstr ""
+msgstr "프랑스"
 
 # IT-62
 msgid "Lazio"
-msgstr ""
+msgstr "말리"
 
 # IT-65
 msgid "Abruzzo"
-msgstr ""
+msgstr "아리조나"
 
 # IT-67
 msgid "Molise"
-msgstr ""
+msgstr "말리"
 
 # IT-72
 msgid "Campania"
-msgstr ""
+msgstr "크로아티아"
 
 # IT-75
 msgid "Puglia"
-msgstr ""
+msgstr "페루"
 
 # IT-77
 msgid "Basilicata"
-msgstr ""
+msgstr "태국"
 
 # IT-78
 msgid "Calabria"
-msgstr ""
+msgstr "온타리오"
 
 # IT-82
 msgid "Sicilia"
-msgstr ""
+msgstr "루이지아나"
 
 # IT-88
 msgid "Sardegna"
-msgstr ""
+msgstr "사모아"
 
 # IT-AG
 msgid "Agrigento"
-msgstr ""
+msgstr "아르헨티나"
 
 # IT-AL
 msgid "Alessandria"
-msgstr ""
+msgstr "알제리"
 
 # IT-AN
 msgid "Ancona"
-msgstr ""
+msgstr "앙골라"
 
 # IT-AO
 msgid "Aosta"
-msgstr ""
+msgstr "오스트리아"
 
 # IT-AP
 msgid "Ascoli Piceno"
@@ -8344,19 +8350,19 @@ msgstr ""
 
 # IT-AR
 msgid "Arezzo"
-msgstr ""
+msgstr "아리조나"
 
 # IT-AT
 msgid "Asti"
-msgstr ""
+msgstr "오스트리아"
 
 # IT-AV
 msgid "Avellino"
-msgstr ""
+msgstr "일리노이"
 
 # IT-BA
 msgid "Bari"
-msgstr ""
+msgstr "버뮤다"
 
 # IT-BG
 msgid "Bergamo"
@@ -8392,11 +8398,11 @@ msgstr ""
 
 # IT-BZ
 msgid "Bolzano"
-msgstr ""
+msgstr "폴란드"
 
 # IT-CA
 msgid "Cagliari"
-msgstr ""
+msgstr "캘리포니아"
 
 # IT-CB
 msgid "Campobasso"
@@ -8420,23 +8426,23 @@ msgstr ""
 
 # IT-CN
 msgid "Cuneo"
-msgstr ""
+msgstr "콩고"
 
 # IT-CO
 msgid "Como"
-msgstr ""
+msgstr "콩고"
 
 # IT-CR
 msgid "Cremona"
-msgstr ""
+msgstr "오레곤"
 
 # IT-CS
 msgid "Cosenza"
-msgstr ""
+msgstr "닫기"
 
 # IT-CT
 msgid "Catania"
-msgstr ""
+msgstr "크로아티아"
 
 # IT-CZ
 msgid "Catanzaro"
@@ -8448,7 +8454,7 @@ msgstr ""
 
 # IT-FC
 msgid "Forlì-Cesena"
-msgstr ""
+msgstr "플로리다"
 
 # IT-FE
 msgid "Ferrara"
@@ -8456,15 +8462,15 @@ msgstr ""
 
 # IT-FG
 msgid "Foggia"
-msgstr ""
+msgstr "조지아"
 
 # IT-FI
 msgid "Firenze"
-msgstr ""
+msgstr "프랑스"
 
 # IT-FM
 msgid "Fermo"
-msgstr ""
+msgstr "버몬트"
 
 # IT-FR
 msgid "Frosinone"
@@ -8472,11 +8478,11 @@ msgstr ""
 
 # IT-GE
 msgid "Genova"
-msgstr ""
+msgstr "조지아"
 
 # IT-GO
 msgid "Gorizia"
-msgstr ""
+msgstr "조지아"
 
 # IT-GR
 msgid "Grosseto"
@@ -8488,11 +8494,11 @@ msgstr ""
 
 # IT-IS
 msgid "Isernia"
-msgstr ""
+msgstr "인도"
 
 # IT-KR
 msgid "Crotone"
-msgstr ""
+msgstr "카메룬"
 
 # IT-LC
 msgid "Lecco"
@@ -8508,11 +8514,11 @@ msgstr ""
 
 # IT-LO
 msgid "Lodi"
-msgstr ""
+msgstr "로그인"
 
 # IT-LT
 msgid "Latina"
-msgstr ""
+msgstr "라트비아"
 
 # IT-LU
 msgid "Lucca"
@@ -8532,15 +8538,15 @@ msgstr ""
 
 # IT-MI
 msgid "Milano"
-msgstr ""
+msgstr "핀란드"
 
 # IT-MN
 msgid "Mantova"
-msgstr ""
+msgstr "라트비아"
 
 # IT-MO
 msgid "Modena"
-msgstr ""
+msgstr "모나코"
 
 # IT-MS
 msgid "Massa-Carrara"
@@ -8552,23 +8558,23 @@ msgstr ""
 
 # IT-NA
 msgid "Napoli"
-msgstr ""
+msgstr "말리"
 
 # IT-NO
 msgid "Novara"
-msgstr ""
+msgstr "네바다"
 
 # IT-NU
 msgid "Nuoro"
-msgstr ""
+msgstr "나우루"
 
 # IT-OG
 msgid "Ogliastra"
-msgstr ""
+msgstr "유타"
 
 # IT-OR
 msgid "Oristano"
-msgstr ""
+msgstr "파키스탄"
 
 # IT-OT
 msgid "Olbia-Tempio"
@@ -8584,7 +8590,7 @@ msgstr ""
 
 # IT-PD
 msgid "Padova"
-msgstr ""
+msgstr "몰도바"
 
 # IT-PE
 msgid "Pescara"
@@ -8592,11 +8598,11 @@ msgstr ""
 
 # IT-PG
 msgid "Perugia"
-msgstr ""
+msgstr "페루"
 
 # IT-PI
 msgid "Pisa"
-msgstr ""
+msgstr "파키스탄"
 
 # IT-PN
 msgid "Pordenone"
@@ -8608,11 +8614,11 @@ msgstr ""
 
 # IT-PR
 msgid "Parma"
-msgstr ""
+msgstr "파나마"
 
 # IT-PT
 msgid "Pistoia"
-msgstr ""
+msgstr "에스토니아"
 
 # IT-PU
 msgid "Pesaro e Urbino"
@@ -8620,7 +8626,7 @@ msgstr ""
 
 # IT-PV
 msgid "Pavia"
-msgstr ""
+msgstr "라트비아"
 
 # IT-PZ
 msgid "Potenza"
@@ -8644,7 +8650,7 @@ msgstr ""
 
 # IT-RI
 msgid "Rieti"
-msgstr ""
+msgstr "하이티"
 
 # IT-RM
 msgid "Roma"
@@ -8656,7 +8662,7 @@ msgstr ""
 
 # IT-RO
 msgid "Rovigo"
-msgstr ""
+msgstr "통고"
 
 # IT-SA
 msgid "Salerno"
@@ -8664,7 +8670,7 @@ msgstr ""
 
 # IT-SI
 msgid "Siena"
-msgstr ""
+msgstr "세네갈"
 
 # IT-SO
 msgid "Sondrio"
@@ -8684,7 +8690,7 @@ msgstr ""
 
 # IT-SV
 msgid "Savona"
-msgstr ""
+msgstr "사모아"
 
 # IT-TA
 msgid "Taranto"
@@ -8692,7 +8698,7 @@ msgstr ""
 
 # IT-TE
 msgid "Teramo"
-msgstr ""
+msgstr "버몬트"
 
 # IT-TN
 msgid "Trento"
@@ -8700,11 +8706,11 @@ msgstr ""
 
 # IT-TO
 msgid "Torino"
-msgstr ""
+msgstr "통고"
 
 # IT-TP
 msgid "Trapani"
-msgstr ""
+msgstr "일본"
 
 # IT-TR
 msgid "Terni"
@@ -8720,7 +8726,7 @@ msgstr ""
 
 # IT-UD
 msgid "Udine"
-msgstr ""
+msgstr "우크라이나"
 
 # IT-VA
 msgid "Varese"
@@ -8736,15 +8742,15 @@ msgstr ""
 
 # IT-VE
 msgid "Venezia"
-msgstr ""
+msgstr "베네수엘라"
 
 # IT-VI
 msgid "Vicenza"
-msgstr ""
+msgstr "베네수엘라"
 
 # IT-VR
 msgid "Verona"
-msgstr ""
+msgstr "버몬트"
 
 # IT-VS
 msgid "Medio Campidano"
@@ -8760,7 +8766,7 @@ msgstr ""
 
 # JM-01
 msgid "Kingston"
-msgstr ""
+msgstr "워싱턴"
 
 # JM-02
 msgid "Saint Andrew"
@@ -8768,11 +8774,11 @@ msgstr ""
 
 # JM-03
 msgid "Saint Thomas"
-msgstr ""
+msgstr "수리남"
 
 # JM-04
 msgid "Portland"
-msgstr ""
+msgstr "폴란드"
 
 # JM-05
 msgid "Saint Mary"
@@ -8784,11 +8790,11 @@ msgstr ""
 
 # JM-07
 msgid "Trelawny"
-msgstr ""
+msgstr "아일랜드"
 
 # JM-08
 msgid "Saint James"
-msgstr ""
+msgstr "수리남"
 
 # JM-09
 msgid "Hanover"
@@ -8796,7 +8802,7 @@ msgstr ""
 
 # JM-10
 msgid "Westmoreland"
-msgstr ""
+msgstr "아일랜드"
 
 # JM-11
 msgid "Saint Elizabeth"
@@ -8804,7 +8810,7 @@ msgstr ""
 
 # JM-12
 msgid "Manchester"
-msgstr ""
+msgstr "프랑스"
 
 # JM-13
 msgid "Clarendon"
@@ -8812,7 +8818,7 @@ msgstr ""
 
 # JM-14
 msgid "Saint Catherine"
-msgstr ""
+msgstr "시/도"
 
 # JO-AJ
 msgid "‘Ajlūn"
@@ -8824,7 +8830,7 @@ msgstr ""
 
 # JO-AQ
 msgid "Al ‘Aqabah"
-msgstr ""
+msgstr "알라바마"
 
 # JO-AT
 msgid "Aţ Ţafīlah"
@@ -8832,7 +8838,7 @@ msgstr ""
 
 # JO-AZ
 msgid "Az Zarqā'"
-msgstr ""
+msgstr "파라과이"
 
 # JO-BA
 msgid "Al Balqā'"
@@ -8856,7 +8862,7 @@ msgstr ""
 
 # JO-MD
 msgid "Mādabā"
-msgstr ""
+msgstr "말레이시아"
 
 # JO-MN
 msgid "Ma‘ān"
@@ -8876,11 +8882,11 @@ msgstr ""
 
 # JP-04
 msgid "Miyagi"
-msgstr ""
+msgstr "말리"
 
 # JP-05
 msgid "Akita"
-msgstr ""
+msgstr "파키스탄"
 
 # JP-06
 msgid "Yamagata"
@@ -8888,7 +8894,7 @@ msgstr ""
 
 # JP-07
 msgid "Fukushima"
-msgstr ""
+msgstr "튀니지"
 
 # JP-08
 msgid "Ibaraki"
@@ -8900,19 +8906,19 @@ msgstr ""
 
 # JP-10
 msgid "Gunma"
-msgstr ""
+msgstr "괌"
 
 # JP-11
 msgid "Saitama"
-msgstr ""
+msgstr "사모아"
 
 # JP-12
 msgid "Chiba"
-msgstr ""
+msgstr "중국"
 
 # JP-13
 msgid "Tokyo"
-msgstr ""
+msgstr "통고"
 
 # JP-14
 msgid "Kanagawa"
@@ -8952,7 +8958,7 @@ msgstr ""
 
 # JP-23
 msgid "Aichi"
-msgstr ""
+msgstr "미시간"
 
 # JP-24
 msgid "Mie"
@@ -8960,7 +8966,7 @@ msgstr ""
 
 # JP-25
 msgid "Shiga"
-msgstr ""
+msgstr "미시간"
 
 # JP-26
 msgid "Kyoto"
@@ -8972,11 +8978,11 @@ msgstr ""
 
 # JP-28
 msgid "Hyogo"
-msgstr ""
+msgstr "통고"
 
 # JP-29
 msgid "Nara"
-msgstr ""
+msgstr "나우루"
 
 # JP-30
 msgid "Wakayama"
@@ -8992,11 +8998,11 @@ msgstr ""
 
 # JP-33
 msgid "Okayama"
-msgstr ""
+msgstr "오클라호마"
 
 # JP-34
 msgid "Hiroshima"
-msgstr ""
+msgstr "미크로네시아"
 
 # JP-35
 msgid "Yamaguchi"
@@ -9004,7 +9010,7 @@ msgstr ""
 
 # JP-36
 msgid "Tokushima"
-msgstr ""
+msgstr "튀니지"
 
 # JP-37
 msgid "Kagawa"
@@ -9024,7 +9030,7 @@ msgstr ""
 
 # JP-41
 msgid "Saga"
-msgstr ""
+msgstr "사모아"
 
 # JP-42
 msgid "Nagasaki"
@@ -9052,7 +9058,7 @@ msgstr ""
 
 # KE-01
 msgid "Baringo"
-msgstr ""
+msgstr "버뮤다"
 
 # KE-02
 msgid "Bomet"
@@ -9060,11 +9066,11 @@ msgstr ""
 
 # KE-03
 msgid "Bungoma"
-msgstr ""
+msgstr "앙골라"
 
 # KE-04
 msgid "Busia"
-msgstr ""
+msgstr "불가리아"
 
 # KE-05
 msgid "Elgeyo/Marakwet"
@@ -9076,7 +9082,7 @@ msgstr ""
 
 # KE-07
 msgid "Garissa"
-msgstr ""
+msgstr "라트비아"
 
 # KE-08
 msgid "Homa Bay"
@@ -9092,7 +9098,7 @@ msgstr ""
 
 # KE-11
 msgid "Kakamega"
-msgstr ""
+msgstr "마다가스카르"
 
 # KE-12
 msgid "Kericho"
@@ -9104,7 +9110,7 @@ msgstr ""
 
 # KE-14
 msgid "Kilifi"
-msgstr ""
+msgstr "K메일"
 
 # KE-15
 msgid "Kirinyaga"
@@ -9136,7 +9142,7 @@ msgstr ""
 
 # KE-22
 msgid "Machakos"
-msgstr ""
+msgstr "프랑스"
 
 # KE-23
 msgid "Makueni"
@@ -9144,11 +9150,11 @@ msgstr ""
 
 # KE-24
 msgid "Mandera"
-msgstr ""
+msgstr "인디아나"
 
 # KE-25
 msgid "Marsabit"
-msgstr ""
+msgstr "말레이시아"
 
 # KE-26
 msgid "Meru"
@@ -9160,15 +9166,15 @@ msgstr ""
 
 # KE-28
 msgid "Mombasa"
-msgstr ""
+msgstr "잠비아"
 
 # KE-29
 msgid "Murang'a"
-msgstr ""
+msgstr "버뮤다"
 
 # KE-30
 msgid "Nairobi City"
-msgstr ""
+msgstr "없음"
 
 # KE-31
 msgid "Nakuru"
@@ -9176,7 +9182,7 @@ msgstr ""
 
 # KE-32
 msgid "Nandi"
-msgstr ""
+msgstr "인디아나"
 
 # KE-33
 msgid "Narok"
@@ -9188,7 +9194,7 @@ msgstr ""
 
 # KE-35
 msgid "Nyandarua"
-msgstr ""
+msgstr "브라질"
 
 # KE-36
 msgid "Nyeri"
@@ -9208,7 +9214,7 @@ msgstr ""
 
 # KE-40
 msgid "Tana River"
-msgstr ""
+msgstr "캐나다"
 
 # KE-41
 msgid "Tharaka-Nithi"
@@ -9220,7 +9226,7 @@ msgstr ""
 
 # KE-43
 msgid "Turkana"
-msgstr ""
+msgstr "가나"
 
 # KE-44
 msgid "Uasin Gishu"
@@ -9228,7 +9234,7 @@ msgstr ""
 
 # KE-45
 msgid "Vihiga"
-msgstr ""
+msgstr "미시간"
 
 # KE-46
 msgid "Wajir"
@@ -9240,11 +9246,11 @@ msgstr ""
 
 # KG-B
 msgid "Batken"
-msgstr ""
+msgstr "가나"
 
 # KG-C
 msgid "Chü"
-msgstr ""
+msgstr "콩고"
 
 # KG-GB
 msgid "Bishkek"
@@ -9256,7 +9262,7 @@ msgstr ""
 
 # KG-N
 msgid "Naryn"
-msgstr ""
+msgstr "나우루"
 
 # KG-O
 msgid "Osh"
@@ -9264,7 +9270,7 @@ msgstr ""
 
 # KG-T
 msgid "Talas"
-msgstr ""
+msgstr "말레이시아"
 
 # KG-Y
 msgid "Ysyk-Köl"
@@ -9276,11 +9282,11 @@ msgstr ""
 
 # KH-10
 msgid "Krachoh"
-msgstr ""
+msgstr "바레인"
 
 # KH-11
 msgid "Mondol Kiri"
-msgstr ""
+msgstr "몽골라"
 
 # KH-12
 msgid "Phnom Penh"
@@ -9296,7 +9302,7 @@ msgstr ""
 
 # KH-15
 msgid "Pousaat"
-msgstr ""
+msgstr "루이지아나"
 
 # KH-16
 msgid "Rotanak Kiri"
@@ -9308,7 +9314,7 @@ msgstr ""
 
 # KH-18
 msgid "Krong Preah Sihanouk"
-msgstr ""
+msgstr "통가"
 
 # KH-19
 msgid "Stueng Traeng"
@@ -9316,11 +9322,11 @@ msgstr ""
 
 # KH-2
 msgid "Battambang"
-msgstr ""
+msgstr "부탄"
 
 # KH-20
 msgid "Svaay Rieng"
-msgstr ""
+msgstr "스페인"
 
 # KH-21
 msgid "Taakaev"
@@ -9332,15 +9338,15 @@ msgstr ""
 
 # KH-23
 msgid "Krong Kaeb"
-msgstr ""
+msgstr "통가"
 
 # KH-24
 msgid "Krong Pailin"
-msgstr ""
+msgstr "통가"
 
 # KH-3
 msgid "Kampong Cham"
-msgstr ""
+msgstr "통가"
 
 # KH-4
 msgid "Kampong Chhnang"
@@ -9348,7 +9354,7 @@ msgstr ""
 
 # KH-5
 msgid "Kampong Speu"
-msgstr ""
+msgstr "스웨덴"
 
 # KH-6
 msgid "Kampong Thom"
@@ -9356,15 +9362,15 @@ msgstr ""
 
 # KH-7
 msgid "Kampot"
-msgstr ""
+msgstr "캔사스"
 
 # KH-8
 msgid "Kandal"
-msgstr ""
+msgstr "캐나다"
 
 # KH-9
 msgid "Kach Kong"
-msgstr ""
+msgstr "바레인"
 
 # KI-G
 msgid "Gilbert Islands"
@@ -9372,7 +9378,7 @@ msgstr ""
 
 # KI-L
 msgid "Line Islands"
-msgstr ""
+msgstr "핀란드"
 
 # KI-P
 msgid "Phoenix Islands"
@@ -9408,11 +9414,11 @@ msgstr ""
 
 # KN-05
 msgid "Saint James Windward"
-msgstr ""
+msgstr "수리남"
 
 # KN-06
 msgid "Saint John Capisterre"
-msgstr ""
+msgstr "시/도"
 
 # KN-07
 msgid "Saint John Figtree"
@@ -9424,7 +9430,7 @@ msgstr ""
 
 # KN-09
 msgid "Saint Paul Capisterre"
-msgstr ""
+msgstr "시/도"
 
 # KN-10
 msgid "Saint Paul Charlestown"
@@ -9436,11 +9442,11 @@ msgstr ""
 
 # KN-12
 msgid "Saint Thomas Lowland"
-msgstr ""
+msgstr "수리남"
 
 # KN-13
 msgid "Saint Thomas Middle Island"
-msgstr ""
+msgstr "수리남"
 
 # KN-15
 msgid "Trinity Palmetto Point"
@@ -9448,7 +9454,7 @@ msgstr ""
 
 # KN-K
 msgid "Saint Kitts"
-msgstr ""
+msgstr "수리남"
 
 # KN-N
 msgid "Nevis"
@@ -9568,11 +9574,11 @@ msgstr ""
 
 # KW-FA
 msgid "Al Farwānīyah"
-msgstr ""
+msgstr "알라바마"
 
 # KW-HA
 msgid "Hawallī"
-msgstr ""
+msgstr "하와이"
 
 # KW-JA
 msgid "Al Jahrrā’"
@@ -9596,7 +9602,7 @@ msgstr ""
 
 # KZ-ALA
 msgid "Almaty"
-msgstr ""
+msgstr "알라바마"
 
 # KZ-ALM
 msgid "Almaty oblysy"
@@ -9604,7 +9610,7 @@ msgstr ""
 
 # KZ-AST
 msgid "Astana"
-msgstr ""
+msgstr "오스트리아"
 
 # KZ-ATY
 msgid "Atyraū oblysy"
@@ -9624,7 +9630,7 @@ msgstr ""
 
 # KZ-MAN
 msgid "Mangghystaū oblysy"
-msgstr ""
+msgstr "카자흐스탄"
 
 # KZ-PAV
 msgid "Pavlodar oblysy"
@@ -9632,19 +9638,19 @@ msgstr ""
 
 # KZ-SEV
 msgid "Soltüstik Quzaqstan oblysy"
-msgstr ""
+msgstr "카자흐스탄"
 
 # KZ-VOS
 msgid "Shyghys Qazaqstan oblysy"
-msgstr ""
+msgstr "카자흐스탄"
 
 # KZ-YUZ
 msgid "Ongtüstik Qazaqstan oblysy"
-msgstr ""
+msgstr "카자흐스탄"
 
 # KZ-ZAP
 msgid "Batys Quzaqstan oblysy"
-msgstr ""
+msgstr "카자흐스탄"
 
 # KZ-ZHA
 msgid "Zhambyl oblysy"
@@ -9652,7 +9658,7 @@ msgstr ""
 
 # LA-AT
 msgid "Attapu"
-msgstr ""
+msgstr "아르헨티나"
 
 # LA-BK
 msgid "Bokèo"
@@ -9660,15 +9666,15 @@ msgstr ""
 
 # LA-BL
 msgid "Bolikhamxai"
-msgstr ""
+msgstr "볼리비아"
 
 # LA-CH
 msgid "Champasak"
-msgstr ""
+msgstr "중국"
 
 # LA-HO
 msgid "Houaphan"
-msgstr ""
+msgstr "일본"
 
 # LA-KH
 msgid "Khammouan"
@@ -9680,19 +9686,19 @@ msgstr ""
 
 # LA-LP
 msgid "Louangphabang"
-msgstr ""
+msgstr "일본"
 
 # LA-OU
 msgid "Oudômxai"
-msgstr ""
+msgstr "수단"
 
 # LA-PH
 msgid "Phôngsali"
-msgstr ""
+msgstr "통가"
 
 # LA-SL
 msgid "Salavan"
-msgstr ""
+msgstr "소말리아"
 
 # LA-SV
 msgid "Savannakhét"
@@ -9712,7 +9718,7 @@ msgstr ""
 
 # LA-XE
 msgid "Xékong"
-msgstr ""
+msgstr "통가"
 
 # LA-XI
 msgid "Xiangkhouang"
@@ -9724,7 +9730,7 @@ msgstr ""
 
 # LB-AK
 msgid "Aakkâr"
-msgstr ""
+msgstr "하와이"
 
 # LB-AS
 msgid "Liban-Nord"
@@ -9732,7 +9738,7 @@ msgstr ""
 
 # LB-BA
 msgid "Beyrouth"
-msgstr ""
+msgstr "하이티"
 
 # LB-BH
 msgid "Baalbek-Hermel"
@@ -9740,7 +9746,7 @@ msgstr ""
 
 # LB-BI
 msgid "Béqaa"
-msgstr ""
+msgstr "바레인"
 
 # LB-JA
 msgid "Liban-Sud"
@@ -9748,7 +9754,7 @@ msgstr ""
 
 # LB-JL
 msgid "Mont-Liban"
-msgstr ""
+msgstr "몬타나"
 
 # LB-NA
 msgid "Nabatîyé"
@@ -9756,23 +9762,23 @@ msgstr ""
 
 # LI-01
 msgid "Balzers"
-msgstr ""
+msgstr "방글라데시"
 
 # LI-02
 msgid "Eschen"
-msgstr ""
+msgstr "바레인"
 
 # LI-03
 msgid "Gamprin"
-msgstr ""
+msgstr "잠비아"
 
 # LI-04
 msgid "Mauren"
-msgstr ""
+msgstr "말리"
 
 # LI-05
 msgid "Planken"
-msgstr ""
+msgstr "예멘"
 
 # LI-06
 msgid "Ruggell"
@@ -9780,15 +9786,15 @@ msgstr ""
 
 # LI-07
 msgid "Schaan"
-msgstr ""
+msgstr "수단"
 
 # LI-08
 msgid "Schellenberg"
-msgstr ""
+msgstr "스웨덴"
 
 # LI-09
 msgid "Triesen"
-msgstr ""
+msgstr "통고"
 
 # LI-10
 msgid "Triesenberg"
@@ -9808,7 +9814,7 @@ msgstr ""
 
 # LK-12
 msgid "Gampaha"
-msgstr ""
+msgstr "잠비아"
 
 # LK-13
 msgid "Kaḷutara"
@@ -9820,11 +9826,11 @@ msgstr ""
 
 # LK-21
 msgid "Mahanuvara"
-msgstr ""
+msgstr "몬타나"
 
 # LK-22
 msgid "Mātale"
-msgstr ""
+msgstr "말리"
 
 # LK-23
 msgid "Nuvara Ĕliya"
@@ -9840,7 +9846,7 @@ msgstr ""
 
 # LK-32
 msgid "Mātara"
-msgstr ""
+msgstr "몬타나"
 
 # LK-33
 msgid "Hambantŏṭa"
@@ -9860,15 +9866,15 @@ msgstr ""
 
 # LK-43
 msgid "Mannārama"
-msgstr ""
+msgstr "몬타나"
 
 # LK-44
 msgid "Vavuniyāva"
-msgstr ""
+msgstr "슬로베니아"
 
 # LK-45
 msgid "Mulativ"
-msgstr ""
+msgstr "K메일"
 
 # LK-5
 msgid "Næ̆gĕnahira paḷāta"
@@ -9876,7 +9882,7 @@ msgstr ""
 
 # LK-51
 msgid "Maḍakalapuva"
-msgstr ""
+msgstr "마다가스카르"
 
 # LK-52
 msgid "Ampāara"
@@ -9884,7 +9890,7 @@ msgstr ""
 
 # LK-53
 msgid "Trikuṇāmalaya"
-msgstr ""
+msgstr "폴란드"
 
 # LK-6
 msgid "Vayamba paḷāta"
@@ -9896,7 +9902,7 @@ msgstr ""
 
 # LK-62
 msgid "Puttalama"
-msgstr ""
+msgstr "알라바마"
 
 # LK-7
 msgid "Uturumæ̆da paḷāta"
@@ -9936,7 +9942,7 @@ msgstr ""
 
 # LR-BG
 msgid "Bong"
-msgstr ""
+msgstr "통가"
 
 # LR-BM
 msgid "Bomi"
@@ -9948,7 +9954,7 @@ msgstr ""
 
 # LR-GB
 msgid "Grand Bassa"
-msgstr ""
+msgstr "가나"
 
 # LR-GG
 msgid "Grand Gedeh"
@@ -9972,11 +9978,11 @@ msgstr ""
 
 # LR-MY
 msgid "Maryland"
-msgstr ""
+msgstr "아일랜드"
 
 # LR-NI
 msgid "Nimba"
-msgstr ""
+msgstr "나미비아"
 
 # LR-RI
 msgid "Rivercess"
@@ -9984,11 +9990,11 @@ msgstr ""
 
 # LR-SI
 msgid "Sinoe"
-msgstr ""
+msgstr "싱가포르"
 
 # LS-A
 msgid "Maseru"
-msgstr ""
+msgstr "페루"
 
 # LS-B
 msgid "Butha-Buthe"
@@ -9996,11 +10002,11 @@ msgstr ""
 
 # LS-C
 msgid "Leribe"
-msgstr ""
+msgstr "라이베리아"
 
 # LS-D
 msgid "Berea"
-msgstr ""
+msgstr "버뮤다"
 
 # LS-E
 msgid "Mafeteng"
@@ -10072,7 +10078,7 @@ msgstr ""
 
 # LU-G
 msgid "Grevenmacher"
-msgstr ""
+msgstr "그리스"
 
 # LU-L
 msgid "Luxembourg"
@@ -10312,7 +10318,7 @@ msgstr ""
 
 # LV-059
 msgid "Madonas novads"
-msgstr ""
+msgstr "모나코"
 
 # LV-060
 msgid "Mazsalacas novads"
@@ -10416,7 +10422,7 @@ msgstr ""
 
 # LV-085
 msgid "Salas novads"
-msgstr ""
+msgstr "소말리아"
 
 # LV-086
 msgid "Salacgrīvas novads"
@@ -10532,7 +10538,7 @@ msgstr ""
 
 # LV-JUR
 msgid "Jūrmala"
-msgstr ""
+msgstr "호주"
 
 # LV-LPX
 msgid "Liepāja"
@@ -10556,15 +10562,15 @@ msgstr ""
 
 # LY-BA
 msgid "Banghāzī"
-msgstr ""
+msgstr "바레인"
 
 # LY-BU
 msgid "Al Buţnān"
-msgstr ""
+msgstr "부탄"
 
 # LY-DR
 msgid "Darnah"
-msgstr ""
+msgstr "프랑스"
 
 # LY-GT
 msgid "Ghāt"
@@ -10572,7 +10578,7 @@ msgstr ""
 
 # LY-JA
 msgid "Al Jabal al Akhḑar"
-msgstr ""
+msgstr "알라바마"
 
 # LY-JB
 msgid "Jaghbūb"
@@ -10580,11 +10586,11 @@ msgstr ""
 
 # LY-JG
 msgid "Al Jabal al Gharbī"
-msgstr ""
+msgstr "알라바마"
 
 # LY-JI
 msgid "Al Jifārah"
-msgstr ""
+msgstr "알라스카"
 
 # LY-JU
 msgid "Al Jufrah"
@@ -10592,11 +10598,11 @@ msgstr ""
 
 # LY-KF
 msgid "Al Kufrah"
-msgstr ""
+msgstr "알라스카"
 
 # LY-MB
 msgid "Al Marqab"
-msgstr ""
+msgstr "알라스카"
 
 # LY-MI
 msgid "Mişrātah"
@@ -10604,7 +10610,7 @@ msgstr ""
 
 # LY-MJ
 msgid "Al Marj"
-msgstr ""
+msgstr "알라스카"
 
 # LY-MQ
 msgid "Murzuq"
@@ -10620,11 +10626,11 @@ msgstr ""
 
 # LY-SB
 msgid "Sabhā"
-msgstr ""
+msgstr "사모아"
 
 # LY-SR
 msgid "Surt"
-msgstr ""
+msgstr "수리남"
 
 # LY-TB
 msgid "Ţarābulus"
@@ -10632,7 +10638,7 @@ msgstr ""
 
 # LY-WA
 msgid "Al Wāḩāt"
-msgstr ""
+msgstr "알라스카"
 
 # LY-WD
 msgid "Wādī al Ḩayāt"
@@ -10652,11 +10658,11 @@ msgstr ""
 
 # MA-02
 msgid "L'Oriental"
-msgstr ""
+msgstr "오레곤"
 
 # MA-03
 msgid "Fès-Meknès"
-msgstr ""
+msgstr "나의 새소식"
 
 # MA-04
 msgid "Rabat-Salé-Kénitra"
@@ -10672,7 +10678,7 @@ msgstr ""
 
 # MA-07
 msgid "Marrakech-Safi"
-msgstr ""
+msgstr "프랑스"
 
 # MA-08
 msgid "Drâa-Tafilalet"
@@ -10700,7 +10706,7 @@ msgstr ""
 
 # MA-AOU
 msgid "Aousserd (EH)"
-msgstr ""
+msgstr "버뮤다"
 
 # MA-ASZ
 msgid "Assa-Zag (EH-partial)"
@@ -10716,15 +10722,15 @@ msgstr ""
 
 # MA-BER
 msgid "Berkane"
-msgstr ""
+msgstr "프랑스"
 
 # MA-BES
 msgid "Benslimane"
-msgstr ""
+msgstr "그린랜드"
 
 # MA-BOD
 msgid "Boujdour (EH)"
-msgstr ""
+msgstr "불가리아"
 
 # MA-BOM
 msgid "Boulemane"
@@ -10736,7 +10742,7 @@ msgstr ""
 
 # MA-CAS
 msgid "Casablanca"
-msgstr ""
+msgstr "자메이카"
 
 # MA-CHE
 msgid "Chefchaouen"
@@ -10760,11 +10766,11 @@ msgstr ""
 
 # MA-ESI
 msgid "Essaouira"
-msgstr ""
+msgstr "에스토니아"
 
 # MA-ESM
 msgid "Es-Semara (EH-partial)"
-msgstr ""
+msgstr "동티모르"
 
 # MA-FAH
 msgid "Fahs-Anjra"
@@ -10772,11 +10778,11 @@ msgstr ""
 
 # MA-FES
 msgid "Fès"
-msgstr ""
+msgstr "테마"
 
 # MA-FIG
 msgid "Figuig"
-msgstr ""
+msgstr "피지"
 
 # MA-FQH
 msgid "Fquih Ben Salah"
@@ -10804,7 +10810,7 @@ msgstr ""
 
 # MA-IFR
 msgid "Ifrane"
-msgstr ""
+msgstr "이스라엘"
 
 # MA-INE
 msgid "Inezgane-Ait Melloul"
@@ -10816,11 +10822,11 @@ msgstr ""
 
 # MA-JRA
 msgid "Jerada"
-msgstr ""
+msgstr "요르단"
 
 # MA-KEN
 msgid "Kénitra"
-msgstr ""
+msgstr "케냐"
 
 # MA-KES
 msgid "El Kelâa des Sraghna"
@@ -10832,7 +10838,7 @@ msgstr ""
 
 # MA-KHN
 msgid "Khenifra"
-msgstr ""
+msgstr "케냐"
 
 # MA-KHO
 msgid "Khouribga"
@@ -10844,11 +10850,11 @@ msgstr ""
 
 # MA-LAR
 msgid "Larache"
-msgstr ""
+msgstr "프랑스"
 
 # MA-MAR
 msgid "Marrakech"
-msgstr ""
+msgstr "프랑스"
 
 # MA-MDF
 msgid "M’diq-Fnideq"
@@ -10856,11 +10862,11 @@ msgstr ""
 
 # MA-MED
 msgid "Médiouna"
-msgstr ""
+msgstr "인디아나"
 
 # MA-MEK
 msgid "Meknès"
-msgstr ""
+msgstr "나의 새소식"
 
 # MA-MID
 msgid "Midelt"
@@ -10868,7 +10874,7 @@ msgstr ""
 
 # MA-MOH
 msgid "Mohammadia"
-msgstr ""
+msgstr "라트비아"
 
 # MA-MOU
 msgid "Moulay Yacoub"
@@ -10876,11 +10882,11 @@ msgstr ""
 
 # MA-NAD
 msgid "Nador"
-msgstr ""
+msgstr "에콰도르"
 
 # MA-NOU
 msgid "Nouaceur"
-msgstr ""
+msgstr "나우루"
 
 # MA-OUA
 msgid "Ouarzazate"
@@ -10892,7 +10898,7 @@ msgstr ""
 
 # MA-OUJ
 msgid "Oujda-Angad"
-msgstr ""
+msgstr "수단"
 
 # MA-OUZ
 msgid "Ouezzane"
@@ -10900,7 +10906,7 @@ msgstr ""
 
 # MA-RAB
 msgid "Rabat"
-msgstr ""
+msgstr "사모아"
 
 # MA-REH
 msgid "Rehamna"
@@ -10908,15 +10914,15 @@ msgstr ""
 
 # MA-SAF
 msgid "Safi"
-msgstr ""
+msgstr "스페인"
 
 # MA-SAL
 msgid "Salé"
-msgstr ""
+msgstr "브라질"
 
 # MA-SEF
 msgid "Sefrou"
-msgstr ""
+msgstr "페루"
 
 # MA-SET
 msgid "Settat"
@@ -10948,19 +10954,19 @@ msgstr ""
 
 # MA-TAI
 msgid "Taourirt"
-msgstr ""
+msgstr "나우루"
 
 # MA-TAO
 msgid "Taounate"
-msgstr ""
+msgstr "통가"
 
 # MA-TAR
 msgid "Taroudant"
-msgstr ""
+msgstr "통가"
 
 # MA-TAT
 msgid "Tata"
-msgstr ""
+msgstr "라트비아"
 
 # MA-TAZ
 msgid "Taza"
@@ -10992,11 +10998,11 @@ msgstr ""
 
 # MA-ZAG
 msgid "Zagora"
-msgstr ""
+msgstr "사모아"
 
 # MC-CL
 msgid "La Colle"
-msgstr ""
+msgstr "우크라이나"
 
 # MC-CO
 msgid "La Condamine"
@@ -11004,7 +11010,7 @@ msgstr ""
 
 # MC-FO
 msgid "Fontvieille"
-msgstr ""
+msgstr "브라질"
 
 # MC-GA
 msgid "La Gare"
@@ -11012,7 +11018,7 @@ msgstr ""
 
 # MC-JE
 msgid "Jardin Exotique"
-msgstr ""
+msgstr "모잠비크"
 
 # MC-LA
 msgid "Larvotto"
@@ -11024,7 +11030,7 @@ msgstr ""
 
 # MC-MC
 msgid "Monte-Carlo"
-msgstr ""
+msgstr "바레인"
 
 # MC-MG
 msgid "Moneghetti"
@@ -11040,11 +11046,11 @@ msgstr ""
 
 # MC-PH
 msgid "Port-Hercule"
-msgstr ""
+msgstr "포르투갈"
 
 # MC-SD
 msgid "Sainte-Dévote"
-msgstr ""
+msgstr "시/도"
 
 # MC-SO
 msgid "La Source"
@@ -11056,7 +11062,7 @@ msgstr ""
 
 # MC-SR
 msgid "Saint-Roman"
-msgstr ""
+msgstr "수리남"
 
 # MC-VR
 msgid "Vallon de la Rousse"
@@ -11072,7 +11078,7 @@ msgstr ""
 
 # MD-BD
 msgid "Tighina"
-msgstr ""
+msgstr "튀니지"
 
 # MD-BR
 msgid "Briceni"
@@ -11092,7 +11098,7 @@ msgstr ""
 
 # MD-CM
 msgid "Cimișlia"
-msgstr ""
+msgstr "루이지아나"
 
 # MD-CR
 msgid "Criuleni"
@@ -11108,7 +11114,7 @@ msgstr ""
 
 # MD-CU
 msgid "Chișinău"
-msgstr ""
+msgstr "중국"
 
 # MD-DO
 msgid "Dondușeni"
@@ -11124,7 +11130,7 @@ msgstr ""
 
 # MD-ED
 msgid "Edineț"
-msgstr ""
+msgstr "우크라이나"
 
 # MD-FA
 msgid "Fălești"
@@ -11132,7 +11138,7 @@ msgstr ""
 
 # MD-FL
 msgid "Florești"
-msgstr ""
+msgstr "플로리다"
 
 # MD-GA
 msgid "Găgăuzia, Unitatea teritorială autonomă"
@@ -11140,15 +11146,15 @@ msgstr ""
 
 # MD-GL
 msgid "Glodeni"
-msgstr ""
+msgstr "모나코"
 
 # MD-HI
 msgid "Hîncești"
-msgstr ""
+msgstr "불가리아"
 
 # MD-IA
 msgid "Ialoveni"
-msgstr ""
+msgstr "사모아"
 
 # MD-LE
 msgid "Leova"
@@ -11156,7 +11162,7 @@ msgstr ""
 
 # MD-NI
 msgid "Nisporeni"
-msgstr ""
+msgstr "통고"
 
 # MD-OC
 msgid "Ocnița"
@@ -11164,7 +11170,7 @@ msgstr ""
 
 # MD-OR
 msgid "Orhei"
-msgstr ""
+msgstr "오하이오"
 
 # MD-RE
 msgid "Rezina"
@@ -11188,7 +11194,7 @@ msgstr ""
 
 # MD-SO
 msgid "Soroca"
-msgstr ""
+msgstr "모로코"
 
 # MD-ST
 msgid "Strășeni"
@@ -11212,15 +11218,15 @@ msgstr ""
 
 # ME-01
 msgid "Andrijevica"
-msgstr ""
+msgstr "볼리비아"
 
 # ME-02
 msgid "Bar"
-msgstr ""
+msgstr "버뮤다"
 
 # ME-03
 msgid "Berane"
-msgstr ""
+msgstr "프랑스"
 
 # ME-04
 msgid "Bijelo Polje"
@@ -11228,15 +11234,15 @@ msgstr ""
 
 # ME-05
 msgid "Budva"
-msgstr ""
+msgstr "버뮤다"
 
 # ME-06
 msgid "Cetinje"
-msgstr ""
+msgstr "닫기"
 
 # ME-07
 msgid "Danilovgrad"
-msgstr ""
+msgstr "노르웨이"
 
 # ME-08
 msgid "Herceg-Novi"
@@ -11244,15 +11250,15 @@ msgstr ""
 
 # ME-09
 msgid "Kolašin"
-msgstr ""
+msgstr "말레이시아"
 
 # ME-10
 msgid "Kotor"
-msgstr ""
+msgstr "에스토니아"
 
 # ME-11
 msgid "Mojkovac"
-msgstr ""
+msgstr "몰도바"
 
 # ME-12
 msgid "Nikšić"
@@ -11260,7 +11266,7 @@ msgstr ""
 
 # ME-13
 msgid "Plav"
-msgstr ""
+msgstr "라트비아"
 
 # ME-14
 msgid "Pljevlja"
@@ -11272,7 +11278,7 @@ msgstr ""
 
 # ME-16
 msgid "Podgorica"
-msgstr ""
+msgstr "불가리아"
 
 # ME-17
 msgid "Rožaje"
@@ -11280,15 +11286,15 @@ msgstr ""
 
 # ME-18
 msgid "Šavnik"
-msgstr ""
+msgstr "말리"
 
 # ME-19
 msgid "Tivat"
-msgstr ""
+msgstr "라트비아"
 
 # ME-20
 msgid "Ulcinj"
-msgstr ""
+msgstr "미시간"
 
 # ME-21
 msgid "Žabljak"
@@ -11296,11 +11302,11 @@ msgstr ""
 
 # MG-A
 msgid "Toamasina"
-msgstr ""
+msgstr "자메이카"
 
 # MG-D
 msgid "Antsiranana"
-msgstr ""
+msgstr "아르헨티나"
 
 # MG-F
 msgid "Fianarantsoa"
@@ -11312,7 +11318,7 @@ msgstr ""
 
 # MG-T
 msgid "Antananarivo"
-msgstr ""
+msgstr "온타리오"
 
 # MG-U
 msgid "Toliara"
@@ -11328,15 +11334,15 @@ msgstr ""
 
 # MH-ARN
 msgid "Arno"
-msgstr ""
+msgstr "앙골라"
 
 # MH-AUR
 msgid "Aur"
-msgstr ""
+msgstr "오스트리아"
 
 # MH-EBO
 msgid "Ebon"
-msgstr ""
+msgstr "가봉"
 
 # MH-ENI
 msgid "Enewetak"
@@ -11344,15 +11350,15 @@ msgstr ""
 
 # MH-JAB
 msgid "Jabat"
-msgstr ""
+msgstr "가나"
 
 # MH-JAL
 msgid "Jaluit"
-msgstr ""
+msgstr "말리"
 
 # MH-KIL
 msgid "Kili"
-msgstr ""
+msgstr "K메일"
 
 # MH-KWA
 msgid "Kwajalein"
@@ -11368,7 +11374,7 @@ msgstr ""
 
 # MH-LIB
 msgid "Lib"
-msgstr ""
+msgstr "라이베리아"
 
 # MH-LIK
 msgid "Likiep"
@@ -11388,19 +11394,19 @@ msgstr ""
 
 # MH-MIL
 msgid "Mili"
-msgstr ""
+msgstr "말리"
 
 # MH-NMK
 msgid "Namdrik"
-msgstr ""
+msgstr "나우루"
 
 # MH-NMU
 msgid "Namu"
-msgstr ""
+msgstr "나우루"
 
 # MH-RON
 msgid "Rongelap"
-msgstr ""
+msgstr "몽골라"
 
 # MH-T
 msgid "Ratak chain"
@@ -11432,19 +11438,19 @@ msgstr ""
 
 # MK-03
 msgid "Berovo"
-msgstr ""
+msgstr "가봉"
 
 # MK-04
 msgid "Bitola"
-msgstr ""
+msgstr "볼리비아"
 
 # MK-05
 msgid "Bogdanci"
-msgstr ""
+msgstr "모나코"
 
 # MK-06
 msgid "Bogovinje"
-msgstr ""
+msgstr "바레인"
 
 # MK-07
 msgid "Bosilovo"
@@ -11452,11 +11458,11 @@ msgstr ""
 
 # MK-08
 msgid "Brvenica"
-msgstr ""
+msgstr "모로코"
 
 # MK-09
 msgid "Butel"
-msgstr ""
+msgstr "부탄"
 
 # MK-10
 msgid "Valandovo"
@@ -11472,15 +11478,15 @@ msgstr ""
 
 # MK-13
 msgid "Veles"
-msgstr ""
+msgstr "스웨덴"
 
 # MK-14
 msgid "Vinica"
-msgstr ""
+msgstr "쿠바"
 
 # MK-15
 msgid "Vraneštica"
-msgstr ""
+msgstr "프랑스"
 
 # MK-16
 msgid "Vrapčište"
@@ -11488,27 +11494,27 @@ msgstr ""
 
 # MK-17
 msgid "Gazi Baba"
-msgstr ""
+msgstr "잠비아"
 
 # MK-18
 msgid "Gevgelija"
-msgstr ""
+msgstr "그린랜드"
 
 # MK-19
 msgid "Gostivar"
-msgstr ""
+msgstr "오스트리아"
 
 # MK-20
 msgid "Gradsko"
-msgstr ""
+msgstr "캐나다"
 
 # MK-21
 msgid "Debar"
-msgstr ""
+msgstr "케냐"
 
 # MK-22
 msgid "Debarca"
-msgstr ""
+msgstr "조지아"
 
 # MK-23
 msgid "Delčevo"
@@ -11524,7 +11530,7 @@ msgstr ""
 
 # MK-26
 msgid "Dojran"
-msgstr ""
+msgstr "바레인"
 
 # MK-27
 msgid "Dolneni"
@@ -11532,7 +11538,7 @@ msgstr ""
 
 # MK-28
 msgid "Drugovo"
-msgstr ""
+msgstr "사모아"
 
 # MK-29
 msgid "Gjorče Petrov"
@@ -11540,11 +11546,11 @@ msgstr ""
 
 # MK-30
 msgid "Želino"
-msgstr ""
+msgstr "일리노이"
 
 # MK-31
 msgid "Zajas"
-msgstr ""
+msgstr "태국"
 
 # MK-32
 msgid "Zelenikovo"
@@ -11552,11 +11558,11 @@ msgstr ""
 
 # MK-33
 msgid "Zrnovci"
-msgstr ""
+msgstr "몽골라"
 
 # MK-34
 msgid "Ilinden"
-msgstr ""
+msgstr "인도"
 
 # MK-35
 msgid "Jegunovce"
@@ -11568,11 +11574,11 @@ msgstr ""
 
 # MK-37
 msgid "Karbinci"
-msgstr ""
+msgstr "K메일"
 
 # MK-38
 msgid "Karpoš"
-msgstr ""
+msgstr "캔사스"
 
 # MK-39
 msgid "Kisela Voda"
@@ -11588,7 +11594,7 @@ msgstr ""
 
 # MK-42
 msgid "Kočani"
-msgstr ""
+msgstr "말리"
 
 # MK-43
 msgid "Kratovo"
@@ -11608,7 +11614,7 @@ msgstr ""
 
 # MK-47
 msgid "Kumanovo"
-msgstr ""
+msgstr "캔사스"
 
 # MK-48
 msgid "Lipkovo"
@@ -11632,7 +11638,7 @@ msgstr ""
 
 # MK-53
 msgid "Mogila"
-msgstr ""
+msgstr "K메일"
 
 # MK-54
 msgid "Negotino"
@@ -11640,7 +11646,7 @@ msgstr ""
 
 # MK-55
 msgid "Novaci"
-msgstr ""
+msgstr "네바다"
 
 # MK-56
 msgid "Novo Selo"
@@ -11652,11 +11658,11 @@ msgstr ""
 
 # MK-58
 msgid "Ohrid"
-msgstr ""
+msgstr "오하이오"
 
 # MK-59
 msgid "Petrovec"
-msgstr ""
+msgstr "예멘"
 
 # MK-60
 msgid "Pehčevo"
@@ -11664,7 +11670,7 @@ msgstr ""
 
 # MK-61
 msgid "Plasnica"
-msgstr ""
+msgstr "마케도니아"
 
 # MK-62
 msgid "Prilep"
@@ -11680,19 +11686,19 @@ msgstr ""
 
 # MK-65
 msgid "Rankovce"
-msgstr ""
+msgstr "라트비아"
 
 # MK-66
 msgid "Resen"
-msgstr ""
+msgstr "예멘"
 
 # MK-67
 msgid "Rosoman"
-msgstr ""
+msgstr "타지키스탄"
 
 # MK-68
 msgid "Saraj"
-msgstr ""
+msgstr "소말리아"
 
 # MK-69
 msgid "Sveti Nikole"
@@ -11704,15 +11710,15 @@ msgstr ""
 
 # MK-71
 msgid "Staro Nagoričane"
-msgstr ""
+msgstr "파라과이"
 
 # MK-72
 msgid "Struga"
-msgstr ""
+msgstr "유타"
 
 # MK-73
 msgid "Strumica"
-msgstr ""
+msgstr "플로리다"
 
 # MK-74
 msgid "Studeničani"
@@ -11720,15 +11726,15 @@ msgstr ""
 
 # MK-75
 msgid "Tearce"
-msgstr ""
+msgstr "페루"
 
 # MK-76
 msgid "Tetovo"
-msgstr ""
+msgstr "테마"
 
 # MK-77
 msgid "Centar"
-msgstr ""
+msgstr "캐나다"
 
 # MK-78
 msgid "Centar Župa"
@@ -11736,7 +11742,7 @@ msgstr ""
 
 # MK-79
 msgid "Čair"
-msgstr ""
+msgstr "자이레"
 
 # MK-80
 msgid "Čaška"
@@ -11764,7 +11770,7 @@ msgstr ""
 
 # ML-2
 msgid "Koulikoro"
-msgstr ""
+msgstr "쿠바"
 
 # ML-3
 msgid "Sikasso"
@@ -11784,11 +11790,11 @@ msgstr ""
 
 # ML-7
 msgid "Gao"
-msgstr ""
+msgstr "가봉"
 
 # ML-8
 msgid "Kidal"
-msgstr ""
+msgstr "K메일"
 
 # ML-BK0
 msgid "Bamako"
@@ -11796,7 +11802,7 @@ msgstr ""
 
 # MM-01
 msgid "Sagaing"
-msgstr ""
+msgstr "스페인"
 
 # MM-02
 msgid "Bago"
@@ -11808,7 +11814,7 @@ msgstr ""
 
 # MM-04
 msgid "Mandalay"
-msgstr ""
+msgstr "말레이시아"
 
 # MM-05
 msgid "Tanintharyi"
@@ -11816,7 +11822,7 @@ msgstr ""
 
 # MM-06
 msgid "Yangon"
-msgstr ""
+msgstr "워싱턴"
 
 # MM-07
 msgid "Ayeyarwady"
@@ -11824,23 +11830,23 @@ msgstr ""
 
 # MM-11
 msgid "Kachin"
-msgstr ""
+msgstr "바레인"
 
 # MM-12
 msgid "Kayah"
-msgstr ""
+msgstr "케냐"
 
 # MM-13
 msgid "Kayin"
-msgstr ""
+msgstr "K메일"
 
 # MM-14
 msgid "Chin"
-msgstr ""
+msgstr "중국"
 
 # MM-15
 msgid "Mon"
-msgstr ""
+msgstr "모나코"
 
 # MM-16
 msgid "Rakhine"
@@ -11848,11 +11854,11 @@ msgstr ""
 
 # MM-17
 msgid "Shan"
-msgstr ""
+msgstr "샨어"
 
 # MN-035
 msgid "Orhon"
-msgstr ""
+msgstr "오레곤"
 
 # MN-037
 msgid "Darhan uul"
@@ -11880,7 +11886,7 @@ msgstr ""
 
 # MN-049
 msgid "Selenge"
-msgstr ""
+msgstr "스웨덴"
 
 # MN-051
 msgid "Sühbaatar"
@@ -11892,7 +11898,7 @@ msgstr ""
 
 # MN-055
 msgid "Övörhangay"
-msgstr ""
+msgstr "파라과이"
 
 # MN-057
 msgid "Dzavhan"
@@ -11908,7 +11914,7 @@ msgstr ""
 
 # MN-063
 msgid "Dornogovi"
-msgstr ""
+msgstr "사모아"
 
 # MN-064
 msgid "Govi-Sumber"
@@ -11920,7 +11926,7 @@ msgstr ""
 
 # MN-067
 msgid "Bulgan"
-msgstr ""
+msgstr "불가리아"
 
 # MN-069
 msgid "Bayanhongor"
@@ -11932,7 +11938,7 @@ msgstr ""
 
 # MN-073
 msgid "Arhangay"
-msgstr ""
+msgstr "파라과이"
 
 # MN-1
 msgid "Ulanbaatar"
@@ -11948,15 +11954,15 @@ msgstr ""
 
 # MR-03
 msgid "Assaba"
-msgstr ""
+msgstr "알라바마"
 
 # MR-04
 msgid "Gorgol"
-msgstr ""
+msgstr "조지아"
 
 # MR-05
 msgid "Brakna"
-msgstr ""
+msgstr "바레인"
 
 # MR-06
 msgid "Trarza"
@@ -11964,7 +11970,7 @@ msgstr ""
 
 # MR-07
 msgid "Adrar"
-msgstr ""
+msgstr "안도라"
 
 # MR-08
 msgid "Dakhlet Nouadhibou"
@@ -11992,15 +11998,15 @@ msgstr ""
 
 # MT-01
 msgid "Attard"
-msgstr ""
+msgstr "오스트리아"
 
 # MT-02
 msgid "Balzan"
-msgstr ""
+msgstr "바레인"
 
 # MT-03
 msgid "Birgu"
-msgstr ""
+msgstr "통고"
 
 # MT-04
 msgid "Birkirkara"
@@ -12012,31 +12018,31 @@ msgstr ""
 
 # MT-06
 msgid "Bormla"
-msgstr ""
+msgstr "조지아"
 
 # MT-07
 msgid "Dingli"
-msgstr ""
+msgstr "K메일"
 
 # MT-08
 msgid "Fgura"
-msgstr ""
+msgstr "호주"
 
 # MT-09
 msgid "Floriana"
-msgstr ""
+msgstr "플로리다"
 
 # MT-10
 msgid "Fontana"
-msgstr ""
+msgstr "몬타나"
 
 # MT-11
 msgid "Gudja"
-msgstr ""
+msgstr "괌"
 
 # MT-12
 msgid "Gżira"
-msgstr ""
+msgstr "가나"
 
 # MT-13
 msgid "Għajnsielem"
@@ -12044,7 +12050,7 @@ msgstr ""
 
 # MT-14
 msgid "Għarb"
-msgstr ""
+msgstr "가봉"
 
 # MT-15
 msgid "Għargħur"
@@ -12064,15 +12070,15 @@ msgstr ""
 
 # MT-19
 msgid "Iklin"
-msgstr ""
+msgstr "인도"
 
 # MT-20
 msgid "Isla"
-msgstr ""
+msgstr "아이스랜드"
 
 # MT-21
 msgid "Kalkara"
-msgstr ""
+msgstr "캔사스"
 
 # MT-22
 msgid "Kerċem"
@@ -12080,87 +12086,87 @@ msgstr ""
 
 # MT-23
 msgid "Kirkop"
-msgstr ""
+msgstr "자이레"
 
 # MT-24
 msgid "Lija"
-msgstr ""
+msgstr "라이베리아"
 
 # MT-25
 msgid "Luqa"
-msgstr ""
+msgstr "루이지아나"
 
 # MT-26
 msgid "Marsa"
-msgstr ""
+msgstr "말레이시아"
 
 # MT-27
 msgid "Marsaskala"
-msgstr ""
+msgstr "알라스카"
 
 # MT-28
 msgid "Marsaxlokk"
-msgstr ""
+msgstr "알라스카"
 
 # MT-29
 msgid "Mdina"
-msgstr ""
+msgstr "인디아나"
 
 # MT-30
 msgid "Mellieħa"
-msgstr ""
+msgstr "알라스카"
 
 # MT-31
 msgid "Mġarr"
-msgstr ""
+msgstr "말리"
 
 # MT-32
 msgid "Mosta"
-msgstr ""
+msgstr "오스트리아"
 
 # MT-33
 msgid "Mqabba"
-msgstr ""
+msgstr "마다가스카르"
 
 # MT-34
 msgid "Msida"
-msgstr ""
+msgstr "말레이시아"
 
 # MT-35
 msgid "Mtarfa"
-msgstr ""
+msgstr "몬타나"
 
 # MT-36
 msgid "Munxar"
-msgstr ""
+msgstr "몬타나"
 
 # MT-37
 msgid "Nadur"
-msgstr ""
+msgstr "나우루"
 
 # MT-38
 msgid "Naxxar"
-msgstr ""
+msgstr "네바다"
 
 # MT-39
 msgid "Paola"
-msgstr ""
+msgstr "몰도바"
 
 # MT-40
 msgid "Pembroke"
-msgstr ""
+msgstr "버몬트"
 
 # MT-41
 msgid "Pietà"
-msgstr ""
+msgstr "예멘"
 
 # MT-42
 msgid "Qala"
-msgstr ""
+msgstr "알라바마"
 
 # MT-43
 msgid "Qormi"
-msgstr ""
+msgstr "로그인"
 
 # MT-44
 msgid "Qrendi"
@@ -12176,19 +12182,19 @@ msgstr ""
 
 # MT-47
 msgid "Safi"
-msgstr ""
+msgstr "스페인"
 
 # MT-48
 msgid "San Ġiljan"
-msgstr ""
+msgstr "수리남"
 
 # MT-49
 msgid "San Ġwann"
-msgstr ""
+msgstr "수리남"
 
 # MT-50
 msgid "San Lawrenz"
-msgstr ""
+msgstr "수리남"
 
 # MT-51
 msgid "San Pawl il-Baħar"
@@ -12196,15 +12202,15 @@ msgstr ""
 
 # MT-52
 msgid "Sannat"
-msgstr ""
+msgstr "사모아"
 
 # MT-53
 msgid "Santa Luċija"
-msgstr ""
+msgstr "수리남"
 
 # MT-54
 msgid "Santa Venera"
-msgstr ""
+msgstr "몬타나"
 
 # MT-55
 msgid "Siġġiewi"
@@ -12212,7 +12218,7 @@ msgstr ""
 
 # MT-56
 msgid "Sliema"
-msgstr ""
+msgstr "소말리아"
 
 # MT-57
 msgid "Swieqi"
@@ -12224,15 +12230,15 @@ msgstr ""
 
 # MT-59
 msgid "Tarxien"
-msgstr ""
+msgstr "통고"
 
 # MT-60
 msgid "Valletta"
-msgstr ""
+msgstr "슬로베니아"
 
 # MT-61
 msgid "Xagħra"
-msgstr ""
+msgstr "알제리"
 
 # MT-62
 msgid "Xewkija"
@@ -12244,7 +12250,7 @@ msgstr ""
 
 # MT-64
 msgid "Żabbar"
-msgstr ""
+msgstr "알라바마"
 
 # MT-65
 msgid "Żebbuġ Għawdex"
@@ -12292,7 +12298,7 @@ msgstr ""
 
 # MU-MO
 msgid "Moka"
-msgstr ""
+msgstr "모나코"
 
 # MU-PA
 msgid "Pamplemousses"
@@ -12336,7 +12342,7 @@ msgstr ""
 
 # MV-01
 msgid "Seenu"
-msgstr ""
+msgstr "스웨덴"
 
 # MV-02
 msgid "Alifu Alifu"
@@ -12344,7 +12350,7 @@ msgstr ""
 
 # MV-03
 msgid "Lhaviyani"
-msgstr ""
+msgstr "라트비아"
 
 # MV-04
 msgid "Vaavu"
@@ -12360,7 +12366,7 @@ msgstr ""
 
 # MV-08
 msgid "Thaa"
-msgstr ""
+msgstr "태국"
 
 # MV-12
 msgid "Meemu"
@@ -12380,7 +12386,7 @@ msgstr ""
 
 # MV-20
 msgid "Baa"
-msgstr ""
+msgstr "바레인"
 
 # MV-23
 msgid "Haa Dhaalu"
@@ -12392,7 +12398,7 @@ msgstr ""
 
 # MV-25
 msgid "Noonu"
-msgstr ""
+msgstr "없음"
 
 # MV-26
 msgid "Kaafu"
@@ -12412,15 +12418,15 @@ msgstr ""
 
 # MV-CE
 msgid "Central"
-msgstr ""
+msgstr "캐나다"
 
 # MV-MLE
 msgid "Male"
-msgstr ""
+msgstr "말리"
 
 # MV-NC
 msgid "North Central"
-msgstr ""
+msgstr "노르웨이"
 
 # MV-NO
 msgid "North"
@@ -12428,7 +12434,7 @@ msgstr ""
 
 # MV-SC
 msgid "South Central"
-msgstr ""
+msgstr "호주"
 
 # MV-SU
 msgid "South"
@@ -12440,11 +12446,11 @@ msgstr ""
 
 # MV-US
 msgid "Upper South"
-msgstr ""
+msgstr "하이티"
 
 # MW-BA
 msgid "Balaka"
-msgstr ""
+msgstr "알라스카"
 
 # MW-BL
 msgid "Blantyre"
@@ -12452,11 +12458,11 @@ msgstr ""
 
 # MW-C
 msgid "Central Region"
-msgstr ""
+msgstr "캐나다"
 
 # MW-CK
 msgid "Chikwawa"
-msgstr ""
+msgstr "중국"
 
 # MW-CR
 msgid "Chiradzulu"
@@ -12464,7 +12470,7 @@ msgstr ""
 
 # MW-CT
 msgid "Chitipa"
-msgstr ""
+msgstr "중국"
 
 # MW-DE
 msgid "Dedza"
@@ -12472,11 +12478,11 @@ msgstr ""
 
 # MW-DO
 msgid "Dowa"
-msgstr ""
+msgstr "노르웨이"
 
 # MW-KR
 msgid "Karonga"
-msgstr ""
+msgstr "통가"
 
 # MW-KS
 msgid "Kasungu"
@@ -12488,19 +12494,19 @@ msgstr ""
 
 # MW-LK
 msgid "Likoma"
-msgstr ""
+msgstr "폴란드"
 
 # MW-MC
 msgid "Mchinji"
-msgstr ""
+msgstr "미시간"
 
 # MW-MG
 msgid "Mangochi"
-msgstr ""
+msgstr "몽골라"
 
 # MW-MH
 msgid "Machinga"
-msgstr ""
+msgstr "미시간"
 
 # MW-MU
 msgid "Mulanje"
@@ -12508,7 +12514,7 @@ msgstr ""
 
 # MW-MW
 msgid "Mwanza"
-msgstr ""
+msgstr "몬타나"
 
 # MW-MZ
 msgid "Mzimba"
@@ -12516,7 +12522,7 @@ msgstr ""
 
 # MW-N
 msgid "Northern Region"
-msgstr ""
+msgstr "네덜란드"
 
 # MW-NB
 msgid "Nkhata Bay"
@@ -12536,7 +12542,7 @@ msgstr ""
 
 # MW-NS
 msgid "Nsanje"
-msgstr ""
+msgstr "없음"
 
 # MW-NU
 msgid "Ntcheu"
@@ -12544,7 +12550,7 @@ msgstr ""
 
 # MW-PH
 msgid "Phalombe"
-msgstr ""
+msgstr "콜롬비아"
 
 # MW-RU
 msgid "Rumphi"
@@ -12552,19 +12558,19 @@ msgstr ""
 
 # MW-S
 msgid "Southern Region"
-msgstr ""
+msgstr "남아프리카"
 
 # MW-SA
 msgid "Salima"
-msgstr ""
+msgstr "소말리아"
 
 # MW-TH
 msgid "Thyolo"
-msgstr ""
+msgstr "통고"
 
 # MW-ZO
 msgid "Zomba"
-msgstr ""
+msgstr "잠비아"
 
 # MX-AGU
 msgid "Aguascalientes"
@@ -12572,11 +12578,11 @@ msgstr ""
 
 # MX-BCN
 msgid "Baja California"
-msgstr ""
+msgstr "캘리포니아"
 
 # MX-BCS
 msgid "Baja California Sur"
-msgstr ""
+msgstr "캘리포니아"
 
 # MX-CAM
 msgid "Campeche"
@@ -12584,11 +12590,11 @@ msgstr ""
 
 # MX-CHH
 msgid "Chihuahua"
-msgstr ""
+msgstr "중국"
 
 # MX-CHP
 msgid "Chiapas"
-msgstr ""
+msgstr "중국"
 
 # MX-CMX
 msgid "Ciudad de México"
@@ -12600,7 +12606,7 @@ msgstr ""
 
 # MX-COL
 msgid "Colima"
-msgstr ""
+msgstr "콜롬비아"
 
 # MX-DUR
 msgid "Durango"
@@ -12624,15 +12630,15 @@ msgstr ""
 
 # MX-MEX
 msgid "México"
-msgstr ""
+msgstr "멕시코"
 
 # MX-MIC
 msgid "Michoacán de Ocampo"
-msgstr ""
+msgstr "미시간"
 
 # MX-MOR
 msgid "Morelos"
-msgstr ""
+msgstr "몰도바"
 
 # MX-NAY
 msgid "Nayarit"
@@ -12640,15 +12646,15 @@ msgstr ""
 
 # MX-NLE
 msgid "Nuevo León"
-msgstr ""
+msgstr "레바논"
 
 # MX-OAX
 msgid "Oaxaca"
-msgstr ""
+msgstr "자메이카"
 
 # MX-PUE
 msgid "Puebla"
-msgstr ""
+msgstr "쿠바"
 
 # MX-QUE
 msgid "Querétaro"
@@ -12660,7 +12666,7 @@ msgstr ""
 
 # MX-SIN
 msgid "Sinaloa"
-msgstr ""
+msgstr "사모아"
 
 # MX-SLP
 msgid "San Luis Potosí"
@@ -12668,7 +12674,7 @@ msgstr ""
 
 # MX-SON
 msgid "Sonora"
-msgstr ""
+msgstr "안도라"
 
 # MX-TAB
 msgid "Tabasco"
@@ -12688,7 +12694,7 @@ msgstr ""
 
 # MX-YUC
 msgid "Yucatán"
-msgstr ""
+msgstr "부탄"
 
 # MX-ZAC
 msgid "Zacatecas"
@@ -12700,15 +12706,15 @@ msgstr ""
 
 # MY-02
 msgid "Kedah"
-msgstr ""
+msgstr "케냐"
 
 # MY-03
 msgid "Kelantan"
-msgstr ""
+msgstr "케냐"
 
 # MY-04
 msgid "Melaka"
-msgstr ""
+msgstr "알라스카"
 
 # MY-05
 msgid "Negeri Sembilan"
@@ -12716,7 +12722,7 @@ msgstr ""
 
 # MY-06
 msgid "Pahang"
-msgstr ""
+msgstr "바레인"
 
 # MY-07
 msgid "Pulau Pinang"
@@ -12724,11 +12730,11 @@ msgstr ""
 
 # MY-08
 msgid "Perak"
-msgstr ""
+msgstr "페루"
 
 # MY-09
 msgid "Perlis"
-msgstr ""
+msgstr "페루"
 
 # MY-10
 msgid "Selangor"
@@ -12740,7 +12746,7 @@ msgstr ""
 
 # MY-12
 msgid "Sabah"
-msgstr ""
+msgstr "사모아"
 
 # MY-13
 msgid "Sarawak"
@@ -12760,15 +12766,15 @@ msgstr ""
 
 # MZ-A
 msgid "Niassa"
-msgstr ""
+msgstr "나이지리아"
 
 # MZ-B
 msgid "Manica"
-msgstr ""
+msgstr "마케도니아"
 
 # MZ-G
 msgid "Gaza"
-msgstr ""
+msgstr "가나"
 
 # MZ-I
 msgid "Inhambane"
@@ -12788,19 +12794,19 @@ msgstr ""
 
 # MZ-P
 msgid "Cabo Delgado"
-msgstr ""
+msgstr "콜로라도"
 
 # MZ-Q
 msgid "Zambezia"
-msgstr ""
+msgstr "잠비아"
 
 # MZ-S
 msgid "Sofala"
-msgstr ""
+msgstr "소말리아"
 
 # MZ-T
 msgid "Tete"
-msgstr ""
+msgstr "테마"
 
 # NA-CA
 msgid "Caprivi"
@@ -12808,7 +12814,7 @@ msgstr ""
 
 # NA-ER
 msgid "Erongo"
-msgstr ""
+msgstr "콩고"
 
 # NA-HA
 msgid "Hardap"
@@ -12816,11 +12822,11 @@ msgstr ""
 
 # NA-KA
 msgid "Karas"
-msgstr ""
+msgstr "캔사스"
 
 # NA-KH
 msgid "Khomas"
-msgstr ""
+msgstr "파나마"
 
 # NA-KU
 msgid "Kunene"
@@ -12840,7 +12846,7 @@ msgstr ""
 
 # NA-ON
 msgid "Oshana"
-msgstr ""
+msgstr "가나"
 
 # NA-OS
 msgid "Omusati"
@@ -12848,7 +12854,7 @@ msgstr ""
 
 # NA-OT
 msgid "Oshikoto"
-msgstr ""
+msgstr "오하이오"
 
 # NA-OW
 msgid "Ohangwena"
@@ -12868,7 +12874,7 @@ msgstr ""
 
 # NE-4
 msgid "Maradi"
-msgstr ""
+msgstr "바레인"
 
 # NE-5
 msgid "Tahoua"
@@ -12876,7 +12882,7 @@ msgstr ""
 
 # NE-6
 msgid "Tillabéri"
-msgstr ""
+msgstr "라이베리아"
 
 # NE-7
 msgid "Zinder"
@@ -12888,7 +12894,7 @@ msgstr ""
 
 # NG-AB
 msgid "Abia"
-msgstr ""
+msgstr "알바니아"
 
 # NG-AD
 msgid "Adamawa"
@@ -12900,11 +12906,11 @@ msgstr ""
 
 # NG-AN
 msgid "Anambra"
-msgstr ""
+msgstr "잠비아"
 
 # NG-BA
 msgid "Bauchi"
-msgstr ""
+msgstr "바레인"
 
 # NG-BE
 msgid "Benue"
@@ -12912,7 +12918,7 @@ msgstr ""
 
 # NG-BO
 msgid "Borno"
-msgstr ""
+msgstr "콩고"
 
 # NG-BY
 msgid "Bayelsa"
@@ -12928,15 +12934,15 @@ msgstr ""
 
 # NG-EB
 msgid "Ebonyi"
-msgstr ""
+msgstr "에스토니아"
 
 # NG-ED
 msgid "Edo"
-msgstr ""
+msgstr "에콰도르"
 
 # NG-EK
 msgid "Ekiti"
-msgstr ""
+msgstr "하이티"
 
 # NG-EN
 msgid "Enugu"
@@ -12960,7 +12966,7 @@ msgstr ""
 
 # NG-KD
 msgid "Kaduna"
-msgstr ""
+msgstr "캔사스"
 
 # NG-KE
 msgid "Kebbi"
@@ -12968,15 +12974,15 @@ msgstr ""
 
 # NG-KN
 msgid "Kano"
-msgstr ""
+msgstr "캔사스"
 
 # NG-KO
 msgid "Kogi"
-msgstr ""
+msgstr "로그인"
 
 # NG-KT
 msgid "Katsina"
-msgstr ""
+msgstr "라트비아"
 
 # NG-KW
 msgid "Kwara"
@@ -12996,7 +13002,7 @@ msgstr "니제르"
 
 # NG-OG
 msgid "Ogun"
-msgstr ""
+msgstr "오레곤"
 
 # NG-ON
 msgid "Ondo"
@@ -13012,7 +13018,7 @@ msgstr ""
 
 # NG-PL
 msgid "Plateau"
-msgstr ""
+msgstr "파키스탄"
 
 # NG-RI
 msgid "Rivers"
@@ -13032,19 +13038,19 @@ msgstr ""
 
 # NG-ZA
 msgid "Zamfara"
-msgstr ""
+msgstr "잠비아"
 
 # NI-AN
 msgid "Atlántico Norte"
-msgstr ""
+msgstr "알바니아"
 
 # NI-AS
 msgid "Atlántico Sur"
-msgstr ""
+msgstr "알바니아"
 
 # NI-BO
 msgid "Boaco"
-msgstr ""
+msgstr "모나코"
 
 # NI-CA
 msgid "Carazo"
@@ -13052,7 +13058,7 @@ msgstr ""
 
 # NI-CI
 msgid "Chinandega"
-msgstr ""
+msgstr "중국"
 
 # NI-CO
 msgid "Chontales"
@@ -13060,11 +13066,11 @@ msgstr ""
 
 # NI-ES
 msgid "Estelí"
-msgstr ""
+msgstr "에스토니아"
 
 # NI-GR
 msgid "Granada"
-msgstr ""
+msgstr "가나"
 
 # NI-JI
 msgid "Jinotega"
@@ -13072,23 +13078,23 @@ msgstr ""
 
 # NI-LE
 msgid "León"
-msgstr ""
+msgstr "레바논"
 
 # NI-MD
 msgid "Madriz"
-msgstr ""
+msgstr "말리"
 
 # NI-MN
 msgid "Managua"
-msgstr ""
+msgstr "파라과이"
 
 # NI-MS
 msgid "Masaya"
-msgstr ""
+msgstr "말레이시아"
 
 # NI-MT
 msgid "Matagalpa"
-msgstr ""
+msgstr "마다가스카르"
 
 # NI-NS
 msgid "Nueva Segovia"
@@ -13108,15 +13114,15 @@ msgstr "아루바"
 
 # NL-BQ1
 msgid "Bonaire"
-msgstr ""
+msgstr "자이레"
 
 # NL-BQ2
 msgid "Saba"
-msgstr ""
+msgstr "사모아"
 
 # NL-BQ3
 msgid "Sint Eustatius"
-msgstr ""
+msgstr "수리남"
 
 # NL-CW
 msgid "Curaçao"
@@ -13124,19 +13130,19 @@ msgstr "퀴라소"
 
 # NL-DR
 msgid "Drenthe"
-msgstr ""
+msgstr "오레곤"
 
 # NL-FL
 msgid "Flevoland"
-msgstr ""
+msgstr "폴란드"
 
 # NL-FR
 msgid "Friesland"
-msgstr ""
+msgstr "핀란드"
 
 # NL-GE
 msgid "Gelderland"
-msgstr ""
+msgstr "그린랜드"
 
 # NL-GR
 msgid "Groningen"
@@ -13144,7 +13150,7 @@ msgstr ""
 
 # NL-LI
 msgid "Limburg"
-msgstr ""
+msgstr "라이베리아"
 
 # NL-NB
 msgid "Noord-Brabant"
@@ -13160,7 +13166,7 @@ msgstr ""
 
 # NL-SX
 msgid "Sint Maarten"
-msgstr ""
+msgstr "수리남"
 
 # NL-UT
 msgid "Utrecht"
@@ -13168,7 +13174,7 @@ msgstr ""
 
 # NL-ZE
 msgid "Zeeland"
-msgstr ""
+msgstr "그린랜드"
 
 # NL-ZH
 msgid "Zuid-Holland"
@@ -13188,15 +13194,15 @@ msgstr ""
 
 # NO-04
 msgid "Hedmark"
-msgstr ""
+msgstr "덴마크"
 
 # NO-05
 msgid "Oppland"
-msgstr ""
+msgstr "폴란드"
 
 # NO-06
 msgid "Buskerud"
-msgstr ""
+msgstr "버뮤다"
 
 # NO-07
 msgid "Vestfold"
@@ -13204,7 +13210,7 @@ msgstr ""
 
 # NO-08
 msgid "Telemark"
-msgstr ""
+msgstr "덴마크"
 
 # NO-09
 msgid "Aust-Agder"
@@ -13216,11 +13222,11 @@ msgstr ""
 
 # NO-11
 msgid "Rogaland"
-msgstr ""
+msgstr "폴란드"
 
 # NO-12
 msgid "Hordaland"
-msgstr ""
+msgstr "폴란드"
 
 # NO-14
 msgid "Sogn og Fjordane"
@@ -13240,7 +13246,7 @@ msgstr ""
 
 # NO-18
 msgid "Nordland"
-msgstr ""
+msgstr "요르단"
 
 # NO-19
 msgid "Troms"
@@ -13248,7 +13254,7 @@ msgstr ""
 
 # NO-20
 msgid "Finnmark"
-msgstr ""
+msgstr "덴마크"
 
 # NO-21
 msgid "Svalbard (Arctic Region)"
@@ -13260,7 +13266,7 @@ msgstr ""
 
 # NP-1
 msgid "Madhyamanchal"
-msgstr ""
+msgstr "마다가스카르"
 
 # NP-2
 msgid "Madhya Pashchimanchal"
@@ -13280,11 +13286,11 @@ msgstr ""
 
 # NP-BA
 msgid "Bagmati"
-msgstr ""
+msgstr "말리"
 
 # NP-BH
 msgid "Bheri"
-msgstr ""
+msgstr "바레인"
 
 # NP-DH
 msgid "Dhawalagiri"
@@ -13292,7 +13298,7 @@ msgstr ""
 
 # NP-GA
 msgid "Gandaki"
-msgstr ""
+msgstr "가나"
 
 # NP-JA
 msgid "Janakpur"
@@ -13300,67 +13306,67 @@ msgstr ""
 
 # NP-KA
 msgid "Karnali"
-msgstr ""
+msgstr "캐나다"
 
 # NP-KO
 msgid "Kosi"
-msgstr ""
+msgstr "로그인"
 
 # NP-LU
 msgid "Lumbini"
-msgstr ""
+msgstr "인도"
 
 # NP-MA
 msgid "Mahakali"
-msgstr ""
+msgstr "알라스카"
 
 # NP-ME
 msgid "Mechi"
-msgstr ""
+msgstr "미시간"
 
 # NP-NA
 msgid "Narayani"
-msgstr ""
+msgstr "나우루"
 
 # NP-RA
 msgid "Rapti"
-msgstr ""
+msgstr "하이티"
 
 # NP-SA
 msgid "Sagarmatha"
-msgstr ""
+msgstr "사모아"
 
 # NP-SE
 msgid "Seti"
-msgstr ""
+msgstr "하이티"
 
 # NR-01
 msgid "Aiwo"
-msgstr ""
+msgstr "안도라"
 
 # NR-02
 msgid "Anabar"
-msgstr ""
+msgstr "알라바마"
 
 # NR-03
 msgid "Anetan"
-msgstr ""
+msgstr "오스트리아"
 
 # NR-04
 msgid "Anibare"
-msgstr ""
+msgstr "알라바마"
 
 # NR-05
 msgid "Baiti"
-msgstr ""
+msgstr "말리"
 
 # NR-06
 msgid "Boe"
-msgstr ""
+msgstr "브라질"
 
 # NR-07
 msgid "Buada"
-msgstr ""
+msgstr "버뮤다"
 
 # NR-08
 msgid "Denigomodu"
@@ -13376,23 +13382,23 @@ msgstr ""
 
 # NR-11
 msgid "Meneng"
-msgstr ""
+msgstr "스웨덴"
 
 # NR-12
 msgid "Nibok"
-msgstr ""
+msgstr "나미비아"
 
 # NR-13
 msgid "Uaboe"
-msgstr ""
+msgstr "가봉"
 
 # NR-14
 msgid "Yaren"
-msgstr ""
+msgstr "바레인"
 
 # NZ-AUK
 msgid "Auckland"
-msgstr ""
+msgstr "아이스랜드"
 
 # NZ-BOP
 msgid "Bay of Plenty"
@@ -13408,7 +13414,7 @@ msgstr ""
 
 # NZ-GIS
 msgid "Gisborne District"
-msgstr ""
+msgstr "가봉"
 
 # NZ-HKB
 msgid "Hawke's Bay"
@@ -13424,31 +13430,31 @@ msgstr ""
 
 # NZ-N
 msgid "North Island"
-msgstr ""
+msgstr "네덜란드"
 
 # NZ-NSN
 msgid "Nelson City"
-msgstr ""
+msgstr "없음"
 
 # NZ-NTL
 msgid "Northland"
-msgstr ""
+msgstr "네덜란드"
 
 # NZ-OTA
 msgid "Otago"
-msgstr ""
+msgstr "온타리오"
 
 # NZ-S
 msgid "South Island"
-msgstr ""
+msgstr "폴란드"
 
 # NZ-STL
 msgid "Southland"
-msgstr ""
+msgstr "폴란드"
 
 # NZ-TAS
 msgid "Tasman District"
-msgstr ""
+msgstr "자메이카"
 
 # NZ-TKI
 msgid "Taranaki"
@@ -13456,11 +13462,11 @@ msgstr ""
 
 # NZ-WGN
 msgid "Wellington"
-msgstr ""
+msgstr "워싱턴"
 
 # NZ-WKO
 msgid "Waikato"
-msgstr ""
+msgstr "쿠웨이트"
 
 # NZ-WTC
 msgid "West Coast"
@@ -13468,11 +13474,11 @@ msgstr ""
 
 # OM-BA
 msgid "Al Bāţinah"
-msgstr ""
+msgstr "알라스카"
 
 # OM-BU
 msgid "Al Buraymī"
-msgstr ""
+msgstr "알라스카"
 
 # OM-DA
 msgid "Ad Dākhilīya"
@@ -13492,11 +13498,11 @@ msgstr ""
 
 # OM-WU
 msgid "Al Wusţá"
-msgstr ""
+msgstr "오스트리아"
 
 # OM-ZA
 msgid "Az̧ Z̧āhirah"
-msgstr ""
+msgstr "알라스카"
 
 # OM-ZU
 msgid "Z̧ufār"
@@ -13508,11 +13514,11 @@ msgstr ""
 
 # PA-2
 msgid "Coclé"
-msgstr ""
+msgstr "닫기"
 
 # PA-3
 msgid "Colón"
-msgstr ""
+msgstr "콜롬비아"
 
 # PA-4
 msgid "Chiriquí"
@@ -13520,7 +13526,7 @@ msgstr ""
 
 # PA-5
 msgid "Darién"
-msgstr ""
+msgstr "바레인"
 
 # PA-6
 msgid "Herrera"
@@ -13532,11 +13538,11 @@ msgstr ""
 
 # PA-8
 msgid "Panamá"
-msgstr ""
+msgstr "파나마"
 
 # PA-9
 msgid "Veraguas"
-msgstr ""
+msgstr "파라과이"
 
 # PA-EM
 msgid "Emberá"
@@ -13544,7 +13550,7 @@ msgstr ""
 
 # PA-KY
 msgid "Kuna Yala"
-msgstr ""
+msgstr "캔사스"
 
 # PA-NB
 msgid "Ngöbe-Buglé"
@@ -13552,7 +13558,7 @@ msgstr ""
 
 # PE-AMA
 msgid "Amazonas"
-msgstr ""
+msgstr "아리조나"
 
 # PE-ANC
 msgid "Ancash"
@@ -13560,11 +13566,11 @@ msgstr ""
 
 # PE-APU
 msgid "Apurímac"
-msgstr ""
+msgstr "오스트리아"
 
 # PE-ARE
 msgid "Arequipa"
-msgstr ""
+msgstr "아르메니아"
 
 # PE-AYA
 msgid "Ayacucho"
@@ -13572,7 +13578,7 @@ msgstr ""
 
 # PE-CAJ
 msgid "Cajamarca"
-msgstr ""
+msgstr "자메이카"
 
 # PE-CAL
 msgid "El Callao"
@@ -13592,7 +13598,7 @@ msgstr ""
 
 # PE-ICA
 msgid "Ica"
-msgstr ""
+msgstr "아이스랜드"
 
 # PE-JUN
 msgid "Junín"
@@ -13600,15 +13606,15 @@ msgstr ""
 
 # PE-LAL
 msgid "La Libertad"
-msgstr ""
+msgstr "라이베리아"
 
 # PE-LAM
 msgid "Lambayeque"
-msgstr ""
+msgstr "모잠비크"
 
 # PE-LIM
 msgid "Lima"
-msgstr ""
+msgstr "라트비아"
 
 # PE-LMA
 msgid "Municipalidad Metropolitana de Lima"
@@ -13640,15 +13646,15 @@ msgstr ""
 
 # PE-SAM
 msgid "San Martín"
-msgstr ""
+msgstr "수리남"
 
 # PE-TAC
 msgid "Tacna"
-msgstr ""
+msgstr "통가"
 
 # PE-TUM
 msgid "Tumbes"
-msgstr ""
+msgstr "테마"
 
 # PE-UCA
 msgid "Ucayali"
@@ -13660,7 +13666,7 @@ msgstr ""
 
 # PG-CPM
 msgid "Central"
-msgstr ""
+msgstr "캐나다"
 
 # PG-EBR
 msgid "East New Britain"
@@ -13672,11 +13678,11 @@ msgstr ""
 
 # PG-EPW
 msgid "Enga"
-msgstr ""
+msgstr "통가"
 
 # PG-ESW
 msgid "East Sepik"
-msgstr ""
+msgstr "동티모르"
 
 # PG-GPK
 msgid "Gulf"
@@ -13688,11 +13694,11 @@ msgstr ""
 
 # PG-MPL
 msgid "Morobe"
-msgstr ""
+msgstr "모로코"
 
 # PG-MPM
 msgid "Madang"
-msgstr ""
+msgstr "마다가스카르"
 
 # PG-MRL
 msgid "Manus"
@@ -13704,23 +13710,23 @@ msgstr ""
 
 # PG-NIK
 msgid "New Ireland"
-msgstr ""
+msgstr "뉴질랜드"
 
 # PG-NPP
 msgid "Northern"
-msgstr ""
+msgstr "네덜란드"
 
 # PG-NSB
 msgid "Bougainville"
-msgstr ""
+msgstr "브라질"
 
 # PG-SAN
 msgid "Sandaun"
-msgstr ""
+msgstr "수단"
 
 # PG-SHM
 msgid "Southern Highlands"
-msgstr ""
+msgstr "네덜란드"
 
 # PG-WBK
 msgid "West New Britain"
@@ -13728,11 +13734,11 @@ msgstr ""
 
 # PG-WHM
 msgid "Western Highlands"
-msgstr ""
+msgstr "네덜란드"
 
 # PG-WPD
 msgid "Western"
-msgstr ""
+msgstr "예멘"
 
 # PH-00
 msgid "National Capital Region"
@@ -13744,11 +13750,11 @@ msgstr ""
 
 # PH-02
 msgid "Cagayan Valley (Region II)"
-msgstr ""
+msgstr "캐나다"
 
 # PH-03
 msgid "Central Luzon (Region III)"
-msgstr ""
+msgstr "캐나다"
 
 # PH-05
 msgid "Bicol (Region V)"
@@ -13756,15 +13762,15 @@ msgstr ""
 
 # PH-06
 msgid "Western Visayas (Region VI)"
-msgstr ""
+msgstr "호주"
 
 # PH-07
 msgid "Central Visayas (Region VII)"
-msgstr ""
+msgstr "캐나다"
 
 # PH-08
 msgid "Eastern Visayas (Region VIII)"
-msgstr ""
+msgstr "동티모르"
 
 # PH-09
 msgid "Zamboanga Peninsula (Region IX)"
@@ -13772,11 +13778,11 @@ msgstr ""
 
 # PH-10
 msgid "Northern Mindanao (Region X)"
-msgstr ""
+msgstr "네덜란드"
 
 # PH-11
 msgid "Davao (Region XI)"
-msgstr ""
+msgstr "캐나다"
 
 # PH-12
 msgid "Soccsksargen (Region XII)"
@@ -13784,7 +13790,7 @@ msgstr ""
 
 # PH-13
 msgid "Caraga (Region XIII)"
-msgstr ""
+msgstr "캐나다"
 
 # PH-14
 msgid "Autonomous Region in Muslim Mindanao (ARMM)"
@@ -13816,11 +13822,11 @@ msgstr ""
 
 # PH-AKL
 msgid "Aklan"
-msgstr ""
+msgstr "알바니아"
 
 # PH-ALB
 msgid "Albay"
-msgstr ""
+msgstr "알라바마"
 
 # PH-ANT
 msgid "Antique"
@@ -13828,19 +13834,19 @@ msgstr ""
 
 # PH-APA
 msgid "Apayao"
-msgstr ""
+msgstr "알라스카"
 
 # PH-AUR
 msgid "Aurora"
-msgstr ""
+msgstr "안도라"
 
 # PH-BAN
 msgid "Batasn"
-msgstr ""
+msgstr "부탄"
 
 # PH-BAS
 msgid "Basilan"
-msgstr ""
+msgstr "태국"
 
 # PH-BEN
 msgid "Benguet"
@@ -13848,7 +13854,7 @@ msgstr ""
 
 # PH-BIL
 msgid "Biliran"
-msgstr ""
+msgstr "태국"
 
 # PH-BOH
 msgid "Bohol"
@@ -13856,11 +13862,11 @@ msgstr ""
 
 # PH-BTG
 msgid "Batangas"
-msgstr ""
+msgstr "방글라데시"
 
 # PH-BTN
 msgid "Batanes"
-msgstr ""
+msgstr "부탄"
 
 # PH-BUK
 msgid "Bukidnon"
@@ -13868,11 +13874,11 @@ msgstr ""
 
 # PH-BUL
 msgid "Bulacan"
-msgstr ""
+msgstr "불가리아"
 
 # PH-CAG
 msgid "Cagayan"
-msgstr ""
+msgstr "캐나다"
 
 # PH-CAM
 msgid "Camiguin"
@@ -13920,15 +13926,15 @@ msgstr ""
 
 # PH-DIN
 msgid "Dinagat Islands"
-msgstr ""
+msgstr "핀란드"
 
 # PH-EAS
 msgid "Eastern Samar"
-msgstr ""
+msgstr "동티모르"
 
 # PH-GUI
 msgid "Guimaras"
-msgstr ""
+msgstr "괌"
 
 # PH-IFU
 msgid "Ifugao"
@@ -13948,7 +13954,7 @@ msgstr ""
 
 # PH-ISA
 msgid "Isabela"
-msgstr ""
+msgstr "이스라엘"
 
 # PH-KAL
 msgid "Kalinga-Apayso"
@@ -13972,11 +13978,11 @@ msgstr ""
 
 # PH-LUN
 msgid "La Union"
-msgstr ""
+msgstr "말리"
 
 # PH-MAD
 msgid "Marinduque"
-msgstr ""
+msgstr "모잠비크"
 
 # PH-MAG
 msgid "Maguindanao"
@@ -13996,11 +14002,11 @@ msgstr ""
 
 # PH-MOU
 msgid "Mountain Province"
-msgstr ""
+msgstr "시/도"
 
 # PH-MSC
 msgid "Misamis Occidental"
-msgstr ""
+msgstr "메일 클라이언트"
 
 # PH-MSR
 msgid "Misamis Oriental"
@@ -14012,7 +14018,7 @@ msgstr ""
 
 # PH-NEC
 msgid "Negros Occidental"
-msgstr ""
+msgstr "메일 클라이언트"
 
 # PH-NER
 msgid "Negros Oriental"
@@ -14032,15 +14038,15 @@ msgstr ""
 
 # PH-PAM
 msgid "Pampanga"
-msgstr ""
+msgstr "파라과이"
 
 # PH-PAN
 msgid "Pangasinan"
-msgstr ""
+msgstr "팡가시난어"
 
 # PH-PLW
 msgid "Palawan"
-msgstr ""
+msgstr "파나마"
 
 # PH-QUE
 msgid "Quezon"
@@ -14060,7 +14066,7 @@ msgstr ""
 
 # PH-SAR
 msgid "Sarangani"
-msgstr ""
+msgstr "사모아"
 
 # PH-SCO
 msgid "South Cotabato"
@@ -14116,7 +14122,7 @@ msgstr ""
 
 # PH-ZMB
 msgid "Zambales"
-msgstr ""
+msgstr "잠비아"
 
 # PH-ZSI
 msgid "Zamboanga Sibugay"
@@ -14124,7 +14130,7 @@ msgstr ""
 
 # PK-BA
 msgid "Balochistan"
-msgstr ""
+msgstr "불가리아"
 
 # PK-GB
 msgid "Gilgit-Baltistan"
@@ -14144,11 +14150,11 @@ msgstr ""
 
 # PK-PB
 msgid "Punjab"
-msgstr ""
+msgstr "파나마"
 
 # PK-SD
 msgid "Sindh"
-msgstr ""
+msgstr "스웨덴"
 
 # PK-TA
 msgid "Federally Administered Tribal Areas"
@@ -14156,7 +14162,7 @@ msgstr ""
 
 # PL-DS
 msgid "Dolnośląskie"
-msgstr ""
+msgstr "스페인"
 
 # PL-KP
 msgid "Kujawsko-pomorskie"
@@ -14168,7 +14174,7 @@ msgstr ""
 
 # PL-LD
 msgid "Łódzkie"
-msgstr ""
+msgstr "로그인"
 
 # PL-LU
 msgid "Lubelskie"
@@ -14204,7 +14210,7 @@ msgstr ""
 
 # PL-SL
 msgid "Śląskie"
-msgstr ""
+msgstr "스페인"
 
 # PL-WN
 msgid "Warmińsko-mazurskie"
@@ -14228,7 +14234,7 @@ msgstr ""
 
 # PS-GZA
 msgid "Gaza"
-msgstr ""
+msgstr "가나"
 
 # PS-HBN
 msgid "Hebron"
@@ -14256,7 +14262,7 @@ msgstr ""
 
 # PS-NGZ
 msgid "North Gaza"
-msgstr ""
+msgstr "노르웨이"
 
 # PS-QQA
 msgid "Qalqilya"
@@ -14272,7 +14278,7 @@ msgstr ""
 
 # PS-SLT
 msgid "Salfit"
-msgstr ""
+msgstr "사모아"
 
 # PS-TBS
 msgid "Tubas"
@@ -14292,11 +14298,11 @@ msgstr ""
 
 # PT-03
 msgid "Braga"
-msgstr ""
+msgstr "파라과이"
 
 # PT-04
 msgid "Bragança"
-msgstr ""
+msgstr "파라과이"
 
 # PT-05
 msgid "Castelo Branco"
@@ -14304,11 +14310,11 @@ msgstr ""
 
 # PT-06
 msgid "Coimbra"
-msgstr ""
+msgstr "콜롬비아"
 
 # PT-07
 msgid "Évora"
-msgstr ""
+msgstr "K메일"
 
 # PT-08
 msgid "Faro"
@@ -14316,27 +14322,27 @@ msgstr ""
 
 # PT-09
 msgid "Guarda"
-msgstr ""
+msgstr "괌"
 
 # PT-10
 msgid "Leiria"
-msgstr ""
+msgstr "라이베리아"
 
 # PT-11
 msgid "Lisboa"
-msgstr ""
+msgstr "라이베리아"
 
 # PT-12
 msgid "Portalegre"
-msgstr ""
+msgstr "포르투갈"
 
 # PT-13
 msgid "Porto"
-msgstr ""
+msgstr "포르투갈"
 
 # PT-14
 msgid "Santarém"
-msgstr ""
+msgstr "몬타나"
 
 # PT-15
 msgid "Setúbal"
@@ -14364,15 +14370,15 @@ msgstr ""
 
 # PW-002
 msgid "Aimeliik"
-msgstr ""
+msgstr "라이베리아"
 
 # PW-004
 msgid "Airai"
-msgstr ""
+msgstr "나이지리아"
 
 # PW-010
 msgid "Angaur"
-msgstr ""
+msgstr "오스트리아"
 
 # PW-050
 msgid "Hatobohei"
@@ -14380,11 +14386,11 @@ msgstr ""
 
 # PW-100
 msgid "Kayangel"
-msgstr ""
+msgstr "캔사스"
 
 # PW-150
 msgid "Koror"
-msgstr ""
+msgstr "모로코"
 
 # PW-212
 msgid "Melekeok"
@@ -14392,19 +14398,19 @@ msgstr ""
 
 # PW-214
 msgid "Ngaraard"
-msgstr ""
+msgstr "나우루"
 
 # PW-218
 msgid "Ngarchelong"
-msgstr ""
+msgstr "마케도니아"
 
 # PW-222
 msgid "Ngardmau"
-msgstr ""
+msgstr "나우루"
 
 # PW-224
 msgid "Ngatpang"
-msgstr ""
+msgstr "스페인"
 
 # PW-226
 msgid "Ngchesar"
@@ -14416,15 +14422,15 @@ msgstr ""
 
 # PW-228
 msgid "Ngiwal"
-msgstr ""
+msgstr "나이지리아"
 
 # PW-350
 msgid "Peleliu"
-msgstr ""
+msgstr "페루"
 
 # PW-370
 msgid "Sonsorol"
-msgstr ""
+msgstr "안도라"
 
 # PY-1
 msgid "Concepción"
@@ -14432,11 +14438,11 @@ msgstr ""
 
 # PY-10
 msgid "Alto Paraná"
-msgstr ""
+msgstr "파라과이"
 
 # PY-11
 msgid "Central"
-msgstr ""
+msgstr "캐나다"
 
 # PY-12
 msgid "Ñeembucú"
@@ -14444,7 +14450,7 @@ msgstr ""
 
 # PY-13
 msgid "Amambay"
-msgstr ""
+msgstr "잠비아"
 
 # PY-14
 msgid "Canindeyú"
@@ -14456,7 +14462,7 @@ msgstr ""
 
 # PY-16
 msgid "Alto Paraguay"
-msgstr ""
+msgstr "파라과이"
 
 # PY-19
 msgid "Boquerón"
@@ -14472,15 +14478,15 @@ msgstr ""
 
 # PY-4
 msgid "Guairá"
-msgstr ""
+msgstr "잠비아"
 
 # PY-5
 msgid "Caaguazú"
-msgstr ""
+msgstr "파라과이"
 
 # PY-6
 msgid "Caazapá"
-msgstr ""
+msgstr "캐나다"
 
 # PY-7
 msgid "Itapúa"
@@ -14488,11 +14494,11 @@ msgstr ""
 
 # PY-8
 msgid "Misiones"
-msgstr ""
+msgstr "미크로네시아"
 
 # PY-9
 msgid "Paraguarí"
-msgstr ""
+msgstr "파라과이"
 
 # PY-ASU
 msgid "Asunción"
@@ -14520,19 +14526,19 @@ msgstr ""
 
 # QA-WA
 msgid "Al Wakrah"
-msgstr ""
+msgstr "알라스카"
 
 # QA-ZA
 msgid "Az̧ Z̧a‘āyin"
-msgstr ""
+msgstr "알라스카"
 
 # RO-AB
 msgid "Alba"
-msgstr ""
+msgstr "알바니아"
 
 # RO-AG
 msgid "Argeș"
-msgstr ""
+msgstr "아르헨티나"
 
 # RO-AR
 msgid "Arad"
@@ -14540,11 +14546,11 @@ msgstr ""
 
 # RO-B
 msgid "București"
-msgstr ""
+msgstr "불가리아"
 
 # RO-BC
 msgid "Bacău"
-msgstr ""
+msgstr "쿠바"
 
 # RO-BH
 msgid "Bihor"
@@ -14556,7 +14562,7 @@ msgstr ""
 
 # RO-BR
 msgid "Brăila"
-msgstr ""
+msgstr "브라질"
 
 # RO-BT
 msgid "Botoșani"
@@ -14564,7 +14570,7 @@ msgstr ""
 
 # RO-BV
 msgid "Brașov"
-msgstr ""
+msgstr "브라질"
 
 # RO-BZ
 msgid "Buzău"
@@ -14584,15 +14590,15 @@ msgstr ""
 
 # RO-CT
 msgid "Constanța"
-msgstr ""
+msgstr "몬타나"
 
 # RO-CV
 msgid "Covasna"
-msgstr ""
+msgstr "캐나다"
 
 # RO-DB
 msgid "Dâmbovița"
-msgstr ""
+msgstr "캄보디아"
 
 # RO-DJ
 msgid "Dolj"
@@ -14604,7 +14610,7 @@ msgstr ""
 
 # RO-GL
 msgid "Galați"
-msgstr ""
+msgstr "말리"
 
 # RO-GR
 msgid "Giurgiu"
@@ -14612,15 +14618,15 @@ msgstr ""
 
 # RO-HD
 msgid "Hunedoara"
-msgstr ""
+msgstr "안도라"
 
 # RO-HR
 msgid "Harghita"
-msgstr ""
+msgstr "하이티"
 
 # RO-IF
 msgid "Ilfov"
-msgstr ""
+msgstr "슬로베니아"
 
 # RO-IL
 msgid "Ialomița"
@@ -14636,15 +14642,15 @@ msgstr ""
 
 # RO-MM
 msgid "Maramureș"
-msgstr ""
+msgstr "말리"
 
 # RO-MS
 msgid "Mureș"
-msgstr ""
+msgstr "말리"
 
 # RO-NT
 msgid "Neamț"
-msgstr ""
+msgstr "네팔"
 
 # RO-OT
 msgid "Olt"
@@ -14660,7 +14666,7 @@ msgstr ""
 
 # RO-SJ
 msgid "Sălaj"
-msgstr ""
+msgstr "소말리아"
 
 # RO-SM
 msgid "Satu Mare"
@@ -14680,7 +14686,7 @@ msgstr ""
 
 # RO-TR
 msgid "Teleorman"
-msgstr ""
+msgstr "독일"
 
 # RO-VL
 msgid "Vâlcea"
@@ -14688,15 +14694,15 @@ msgstr ""
 
 # RO-VN
 msgid "Vrancea"
-msgstr ""
+msgstr "프랑스"
 
 # RO-VS
 msgid "Vaslui"
-msgstr ""
+msgstr "말리"
 
 # RS-00
 msgid "Beograd"
-msgstr ""
+msgstr "하이티"
 
 # RS-01
 msgid "Severnobački okrug"
@@ -14716,7 +14722,7 @@ msgstr ""
 
 # RS-05
 msgid "Zapadnobački okrug"
-msgstr ""
+msgstr "캐나다"
 
 # RS-06
 msgid "Južnobački okrug"
@@ -14724,7 +14730,7 @@ msgstr ""
 
 # RS-07
 msgid "Sremski okrug"
-msgstr ""
+msgstr "알라스카"
 
 # RS-08
 msgid "Mačvanski okrug"
@@ -14732,7 +14738,7 @@ msgstr ""
 
 # RS-09
 msgid "Kolubarski okrug"
-msgstr ""
+msgstr "알라스카"
 
 # RS-10
 msgid "Podunavski okrug"
@@ -14740,7 +14746,7 @@ msgstr ""
 
 # RS-11
 msgid "Braničevski okrug"
-msgstr ""
+msgstr "알라스카"
 
 # RS-12
 msgid "Šumadijski okrug"
@@ -14748,7 +14754,7 @@ msgstr ""
 
 # RS-13
 msgid "Pomoravski okrug"
-msgstr ""
+msgstr "알라스카"
 
 # RS-14
 msgid "Borski okrug"
@@ -14760,7 +14766,7 @@ msgstr ""
 
 # RS-16
 msgid "Zlatiborski okrug"
-msgstr ""
+msgstr "알제리"
 
 # RS-17
 msgid "Moravički okrug"
@@ -14784,7 +14790,7 @@ msgstr ""
 
 # RS-22
 msgid "Pirotski okrug"
-msgstr ""
+msgstr "알라스카"
 
 # RS-23
 msgid "Jablanički okrug"
@@ -14804,7 +14810,7 @@ msgstr ""
 
 # RS-27
 msgid "Prizrenski okrug"
-msgstr ""
+msgstr "알라스카"
 
 # RS-28
 msgid "Kosovsko-Mitrovački okrug"
@@ -14824,15 +14830,15 @@ msgstr ""
 
 # RU-AD
 msgid "Adygeya, Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-AL
 msgid "Altay, Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-ALT
 msgid "Altayskiy kray"
-msgstr ""
+msgstr "알라스카"
 
 # RU-AMU
 msgid "Amurskaya oblast'"
@@ -14848,7 +14854,7 @@ msgstr ""
 
 # RU-BA
 msgid "Bashkortostan, Respublika"
-msgstr ""
+msgstr "타이완, 중화민국"
 
 # RU-BEL
 msgid "Belgorodskaya oblast'"
@@ -14860,11 +14866,11 @@ msgstr ""
 
 # RU-BU
 msgid "Buryatiya, Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-CE
 msgid "Chechenskaya Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-CHE
 msgid "Chelyabinskaya oblast'"
@@ -14876,11 +14882,11 @@ msgstr ""
 
 # RU-CU
 msgid "Chuvashskaya Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-DA
 msgid "Dagestan, Respublika"
-msgstr ""
+msgstr "타이완, 중화민국"
 
 # RU-IN
 msgid "Respublika Ingushetiya"
@@ -14896,19 +14902,19 @@ msgstr ""
 
 # RU-KAM
 msgid "Kamchatskiy kray"
-msgstr ""
+msgstr "케냐"
 
 # RU-KB
 msgid "Kabardino-Balkarskaya Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-KC
 msgid "Karachayevo-Cherkesskaya Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-KDA
 msgid "Krasnodarskiy kray"
-msgstr ""
+msgstr "캐나다"
 
 # RU-KEM
 msgid "Kemerovskaya oblast'"
@@ -14916,7 +14922,7 @@ msgstr ""
 
 # RU-KGD
 msgid "Kaliningradskaya oblast'"
-msgstr ""
+msgstr "캘리포니아"
 
 # RU-KGN
 msgid "Kurganskaya oblast'"
@@ -14924,7 +14930,7 @@ msgstr ""
 
 # RU-KHA
 msgid "Khabarovskiy kray"
-msgstr ""
+msgstr "알라스카"
 
 # RU-KHM
 msgid "Khanty-Mansiysky avtonomnyy okrug-Yugra"
@@ -14936,11 +14942,11 @@ msgstr ""
 
 # RU-KK
 msgid "Khakasiya, Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-KL
 msgid "Kalmykiya, Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-KLU
 msgid "Kaluzhskaya oblast'"
@@ -14948,7 +14954,7 @@ msgstr ""
 
 # RU-KO
 msgid "Komi, Respublika"
-msgstr ""
+msgstr "도미니카 공화국"
 
 # RU-KOS
 msgid "Kostromskaya oblast'"
@@ -14956,7 +14962,7 @@ msgstr ""
 
 # RU-KR
 msgid "Kareliya, Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-KRS
 msgid "Kurskaya oblast'"
@@ -14964,7 +14970,7 @@ msgstr ""
 
 # RU-KYA
 msgid "Krasnoyarskiy kray"
-msgstr ""
+msgstr "알라스카"
 
 # RU-LEN
 msgid "Leningradskaya oblast'"
@@ -14980,11 +14986,11 @@ msgstr ""
 
 # RU-ME
 msgid "Mariy El, Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-MO
 msgid "Mordoviya, Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-MOS
 msgid "Moskovskaya oblast'"
@@ -14992,7 +14998,7 @@ msgstr ""
 
 # RU-MOW
 msgid "Moskva"
-msgstr ""
+msgstr "몰도바"
 
 # RU-MUR
 msgid "Murmanskaya oblast'"
@@ -15028,7 +15034,7 @@ msgstr ""
 
 # RU-PER
 msgid "Permskiy kray"
-msgstr ""
+msgstr "알라스카"
 
 # RU-PNZ
 msgid "Penzenskaya oblast'"
@@ -15036,7 +15042,7 @@ msgstr ""
 
 # RU-PRI
 msgid "Primorskiy kray"
-msgstr ""
+msgstr "알라스카"
 
 # RU-PSK
 msgid "Pskovskaya oblast'"
@@ -15068,7 +15074,7 @@ msgstr ""
 
 # RU-SE
 msgid "Severnaya Osetiya-Alaniya, Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-SMO
 msgid "Smolenskaya oblast'"
@@ -15080,7 +15086,7 @@ msgstr ""
 
 # RU-STA
 msgid "Stavropol'skiy kray"
-msgstr ""
+msgstr "알라스카"
 
 # RU-SVE
 msgid "Sverdlovskaya oblast'"
@@ -15088,7 +15094,7 @@ msgstr ""
 
 # RU-TA
 msgid "Tatarstan, Respublika"
-msgstr ""
+msgstr "타이완, 중화민국"
 
 # RU-TAM
 msgid "Tambovskaya oblast'"
@@ -15108,7 +15114,7 @@ msgstr ""
 
 # RU-TY
 msgid "Tyva, Respublika [Tuva]"
-msgstr ""
+msgstr "대한민국"
 
 # RU-TYU
 msgid "Tyumenskaya oblast'"
@@ -15116,7 +15122,7 @@ msgstr ""
 
 # RU-UD
 msgid "Udmurtskaya Respublika"
-msgstr ""
+msgstr "대한민국"
 
 # RU-ULY
 msgid "Ul'yanovskaya oblast'"
@@ -15160,11 +15166,11 @@ msgstr ""
 
 # RW-02
 msgid "Est"
-msgstr ""
+msgstr "동티모르"
 
 # RW-03
 msgid "Nord"
-msgstr ""
+msgstr "노르웨이"
 
 # RW-04
 msgid "Ouest"
@@ -15172,7 +15178,7 @@ msgstr ""
 
 # RW-05
 msgid "Sud"
-msgstr ""
+msgstr "수단"
 
 # SA-01
 msgid "Ar Riyāḍ"
@@ -15184,7 +15190,7 @@ msgstr ""
 
 # SA-03
 msgid "Al Madīnah"
-msgstr ""
+msgstr "알라바마"
 
 # SA-04
 msgid "Ash Sharqīyah"
@@ -15208,15 +15214,15 @@ msgstr ""
 
 # SA-09
 msgid "Jīzan"
-msgstr ""
+msgstr "일본"
 
 # SA-10
 msgid "Najrān"
-msgstr ""
+msgstr "바레인"
 
 # SA-11
 msgid "Al Bāhah"
-msgstr ""
+msgstr "알라스카"
 
 # SA-12
 msgid "Al Jawf"
@@ -15228,11 +15234,11 @@ msgstr ""
 
 # SB-CE
 msgid "Central"
-msgstr ""
+msgstr "캐나다"
 
 # SB-CH
 msgid "Choiseul"
-msgstr ""
+msgstr "닫기"
 
 # SB-CT
 msgid "Capital Territory (Honiara)"
@@ -15244,15 +15250,15 @@ msgstr ""
 
 # SB-IS
 msgid "Isabel"
-msgstr ""
+msgstr "이스라엘"
 
 # SB-MK
 msgid "Makira"
-msgstr ""
+msgstr "말리"
 
 # SB-ML
 msgid "Malaita"
-msgstr ""
+msgstr "말레이시아"
 
 # SB-RB
 msgid "Rennell and Bellona"
@@ -15260,11 +15266,11 @@ msgstr ""
 
 # SB-TE
 msgid "Temotu"
-msgstr ""
+msgstr "버몬트"
 
 # SB-WE
 msgid "Western"
-msgstr ""
+msgstr "예멘"
 
 # SC-01
 msgid "Anse aux Pins"
@@ -15288,7 +15294,7 @@ msgstr ""
 
 # SC-06
 msgid "Baie Lazare"
-msgstr ""
+msgstr "방글라데시"
 
 # SC-07
 msgid "Baie Sainte Anne"
@@ -15300,7 +15306,7 @@ msgstr ""
 
 # SC-09
 msgid "Bel Air"
-msgstr ""
+msgstr "벨기에"
 
 # SC-10
 msgid "Bel Ombre"
@@ -15308,19 +15314,19 @@ msgstr ""
 
 # SC-11
 msgid "Cascade"
-msgstr ""
+msgstr "쿠바"
 
 # SC-12
 msgid "Glacis"
-msgstr ""
+msgstr "말리"
 
 # SC-13
 msgid "Grand Anse Mahe"
-msgstr ""
+msgstr "캐나다"
 
 # SC-14
 msgid "Grand Anse Praslin"
-msgstr ""
+msgstr "캐나다"
 
 # SC-15
 msgid "La Digue"
@@ -15328,11 +15334,11 @@ msgstr ""
 
 # SC-16
 msgid "English River"
-msgstr ""
+msgstr "캐나다"
 
 # SC-17
 msgid "Mont Buxton"
-msgstr ""
+msgstr "파라과이"
 
 # SC-18
 msgid "Mont Fleuri"
@@ -15340,23 +15346,23 @@ msgstr ""
 
 # SC-19
 msgid "Plaisance"
-msgstr ""
+msgstr "마케도니아"
 
 # SC-20
 msgid "Pointe Larue"
-msgstr ""
+msgstr "수리남"
 
 # SC-21
 msgid "Port Glaud"
-msgstr ""
+msgstr "폴란드"
 
 # SC-22
 msgid "Saint Louis"
-msgstr ""
+msgstr "수리남"
 
 # SC-23
 msgid "Takamaka"
-msgstr ""
+msgstr "마다가스카르"
 
 # SC-24
 msgid "Les Mamelles"
@@ -15368,7 +15374,7 @@ msgstr ""
 
 # SD-DC
 msgid "Zalingei"
-msgstr ""
+msgstr "말리"
 
 # SD-DE
 msgid "Sharq Dārfūr"
@@ -15392,11 +15398,11 @@ msgstr ""
 
 # SD-GZ
 msgid "Al Jazīrah"
-msgstr ""
+msgstr "알라스카"
 
 # SD-KA
 msgid "Kassalā"
-msgstr ""
+msgstr "캔사스"
 
 # SD-KH
 msgid "Al Kharţūm"
@@ -15428,11 +15434,11 @@ msgstr ""
 
 # SD-RS
 msgid "Al Baḩr al Aḩmar"
-msgstr ""
+msgstr "알라바마"
 
 # SD-SI
 msgid "Sinnār"
-msgstr ""
+msgstr "싱가포르"
 
 # SE-AB
 msgid "Stockholms län"
@@ -15448,7 +15454,7 @@ msgstr ""
 
 # SE-C
 msgid "Uppsala län"
-msgstr ""
+msgstr "알라스카"
 
 # SE-D
 msgid "Södermanlands län"
@@ -15468,7 +15474,7 @@ msgstr ""
 
 # SE-H
 msgid "Kalmar län"
-msgstr ""
+msgstr "알라스카"
 
 # SE-I
 msgid "Gotlands län"
@@ -15496,7 +15502,7 @@ msgstr ""
 
 # SE-T
 msgid "Örebro län"
-msgstr ""
+msgstr "오레곤"
 
 # SE-U
 msgid "Västmanlands län"
@@ -15520,23 +15526,23 @@ msgstr ""
 
 # SG-01
 msgid "Central Singapore"
-msgstr ""
+msgstr "캐나다"
 
 # SG-02
 msgid "North East"
-msgstr ""
+msgstr "노르웨이"
 
 # SG-03
 msgid "North West"
-msgstr ""
+msgstr "남아프리카"
 
 # SG-04
 msgid "South East"
-msgstr ""
+msgstr "남아프리카"
 
 # SG-05
 msgid "South West"
-msgstr ""
+msgstr "남아프리카"
 
 # SH-AC
 msgid "Ascension"
@@ -15544,7 +15550,7 @@ msgstr ""
 
 # SH-HL
 msgid "Saint Helena"
-msgstr ""
+msgstr "몬타나"
 
 # SH-TA
 msgid "Tristan da Cunha"
@@ -15556,43 +15562,43 @@ msgstr ""
 
 # SI-002
 msgid "Beltinci"
-msgstr ""
+msgstr "바레인"
 
 # SI-003
 msgid "Bled"
-msgstr ""
+msgstr "브라질"
 
 # SI-004
 msgid "Bohinj"
-msgstr ""
+msgstr "바레인"
 
 # SI-005
 msgid "Borovnica"
-msgstr ""
+msgstr "모로코"
 
 # SI-006
 msgid "Bovec"
-msgstr ""
+msgstr "모나코"
 
 # SI-007
 msgid "Brda"
-msgstr ""
+msgstr "버뮤다"
 
 # SI-008
 msgid "Brezovica"
-msgstr ""
+msgstr "볼리비아"
 
 # SI-009
 msgid "Brežice"
-msgstr ""
+msgstr "버뮤다"
 
 # SI-010
 msgid "Tišina"
-msgstr ""
+msgstr "튀니지"
 
 # SI-011
 msgid "Celje"
-msgstr ""
+msgstr "닫기"
 
 # SI-012
 msgid "Cerklje na Gorenjskem"
@@ -15600,15 +15606,15 @@ msgstr ""
 
 # SI-013
 msgid "Cerknica"
-msgstr ""
+msgstr "쿠바"
 
 # SI-014
 msgid "Cerkno"
-msgstr ""
+msgstr "프랑스"
 
 # SI-015
 msgid "Črenšovci"
-msgstr ""
+msgstr "몽골라"
 
 # SI-016
 msgid "Črna na Koroškem"
@@ -15616,15 +15622,15 @@ msgstr ""
 
 # SI-017
 msgid "Črnomelj"
-msgstr ""
+msgstr "닫기"
 
 # SI-018
 msgid "Destrnik"
-msgstr ""
+msgstr "라이베리아"
 
 # SI-019
 msgid "Divača"
-msgstr ""
+msgstr "라트비아"
 
 # SI-020
 msgid "Dobrepolje"
@@ -15640,15 +15646,15 @@ msgstr ""
 
 # SI-023
 msgid "Domžale"
-msgstr ""
+msgstr "소말리아"
 
 # SI-024
 msgid "Dornava"
-msgstr ""
+msgstr "사모아"
 
 # SI-025
 msgid "Dravograd"
-msgstr ""
+msgstr "노르웨이"
 
 # SI-026
 msgid "Duplek"
@@ -15660,11 +15666,11 @@ msgstr ""
 
 # SI-028
 msgid "Gorišnica"
-msgstr ""
+msgstr "조지아"
 
 # SI-029
 msgid "Gornja Radgona"
-msgstr ""
+msgstr "가나"
 
 # SI-030
 msgid "Gornji Grad"
@@ -15680,11 +15686,11 @@ msgstr ""
 
 # SI-033
 msgid "Šalovci"
-msgstr ""
+msgstr "사모아"
 
 # SI-034
 msgid "Hrastnik"
-msgstr ""
+msgstr "하이티"
 
 # SI-035
 msgid "Hrpelje-Kozina"
@@ -15692,7 +15698,7 @@ msgstr ""
 
 # SI-036
 msgid "Idrija"
-msgstr ""
+msgstr "인도"
 
 # SI-037
 msgid "Ig"
@@ -15704,11 +15710,11 @@ msgstr ""
 
 # SI-039
 msgid "Ivančna Gorica"
-msgstr ""
+msgstr "네바다"
 
 # SI-040
 msgid "Izola/Isola"
-msgstr ""
+msgstr "아이스랜드"
 
 # SI-041
 msgid "Jesenice"
@@ -15716,15 +15722,15 @@ msgstr ""
 
 # SI-042
 msgid "Juršinci"
-msgstr ""
+msgstr "수리남"
 
 # SI-043
 msgid "Kamnik"
-msgstr ""
+msgstr "말리"
 
 # SI-044
 msgid "Kanal"
-msgstr ""
+msgstr "캐나다"
 
 # SI-045
 msgid "Kidričevo"
@@ -15732,19 +15738,19 @@ msgstr ""
 
 # SI-046
 msgid "Kobarid"
-msgstr ""
+msgstr "통가"
 
 # SI-047
 msgid "Kobilje"
-msgstr ""
+msgstr "쿠바"
 
 # SI-048
 msgid "Kočevje"
-msgstr ""
+msgstr "케냐"
 
 # SI-049
 msgid "Komen"
-msgstr ""
+msgstr "켄터키"
 
 # SI-050
 msgid "Koper/Capodistria"
@@ -15752,11 +15758,11 @@ msgstr ""
 
 # SI-051
 msgid "Kozje"
-msgstr ""
+msgstr "케냐"
 
 # SI-052
 msgid "Kranj"
-msgstr ""
+msgstr "파나마"
 
 # SI-053
 msgid "Kranjska Gora"
@@ -15764,39 +15770,39 @@ msgstr ""
 
 # SI-054
 msgid "Krško"
-msgstr ""
+msgstr "캔사스"
 
 # SI-055
 msgid "Kungota"
-msgstr ""
+msgstr "앙골라"
 
 # SI-056
 msgid "Kuzma"
-msgstr ""
+msgstr "쿠웨이트"
 
 # SI-057
 msgid "Laško"
-msgstr ""
+msgstr "리투아니아"
 
 # SI-058
 msgid "Lenart"
-msgstr ""
+msgstr "덴마크"
 
 # SI-059
 msgid "Lendava/Lendva"
-msgstr ""
+msgstr "라트비아"
 
 # SI-060
 msgid "Litija"
-msgstr ""
+msgstr "라이베리아"
 
 # SI-061
 msgid "Ljubljana"
-msgstr ""
+msgstr "루이지아나"
 
 # SI-062
 msgid "Ljubno"
-msgstr ""
+msgstr "레바논"
 
 # SI-063
 msgid "Ljutomer"
@@ -15804,7 +15810,7 @@ msgstr ""
 
 # SI-064
 msgid "Logatec"
-msgstr ""
+msgstr "포르투갈"
 
 # SI-065
 msgid "Loška dolina"
@@ -15816,35 +15822,35 @@ msgstr ""
 
 # SI-067
 msgid "Luče"
-msgstr ""
+msgstr "수리남"
 
 # SI-068
 msgid "Lukovica"
-msgstr ""
+msgstr "리투아니아"
 
 # SI-069
 msgid "Majšperk"
-msgstr ""
+msgstr "페루"
 
 # SI-070
 msgid "Maribor"
-msgstr ""
+msgstr "말리"
 
 # SI-071
 msgid "Medvode"
-msgstr ""
+msgstr "모나코"
 
 # SI-072
 msgid "Mengeš"
-msgstr ""
+msgstr "나의 새소식"
 
 # SI-073
 msgid "Metlika"
-msgstr ""
+msgstr "알라스카"
 
 # SI-074
 msgid "Mežica"
-msgstr ""
+msgstr "알제리"
 
 # SI-075
 msgid "Miren-Kostanjevica"
@@ -15852,11 +15858,11 @@ msgstr ""
 
 # SI-076
 msgid "Mislinja"
-msgstr ""
+msgstr "루이지아나"
 
 # SI-077
 msgid "Moravče"
-msgstr ""
+msgstr "노르웨이"
 
 # SI-078
 msgid "Moravske Toplice"
@@ -15864,7 +15870,7 @@ msgstr ""
 
 # SI-079
 msgid "Mozirje"
-msgstr ""
+msgstr "자이레"
 
 # SI-080
 msgid "Murska Sobota"
@@ -15872,19 +15878,19 @@ msgstr ""
 
 # SI-081
 msgid "Muta"
-msgstr ""
+msgstr "오스트리아"
 
 # SI-082
 msgid "Naklo"
-msgstr ""
+msgstr "사모아"
 
 # SI-083
 msgid "Nazarje"
-msgstr ""
+msgstr "없음"
 
 # SI-084
 msgid "Nova Gorica"
-msgstr ""
+msgstr "네바다"
 
 # SI-085
 msgid "Novo mesto"
@@ -15892,7 +15898,7 @@ msgstr ""
 
 # SI-086
 msgid "Odranci"
-msgstr ""
+msgstr "오만"
 
 # SI-087
 msgid "Ormož"
@@ -15900,11 +15906,11 @@ msgstr ""
 
 # SI-088
 msgid "Osilnica"
-msgstr ""
+msgstr "쿠바"
 
 # SI-089
 msgid "Pesnica"
-msgstr ""
+msgstr "마케도니아"
 
 # SI-090
 msgid "Piran/Pirano"
@@ -15912,7 +15918,7 @@ msgstr ""
 
 # SI-091
 msgid "Pivka"
-msgstr ""
+msgstr "파키스탄"
 
 # SI-092
 msgid "Podčetrtek"
@@ -15924,7 +15930,7 @@ msgstr ""
 
 # SI-094
 msgid "Postojna"
-msgstr ""
+msgstr "에스토니아"
 
 # SI-095
 msgid "Preddvor"
@@ -15936,7 +15942,7 @@ msgstr ""
 
 # SI-097
 msgid "Puconci"
-msgstr ""
+msgstr "전화"
 
 # SI-098
 msgid "Rače-Fram"
@@ -15948,7 +15954,7 @@ msgstr ""
 
 # SI-100
 msgid "Radenci"
-msgstr ""
+msgstr "슬로베니아"
 
 # SI-101
 msgid "Radlje ob Dravi"
@@ -15956,7 +15962,7 @@ msgstr ""
 
 # SI-102
 msgid "Radovljica"
-msgstr ""
+msgstr "몰도바"
 
 # SI-103
 msgid "Ravne na Koroškem"
@@ -15964,7 +15970,7 @@ msgstr ""
 
 # SI-104
 msgid "Ribnica"
-msgstr ""
+msgstr "쿠바"
 
 # SI-105
 msgid "Rogašovci"
@@ -15976,7 +15982,7 @@ msgstr ""
 
 # SI-107
 msgid "Rogatec"
-msgstr ""
+msgstr "포르투갈"
 
 # SI-108
 msgid "Ruše"
@@ -15984,15 +15990,15 @@ msgstr ""
 
 # SI-109
 msgid "Semič"
-msgstr ""
+msgstr "사모아"
 
 # SI-110
 msgid "Sevnica"
-msgstr ""
+msgstr "슬로베니아"
 
 # SI-111
 msgid "Sežana"
-msgstr ""
+msgstr "세네갈"
 
 # SI-112
 msgid "Slovenj Gradec"
@@ -16008,7 +16014,7 @@ msgstr ""
 
 # SI-115
 msgid "Starče"
-msgstr ""
+msgstr "남아프리카"
 
 # SI-116
 msgid "Sveti Jurij"
@@ -16032,7 +16038,7 @@ msgstr ""
 
 # SI-121
 msgid "Škocjan"
-msgstr ""
+msgstr "소말리아"
 
 # SI-122
 msgid "Škofja Loka"
@@ -16040,7 +16046,7 @@ msgstr ""
 
 # SI-123
 msgid "Škofljica"
-msgstr ""
+msgstr "소말리아"
 
 # SI-124
 msgid "Šmarje pri Jelšah"
@@ -16052,23 +16058,23 @@ msgstr ""
 
 # SI-126
 msgid "Šoštanj"
-msgstr ""
+msgstr "오스트리아"
 
 # SI-127
 msgid "Štore"
-msgstr ""
+msgstr "남아프리카"
 
 # SI-128
 msgid "Tolmin"
-msgstr ""
+msgstr "통가"
 
 # SI-129
 msgid "Trbovlje"
-msgstr ""
+msgstr "오레곤"
 
 # SI-130
 msgid "Trebnje"
-msgstr ""
+msgstr "오레곤"
 
 # SI-131
 msgid "Tržič"
@@ -16076,11 +16082,11 @@ msgstr ""
 
 # SI-132
 msgid "Turnišče"
-msgstr ""
+msgstr "튀니지"
 
 # SI-133
 msgid "Velenje"
-msgstr ""
+msgstr "스웨덴"
 
 # SI-134
 msgid "Velike Lašče"
@@ -16088,31 +16094,31 @@ msgstr ""
 
 # SI-135
 msgid "Videm"
-msgstr ""
+msgstr "베트남"
 
 # SI-136
 msgid "Vipava"
-msgstr ""
+msgstr "스페인"
 
 # SI-137
 msgid "Vitanje"
-msgstr ""
+msgstr "없음"
 
 # SI-138
 msgid "Vodice"
-msgstr ""
+msgstr "베네수엘라"
 
 # SI-139
 msgid "Vojnik"
-msgstr ""
+msgstr "전화"
 
 # SI-140
 msgid "Vrhnika"
-msgstr ""
+msgstr "버지니아"
 
 # SI-141
 msgid "Vuzenica"
-msgstr ""
+msgstr "쿠바"
 
 # SI-142
 msgid "Zagorje ob Savi"
@@ -16120,11 +16126,11 @@ msgstr ""
 
 # SI-143
 msgid "Zavrč"
-msgstr ""
+msgstr "자이레"
 
 # SI-144
 msgid "Zreče"
-msgstr ""
+msgstr "그리스"
 
 # SI-146
 msgid "Železniki"
@@ -16132,7 +16138,7 @@ msgstr ""
 
 # SI-147
 msgid "Žiri"
-msgstr ""
+msgstr "자이레"
 
 # SI-148
 msgid "Benedikt"
@@ -16144,15 +16150,15 @@ msgstr ""
 
 # SI-150
 msgid "Bloke"
-msgstr ""
+msgstr "브라질"
 
 # SI-151
 msgid "Braslovče"
-msgstr ""
+msgstr "브라질"
 
 # SI-152
 msgid "Cankova"
-msgstr ""
+msgstr "라트비아"
 
 # SI-153
 msgid "Cerkvenjak"
@@ -16160,11 +16166,11 @@ msgstr ""
 
 # SI-154
 msgid "Dobje"
-msgstr ""
+msgstr "닫기"
 
 # SI-155
 msgid "Dobrna"
-msgstr ""
+msgstr "플로리다"
 
 # SI-156
 msgid "Dobrovnik/Dobronak"
@@ -16176,15 +16182,15 @@ msgstr ""
 
 # SI-158
 msgid "Grad"
-msgstr ""
+msgstr "캐나다"
 
 # SI-159
 msgid "Hajdina"
-msgstr ""
+msgstr "핀란드"
 
 # SI-160
 msgid "Hoče-Slivnica"
-msgstr ""
+msgstr "볼리비아"
 
 # SI-161
 msgid "Hodoš/Hodos"
@@ -16200,11 +16206,11 @@ msgstr ""
 
 # SI-164
 msgid "Komenda"
-msgstr ""
+msgstr "케냐"
 
 # SI-165
 msgid "Kostel"
-msgstr ""
+msgstr "에스토니아"
 
 # SI-166
 msgid "Križevci"
@@ -16216,7 +16222,7 @@ msgstr ""
 
 # SI-168
 msgid "Markovci"
-msgstr ""
+msgstr "몽골라"
 
 # SI-169
 msgid "Miklavž na Dravskem polju"
@@ -16224,27 +16230,27 @@ msgstr ""
 
 # SI-170
 msgid "Mirna Peč"
-msgstr ""
+msgstr "캐나다"
 
 # SI-171
 msgid "Oplotnica"
-msgstr ""
+msgstr "볼리비아"
 
 # SI-172
 msgid "Podlehnik"
-msgstr ""
+msgstr "라이베리아"
 
 # SI-173
 msgid "Polzela"
-msgstr ""
+msgstr "쿠바"
 
 # SI-174
 msgid "Prebold"
-msgstr ""
+msgstr "쿠바"
 
 # SI-175
 msgid "Prevalje"
-msgstr ""
+msgstr "포르투갈"
 
 # SI-176
 msgid "Razkrižje"
@@ -16260,15 +16266,15 @@ msgstr ""
 
 # SI-179
 msgid "Sodražica"
-msgstr ""
+msgstr "플로리다"
 
 # SI-180
 msgid "Solčava"
-msgstr ""
+msgstr "소말리아"
 
 # SI-181
 msgid "Sveta Ana"
-msgstr ""
+msgstr "몬타나"
 
 # SI-182
 msgid "Sveta Andraž v Slovenskih Goricah"
@@ -16280,7 +16286,7 @@ msgstr ""
 
 # SI-184
 msgid "Tabor"
-msgstr ""
+msgstr "가봉"
 
 # SI-185
 msgid "Trnovska vas"
@@ -16288,7 +16294,7 @@ msgstr ""
 
 # SI-186
 msgid "Trzin"
-msgstr ""
+msgstr "통고"
 
 # SI-187
 msgid "Velika Polana"
@@ -16304,15 +16310,15 @@ msgstr ""
 
 # SI-190
 msgid "Žalec"
-msgstr ""
+msgstr "말리"
 
 # SI-191
 msgid "Žetale"
-msgstr ""
+msgstr "말리"
 
 # SI-192
 msgid "Žirovnica"
-msgstr ""
+msgstr "자이레"
 
 # SI-193
 msgid "Žužemberk"
@@ -16396,23 +16402,23 @@ msgstr ""
 
 # SK-BL
 msgid "Bratislavský kraj"
-msgstr ""
+msgstr "알라스카"
 
 # SK-KI
 msgid "Košický kraj"
-msgstr ""
+msgstr "알라스카"
 
 # SK-NI
 msgid "Nitriansky kraj"
-msgstr ""
+msgstr "알라스카"
 
 # SK-PV
 msgid "Prešovský kraj"
-msgstr ""
+msgstr "알라스카"
 
 # SK-TA
 msgid "Trnavský kraj"
-msgstr ""
+msgstr "알라스카"
 
 # SK-TC
 msgid "Trenčiansky kraj"
@@ -16420,19 +16426,19 @@ msgstr ""
 
 # SK-ZI
 msgid "Žilinský kraj"
-msgstr ""
+msgstr "알라스카"
 
 # SL-E
 msgid "Eastern"
-msgstr ""
+msgstr "동티모르"
 
 # SL-N
 msgid "Northern"
-msgstr ""
+msgstr "네덜란드"
 
 # SL-S
 msgid "Southern (Sierra Leone)"
-msgstr ""
+msgstr "시/도"
 
 # SL-W
 msgid "Western Area (Freetown)"
@@ -16444,19 +16450,19 @@ msgstr ""
 
 # SM-02
 msgid "Chiesanuova"
-msgstr ""
+msgstr "라트비아"
 
 # SM-03
 msgid "Domagnano"
-msgstr ""
+msgstr "우간다"
 
 # SM-04
 msgid "Faetano"
-msgstr ""
+msgstr "오스트리아"
 
 # SM-05
 msgid "Fiorentino"
-msgstr ""
+msgstr "통고"
 
 # SM-06
 msgid "Borgo Maggiore"
@@ -16468,7 +16474,7 @@ msgstr "산마리노"
 
 # SM-08
 msgid "Montegiardino"
-msgstr ""
+msgstr "바레인"
 
 # SM-09
 msgid "Serravalle"
@@ -16492,7 +16498,7 @@ msgstr ""
 
 # SN-KD
 msgid "Kolda"
-msgstr ""
+msgstr "몰도바"
 
 # SN-KE
 msgid "Kédougou"
@@ -16504,11 +16510,11 @@ msgstr ""
 
 # SN-LG
 msgid "Louga"
-msgstr ""
+msgstr "포르투갈"
 
 # SN-MT
 msgid "Matam"
-msgstr ""
+msgstr "몬타나"
 
 # SN-SE
 msgid "Sédhiou"
@@ -16520,11 +16526,11 @@ msgstr ""
 
 # SN-TC
 msgid "Tambacounda"
-msgstr ""
+msgstr "캄보디아"
 
 # SN-TH
 msgid "Thiès"
-msgstr ""
+msgstr "테마"
 
 # SN-ZG
 msgid "Ziguinchor"
@@ -16544,7 +16550,7 @@ msgstr ""
 
 # SO-BR
 msgid "Bari"
-msgstr ""
+msgstr "버뮤다"
 
 # SO-BY
 msgid "Bay"
@@ -16580,7 +16586,7 @@ msgstr ""
 
 # SO-SA
 msgid "Saneag"
-msgstr ""
+msgstr "세네갈"
 
 # SO-SD
 msgid "Shabeellaha Dhexe"
@@ -16620,47 +16626,47 @@ msgstr ""
 
 # SR-NI
 msgid "Nickerie"
-msgstr ""
+msgstr "나이지리아"
 
 # SR-PM
 msgid "Paramaribo"
-msgstr ""
+msgstr "파나마"
 
 # SR-PR
 msgid "Para"
-msgstr ""
+msgstr "파나마"
 
 # SR-SA
 msgid "Saramacca"
-msgstr ""
+msgstr "자메이카"
 
 # SR-SI
 msgid "Sipaliwini"
-msgstr ""
+msgstr "스페인"
 
 # SR-WA
 msgid "Wanica"
-msgstr ""
+msgstr "알바니아"
 
 # SS-BN
 msgid "Northern Bahr el Ghazal"
-msgstr ""
+msgstr "네덜란드"
 
 # SS-BW
 msgid "Western Bahr el Ghazal"
-msgstr ""
+msgstr "가나"
 
 # SS-EC
 msgid "Central Equatoria"
-msgstr ""
+msgstr "캐나다"
 
 # SS-EE
 msgid "Eastern Equatoria"
-msgstr ""
+msgstr "동티모르"
 
 # SS-EW
 msgid "Western Equatoria"
-msgstr ""
+msgstr "호주"
 
 # SS-JG
 msgid "Jonglei"
@@ -16696,7 +16702,7 @@ msgstr ""
 
 # SV-CA
 msgid "Cabañas"
-msgstr ""
+msgstr "캐나다"
 
 # SV-CH
 msgid "Chalatenango"
@@ -16708,19 +16714,19 @@ msgstr ""
 
 # SV-LI
 msgid "La Libertad"
-msgstr ""
+msgstr "라이베리아"
 
 # SV-MO
 msgid "Morazán"
-msgstr ""
+msgstr "요르단"
 
 # SV-PA
 msgid "La Paz"
-msgstr ""
+msgstr "이름"
 
 # SV-SA
 msgid "Santa Ana"
-msgstr ""
+msgstr "몬타나"
 
 # SV-SM
 msgid "San Miguel"
@@ -16740,7 +16746,7 @@ msgstr ""
 
 # SV-UN
 msgid "La Unión"
-msgstr ""
+msgstr "말리"
 
 # SV-US
 msgid "Usulután"
@@ -16760,11 +16766,11 @@ msgstr ""
 
 # SY-HA
 msgid "Al Hasakah"
-msgstr ""
+msgstr "알라스카"
 
 # SY-HI
 msgid "Homs"
-msgstr ""
+msgstr "혼두라스"
 
 # SY-HL
 msgid "Halab"
@@ -16772,11 +16778,11 @@ msgstr ""
 
 # SY-HM
 msgid "Hamah"
-msgstr ""
+msgstr "사모아"
 
 # SY-ID
 msgid "Idlib"
-msgstr ""
+msgstr "인도"
 
 # SY-LA
 msgid "Al Ladhiqiyah"
@@ -16800,7 +16806,7 @@ msgstr ""
 
 # SY-TA
 msgid "Tartus"
-msgstr ""
+msgstr "텍사스"
 
 # SZ-HH
 msgid "Hhohho"
@@ -16820,7 +16826,7 @@ msgstr ""
 
 # TD-BA
 msgid "Al Baṭḩah"
-msgstr ""
+msgstr "알라스카"
 
 # TD-BG
 msgid "Baḩr al Ghazāl"
@@ -16852,7 +16858,7 @@ msgstr ""
 
 # TD-LC
 msgid "Al Buḩayrah"
-msgstr ""
+msgstr "알라스카"
 
 # TD-LO
 msgid "Lūqūn al Gharbī"
@@ -16948,7 +16954,7 @@ msgstr ""
 
 # TH-15
 msgid "Ang Thong"
-msgstr ""
+msgstr "홍콩"
 
 # TH-16
 msgid "Lop Buri"
@@ -16960,11 +16966,11 @@ msgstr ""
 
 # TH-18
 msgid "Chai Nat"
-msgstr ""
+msgstr "중국"
 
 # TH-19
 msgid "Saraburi"
-msgstr ""
+msgstr "사우디아라비아"
 
 # TH-20
 msgid "Chon Buri"
@@ -17004,11 +17010,11 @@ msgstr ""
 
 # TH-31
 msgid "Buri Ram"
-msgstr ""
+msgstr "불가리아"
 
 # TH-32
 msgid "Surin"
-msgstr ""
+msgstr "수리남"
 
 # TH-33
 msgid "Si Sa Ket"
@@ -17044,7 +17050,7 @@ msgstr ""
 
 # TH-42
 msgid "Loei"
-msgstr ""
+msgstr "로그인"
 
 # TH-43
 msgid "Nong Khai"
@@ -17060,7 +17066,7 @@ msgstr ""
 
 # TH-46
 msgid "Kalasin"
-msgstr ""
+msgstr "말레이시아"
 
 # TH-47
 msgid "Sakon Nakhon"
@@ -17072,11 +17078,11 @@ msgstr ""
 
 # TH-49
 msgid "Mukdahan"
-msgstr ""
+msgstr "수단"
 
 # TH-50
 msgid "Chiang Mai"
-msgstr ""
+msgstr "중국"
 
 # TH-51
 msgid "Lamphun"
@@ -17084,7 +17090,7 @@ msgstr ""
 
 # TH-52
 msgid "Lampang"
-msgstr ""
+msgstr "일본"
 
 # TH-53
 msgid "Uttaradit"
@@ -17104,11 +17110,11 @@ msgstr ""
 
 # TH-57
 msgid "Chiang Rai"
-msgstr ""
+msgstr "중국"
 
 # TH-58
 msgid "Mae Hong Son"
-msgstr ""
+msgstr "홍콩"
 
 # TH-60
 msgid "Nakhon Sawan"
@@ -17180,11 +17186,11 @@ msgstr ""
 
 # TH-81
 msgid "Krabi"
-msgstr ""
+msgstr "K메일"
 
 # TH-82
 msgid "Phangnga"
-msgstr ""
+msgstr "가나"
 
 # TH-83
 msgid "Phuket"
@@ -17196,7 +17202,7 @@ msgstr ""
 
 # TH-85
 msgid "Ranong"
-msgstr ""
+msgstr "레바논"
 
 # TH-86
 msgid "Chumphon"
@@ -17204,15 +17210,15 @@ msgstr ""
 
 # TH-90
 msgid "Songkhla"
-msgstr ""
+msgstr "몽골라"
 
 # TH-91
 msgid "Satun"
-msgstr ""
+msgstr "수단"
 
 # TH-92
 msgid "Trang"
-msgstr ""
+msgstr "통가"
 
 # TH-93
 msgid "Phatthalung"
@@ -17220,7 +17226,7 @@ msgstr ""
 
 # TH-94
 msgid "Pattani"
-msgstr ""
+msgstr "파키스탄"
 
 # TH-95
 msgid "Yala"
@@ -17244,27 +17250,27 @@ msgstr ""
 
 # TJ-SU
 msgid "Sughd"
-msgstr ""
+msgstr "수단"
 
 # TL-AL
 msgid "Aileu"
-msgstr ""
+msgstr "알제리"
 
 # TL-AN
 msgid "Ainaro"
-msgstr ""
+msgstr "안도라"
 
 # TL-BA
 msgid "Baucau"
-msgstr ""
+msgstr "쿠바"
 
 # TL-BO
 msgid "Bobonaro"
-msgstr ""
+msgstr "통가"
 
 # TL-CO
 msgid "Cova Lima"
-msgstr ""
+msgstr "콜롬비아"
 
 # TL-DI
 msgid "Díli"
@@ -17272,27 +17278,27 @@ msgstr ""
 
 # TL-ER
 msgid "Ermera"
-msgstr ""
+msgstr "아일랜드"
 
 # TL-LA
 msgid "Lautem"
-msgstr ""
+msgstr "말리"
 
 # TL-LI
 msgid "Liquiça"
-msgstr ""
+msgstr "리투아니아"
 
 # TL-MF
 msgid "Manufahi"
-msgstr ""
+msgstr "몬타나"
 
 # TL-MT
 msgid "Manatuto"
-msgstr ""
+msgstr "파라과이"
 
 # TL-OE
 msgid "Oecussi"
-msgstr ""
+msgstr "오스트리아"
 
 # TL-VI
 msgid "Viqueque"
@@ -17304,7 +17310,7 @@ msgstr ""
 
 # TM-B
 msgid "Balkan"
-msgstr ""
+msgstr "바레인"
 
 # TM-D
 msgid "Daşoguz"
@@ -17312,7 +17318,7 @@ msgstr ""
 
 # TM-L
 msgid "Lebap"
-msgstr ""
+msgstr "레바논"
 
 # TM-M
 msgid "Mary"
@@ -17320,15 +17326,15 @@ msgstr ""
 
 # TM-S
 msgid "Aşgabat"
-msgstr ""
+msgstr "사모아"
 
 # TN-11
 msgid "Tunis"
-msgstr ""
+msgstr "튀니지"
 
 # TN-12
 msgid "Ariana"
-msgstr ""
+msgstr "아리조나"
 
 # TN-13
 msgid "Ben Arous"
@@ -17336,7 +17342,7 @@ msgstr ""
 
 # TN-14
 msgid "La Manouba"
-msgstr ""
+msgstr "라트비아"
 
 # TN-21
 msgid "Nabeul"
@@ -17364,7 +17370,7 @@ msgstr ""
 
 # TN-34
 msgid "Siliana"
-msgstr ""
+msgstr "루이지아나"
 
 # TN-41
 msgid "Kairouan"
@@ -17388,7 +17394,7 @@ msgstr ""
 
 # TN-53
 msgid "Mahdia"
-msgstr ""
+msgstr "마케도니아"
 
 # TN-61
 msgid "Sfax"
@@ -17396,7 +17402,7 @@ msgstr ""
 
 # TN-71
 msgid "Gafsa"
-msgstr ""
+msgstr "가나"
 
 # TN-72
 msgid "Tozeur"
@@ -17408,7 +17414,7 @@ msgstr ""
 
 # TN-81
 msgid "Gabès"
-msgstr ""
+msgstr "가봉"
 
 # TN-82
 msgid "Medenine"
@@ -17424,31 +17430,31 @@ msgstr ""
 
 # TO-02
 msgid "Ha'apai"
-msgstr ""
+msgstr "K메일"
 
 # TO-03
 msgid "Niuas"
-msgstr ""
+msgstr "나이지리아"
 
 # TO-04
 msgid "Tongatapu"
-msgstr ""
+msgstr "통가"
 
 # TO-05
 msgid "Vava'u"
-msgstr ""
+msgstr "스페인"
 
 # TR-01
 msgid "Adana"
-msgstr ""
+msgstr "인디아나"
 
 # TR-02
 msgid "Adıyaman"
-msgstr ""
+msgstr "요르단"
 
 # TR-03
 msgid "Afyonkarahisar"
-msgstr ""
+msgstr "안도라"
 
 # TR-04
 msgid "Ağrı"
@@ -17456,23 +17462,23 @@ msgstr ""
 
 # TR-05
 msgid "Amasya"
-msgstr ""
+msgstr "알라스카"
 
 # TR-06
 msgid "Ankara"
-msgstr ""
+msgstr "안도라"
 
 # TR-07
 msgid "Antalya"
-msgstr ""
+msgstr "이탤리"
 
 # TR-08
 msgid "Artvin"
-msgstr ""
+msgstr "아르헨티나"
 
 # TR-09
 msgid "Aydın"
-msgstr ""
+msgstr "아리조나"
 
 # TR-10
 msgid "Balıkesir"
@@ -17484,7 +17490,7 @@ msgstr ""
 
 # TR-12
 msgid "Bingöl"
-msgstr ""
+msgstr "앙골라"
 
 # TR-13
 msgid "Bitlis"
@@ -17500,11 +17506,11 @@ msgstr ""
 
 # TR-16
 msgid "Bursa"
-msgstr ""
+msgstr "불가리아"
 
 # TR-17
 msgid "Çanakkale"
-msgstr ""
+msgstr "캐나다"
 
 # TR-18
 msgid "Çankırı"
@@ -17552,19 +17558,19 @@ msgstr ""
 
 # TR-29
 msgid "Gümüşhane"
-msgstr ""
+msgstr "가나"
 
 # TR-30
 msgid "Hakkâri"
-msgstr ""
+msgstr "하와이"
 
 # TR-31
 msgid "Hatay"
-msgstr ""
+msgstr "이탤리"
 
 # TR-32
 msgid "Isparta"
-msgstr ""
+msgstr "이스라엘"
 
 # TR-33
 msgid "Mersin"
@@ -17572,7 +17578,7 @@ msgstr ""
 
 # TR-34
 msgid "İstanbul"
-msgstr ""
+msgstr "이탤리"
 
 # TR-35
 msgid "İzmir"
@@ -17580,11 +17586,11 @@ msgstr ""
 
 # TR-36
 msgid "Kars"
-msgstr ""
+msgstr "캔사스"
 
 # TR-37
 msgid "Kastamonu"
-msgstr ""
+msgstr "카자흐스탄"
 
 # TR-38
 msgid "Kayseri"
@@ -17604,31 +17610,31 @@ msgstr ""
 
 # TR-42
 msgid "Konya"
-msgstr ""
+msgstr "케냐"
 
 # TR-43
 msgid "Kütahya"
-msgstr ""
+msgstr "유타"
 
 # TR-44
 msgid "Malatya"
-msgstr ""
+msgstr "말레이시아"
 
 # TR-45
 msgid "Manisa"
-msgstr ""
+msgstr "캔사스"
 
 # TR-46
 msgid "Kahramanmaraş"
-msgstr ""
+msgstr "파나마"
 
 # TR-47
 msgid "Mardin"
-msgstr ""
+msgstr "바레인"
 
 # TR-48
 msgid "Muğla"
-msgstr ""
+msgstr "K메일"
 
 # TR-49
 msgid "Muş"
@@ -17640,7 +17646,7 @@ msgstr ""
 
 # TR-51
 msgid "Niğde"
-msgstr ""
+msgstr "나이지리아"
 
 # TR-52
 msgid "Ordu"
@@ -17664,7 +17670,7 @@ msgstr ""
 
 # TR-57
 msgid "Sinop"
-msgstr ""
+msgstr "스페인"
 
 # TR-58
 msgid "Sivas"
@@ -17676,11 +17682,11 @@ msgstr ""
 
 # TR-60
 msgid "Tokat"
-msgstr ""
+msgstr "통가"
 
 # TR-61
 msgid "Trabzon"
-msgstr ""
+msgstr "가봉"
 
 # TR-62
 msgid "Tunceli"
@@ -17688,7 +17694,7 @@ msgstr ""
 
 # TR-63
 msgid "Şanlıurfa"
-msgstr ""
+msgstr "소말리아"
 
 # TR-64
 msgid "Uşak"
@@ -17716,7 +17722,7 @@ msgstr ""
 
 # TR-70
 msgid "Karaman"
-msgstr ""
+msgstr "파나마"
 
 # TR-71
 msgid "Kırıkkale"
@@ -17724,7 +17730,7 @@ msgstr ""
 
 # TR-72
 msgid "Batman"
-msgstr ""
+msgstr "부탄"
 
 # TR-73
 msgid "Şırnak"
@@ -17732,11 +17738,11 @@ msgstr ""
 
 # TR-74
 msgid "Bartın"
-msgstr ""
+msgstr "바레인"
 
 # TR-75
 msgid "Ardahan"
-msgstr ""
+msgstr "요르단"
 
 # TR-76
 msgid "Iğdır"
@@ -17744,27 +17750,27 @@ msgstr ""
 
 # TR-77
 msgid "Yalova"
-msgstr ""
+msgstr "몰도바"
 
 # TR-78
 msgid "Karabük"
-msgstr ""
+msgstr "캔사스"
 
 # TR-79
 msgid "Kilis"
-msgstr ""
+msgstr "K메일"
 
 # TR-80
 msgid "Osmaniye"
-msgstr ""
+msgstr "오만"
 
 # TR-81
 msgid "Düzce"
-msgstr ""
+msgstr "수리남"
 
 # TT-ARI
 msgid "Arima"
-msgstr ""
+msgstr "아리조나"
 
 # TT-CHA
 msgid "Chaguanas"
@@ -17812,7 +17818,7 @@ msgstr ""
 
 # TT-SIP
 msgid "Siparia"
-msgstr ""
+msgstr "스페인"
 
 # TT-SJL
 msgid "San Juan-Laventille"
@@ -17832,7 +17838,7 @@ msgstr ""
 
 # TV-NIT
 msgid "Niutao"
-msgstr ""
+msgstr "파키스탄"
 
 # TV-NKF
 msgid "Nukufetau"
@@ -17844,15 +17850,15 @@ msgstr ""
 
 # TV-NMA
 msgid "Nanumea"
-msgstr ""
+msgstr "파나마"
 
 # TV-NMG
 msgid "Nanumanga"
-msgstr ""
+msgstr "사모아"
 
 # TV-NUI
 msgid "Nui"
-msgstr ""
+msgstr "나우루"
 
 # TV-VAI
 msgid "Vaitupu"
@@ -17860,15 +17866,15 @@ msgstr ""
 
 # TW-CHA
 msgid "Changhua"
-msgstr ""
+msgstr "중국"
 
 # TW-CYI
 msgid "Chiay City"
-msgstr ""
+msgstr "중국"
 
 # TW-CYQ
 msgid "Chiayi"
-msgstr ""
+msgstr "중국"
 
 # TW-HSQ
 msgid "Hsinchu"
@@ -17884,7 +17890,7 @@ msgstr ""
 
 # TW-ILA
 msgid "Ilan"
-msgstr ""
+msgstr "아이스랜드"
 
 # TW-KEE
 msgid "Keelung City"
@@ -17900,7 +17906,7 @@ msgstr ""
 
 # TW-MIA
 msgid "Miaoli"
-msgstr ""
+msgstr "말리"
 
 # TW-NAN
 msgid "Nantou"
@@ -17908,7 +17914,7 @@ msgstr ""
 
 # TW-PEN
 msgid "Penghu"
-msgstr ""
+msgstr "페루"
 
 # TW-PIF
 msgid "Pingtung"
@@ -17920,11 +17926,11 @@ msgstr ""
 
 # TW-TNN
 msgid "Tainan City"
-msgstr ""
+msgstr "태국"
 
 # TW-TNQ
 msgid "Tainan"
-msgstr ""
+msgstr "태국"
 
 # TW-TPE
 msgid "Taipei City"
@@ -17952,7 +17958,7 @@ msgstr ""
 
 # TZ-01
 msgid "Arusha"
-msgstr ""
+msgstr "오스트리아"
 
 # TZ-02
 msgid "Dar-es-Salaam"
@@ -17960,15 +17966,15 @@ msgstr ""
 
 # TZ-03
 msgid "Dodoma"
-msgstr ""
+msgstr "몰도바"
 
 # TZ-04
 msgid "Iringa"
-msgstr ""
+msgstr "아리조나"
 
 # TZ-05
 msgid "Kagera"
-msgstr ""
+msgstr "알제리"
 
 # TZ-06
 msgid "Kaskazini Pemba"
@@ -17980,7 +17986,7 @@ msgstr ""
 
 # TZ-08
 msgid "Kigoma"
-msgstr ""
+msgstr "케냐"
 
 # TZ-09
 msgid "Kilimanjaro"
@@ -17996,7 +18002,7 @@ msgstr ""
 
 # TZ-12
 msgid "Lindi"
-msgstr ""
+msgstr "인도"
 
 # TZ-13
 msgid "Mara"
@@ -18004,7 +18010,7 @@ msgstr ""
 
 # TZ-14
 msgid "Mbeya"
-msgstr ""
+msgstr "케냐"
 
 # TZ-15
 msgid "Mjini Magharibi"
@@ -18012,15 +18018,15 @@ msgstr ""
 
 # TZ-16
 msgid "Morogoro"
-msgstr ""
+msgstr "모로코"
 
 # TZ-17
 msgid "Mtwara"
-msgstr ""
+msgstr "몬타나"
 
 # TZ-18
 msgid "Mwanza"
-msgstr ""
+msgstr "몬타나"
 
 # TZ-19
 msgid "Pwani"
@@ -18040,7 +18046,7 @@ msgstr ""
 
 # TZ-23
 msgid "Singida"
-msgstr ""
+msgstr "싱가포르"
 
 # TZ-24
 msgid "Tabora"
@@ -18048,46 +18054,55 @@ msgstr ""
 
 # TZ-25
 msgid "Tanga"
-msgstr ""
+msgstr "통가"
 
 # TZ-26
 msgid "Manyara"
-msgstr ""
+msgstr "몬타나"
 
 # UA-05
-msgid "Vinnyts'ka Oblast'"
+# original msgid: "Vinnyts'ka Oblast'"
+msgid "Vinnytska oblast"
 msgstr ""
 
 # UA-07
-msgid "Volyns'ka Oblast'"
+# original msgid: "Volyns'ka Oblast'"
+msgid "Volynska oblast"
 msgstr ""
 
 # UA-09
-msgid "Luhans'ka Oblast'"
+# original msgid: "Luhans'ka Oblast'"
+msgid "Luhanska oblast"
 msgstr ""
 
 # UA-12
-msgid "Dnipropetrovs'ka Oblast'"
+# original msgid: "Dnipropetrovs'ka Oblast'"
+msgid "Dnipropetrovska oblast"
 msgstr ""
 
 # UA-14
-msgid "Donets'ka Oblast'"
+# original msgid: "Donets'ka Oblast'"
+msgid "Donetska oblast"
 msgstr ""
 
 # UA-18
-msgid "Zhytomyrs'ka Oblast'"
+# original msgid: "Zhytomyrs'ka Oblast'"
+msgid "Zhytomyrska oblast"
 msgstr ""
 
 # UA-21
-msgid "Zakarpats'ka Oblast'"
+# original msgid: "Zakarpats'ka Oblast'"
+msgid "Zakarpatska oblast"
 msgstr ""
 
 # UA-23
-msgid "Zaporiz'ka Oblast'"
+# original msgid: "Zaporiz'ka Oblast'"
+msgid "Zaporizka oblast"
 msgstr ""
 
 # UA-26
-msgid "Ivano-Frankivs'ka Oblast'"
+# original msgid: "Ivano-Frankivs'ka Oblast'"
+msgid "Ivano-Frankivska oblast"
 msgstr ""
 
 # UA-30
@@ -18097,11 +18112,12 @@ msgstr ""
 
 # UA-32
 # original msgid: "Kyïvs'ka Oblast'"
-msgid "Kyivs'ka Oblast'"
+msgid "Kyivska oblast"
 msgstr ""
 
 # UA-35
-msgid "Kirovohrads'ka Oblast'"
+# original msgid: "Kirovohrads'ka Oblast'"
+msgid "Kirovohradska oblast"
 msgstr ""
 
 # UA-40
@@ -18109,59 +18125,73 @@ msgid "Sevastopol"
 msgstr ""
 
 # UA-43
-msgid "Respublika Krym"
+# original msgid: "Respublika Krym"
+msgid "Avtonomna Respublika Krym"
 msgstr ""
 
 # UA-46
-msgid "L'vivs'ka Oblast'"
+# original msgid: "L'vivs'ka Oblast'"
+msgid "Lvivska oblast"
 msgstr ""
 
 # UA-48
-msgid "Mykolaïvs'ka Oblast'"
+# original msgid: "Mykolaïvs'ka Oblast'"
+msgid "Mykolaivska oblast"
 msgstr ""
 
 # UA-51
-msgid "Odes'ka Oblast'"
+# original msgid: "Odes'ka Oblast'"
+msgid "Odeska oblast"
 msgstr ""
 
 # UA-53
-msgid "Poltavs'ka Oblast'"
+# original msgid: "Poltavs'ka Oblast'"
+msgid "Poltavska oblast"
 msgstr ""
 
 # UA-56
-msgid "Rivnens'ka Oblast'"
+# original msgid: "Rivnens'ka Oblast'"
+msgid "Rivnenska oblast"
 msgstr ""
 
 # UA-59
-msgid "Sums 'ka Oblast'"
+# original msgid: "Sums 'ka Oblast'"
+msgid "Sumska oblast"
 msgstr ""
 
 # UA-61
-msgid "Ternopil's'ka Oblast'"
+# original msgid: "Ternopil's'ka Oblast'"
+msgid "Ternopilska oblast"
 msgstr ""
 
 # UA-63
-msgid "Kharkivs'ka Oblast'"
+# original msgid: "Kharkivs'ka Oblast'"
+msgid "Kharkivska oblast"
 msgstr ""
 
 # UA-65
-msgid "Khersons'ka Oblast'"
+# original msgid: "Khersons'ka Oblast'"
+msgid "Khersonska oblast"
 msgstr ""
 
 # UA-68
-msgid "Khmel'nyts'ka Oblast'"
+# original msgid: "Khmel'nyts'ka Oblast'"
+msgid "Khmelnytska oblast"
 msgstr ""
 
 # UA-71
-msgid "Cherkas'ka Oblast'"
+# original msgid: "Cherkas'ka Oblast'"
+msgid "Cherkaska oblast"
 msgstr ""
 
 # UA-74
-msgid "Chernihivs'ka Oblast'"
+# original msgid: "Chernihivs'ka Oblast'"
+msgid "Chernihivska oblast"
 msgstr ""
 
 # UA-77
-msgid "Chernivets'ka Oblast'"
+# original msgid: "Chernivets'ka Oblast'"
+msgid "Chernivetska oblast"
 msgstr ""
 
 # UG-101
@@ -18182,7 +18212,7 @@ msgstr ""
 
 # UG-105
 msgid "Masaka"
-msgstr ""
+msgstr "알라스카"
 
 # UG-106
 msgid "Mpigi"
@@ -18194,11 +18224,11 @@ msgstr ""
 
 # UG-108
 msgid "Mukono"
-msgstr ""
+msgstr "모나코"
 
 # UG-109
 msgid "Nakasongola"
-msgstr ""
+msgstr "몽골라"
 
 # UG-110
 msgid "Rakai"
@@ -18210,15 +18240,15 @@ msgstr ""
 
 # UG-112
 msgid "Kayunga"
-msgstr ""
+msgstr "캔사스"
 
 # UG-113
 msgid "Wakiso"
-msgstr ""
+msgstr "말리"
 
 # UG-114
 msgid "Mityana"
-msgstr ""
+msgstr "몬타나"
 
 # UG-115
 msgid "Nakaseke"
@@ -18226,27 +18256,27 @@ msgstr ""
 
 # UG-116
 msgid "Lyantonde"
-msgstr ""
+msgstr "방글라데시"
 
 # UG-201
 msgid "Bugiri"
-msgstr ""
+msgstr "불가리아"
 
 # UG-202
 msgid "Busia"
-msgstr ""
+msgstr "불가리아"
 
 # UG-203
 msgid "Iganga"
-msgstr ""
+msgstr "우간다"
 
 # UG-204
 msgid "Jinja"
-msgstr ""
+msgstr "중국"
 
 # UG-205
 msgid "Kamuli"
-msgstr ""
+msgstr "말리"
 
 # UG-206
 msgid "Kapchorwa"
@@ -18258,75 +18288,75 @@ msgstr ""
 
 # UG-208
 msgid "Kumi"
-msgstr ""
+msgstr "쿠웨이트"
 
 # UG-209
 msgid "Mbale"
-msgstr ""
+msgstr "말리"
 
 # UG-210
 msgid "Pallisa"
-msgstr ""
+msgstr "파키스탄"
 
 # UG-211
 msgid "Soroti"
-msgstr ""
+msgstr "크로아티아"
 
 # UG-212
 msgid "Tororo"
-msgstr ""
+msgstr "모로코"
 
 # UG-213
 msgid "Kaberamaido"
-msgstr ""
+msgstr "파나마"
 
 # UG-214
 msgid "Mayuge"
-msgstr ""
+msgstr "말리"
 
 # UG-215
 msgid "Sironko"
-msgstr ""
+msgstr "스페인"
 
 # UG-216
 msgid "Amuria"
-msgstr ""
+msgstr "오스트리아"
 
 # UG-217
 msgid "Budaka"
-msgstr ""
+msgstr "버뮤다"
 
 # UG-218
 msgid "Bukwa"
-msgstr ""
+msgstr "불가리아"
 
 # UG-219
 msgid "Butaleja"
-msgstr ""
+msgstr "부탄"
 
 # UG-220
 msgid "Kaliro"
-msgstr ""
+msgstr "자이레"
 
 # UG-221
 msgid "Manafwa"
-msgstr ""
+msgstr "파라과이"
 
 # UG-222
 msgid "Namutumba"
-msgstr ""
+msgstr "파나마"
 
 # UG-223
 msgid "Bududa"
-msgstr ""
+msgstr "버뮤다"
 
 # UG-224
 msgid "Bukedea"
-msgstr ""
+msgstr "버뮤다"
 
 # UG-301
 msgid "Adjumani"
-msgstr ""
+msgstr "오만"
 
 # UG-302
 msgid "Apac"
@@ -18350,15 +18380,15 @@ msgstr ""
 
 # UG-307
 msgid "Lira"
-msgstr ""
+msgstr "라이베리아"
 
 # UG-308
 msgid "Moroto"
-msgstr ""
+msgstr "모로코"
 
 # UG-309
 msgid "Moyo"
-msgstr ""
+msgstr "모나코"
 
 # UG-310
 msgid "Nebbi"
@@ -18370,19 +18400,19 @@ msgstr ""
 
 # UG-312
 msgid "Pader"
-msgstr ""
+msgstr "파라과이"
 
 # UG-313
 msgid "Yumbe"
-msgstr ""
+msgstr "테마"
 
 # UG-314
 msgid "Amolatar"
-msgstr ""
+msgstr "오스트리아"
 
 # UG-315
 msgid "Kaabong"
-msgstr ""
+msgstr "캔사스"
 
 # UG-316
 msgid "Koboko"
@@ -18390,23 +18420,23 @@ msgstr ""
 
 # UG-317
 msgid "Abim"
-msgstr ""
+msgstr "알바니아"
 
 # UG-318
 msgid "Dokolo"
-msgstr ""
+msgstr "폴란드"
 
 # UG-319
 msgid "Amuru"
-msgstr ""
+msgstr "오스트리아"
 
 # UG-320
 msgid "Maracha"
-msgstr ""
+msgstr "프랑스"
 
 # UG-321
 msgid "Oyam"
-msgstr ""
+msgstr "오클라호마"
 
 # UG-401
 msgid "Bundibugyo"
@@ -18430,11 +18460,11 @@ msgstr ""
 
 # UG-406
 msgid "Kasese"
-msgstr ""
+msgstr "캔사스"
 
 # UG-407
 msgid "Kibaale"
-msgstr ""
+msgstr "말리"
 
 # UG-408
 msgid "Kisoro"
@@ -18458,11 +18488,11 @@ msgstr ""
 
 # UG-413
 msgid "Kamwenge"
-msgstr ""
+msgstr "스웨덴"
 
 # UG-414
 msgid "Kanungu"
-msgstr ""
+msgstr "캔사스"
 
 # UG-415
 msgid "Kyenjojo"
@@ -18470,11 +18500,11 @@ msgstr ""
 
 # UG-416
 msgid "Ibanda"
-msgstr ""
+msgstr "루이지아나"
 
 # UG-417
 msgid "Isingiro"
-msgstr ""
+msgstr "워싱턴"
 
 # UG-418
 msgid "Kiruhura"
@@ -18482,23 +18512,23 @@ msgstr ""
 
 # UG-419
 msgid "Buliisa"
-msgstr ""
+msgstr "플로리다"
 
 # UG-C
 msgid "Central"
-msgstr ""
+msgstr "캐나다"
 
 # UG-E
 msgid "Eastern"
-msgstr ""
+msgstr "동티모르"
 
 # UG-N
 msgid "Northern"
-msgstr ""
+msgstr "네덜란드"
 
 # UG-W
 msgid "Western"
-msgstr ""
+msgstr "예멘"
 
 # UM-67
 msgid "Johnston Atoll"
@@ -18506,7 +18536,7 @@ msgstr ""
 
 # UM-71
 msgid "Midway Islands"
-msgstr ""
+msgstr "미드웨이 제도"
 
 # UM-76
 msgid "Navassa Island"
@@ -18514,7 +18544,7 @@ msgstr ""
 
 # UM-79
 msgid "Wake Island"
-msgstr ""
+msgstr "웨이크 제도"
 
 # UM-81
 msgid "Baker Island"
@@ -18538,11 +18568,11 @@ msgstr ""
 
 # US-AK
 msgid "Alaska"
-msgstr ""
+msgstr "알라스카"
 
 # US-AL
 msgid "Alabama"
-msgstr ""
+msgstr "알라바마어"
 
 # US-AR
 msgid "Arkansas"
@@ -18554,19 +18584,19 @@ msgstr "아메리칸사모아"
 
 # US-AZ
 msgid "Arizona"
-msgstr ""
+msgstr "아리조나"
 
 # US-CA
 msgid "California"
-msgstr ""
+msgstr "캘리포니아"
 
 # US-CO
 msgid "Colorado"
-msgstr ""
+msgstr "콜로라도"
 
 # US-CT
 msgid "Connecticut"
-msgstr ""
+msgstr "커넥티컷"
 
 # US-DC
 msgid "District of Columbia"
@@ -18574,11 +18604,11 @@ msgstr ""
 
 # US-DE
 msgid "Delaware"
-msgstr ""
+msgstr "델라웨어어"
 
 # US-FL
 msgid "Florida"
-msgstr ""
+msgstr "플로리다"
 
 # US-GA
 msgid "Georgia"
@@ -18590,7 +18620,7 @@ msgstr "괌"
 
 # US-HI
 msgid "Hawaii"
-msgstr ""
+msgstr "하와이"
 
 # US-IA
 msgid "Iowa"
@@ -18602,31 +18632,31 @@ msgstr ""
 
 # US-IL
 msgid "Illinois"
-msgstr ""
+msgstr "일리노이"
 
 # US-IN
 msgid "Indiana"
-msgstr ""
+msgstr "인디아나"
 
 # US-KS
 msgid "Kansas"
-msgstr ""
+msgstr "캔사스"
 
 # US-KY
 msgid "Kentucky"
-msgstr ""
+msgstr "켄터키"
 
 # US-LA
 msgid "Louisiana"
-msgstr ""
+msgstr "루이지아나"
 
 # US-MA
 msgid "Massachusetts"
-msgstr ""
+msgstr "매사츄세츠"
 
 # US-MD
 msgid "Maryland"
-msgstr ""
+msgstr "아일랜드"
 
 # US-ME
 msgid "Maine"
@@ -18634,15 +18664,15 @@ msgstr ""
 
 # US-MI
 msgid "Michigan"
-msgstr ""
+msgstr "미시간"
 
 # US-MN
 msgid "Minnesota"
-msgstr ""
+msgstr "미네소타"
 
 # US-MO
 msgid "Missouri"
-msgstr ""
+msgstr "미조리"
 
 # US-MP
 msgid "Northern Mariana Islands"
@@ -18650,11 +18680,11 @@ msgstr "북마리아나 제도"
 
 # US-MS
 msgid "Mississippi"
-msgstr ""
+msgstr "미시시피"
 
 # US-MT
 msgid "Montana"
-msgstr ""
+msgstr "몬타나"
 
 # US-NC
 msgid "North Carolina"
@@ -18670,35 +18700,35 @@ msgstr ""
 
 # US-NH
 msgid "New Hampshire"
-msgstr ""
+msgstr "뉴헴프셔"
 
 # US-NJ
 msgid "New Jersey"
-msgstr ""
+msgstr "뉴저지"
 
 # US-NM
 msgid "New Mexico"
-msgstr ""
+msgstr "뉴멕시코"
 
 # US-NV
 msgid "Nevada"
-msgstr ""
+msgstr "네바다"
 
 # US-NY
 msgid "New York"
-msgstr ""
+msgstr "뉴욕"
 
 # US-OH
 msgid "Ohio"
-msgstr ""
+msgstr "오하이오"
 
 # US-OK
 msgid "Oklahoma"
-msgstr ""
+msgstr "오클라호마"
 
 # US-OR
 msgid "Oregon"
-msgstr ""
+msgstr "오레곤"
 
 # US-PA
 msgid "Pennsylvania"
@@ -18722,11 +18752,11 @@ msgstr ""
 
 # US-TN
 msgid "Tennessee"
-msgstr ""
+msgstr "테네시"
 
 # US-TX
 msgid "Texas"
-msgstr ""
+msgstr "텍사스"
 
 # US-UM
 msgid "United States Minor Outlying Islands"
@@ -18734,11 +18764,11 @@ msgstr "미국령 군소 제도"
 
 # US-UT
 msgid "Utah"
-msgstr ""
+msgstr "유타"
 
 # US-VA
 msgid "Virginia"
-msgstr ""
+msgstr "버지니아"
 
 # US-VI
 msgid "Virgin Islands"
@@ -18746,11 +18776,11 @@ msgstr ""
 
 # US-VT
 msgid "Vermont"
-msgstr ""
+msgstr "버몬트"
 
 # US-WA
 msgid "Washington"
-msgstr ""
+msgstr "워싱턴"
 
 # US-WI
 msgid "Wisconsin"
@@ -18766,7 +18796,7 @@ msgstr ""
 
 # UY-AR
 msgid "Artigas"
-msgstr ""
+msgstr "아르헨티나"
 
 # UY-CA
 msgid "Canelones"
@@ -18778,7 +18808,7 @@ msgstr ""
 
 # UY-CO
 msgid "Colonia"
-msgstr ""
+msgstr "콜롬비아"
 
 # UY-DU
 msgid "Durazno"
@@ -18786,11 +18816,11 @@ msgstr ""
 
 # UY-FD
 msgid "Florida"
-msgstr ""
+msgstr "플로리다"
 
 # UY-FS
 msgid "Flores"
-msgstr ""
+msgstr "플로리다"
 
 # UY-LA
 msgid "Lavalleja"
@@ -18798,7 +18828,7 @@ msgstr ""
 
 # UY-MA
 msgid "Maldonado"
-msgstr ""
+msgstr "모나코"
 
 # UY-MO
 msgid "Montevideo"
@@ -18806,7 +18836,7 @@ msgstr ""
 
 # UY-PA
 msgid "Paysandú"
-msgstr ""
+msgstr "파키스탄"
 
 # UY-RN
 msgid "Río Negro"
@@ -18818,19 +18848,19 @@ msgstr ""
 
 # UY-RV
 msgid "Rivera"
-msgstr ""
+msgstr "라이베리아"
 
 # UY-SA
 msgid "Salto"
-msgstr ""
+msgstr "사모아"
 
 # UY-SJ
 msgid "San José"
-msgstr ""
+msgstr "수리남"
 
 # UY-SO
 msgid "Soriano"
-msgstr ""
+msgstr "요르단"
 
 # UY-TA
 msgid "Tacuarembó"
@@ -18846,11 +18876,11 @@ msgstr ""
 
 # UZ-BU
 msgid "Buxoro"
-msgstr ""
+msgstr "나우루"
 
 # UZ-FA
 msgid "Farg'ona"
-msgstr ""
+msgstr "통가"
 
 # UZ-JI
 msgid "Jizzax"
@@ -18862,7 +18892,7 @@ msgstr ""
 
 # UZ-NW
 msgid "Navoiy"
-msgstr ""
+msgstr "말리"
 
 # UZ-QA
 msgid "Qashqadaryo"
@@ -18870,7 +18900,7 @@ msgstr ""
 
 # UZ-QR
 msgid "Qoraqalpog'iston Respublikasi"
-msgstr ""
+msgstr "타이완, 중화민국"
 
 # UZ-SA
 msgid "Samarqand"
@@ -18894,11 +18924,11 @@ msgstr ""
 
 # UZ-XO
 msgid "Xorazm"
-msgstr ""
+msgstr "요르단"
 
 # VC-01
 msgid "Charlotte"
-msgstr ""
+msgstr "카메룬"
 
 # VC-02
 msgid "Saint Andrew"
@@ -18906,15 +18936,15 @@ msgstr ""
 
 # VC-03
 msgid "Saint David"
-msgstr ""
+msgstr "수리남"
 
 # VC-04
 msgid "Saint George"
-msgstr ""
+msgstr "시/도"
 
 # VC-05
 msgid "Saint Patrick"
-msgstr ""
+msgstr "시/도"
 
 # VC-06
 msgid "Grenadines"
@@ -18934,19 +18964,19 @@ msgstr ""
 
 # VE-D
 msgid "Aragua"
-msgstr ""
+msgstr "파라과이"
 
 # VE-E
 msgid "Barinas"
-msgstr ""
+msgstr "바레인"
 
 # VE-F
 msgid "Bolívar"
-msgstr ""
+msgstr "베네수엘라 볼리바르"
 
 # VE-G
 msgid "Carabobo"
-msgstr ""
+msgstr "카메룬"
 
 # VE-H
 msgid "Cojedes"
@@ -18962,19 +18992,19 @@ msgstr ""
 
 # VE-K
 msgid "Lara"
-msgstr ""
+msgstr "라트비아"
 
 # VE-L
 msgid "Mérida"
-msgstr ""
+msgstr "알제리"
 
 # VE-M
 msgid "Miranda"
-msgstr ""
+msgstr "캐나다"
 
 # VE-N
 msgid "Monagas"
-msgstr ""
+msgstr "몬타나"
 
 # VE-O
 msgid "Nueva Esparta"
@@ -18982,11 +19012,11 @@ msgstr ""
 
 # VE-P
 msgid "Portuguesa"
-msgstr ""
+msgstr "포르투갈"
 
 # VE-R
 msgid "Sucre"
-msgstr ""
+msgstr "SUCRE"
 
 # VE-S
 msgid "Táchira"
@@ -18998,11 +19028,11 @@ msgstr ""
 
 # VE-U
 msgid "Yaracuy"
-msgstr ""
+msgstr "파라과이"
 
 # VE-V
 msgid "Zulia"
-msgstr ""
+msgstr "불가리아"
 
 # VE-W
 msgid "Dependencias Federales"
@@ -19010,7 +19040,7 @@ msgstr ""
 
 # VE-X
 msgid "Vargas"
-msgstr ""
+msgstr "버지니아"
 
 # VE-Y
 msgid "Delta Amacuro"
@@ -19018,7 +19048,7 @@ msgstr ""
 
 # VE-Z
 msgid "Amazonas"
-msgstr ""
+msgstr "아리조나"
 
 # VN-01
 msgid "Lai Châu"
@@ -19030,11 +19060,11 @@ msgstr ""
 
 # VN-03
 msgid "Hà Giang"
-msgstr ""
+msgstr "핀란드"
 
 # VN-04
 msgid "Cao Bằng"
-msgstr ""
+msgstr "콩고"
 
 # VN-05
 msgid "Sơn La"
@@ -19050,7 +19080,7 @@ msgstr ""
 
 # VN-09
 msgid "Lạng Sơn"
-msgstr ""
+msgstr "레바논"
 
 # VN-13
 msgid "Quảng Ninh"
@@ -19134,7 +19164,7 @@ msgstr ""
 
 # VN-36
 msgid "Ninh Thuận"
-msgstr ""
+msgstr "부탄"
 
 # VN-37
 msgid "Tây Ninh"
@@ -19142,15 +19172,15 @@ msgstr ""
 
 # VN-39
 msgid "Đồng Nai"
-msgstr ""
+msgstr "통가"
 
 # VN-40
 msgid "Bình Thuận"
-msgstr ""
+msgstr "부탄"
 
 # VN-41
 msgid "Long An"
-msgstr ""
+msgstr "홍콩"
 
 # VN-43
 msgid "Bà Rịa-Vũng Tàu"
@@ -19170,7 +19200,7 @@ msgstr ""
 
 # VN-47
 msgid "Kiên Giang"
-msgstr ""
+msgstr "핀란드"
 
 # VN-49
 msgid "Vĩnh Long"
@@ -19194,7 +19224,7 @@ msgstr ""
 
 # VN-54
 msgid "Bắc Giang"
-msgstr ""
+msgstr "핀란드"
 
 # VN-55
 msgid "Bạc Liêu"
@@ -19222,7 +19252,7 @@ msgstr ""
 
 # VN-63
 msgid "Hà Nam"
-msgstr ""
+msgstr "이름"
 
 # VN-66
 msgid "Hưng Yên"
@@ -19254,7 +19284,7 @@ msgstr ""
 
 # VN-73
 msgid "Hậu Giang"
-msgstr ""
+msgstr "핀란드"
 
 # VN-CT
 msgid "Cần Thơ"
@@ -19266,7 +19296,7 @@ msgstr ""
 
 # VN-HN
 msgid "Hà Nội"
-msgstr ""
+msgstr "이름"
 
 # VN-HP
 msgid "Hải Phòng"
@@ -19278,31 +19308,31 @@ msgstr ""
 
 # VU-MAP
 msgid "Malampa"
-msgstr ""
+msgstr "말레이시아"
 
 # VU-PAM
 msgid "Pénama"
-msgstr ""
+msgstr "파나마"
 
 # VU-SAM
 msgid "Sanma"
-msgstr ""
+msgstr "사모아"
 
 # VU-SEE
 msgid "Shéfa"
-msgstr ""
+msgstr "수단"
 
 # VU-TAE
 msgid "Taféa"
-msgstr ""
+msgstr "텍사스"
 
 # VU-TOB
 msgid "Torba"
-msgstr ""
+msgstr "통가"
 
 # WS-AA
 msgid "A'ana"
-msgstr ""
+msgstr "알바니아"
 
 # WS-AL
 msgid "Aiga-i-le-Tai"
@@ -19346,15 +19376,15 @@ msgstr ""
 
 # YE-AB
 msgid "Abyān"
-msgstr ""
+msgstr "알바니아"
 
 # YE-AD
 msgid "'Adan"
-msgstr ""
+msgstr "수단"
 
 # YE-AM
 msgid "'Amrān"
-msgstr ""
+msgstr "오만"
 
 # YE-BA
 msgid "Al Bayḑā'"
@@ -19366,7 +19396,7 @@ msgstr ""
 
 # YE-DH
 msgid "Dhamār"
-msgstr ""
+msgstr "덴마크"
 
 # YE-HD
 msgid "Ḩaḑramawt"
@@ -19390,7 +19420,7 @@ msgstr ""
 
 # YE-MA
 msgid "Ma'rib"
-msgstr ""
+msgstr "말리"
 
 # YE-MR
 msgid "Al Mahrah"
@@ -19430,7 +19460,7 @@ msgstr ""
 
 # ZA-FS
 msgid "Free State"
-msgstr ""
+msgstr "미국"
 
 # ZA-GT
 msgid "Gauteng"
@@ -19462,15 +19492,15 @@ msgstr ""
 
 # ZM-01
 msgid "Western"
-msgstr ""
+msgstr "예멘"
 
 # ZM-02
 msgid "Central"
-msgstr ""
+msgstr "캐나다"
 
 # ZM-03
 msgid "Eastern"
-msgstr ""
+msgstr "동티모르"
 
 # ZM-04
 msgid "Luapula"
@@ -19478,7 +19508,7 @@ msgstr ""
 
 # ZM-05
 msgid "Northern"
-msgstr ""
+msgstr "네덜란드"
 
 # ZM-06
 msgid "North-Western"
@@ -19486,7 +19516,7 @@ msgstr ""
 
 # ZM-07
 msgid "Southern (Zambia)"
-msgstr ""
+msgstr "남아프리카"
 
 # ZM-08
 msgid "Copperbelt"
@@ -19494,11 +19524,11 @@ msgstr ""
 
 # ZM-09
 msgid "Lusaka"
-msgstr ""
+msgstr "루이지아나"
 
 # ZW-BU
 msgid "Bulawayo"
-msgstr ""
+msgstr "불가리아"
 
 # ZW-HA
 msgid "Harare"
@@ -19506,7 +19536,7 @@ msgstr ""
 
 # ZW-MA
 msgid "Manicaland"
-msgstr ""
+msgstr "태국"
 
 # ZW-MC
 msgid "Mashonaland Central"
@@ -19518,7 +19548,7 @@ msgstr ""
 
 # ZW-MI
 msgid "Midlands"
-msgstr ""
+msgstr "핀란드"
 
 # ZW-MN
 msgid "Matabeleland North"
@@ -19530,7 +19560,7 @@ msgstr ""
 
 # ZW-MV
 msgid "Masvingo"
-msgstr ""
+msgstr "워싱턴"
 
 # ZW-MW
 msgid "Mashonaland West"

@@ -232,7 +232,7 @@ msgstr ""
 
 # AL-03
 msgid "Elbasan"
-msgstr ""
+msgstr "Elbasan"
 
 # AL-04
 msgid "Fier"
@@ -296,7 +296,7 @@ msgstr ""
 
 # AL-EL
 msgid "Elbasan"
-msgstr ""
+msgstr "Elbasan"
 
 # AL-ER
 msgid "Kolonjë"
@@ -688,7 +688,7 @@ msgstr ""
 
 # AU-WA
 msgid "Western Australia"
-msgstr ""
+msgstr "Vestur-Ástralía"
 
 # AZ-ABS
 msgid "Abşeron"
@@ -1908,11 +1908,11 @@ msgstr ""
 
 # BJ-ZO
 msgid "Zou"
-msgstr ""
+msgstr "Zou"
 
 # BN-BE
 msgid "Belait"
-msgstr ""
+msgstr "Belait"
 
 # BN-BM
 msgid "Brunei-Muara"
@@ -2220,7 +2220,7 @@ msgstr ""
 
 # BT-13
 msgid "Ha"
-msgstr ""
+msgstr "Ha"
 
 # BT-14
 msgid "Samtee"
@@ -2312,7 +2312,7 @@ msgstr ""
 
 # BW-NE
 msgid "North-East"
-msgstr ""
+msgstr "Norð-austur"
 
 # BW-NW
 msgid "North-West"
@@ -2320,14 +2320,15 @@ msgstr ""
 
 # BW-SE
 msgid "South-East"
-msgstr ""
+msgstr "Suð-austur"
 
 # BW-SO
 msgid "Southern"
-msgstr ""
+msgstr "Suður"
 
 # BY-BR
-msgid "Brèsckaja voblasc'"
+# original msgid: "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 # BY-HM
@@ -2335,23 +2336,28 @@ msgid "Horad Minsk"
 msgstr ""
 
 # BY-HO
-msgid "Homel'skaja voblasc'"
+# original msgid: "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 # BY-HR
-msgid "Hrodzenskaja voblasc'"
+# original msgid: "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 # BY-MA
-msgid "Mahilëuskaja voblasc'"
+# original msgid: "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 # BY-MI
-msgid "Minskaja voblasc'"
+# original msgid: "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 # BY-VI
-msgid "Vicebskaja voblasc'"
+# original msgid: "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 # BZ-BZ
@@ -2672,7 +2678,7 @@ msgstr ""
 
 # CH-UR
 msgid "Uri"
-msgstr ""
+msgstr "Uri"
 
 # CH-VD
 msgid "Vaud"
@@ -2840,7 +2846,7 @@ msgstr ""
 
 # CM-ES
 msgid "East"
-msgstr ""
+msgstr "Austur"
 
 # CM-LT
 msgid "Littoral"
@@ -3020,7 +3026,7 @@ msgstr ""
 
 # CO-BOL
 msgid "Bolívar"
-msgstr ""
+msgstr "Bólívar"
 
 # CO-BOY
 msgid "Boyacá"
@@ -3040,7 +3046,7 @@ msgstr ""
 
 # CO-CAU
 msgid "Cauca"
-msgstr ""
+msgstr "Cauca"
 
 # CO-CES
 msgid "Cesar"
@@ -3116,7 +3122,7 @@ msgstr ""
 
 # CO-SUC
 msgid "Sucre"
-msgstr ""
+msgstr "Sucre"
 
 # CO-TOL
 msgid "Tolima"
@@ -3796,7 +3802,7 @@ msgstr ""
 
 # DE-BE
 msgid "Berlin"
-msgstr ""
+msgstr "Berlín"
 
 # DE-BW
 msgid "Baden-Württemberg"
@@ -3856,7 +3862,7 @@ msgstr ""
 
 # DJ-AR
 msgid "Arta"
-msgstr ""
+msgstr "Arta"
 
 # DJ-AS
 msgid "Ali Sabieh"
@@ -3880,23 +3886,23 @@ msgstr ""
 
 # DK-81
 msgid "Nordjylland"
-msgstr ""
+msgstr "Norður-jótland"
 
 # DK-82
 msgid "Midtjylland"
-msgstr ""
+msgstr "Mið-jótland"
 
 # DK-83
 msgid "Syddanmark"
-msgstr ""
+msgstr "Suður-danmörk"
 
 # DK-84
 msgid "Hovedstaden"
-msgstr ""
+msgstr "Höfuðstðurinn"
 
 # DK-85
 msgid "Sjælland"
-msgstr ""
+msgstr "Sjáland"
 
 # DM-01
 msgid "Saint Peter"
@@ -4256,7 +4262,7 @@ msgstr ""
 
 # EC-B
 msgid "Bolívar"
-msgstr ""
+msgstr "Bólívar"
 
 # EC-C
 msgid "Carchi"
@@ -4696,7 +4702,7 @@ msgstr ""
 
 # ES-M
 msgid "Madrid"
-msgstr ""
+msgstr "Madríd"
 
 # ES-MA
 msgid "Málaga"
@@ -4944,11 +4950,11 @@ msgstr ""
 
 # FJ-E
 msgid "Eastern"
-msgstr ""
+msgstr "Austur"
 
 # FJ-N
 msgid "Northern"
-msgstr ""
+msgstr "Norður"
 
 # FJ-R
 msgid "Rotuma"
@@ -4956,7 +4962,7 @@ msgstr ""
 
 # FJ-W
 msgid "Western"
-msgstr ""
+msgstr "Vestur"
 
 # FM-KSA
 msgid "Kosrae"
@@ -5276,7 +5282,7 @@ msgstr ""
 
 # FR-75
 msgid "Paris"
-msgstr ""
+msgstr "París"
 
 # FR-76
 msgid "Seine-Maritime"
@@ -5452,7 +5458,7 @@ msgstr ""
 
 # FR-PF
 msgid "Polynésie française"
-msgstr ""
+msgstr "Franska pólýnesía"
 
 # FR-PM
 msgid "Saint-Pierre-et-Miquelon"
@@ -5464,7 +5470,7 @@ msgstr ""
 
 # FR-TF
 msgid "Terres australes françaises"
-msgstr ""
+msgstr "Frönsku suðurhafslandsvæðin"
 
 # FR-WF
 msgid "Wallis-et-Futuna"
@@ -6044,7 +6050,7 @@ msgstr ""
 
 # GB-NIR
 msgid "Northern Ireland"
-msgstr ""
+msgstr "Norður-Írland"
 
 # GB-NLK
 msgid "North Lanarkshire"
@@ -6500,11 +6506,11 @@ msgstr ""
 
 # GH-EP
 msgid "Eastern"
-msgstr ""
+msgstr "Austur"
 
 # GH-NP
 msgid "Northern"
-msgstr ""
+msgstr "Norður"
 
 # GH-TV
 msgid "Volta"
@@ -6520,7 +6526,7 @@ msgstr ""
 
 # GH-WP
 msgid "Western"
-msgstr ""
+msgstr "Vestur"
 
 # GL-KU
 msgid "Kommune Kujalleq"
@@ -6560,7 +6566,7 @@ msgstr ""
 
 # GM-W
 msgid "Western"
-msgstr ""
+msgstr "Vestur"
 
 # GN-B
 msgid "Boké"
@@ -6832,7 +6838,7 @@ msgstr ""
 
 # GR-31
 msgid "Arta"
-msgstr ""
+msgstr "Arta"
 
 # GR-32
 msgid "Thesprotia"
@@ -6876,7 +6882,7 @@ msgstr ""
 
 # GR-54
 msgid "Thessaloniki"
-msgstr ""
+msgstr "Þessalóníka"
 
 # GR-55
 msgid "Kavala"
@@ -7244,7 +7250,7 @@ msgstr ""
 
 # HN-LE
 msgid "Lempira"
-msgstr ""
+msgstr "Lempira"
 
 # HN-LP
 msgid "La Paz"
@@ -7584,7 +7590,7 @@ msgstr ""
 
 # ID-GO
 msgid "Gorontalo"
-msgstr ""
+msgstr "Gorontaló"
 
 # ID-IJ
 msgid "Papua"
@@ -7804,7 +7810,7 @@ msgstr ""
 
 # IE-MO
 msgid "Mayo"
-msgstr ""
+msgstr "Mayo"
 
 # IE-OY
 msgid "Offaly"
@@ -7984,11 +7990,11 @@ msgstr ""
 
 # IN-SK
 msgid "Sikkim"
-msgstr ""
+msgstr "Sikkim"
 
 # IN-TG
 msgid "Telangana"
-msgstr ""
+msgstr "Telangana"
 
 # IN-TN
 msgid "Tamil Nadu"
@@ -8204,39 +8210,39 @@ msgstr ""
 
 # IS-0
 msgid "Reykjavík"
-msgstr ""
+msgstr "Reykjavík"
 
 # IS-1
 msgid "Höfuðborgarsvæðið"
-msgstr ""
+msgstr "Höfuðborgarsvæðið"
 
 # IS-2
 msgid "Suðurnes"
-msgstr ""
+msgstr "Suðurnes"
 
 # IS-3
 msgid "Vesturland"
-msgstr ""
+msgstr "Vesturland"
 
 # IS-4
 msgid "Vestfirðir"
-msgstr ""
+msgstr "Vestfirðir"
 
 # IS-5
 msgid "Norðurland vestra"
-msgstr ""
+msgstr "Norðurland vestra"
 
 # IS-6
 msgid "Norðurland eystra"
-msgstr ""
+msgstr "Norðurland eystra"
 
 # IS-7
 msgid "Austurland"
-msgstr ""
+msgstr "Austurland"
 
 # IS-8
 msgid "Suðurland"
-msgstr ""
+msgstr "Suðurland"
 
 # IT-21
 msgid "Piemonte"
@@ -8356,7 +8362,7 @@ msgstr ""
 
 # IT-BA
 msgid "Bari"
-msgstr ""
+msgstr "Barí"
 
 # IT-BG
 msgid "Bergamo"
@@ -8648,7 +8654,7 @@ msgstr ""
 
 # IT-RM
 msgid "Roma"
-msgstr ""
+msgstr "Róm"
 
 # IT-RN
 msgid "Rimini"
@@ -9052,7 +9058,7 @@ msgstr ""
 
 # KE-01
 msgid "Baringo"
-msgstr ""
+msgstr "Barí"
 
 # KE-02
 msgid "Bomet"
@@ -9076,7 +9082,7 @@ msgstr ""
 
 # KE-07
 msgid "Garissa"
-msgstr ""
+msgstr "París"
 
 # KE-08
 msgid "Homa Bay"
@@ -11388,7 +11394,7 @@ msgstr ""
 
 # MH-MIL
 msgid "Mili"
-msgstr ""
+msgstr "Mili"
 
 # MH-NMK
 msgid "Namdrik"
@@ -11784,7 +11790,7 @@ msgstr ""
 
 # ML-7
 msgid "Gao"
-msgstr ""
+msgstr "Gao"
 
 # ML-8
 msgid "Kidal"
@@ -11840,15 +11846,15 @@ msgstr ""
 
 # MM-15
 msgid "Mon"
-msgstr ""
+msgstr "Mon"
 
 # MM-16
 msgid "Rakhine"
-msgstr ""
+msgstr "Kado"
 
 # MM-17
 msgid "Shan"
-msgstr ""
+msgstr "Shan"
 
 # MN-035
 msgid "Orhon"
@@ -12904,7 +12910,7 @@ msgstr ""
 
 # NG-BA
 msgid "Bauchi"
-msgstr ""
+msgstr "Bauchi"
 
 # NG-BE
 msgid "Benue"
@@ -13180,15 +13186,15 @@ msgstr ""
 
 # NO-02
 msgid "Akershus"
-msgstr ""
+msgstr "Akershús"
 
 # NO-03
 msgid "Oslo"
-msgstr ""
+msgstr "Osló"
 
 # NO-04
 msgid "Hedmark"
-msgstr ""
+msgstr "Heiðmörk"
 
 # NO-05
 msgid "Oppland"
@@ -13204,59 +13210,59 @@ msgstr ""
 
 # NO-08
 msgid "Telemark"
-msgstr ""
+msgstr "Þelamörk"
 
 # NO-09
 msgid "Aust-Agder"
-msgstr ""
+msgstr "Austur-Agder"
 
 # NO-10
 msgid "Vest-Agder"
-msgstr ""
+msgstr "Vestur-Agder"
 
 # NO-11
 msgid "Rogaland"
-msgstr ""
+msgstr "Rogaland"
 
 # NO-12
 msgid "Hordaland"
-msgstr ""
+msgstr "Hörðaland"
 
 # NO-14
 msgid "Sogn og Fjordane"
-msgstr ""
+msgstr "Sogn og Firðirnir"
 
 # NO-15
 msgid "Møre og Romsdal"
-msgstr ""
+msgstr "Mæri og Romsdal"
 
 # NO-16
 msgid "Sør-Trøndelag"
-msgstr ""
+msgstr "Suður-Þrændalög"
 
 # NO-17
 msgid "Nord-Trøndelag"
-msgstr ""
+msgstr "Norður-Þrændalög"
 
 # NO-18
 msgid "Nordland"
-msgstr ""
+msgstr "Norðurland"
 
 # NO-19
 msgid "Troms"
-msgstr ""
+msgstr "Troms"
 
 # NO-20
 msgid "Finnmark"
-msgstr ""
+msgstr "Finnmörk"
 
 # NO-21
 msgid "Svalbard (Arctic Region)"
-msgstr ""
+msgstr "Svalbarði (heimsskautasvæði)"
 
 # NO-22
 msgid "Jan Mayen (Arctic Region)"
-msgstr ""
+msgstr "Jan Mayen (heimsskautasvæði)"
 
 # NP-1
 msgid "Madhyamanchal"
@@ -13672,7 +13678,7 @@ msgstr ""
 
 # PG-EPW
 msgid "Enga"
-msgstr ""
+msgstr "Enga"
 
 # PG-ESW
 msgid "East Sepik"
@@ -13708,7 +13714,7 @@ msgstr ""
 
 # PG-NPP
 msgid "Northern"
-msgstr ""
+msgstr "Norður"
 
 # PG-NSB
 msgid "Bougainville"
@@ -13732,7 +13738,7 @@ msgstr ""
 
 # PG-WPD
 msgid "Western"
-msgstr ""
+msgstr "Vestur"
 
 # PH-00
 msgid "National Capital Region"
@@ -14036,7 +14042,7 @@ msgstr ""
 
 # PH-PAN
 msgid "Pangasinan"
-msgstr ""
+msgstr "Pangasínan"
 
 # PH-PLW
 msgid "Palawan"
@@ -14236,7 +14242,7 @@ msgstr ""
 
 # PS-JEM
 msgid "Jerusalem"
-msgstr ""
+msgstr "Jerúsalem"
 
 # PS-JEN
 msgid "Jenin"
@@ -14256,7 +14262,7 @@ msgstr ""
 
 # PS-NGZ
 msgid "North Gaza"
-msgstr ""
+msgstr "Norður-Gaza"
 
 # PS-QQA
 msgid "Qalqilya"
@@ -14288,7 +14294,7 @@ msgstr ""
 
 # PT-02
 msgid "Beja"
-msgstr ""
+msgstr "Beja"
 
 # PT-03
 msgid "Braga"
@@ -15264,7 +15270,7 @@ msgstr ""
 
 # SB-WE
 msgid "Western"
-msgstr ""
+msgstr "Vestur"
 
 # SC-01
 msgid "Anse aux Pins"
@@ -15436,87 +15442,87 @@ msgstr ""
 
 # SE-AB
 msgid "Stockholms län"
-msgstr ""
+msgstr "Stokkhólmslén"
 
 # SE-AC
 msgid "Västerbottens län"
-msgstr ""
+msgstr "Vesturbotnslén"
 
 # SE-BD
 msgid "Norrbottens län"
-msgstr ""
+msgstr "Norðurbotnslén"
 
 # SE-C
 msgid "Uppsala län"
-msgstr ""
+msgstr "Uppsalalén"
 
 # SE-D
 msgid "Södermanlands län"
-msgstr ""
+msgstr "Suðurmanlandslén"
 
 # SE-E
 msgid "Östergötlands län"
-msgstr ""
+msgstr "Austurgotlandslén"
 
 # SE-F
 msgid "Jönköpings län"
-msgstr ""
+msgstr "Jönköpingslén"
 
 # SE-G
 msgid "Kronobergs län"
-msgstr ""
+msgstr "Kronobergslén"
 
 # SE-H
 msgid "Kalmar län"
-msgstr ""
+msgstr "Kalmarlén"
 
 # SE-I
 msgid "Gotlands län"
-msgstr ""
+msgstr "Gotlandslén"
 
 # SE-K
 msgid "Blekinge län"
-msgstr ""
+msgstr "Blekingelén"
 
 # SE-M
 msgid "Skåne län"
-msgstr ""
+msgstr "Skánarlén"
 
 # SE-N
 msgid "Hallands län"
-msgstr ""
+msgstr "Hallandslén"
 
 # SE-O
 msgid "Västra Götalands län"
-msgstr ""
+msgstr "Vesturgotlandslén"
 
 # SE-S
 msgid "Värmlands län"
-msgstr ""
+msgstr "Vermlandslén"
 
 # SE-T
 msgid "Örebro län"
-msgstr ""
+msgstr "Örebrolén"
 
 # SE-U
 msgid "Västmanlands län"
-msgstr ""
+msgstr "Vestmanlandslén"
 
 # SE-W
 msgid "Dalarnas län"
-msgstr ""
+msgstr "Dalalén"
 
 # SE-X
 msgid "Gävleborgs län"
-msgstr ""
+msgstr "Gävleborgarlén"
 
 # SE-Y
 msgid "Västernorrlands län"
-msgstr ""
+msgstr "Vesturnorðlandslén"
 
 # SE-Z
 msgid "Jämtlands län"
-msgstr ""
+msgstr "Jämtlandslén"
 
 # SG-01
 msgid "Central Singapore"
@@ -15524,19 +15530,19 @@ msgstr ""
 
 # SG-02
 msgid "North East"
-msgstr ""
+msgstr "Norð-austur"
 
 # SG-03
 msgid "North West"
-msgstr ""
+msgstr "Norð-vestur"
 
 # SG-04
 msgid "South East"
-msgstr ""
+msgstr "Suð-austur"
 
 # SG-05
 msgid "South West"
-msgstr ""
+msgstr "Suð-vestur"
 
 # SH-AC
 msgid "Ascension"
@@ -16424,11 +16430,11 @@ msgstr ""
 
 # SL-E
 msgid "Eastern"
-msgstr ""
+msgstr "Austur"
 
 # SL-N
 msgid "Northern"
-msgstr ""
+msgstr "Norður"
 
 # SL-S
 msgid "Southern (Sierra Leone)"
@@ -16544,7 +16550,7 @@ msgstr ""
 
 # SO-BR
 msgid "Bari"
-msgstr ""
+msgstr "Barí"
 
 # SO-BY
 msgid "Bay"
@@ -16644,7 +16650,7 @@ msgstr ""
 
 # SS-BN
 msgid "Northern Bahr el Ghazal"
-msgstr ""
+msgstr "Norður-Írland"
 
 # SS-BW
 msgid "Western Bahr el Ghazal"
@@ -17224,7 +17230,7 @@ msgstr ""
 
 # TH-95
 msgid "Yala"
-msgstr ""
+msgstr "Yala"
 
 # TH-96
 msgid "Narathiwat"
@@ -18055,39 +18061,48 @@ msgid "Manyara"
 msgstr ""
 
 # UA-05
-msgid "Vinnyts'ka Oblast'"
+# original msgid: "Vinnyts'ka Oblast'"
+msgid "Vinnytska oblast"
 msgstr ""
 
 # UA-07
-msgid "Volyns'ka Oblast'"
+# original msgid: "Volyns'ka Oblast'"
+msgid "Volynska oblast"
 msgstr ""
 
 # UA-09
-msgid "Luhans'ka Oblast'"
+# original msgid: "Luhans'ka Oblast'"
+msgid "Luhanska oblast"
 msgstr ""
 
 # UA-12
-msgid "Dnipropetrovs'ka Oblast'"
+# original msgid: "Dnipropetrovs'ka Oblast'"
+msgid "Dnipropetrovska oblast"
 msgstr ""
 
 # UA-14
-msgid "Donets'ka Oblast'"
+# original msgid: "Donets'ka Oblast'"
+msgid "Donetska oblast"
 msgstr ""
 
 # UA-18
-msgid "Zhytomyrs'ka Oblast'"
+# original msgid: "Zhytomyrs'ka Oblast'"
+msgid "Zhytomyrska oblast"
 msgstr ""
 
 # UA-21
-msgid "Zakarpats'ka Oblast'"
+# original msgid: "Zakarpats'ka Oblast'"
+msgid "Zakarpatska oblast"
 msgstr ""
 
 # UA-23
-msgid "Zaporiz'ka Oblast'"
+# original msgid: "Zaporiz'ka Oblast'"
+msgid "Zaporizka oblast"
 msgstr ""
 
 # UA-26
-msgid "Ivano-Frankivs'ka Oblast'"
+# original msgid: "Ivano-Frankivs'ka Oblast'"
+msgid "Ivano-Frankivska oblast"
 msgstr ""
 
 # UA-30
@@ -18097,11 +18112,12 @@ msgstr ""
 
 # UA-32
 # original msgid: "Kyïvs'ka Oblast'"
-msgid "Kyivs'ka Oblast'"
+msgid "Kyivska oblast"
 msgstr ""
 
 # UA-35
-msgid "Kirovohrads'ka Oblast'"
+# original msgid: "Kirovohrads'ka Oblast'"
+msgid "Kirovohradska oblast"
 msgstr ""
 
 # UA-40
@@ -18109,59 +18125,73 @@ msgid "Sevastopol"
 msgstr ""
 
 # UA-43
-msgid "Respublika Krym"
+# original msgid: "Respublika Krym"
+msgid "Avtonomna Respublika Krym"
 msgstr ""
 
 # UA-46
-msgid "L'vivs'ka Oblast'"
+# original msgid: "L'vivs'ka Oblast'"
+msgid "Lvivska oblast"
 msgstr ""
 
 # UA-48
-msgid "Mykolaïvs'ka Oblast'"
+# original msgid: "Mykolaïvs'ka Oblast'"
+msgid "Mykolaivska oblast"
 msgstr ""
 
 # UA-51
-msgid "Odes'ka Oblast'"
+# original msgid: "Odes'ka Oblast'"
+msgid "Odeska oblast"
 msgstr ""
 
 # UA-53
-msgid "Poltavs'ka Oblast'"
+# original msgid: "Poltavs'ka Oblast'"
+msgid "Poltavska oblast"
 msgstr ""
 
 # UA-56
-msgid "Rivnens'ka Oblast'"
+# original msgid: "Rivnens'ka Oblast'"
+msgid "Rivnenska oblast"
 msgstr ""
 
 # UA-59
-msgid "Sums 'ka Oblast'"
+# original msgid: "Sums 'ka Oblast'"
+msgid "Sumska oblast"
 msgstr ""
 
 # UA-61
-msgid "Ternopil's'ka Oblast'"
+# original msgid: "Ternopil's'ka Oblast'"
+msgid "Ternopilska oblast"
 msgstr ""
 
 # UA-63
-msgid "Kharkivs'ka Oblast'"
+# original msgid: "Kharkivs'ka Oblast'"
+msgid "Kharkivska oblast"
 msgstr ""
 
 # UA-65
-msgid "Khersons'ka Oblast'"
+# original msgid: "Khersons'ka Oblast'"
+msgid "Khersonska oblast"
 msgstr ""
 
 # UA-68
-msgid "Khmel'nyts'ka Oblast'"
+# original msgid: "Khmel'nyts'ka Oblast'"
+msgid "Khmelnytska oblast"
 msgstr ""
 
 # UA-71
-msgid "Cherkas'ka Oblast'"
+# original msgid: "Cherkas'ka Oblast'"
+msgid "Cherkaska oblast"
 msgstr ""
 
 # UA-74
-msgid "Chernihivs'ka Oblast'"
+# original msgid: "Chernihivs'ka Oblast'"
+msgid "Chernihivska oblast"
 msgstr ""
 
 # UA-77
-msgid "Chernivets'ka Oblast'"
+# original msgid: "Chernivets'ka Oblast'"
+msgid "Chernivetska oblast"
 msgstr ""
 
 # UG-101
@@ -18490,15 +18520,15 @@ msgstr ""
 
 # UG-E
 msgid "Eastern"
-msgstr ""
+msgstr "Austur"
 
 # UG-N
 msgid "Northern"
-msgstr ""
+msgstr "Norður"
 
 # UG-W
 msgid "Western"
-msgstr ""
+msgstr "Vestur"
 
 # UM-67
 msgid "Johnston Atoll"
@@ -18506,7 +18536,7 @@ msgstr ""
 
 # UM-71
 msgid "Midway Islands"
-msgstr ""
+msgstr "Midway-eyjar"
 
 # UM-76
 msgid "Navassa Island"
@@ -18514,7 +18544,7 @@ msgstr ""
 
 # UM-79
 msgid "Wake Island"
-msgstr ""
+msgstr "Wake-eyja"
 
 # UM-81
 msgid "Baker Island"
@@ -18542,7 +18572,7 @@ msgstr ""
 
 # US-AL
 msgid "Alabama"
-msgstr ""
+msgstr "Alabama"
 
 # US-AR
 msgid "Arkansas"
@@ -18562,7 +18592,7 @@ msgstr ""
 
 # US-CO
 msgid "Colorado"
-msgstr ""
+msgstr "Colorado"
 
 # US-CT
 msgid "Connecticut"
@@ -18574,7 +18604,7 @@ msgstr ""
 
 # US-DE
 msgid "Delaware"
-msgstr ""
+msgstr "Delaware"
 
 # US-FL
 msgid "Florida"
@@ -18942,7 +18972,7 @@ msgstr ""
 
 # VE-F
 msgid "Bolívar"
-msgstr ""
+msgstr "Bólívar"
 
 # VE-G
 msgid "Carabobo"
@@ -18986,7 +19016,7 @@ msgstr ""
 
 # VE-R
 msgid "Sucre"
-msgstr ""
+msgstr "Sucre"
 
 # VE-S
 msgid "Táchira"
@@ -19462,7 +19492,7 @@ msgstr ""
 
 # ZM-01
 msgid "Western"
-msgstr ""
+msgstr "Vestur"
 
 # ZM-02
 msgid "Central"
@@ -19470,7 +19500,7 @@ msgstr ""
 
 # ZM-03
 msgid "Eastern"
-msgstr ""
+msgstr "Austur"
 
 # ZM-04
 msgid "Luapula"
@@ -19478,11 +19508,11 @@ msgstr ""
 
 # ZM-05
 msgid "Northern"
-msgstr ""
+msgstr "Norður"
 
 # ZM-06
 msgid "North-Western"
-msgstr ""
+msgstr "Norð-vestur"
 
 # ZM-07
 msgid "Southern (Zambia)"

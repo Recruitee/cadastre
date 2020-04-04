@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr ""
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr "เบ็งกาลี"
 
 # bo
@@ -101,7 +102,7 @@ msgstr "เยอรมัน"
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "ทิเวหี; มัลดีฟส์"
 
 # dz
@@ -193,7 +194,7 @@ msgstr "โครเอเชีย"
 
 # ht
 # original msgid: "Haitian; Haitian Creole"
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "เฮติ; ลูกผสมเฮติ"
 
 # hu
@@ -261,7 +262,8 @@ msgid "Kalaallisut"
 msgstr ""
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr "เขมรกลาง"
 
 # kn
@@ -282,7 +284,7 @@ msgstr ""
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr "คีร์กีซสถาน"
 
 # lb
@@ -296,7 +298,7 @@ msgstr ""
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr ""
 
 # ln
@@ -393,12 +395,12 @@ msgstr "ออกซิตัน (หลัง 1500)"
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr ""
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr "ปัญจาบี"
 
 # pl
@@ -522,7 +524,7 @@ msgstr "เซตสวานา"
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr "ตองกา (หมู่เกาะตองกา)"
 
 # tr
@@ -547,7 +549,7 @@ msgstr "ตาฮิติ"
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr "อุยกูร์"
 
 # uk

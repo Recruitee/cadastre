@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr "Bambara"
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr "Bengalera"
 
 # bo
@@ -101,7 +102,7 @@ msgstr "Alemana"
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "Maldiviera"
 
 # dz
@@ -194,7 +195,7 @@ msgstr "Kroaziera"
 
 # ht
 # original msgid: "Haitian; Haitian Creole"
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "Haitiera, haitiar kreolera"
 
 # hu
@@ -262,7 +263,8 @@ msgid "Kalaallisut"
 msgstr "Groenlandiera"
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr "Erdiko khmer"
 
 # kn
@@ -283,7 +285,7 @@ msgstr "Kornubiera"
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr "Kirgizera"
 
 # lb
@@ -297,7 +299,7 @@ msgstr ""
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr ""
 
 # ln
@@ -394,12 +396,12 @@ msgstr "Okzitaniera (1500 ondorengoa); Proventzera"
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr "Osetiera"
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr "Punjabera"
 
 # pl
@@ -523,7 +525,7 @@ msgstr "Tswanera"
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr "Tongera (Tonga uharteak)"
 
 # tr
@@ -548,7 +550,7 @@ msgstr "Tahitiera"
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr "Uighurera"
 
 # uk

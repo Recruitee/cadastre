@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr "Bambara (Mali)"
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr "Bengalce"
 
 # bo
@@ -101,7 +102,7 @@ msgstr "Almanca"
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "Divehi; Dhivehi; Maldivian"
 
 # dz
@@ -193,7 +194,7 @@ msgstr "Hırvatça"
 
 # ht
 # original msgid: "Haitian; Haitian Creole"
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "Haiti dili; Haiti Creole dili"
 
 # hu
@@ -261,7 +262,8 @@ msgid "Kalaallisut"
 msgstr "Kalaallisut; Grönlandca"
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr "Merkez Khmer"
 
 # kn
@@ -282,7 +284,7 @@ msgstr "Cornish (Kelt)"
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr "Kırgızca"
 
 # lb
@@ -296,7 +298,7 @@ msgstr "Ganda"
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr "Limburgan; Limburger; Limburgish"
 
 # ln
@@ -393,12 +395,12 @@ msgstr "Oksitanca (1500 sonrası); Provensal"
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr "Ossetian; Ossetic"
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr "Panjabi; Punjabi"
 
 # pl
@@ -522,7 +524,7 @@ msgstr "Setswana"
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr "Tonga"
 
 # tr
@@ -547,7 +549,7 @@ msgstr "Tahitice"
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr "Uygur; Uygurca"
 
 # uk

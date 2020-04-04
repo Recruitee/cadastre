@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr "বাম্বারা"
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr "বাংলা"
 
 # bo
@@ -101,7 +102,7 @@ msgstr "জার্মান"
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "দিভেহি; ধিভেহি; মালদিভিয়ান"
 
 # dz
@@ -193,7 +194,7 @@ msgstr "ক্রোয়েশিয়ান"
 
 # ht
 # original msgid: "Haitian; Haitian Creole"
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "হেইশিয়ান; হেইশিয়ান ক্রেওল"
 
 # hu
@@ -261,7 +262,8 @@ msgid "Kalaallisut"
 msgstr "কালালিসুটল; গ্রিনল্যান্ডিক"
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr "মধ্য খমের"
 
 # kn
@@ -282,7 +284,7 @@ msgstr "কর্নিশ"
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr "কির্গিজ"
 
 # lb
@@ -296,7 +298,7 @@ msgstr "গান্ডা"
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr "লিমবুর্গিয়ান; লিমবুর্গার; লিমবুর্গিশ"
 
 # ln
@@ -393,12 +395,12 @@ msgstr "অকসিটান (১৫০০ উত্তোর)"
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr "ওসেনশিয়ান; ওসেটিক"
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr "পাঞ্জাবি"
 
 # pl
@@ -522,7 +524,7 @@ msgstr "সোওয়ানা"
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr "টোঙ্গা (টোঙ্গা দ্বীপপুঞ্জ)"
 
 # tr
@@ -547,7 +549,7 @@ msgstr "তাহিশিয়ান"
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr "উইগুর"
 
 # uk

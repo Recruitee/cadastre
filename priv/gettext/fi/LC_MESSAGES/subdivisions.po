@@ -1236,7 +1236,7 @@ msgstr ""
 
 # BD-35
 msgid "Munshiganj"
-msgstr ""
+msgstr "Michigan"
 
 # BD-36
 msgid "Madaripur"
@@ -2088,7 +2088,7 @@ msgstr ""
 
 # BS-AK
 msgid "Acklins"
-msgstr ""
+msgstr "Yhdysvaltain Neitsytsaaret"
 
 # BS-BI
 msgid "Bimini"
@@ -2100,7 +2100,7 @@ msgstr ""
 
 # BS-BY
 msgid "Berry Islands"
-msgstr ""
+msgstr "Yhdysvaltain Neitsytsaaret"
 
 # BS-CE
 msgid "Central Eleuthera"
@@ -2164,19 +2164,19 @@ msgstr ""
 
 # BS-MI
 msgid "Moore's Island"
-msgstr ""
+msgstr "Rhode Island"
 
 # BS-NE
 msgid "North Eleuthera"
-msgstr ""
+msgstr "Nordlandin lääni"
 
 # BS-NO
 msgid "North Abaco"
-msgstr ""
+msgstr "Pohjois-Dakota"
 
 # BS-NS
 msgid "North Andros"
-msgstr ""
+msgstr "Pohjois-Carolina"
 
 # BS-RC
 msgid "Rum Cay"
@@ -2188,7 +2188,7 @@ msgstr ""
 
 # BS-SA
 msgid "South Andros"
-msgstr ""
+msgstr "Etelä-Carolina"
 
 # BS-SE
 msgid "South Eleuthera"
@@ -2196,7 +2196,7 @@ msgstr ""
 
 # BS-SO
 msgid "South Abaco"
-msgstr ""
+msgstr "Etelä-Dakota"
 
 # BS-SS
 msgid "San Salvador"
@@ -2316,7 +2316,7 @@ msgstr ""
 
 # BW-NW
 msgid "North-West"
-msgstr ""
+msgstr "Nordlandin lääni"
 
 # BW-SE
 msgid "South-East"
@@ -2324,10 +2324,11 @@ msgstr ""
 
 # BW-SO
 msgid "Southern"
-msgstr ""
+msgstr "Etelä-Carolina"
 
 # BY-BR
-msgid "Brèsckaja voblasc'"
+# original msgid: "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 # BY-HM
@@ -2335,23 +2336,28 @@ msgid "Horad Minsk"
 msgstr ""
 
 # BY-HO
-msgid "Homel'skaja voblasc'"
+# original msgid: "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 # BY-HR
-msgid "Hrodzenskaja voblasc'"
+# original msgid: "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 # BY-MA
-msgid "Mahilëuskaja voblasc'"
+# original msgid: "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 # BY-MI
-msgid "Minskaja voblasc'"
+# original msgid: "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 # BY-VI
-msgid "Vicebskaja voblasc'"
+# original msgid: "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 # BZ-BZ
@@ -3880,7 +3886,7 @@ msgstr ""
 
 # DK-81
 msgid "Nordjylland"
-msgstr ""
+msgstr "Nordlandin lääni"
 
 # DK-82
 msgid "Midtjylland"
@@ -4864,7 +4870,7 @@ msgstr ""
 
 # FI-01
 msgid "Ahvenanmaan maakunta"
-msgstr ""
+msgstr "Ahvenanmaan lääni"
 
 # FI-02
 msgid "Etelä-Karjala"
@@ -6024,7 +6030,7 @@ msgstr ""
 
 # GB-NBL
 msgid "Northumberland"
-msgstr ""
+msgstr "Nordlandin lääni"
 
 # GB-NEL
 msgid "North East Lincolnshire"
@@ -6768,7 +6774,7 @@ msgstr ""
 
 # GR-03
 msgid "Voiotia"
-msgstr ""
+msgstr "Florida"
 
 # GR-04
 msgid "Evvoias"
@@ -6780,11 +6786,11 @@ msgstr ""
 
 # GR-06
 msgid "Fthiotida"
-msgstr ""
+msgstr "Florida"
 
 # GR-07
 msgid "Fokida"
-msgstr ""
+msgstr "Florida"
 
 # GR-11
 msgid "Argolida"
@@ -6792,7 +6798,7 @@ msgstr ""
 
 # GR-12
 msgid "Arkadia"
-msgstr ""
+msgstr "Arkansas"
 
 # GR-13
 msgid "Achaïa"
@@ -6820,15 +6826,15 @@ msgstr ""
 
 # GR-22
 msgid "Kerkyra"
-msgstr ""
+msgstr "Permin aluepiiri"
 
 # GR-23
 msgid "Kefallonia"
-msgstr ""
+msgstr "Kalifornia"
 
 # GR-24
 msgid "Lefkada"
-msgstr ""
+msgstr "Nevada"
 
 # GR-31
 msgid "Arta"
@@ -6840,7 +6846,7 @@ msgstr ""
 
 # GR-33
 msgid "Ioannina"
-msgstr ""
+msgstr "Indiana"
 
 # GR-34
 msgid "Preveza"
@@ -6856,7 +6862,7 @@ msgstr ""
 
 # GR-43
 msgid "Magnisia"
-msgstr ""
+msgstr "Kansas"
 
 # GR-44
 msgid "Trikala"
@@ -6900,7 +6906,7 @@ msgstr ""
 
 # GR-61
 msgid "Pieria"
-msgstr ""
+msgstr "Georgia"
 
 # GR-62
 msgid "Serres"
@@ -6908,7 +6914,7 @@ msgstr ""
 
 # GR-63
 msgid "Florina"
-msgstr ""
+msgstr "Florida"
 
 # GR-64
 msgid "Chalkidiki"
@@ -6920,7 +6926,7 @@ msgstr ""
 
 # GR-71
 msgid "Evros"
-msgstr ""
+msgstr "Tromssan lääni"
 
 # GR-72
 msgid "Xanthi"
@@ -6948,7 +6954,7 @@ msgstr ""
 
 # GR-85
 msgid "Chios"
-msgstr ""
+msgstr "Ohio"
 
 # GR-91
 msgid "Irakleio"
@@ -6964,7 +6970,7 @@ msgstr ""
 
 # GR-94
 msgid "Chania"
-msgstr ""
+msgstr "Kalifornia"
 
 # GR-A
 msgid "Anatoliki Makedonia kai Thraki"
@@ -7888,7 +7894,7 @@ msgstr ""
 
 # IN-CH
 msgid "Chandigarh"
-msgstr ""
+msgstr "Kalifornia"
 
 # IN-CT
 msgid "Chhattisgarh"
@@ -7932,7 +7938,7 @@ msgstr ""
 
 # IN-KA
 msgid "Karnataka"
-msgstr ""
+msgstr "Kansas"
 
 # IN-KL
 msgid "Kerala"
@@ -7964,7 +7970,7 @@ msgstr ""
 
 # IN-NL
 msgid "Nagaland"
-msgstr ""
+msgstr "Rogalandin lääni"
 
 # IN-OR
 msgid "Odisha"
@@ -8464,7 +8470,7 @@ msgstr ""
 
 # IT-FM
 msgid "Fermo"
-msgstr ""
+msgstr "Vermont"
 
 # IT-FR
 msgid "Frosinone"
@@ -9220,7 +9226,7 @@ msgstr ""
 
 # KE-43
 msgid "Turkana"
-msgstr ""
+msgstr "Arkansas"
 
 # KE-44
 msgid "Uasin Gishu"
@@ -9228,7 +9234,7 @@ msgstr ""
 
 # KE-45
 msgid "Vihiga"
-msgstr ""
+msgstr "Michigan"
 
 # KE-46
 msgid "Wajir"
@@ -10700,7 +10706,7 @@ msgstr ""
 
 # MA-AOU
 msgid "Aousserd (EH)"
-msgstr ""
+msgstr "Buskerudin lääni"
 
 # MA-ASZ
 msgid "Assa-Zag (EH-partial)"
@@ -10816,7 +10822,7 @@ msgstr ""
 
 # MA-JRA
 msgid "Jerada"
-msgstr ""
+msgstr "Arkansas"
 
 # MA-KEN
 msgid "Kénitra"
@@ -11132,7 +11138,7 @@ msgstr ""
 
 # MD-FL
 msgid "Florești"
-msgstr ""
+msgstr "Florida"
 
 # MD-GA
 msgid "Găgăuzia, Unitatea teritorială autonomă"
@@ -12420,7 +12426,7 @@ msgstr ""
 
 # MV-NC
 msgid "North Central"
-msgstr ""
+msgstr "Nordlandin lääni"
 
 # MV-NO
 msgid "North"
@@ -12428,7 +12434,7 @@ msgstr ""
 
 # MV-SC
 msgid "South Central"
-msgstr ""
+msgstr "Etelä-Carolina"
 
 # MV-SU
 msgid "South"
@@ -13176,79 +13182,79 @@ msgstr ""
 
 # NO-01
 msgid "Østfold"
-msgstr ""
+msgstr "Østfoldin lääni"
 
 # NO-02
 msgid "Akershus"
-msgstr ""
+msgstr "Akershusin lääni"
 
 # NO-03
 msgid "Oslo"
-msgstr ""
+msgstr "Oslon lääni"
 
 # NO-04
 msgid "Hedmark"
-msgstr ""
+msgstr "Hedmarkin lääni"
 
 # NO-05
 msgid "Oppland"
-msgstr ""
+msgstr "Opplandin lääni"
 
 # NO-06
 msgid "Buskerud"
-msgstr ""
+msgstr "Buskerudin lääni"
 
 # NO-07
 msgid "Vestfold"
-msgstr ""
+msgstr "Vestfoldin lääni"
 
 # NO-08
 msgid "Telemark"
-msgstr ""
+msgstr "Telemarkin lääni"
 
 # NO-09
 msgid "Aust-Agder"
-msgstr ""
+msgstr "Itä-Agderin lääni"
 
 # NO-10
 msgid "Vest-Agder"
-msgstr ""
+msgstr "Länsi-Agderin lääni"
 
 # NO-11
 msgid "Rogaland"
-msgstr ""
+msgstr "Rogalandin lääni"
 
 # NO-12
 msgid "Hordaland"
-msgstr ""
+msgstr "Hordalandin lääni"
 
 # NO-14
 msgid "Sogn og Fjordane"
-msgstr ""
+msgstr "Sogn ja Fjordanen lääni"
 
 # NO-15
 msgid "Møre og Romsdal"
-msgstr ""
+msgstr "Møre ja Romsdalin lääni"
 
 # NO-16
 msgid "Sør-Trøndelag"
-msgstr ""
+msgstr "Etelä-Trøndelagin lääni"
 
 # NO-17
 msgid "Nord-Trøndelag"
-msgstr ""
+msgstr "Pohjois-Trøndelagin lääni"
 
 # NO-18
 msgid "Nordland"
-msgstr ""
+msgstr "Nordlandin lääni"
 
 # NO-19
 msgid "Troms"
-msgstr ""
+msgstr "Tromssan lääni"
 
 # NO-20
 msgid "Finnmark"
-msgstr ""
+msgstr "Finnmarkin lääni"
 
 # NO-21
 msgid "Svalbard (Arctic Region)"
@@ -13300,7 +13306,7 @@ msgstr ""
 
 # NP-KA
 msgid "Karnali"
-msgstr ""
+msgstr "Kansas"
 
 # NP-KO
 msgid "Kosi"
@@ -13316,7 +13322,7 @@ msgstr ""
 
 # NP-ME
 msgid "Mechi"
-msgstr ""
+msgstr "Michigan"
 
 # NP-NA
 msgid "Narayani"
@@ -13424,7 +13430,7 @@ msgstr ""
 
 # NZ-N
 msgid "North Island"
-msgstr ""
+msgstr "Nordlandin lääni"
 
 # NZ-NSN
 msgid "Nelson City"
@@ -13440,7 +13446,7 @@ msgstr ""
 
 # NZ-S
 msgid "South Island"
-msgstr ""
+msgstr "Rhode Island"
 
 # NZ-STL
 msgid "Southland"
@@ -13772,11 +13778,11 @@ msgstr ""
 
 # PH-10
 msgid "Northern Mindanao (Region X)"
-msgstr ""
+msgstr "Pohjois-Mariaanit"
 
 # PH-11
 msgid "Davao (Region XI)"
-msgstr ""
+msgstr "Pohjois-Mariaanit"
 
 # PH-12
 msgid "Soccsksargen (Region XII)"
@@ -13920,7 +13926,7 @@ msgstr ""
 
 # PH-DIN
 msgid "Dinagat Islands"
-msgstr ""
+msgstr "Yhdysvaltain Neitsytsaaret"
 
 # PH-EAS
 msgid "Eastern Samar"
@@ -14256,7 +14262,7 @@ msgstr ""
 
 # PS-NGZ
 msgid "North Gaza"
-msgstr ""
+msgstr "Pohjois-Dakota"
 
 # PS-QQA
 msgid "Qalqilya"
@@ -14724,7 +14730,7 @@ msgstr ""
 
 # RS-07
 msgid "Sremski okrug"
-msgstr ""
+msgstr "Permin aluepiiri"
 
 # RS-08
 msgid "Mačvanski okrug"
@@ -14732,7 +14738,7 @@ msgstr ""
 
 # RS-09
 msgid "Kolubarski okrug"
-msgstr ""
+msgstr "Habrovskin aluepiiri"
 
 # RS-10
 msgid "Podunavski okrug"
@@ -14740,7 +14746,7 @@ msgstr ""
 
 # RS-11
 msgid "Braničevski okrug"
-msgstr ""
+msgstr "Permin aluepiiri"
 
 # RS-12
 msgid "Šumadijski okrug"
@@ -14748,7 +14754,7 @@ msgstr ""
 
 # RS-13
 msgid "Pomoravski okrug"
-msgstr ""
+msgstr "Primorjen aluepiiri"
 
 # RS-14
 msgid "Borski okrug"
@@ -14784,7 +14790,7 @@ msgstr ""
 
 # RS-22
 msgid "Pirotski okrug"
-msgstr ""
+msgstr "Primorjen aluepiiri"
 
 # RS-23
 msgid "Jablanički okrug"
@@ -14804,7 +14810,7 @@ msgstr ""
 
 # RS-27
 msgid "Prizrenski okrug"
-msgstr ""
+msgstr "Primorjen aluepiiri"
 
 # RS-28
 msgid "Kosovsko-Mitrovački okrug"
@@ -14824,331 +14830,331 @@ msgstr ""
 
 # RU-AD
 msgid "Adygeya, Respublika"
-msgstr ""
+msgstr "Adygeioan tasavalta"
 
 # RU-AL
 msgid "Altay, Respublika"
-msgstr ""
+msgstr "Altain tasavalta"
 
 # RU-ALT
 msgid "Altayskiy kray"
-msgstr ""
+msgstr "Altain aluepiiri"
 
 # RU-AMU
 msgid "Amurskaya oblast'"
-msgstr ""
+msgstr "Amurin alue"
 
 # RU-ARK
 msgid "Arkhangel'skaya oblast'"
-msgstr ""
+msgstr "Arkangelin alue"
 
 # RU-AST
 msgid "Astrakhanskaya oblast'"
-msgstr ""
+msgstr "Astrahanin alue"
 
 # RU-BA
 msgid "Bashkortostan, Respublika"
-msgstr ""
+msgstr "Baškortostanin tasavalta"
 
 # RU-BEL
 msgid "Belgorodskaya oblast'"
-msgstr ""
+msgstr "Belgorodin alue"
 
 # RU-BRY
 msgid "Bryanskaya oblast'"
-msgstr ""
+msgstr "Brjanskin alue"
 
 # RU-BU
 msgid "Buryatiya, Respublika"
-msgstr ""
+msgstr "Burjatian tasavalta"
 
 # RU-CE
 msgid "Chechenskaya Respublika"
-msgstr ""
+msgstr "Tšetšenian tasavalta"
 
 # RU-CHE
 msgid "Chelyabinskaya oblast'"
-msgstr ""
+msgstr "Tšeljabinskin alue"
 
 # RU-CHU
 msgid "Chukotskiy avtonomnyy okrug"
-msgstr ""
+msgstr "Tšukotkan autonominen piirikunta"
 
 # RU-CU
 msgid "Chuvashskaya Respublika"
-msgstr ""
+msgstr "Tšuvassian tasavalta"
 
 # RU-DA
 msgid "Dagestan, Respublika"
-msgstr ""
+msgstr "Dagestanin tasavalta"
 
 # RU-IN
 msgid "Respublika Ingushetiya"
-msgstr ""
+msgstr "Ingušian tasavalta"
 
 # RU-IRK
 msgid "Irkutiskaya oblast'"
-msgstr ""
+msgstr "Irkutskin alue"
 
 # RU-IVA
 msgid "Ivanovskaya oblast'"
-msgstr ""
+msgstr "Ivanovon alue"
 
 # RU-KAM
 msgid "Kamchatskiy kray"
-msgstr ""
+msgstr "Kamtšatkan aluepiiri"
 
 # RU-KB
 msgid "Kabardino-Balkarskaya Respublika"
-msgstr ""
+msgstr "Kabardi-Balkarian tasavalta"
 
 # RU-KC
 msgid "Karachayevo-Cherkesskaya Respublika"
-msgstr ""
+msgstr "Karatšai-Tšerkessian tasavalta"
 
 # RU-KDA
 msgid "Krasnodarskiy kray"
-msgstr ""
+msgstr "Krasnodarin aluepiiri"
 
 # RU-KEM
 msgid "Kemerovskaya oblast'"
-msgstr ""
+msgstr "Kemerovon alue"
 
 # RU-KGD
 msgid "Kaliningradskaya oblast'"
-msgstr ""
+msgstr "Kaliningradin alue"
 
 # RU-KGN
 msgid "Kurganskaya oblast'"
-msgstr ""
+msgstr "Kurganin alue"
 
 # RU-KHA
 msgid "Khabarovskiy kray"
-msgstr ""
+msgstr "Habrovskin aluepiiri"
 
 # RU-KHM
 msgid "Khanty-Mansiysky avtonomnyy okrug-Yugra"
-msgstr ""
+msgstr "Hanti-Mansian autonominen piirikunta"
 
 # RU-KIR
 msgid "Kirovskaya oblast'"
-msgstr ""
+msgstr "Kirovin alue"
 
 # RU-KK
 msgid "Khakasiya, Respublika"
-msgstr ""
+msgstr "Hakassian tasavalta"
 
 # RU-KL
 msgid "Kalmykiya, Respublika"
-msgstr ""
+msgstr "Kalmukian tasavalta"
 
 # RU-KLU
 msgid "Kaluzhskaya oblast'"
-msgstr ""
+msgstr "Kalugan alue"
 
 # RU-KO
 msgid "Komi, Respublika"
-msgstr ""
+msgstr "Komin tasavalta"
 
 # RU-KOS
 msgid "Kostromskaya oblast'"
-msgstr ""
+msgstr "Kostroman alue"
 
 # RU-KR
 msgid "Kareliya, Respublika"
-msgstr ""
+msgstr "Karjalan tasavalta"
 
 # RU-KRS
 msgid "Kurskaya oblast'"
-msgstr ""
+msgstr "Kurskin alue"
 
 # RU-KYA
 msgid "Krasnoyarskiy kray"
-msgstr ""
+msgstr "Krasnojarskin aluepiiri"
 
 # RU-LEN
 msgid "Leningradskaya oblast'"
-msgstr ""
+msgstr "Leningradin alue"
 
 # RU-LIP
 msgid "Lipetskaya oblast'"
-msgstr ""
+msgstr "Lipetskin alue"
 
 # RU-MAG
 msgid "Magadanskaya oblast'"
-msgstr ""
+msgstr "Magadanin alue"
 
 # RU-ME
 msgid "Mariy El, Respublika"
-msgstr ""
+msgstr "Marin tasavalta"
 
 # RU-MO
 msgid "Mordoviya, Respublika"
-msgstr ""
+msgstr "Mordvan tasavalta"
 
 # RU-MOS
 msgid "Moskovskaya oblast'"
-msgstr ""
+msgstr "Moskovan alue"
 
 # RU-MOW
 msgid "Moskva"
-msgstr ""
+msgstr "Moskova"
 
 # RU-MUR
 msgid "Murmanskaya oblast'"
-msgstr ""
+msgstr "Murmanskin alue"
 
 # RU-NEN
 msgid "Nenetskiy avtonomnyy okrug"
-msgstr ""
+msgstr "Nenetsian autonominen piirikunta"
 
 # RU-NGR
 msgid "Novgorodskaya oblast'"
-msgstr ""
+msgstr "Novgorodin alue"
 
 # RU-NIZ
 msgid "Nizhegorodskaya oblast'"
-msgstr ""
+msgstr "Nižni Novgorodin alue"
 
 # RU-NVS
 msgid "Novosibirskaya oblast'"
-msgstr ""
+msgstr "Novosibirskin alue"
 
 # RU-OMS
 msgid "Omskaya oblast'"
-msgstr ""
+msgstr "Omskin alue"
 
 # RU-ORE
 msgid "Orenburgskaya oblast'"
-msgstr ""
+msgstr "Orenburgin alue"
 
 # RU-ORL
 msgid "Orlovskaya oblast'"
-msgstr ""
+msgstr "Orjolin alue"
 
 # RU-PER
 msgid "Permskiy kray"
-msgstr ""
+msgstr "Permin aluepiiri"
 
 # RU-PNZ
 msgid "Penzenskaya oblast'"
-msgstr ""
+msgstr "Penzan alue"
 
 # RU-PRI
 msgid "Primorskiy kray"
-msgstr ""
+msgstr "Primorjen aluepiiri"
 
 # RU-PSK
 msgid "Pskovskaya oblast'"
-msgstr ""
+msgstr "Pihkovan alue"
 
 # RU-ROS
 msgid "Rostovskaya oblast'"
-msgstr ""
+msgstr "Rostovin alue"
 
 # RU-RYA
 msgid "Ryazanskaya oblast'"
-msgstr ""
+msgstr "Rjazanin alue"
 
 # RU-SA
 msgid "Sakha, Respublika [Yakutiya]"
-msgstr ""
+msgstr "Sahan tasavalta (Jakutia)"
 
 # RU-SAK
 msgid "Sakhalinskaya oblast'"
-msgstr ""
+msgstr "Sahalinin alue"
 
 # RU-SAM
 msgid "Samaraskaya oblast'"
-msgstr ""
+msgstr "Samaran alue"
 
 # RU-SAR
 msgid "Saratovskaya oblast'"
-msgstr ""
+msgstr "Saratovin alue"
 
 # RU-SE
 msgid "Severnaya Osetiya-Alaniya, Respublika"
-msgstr ""
+msgstr "Pohjois-Ossetia-Alanian tasavalta"
 
 # RU-SMO
 msgid "Smolenskaya oblast'"
-msgstr ""
+msgstr "Smolenskin alue"
 
 # RU-SPE
 msgid "Sankt-Peterburg"
-msgstr ""
+msgstr "Pietari"
 
 # RU-STA
 msgid "Stavropol'skiy kray"
-msgstr ""
+msgstr "Stavropolin aluepiiri"
 
 # RU-SVE
 msgid "Sverdlovskaya oblast'"
-msgstr ""
+msgstr "Sverdlovskin alue"
 
 # RU-TA
 msgid "Tatarstan, Respublika"
-msgstr ""
+msgstr "Tatarstanin tasavalta"
 
 # RU-TAM
 msgid "Tambovskaya oblast'"
-msgstr ""
+msgstr "Tambovin alue"
 
 # RU-TOM
 msgid "Tomskaya oblast'"
-msgstr ""
+msgstr "Tomskin alue"
 
 # RU-TUL
 msgid "Tul'skaya oblast'"
-msgstr ""
+msgstr "Tulan alue"
 
 # RU-TVE
 msgid "Tverskaya oblast'"
-msgstr ""
+msgstr "Tverin alue"
 
 # RU-TY
 msgid "Tyva, Respublika [Tuva]"
-msgstr ""
+msgstr "Tuvan tasavalta"
 
 # RU-TYU
 msgid "Tyumenskaya oblast'"
-msgstr ""
+msgstr "Tjumenin alue"
 
 # RU-UD
 msgid "Udmurtskaya Respublika"
-msgstr ""
+msgstr "Udmurtian tasavalta"
 
 # RU-ULY
 msgid "Ul'yanovskaya oblast'"
-msgstr ""
+msgstr "Uljanovskin alue"
 
 # RU-VGG
 msgid "Volgogradskaya oblast'"
-msgstr ""
+msgstr "Volgogradin alue"
 
 # RU-VLA
 msgid "Vladimirskaya oblast'"
-msgstr ""
+msgstr "Vladimirin alue"
 
 # RU-VLG
 msgid "Vologodskaya oblast'"
-msgstr ""
+msgstr "Vologdan alue"
 
 # RU-VOR
 msgid "Voronezhskaya oblast'"
-msgstr ""
+msgstr "Voronežin alue"
 
 # RU-YAN
 msgid "Yamalo-Nenetskiy avtonomnyy okrug"
-msgstr ""
+msgstr "Jamalin Nenetsian autonominen piirikunta"
 
 # RU-YAR
 msgid "Yaroslavskaya oblast'"
-msgstr ""
+msgstr "Jaroslavin alue"
 
 # RU-YEV
 msgid "Yevreyskaya avtonomnaya oblast'"
-msgstr ""
+msgstr "Juutalaisten autonominen alue"
 
 # RU-ZAB
 msgid "Zabajkal'skij kraj"
@@ -15436,87 +15442,87 @@ msgstr ""
 
 # SE-AB
 msgid "Stockholms län"
-msgstr ""
+msgstr "Tukholman lääni"
 
 # SE-AC
 msgid "Västerbottens län"
-msgstr ""
+msgstr "Västerbottenin lääni"
 
 # SE-BD
 msgid "Norrbottens län"
-msgstr ""
+msgstr "Norrbottenin lääni"
 
 # SE-C
 msgid "Uppsala län"
-msgstr ""
+msgstr "Uppsalan lääni"
 
 # SE-D
 msgid "Södermanlands län"
-msgstr ""
+msgstr "Södermanlannin lääni"
 
 # SE-E
 msgid "Östergötlands län"
-msgstr ""
+msgstr "Itä-Göötanmaan lääni"
 
 # SE-F
 msgid "Jönköpings län"
-msgstr ""
+msgstr "Jönköpingin lääni"
 
 # SE-G
 msgid "Kronobergs län"
-msgstr ""
+msgstr "Kronobergin lääni"
 
 # SE-H
 msgid "Kalmar län"
-msgstr ""
+msgstr "Kalmarin lääni"
 
 # SE-I
 msgid "Gotlands län"
-msgstr ""
+msgstr "Gotlannin lääni"
 
 # SE-K
 msgid "Blekinge län"
-msgstr ""
+msgstr "Blekingen lääni"
 
 # SE-M
 msgid "Skåne län"
-msgstr ""
+msgstr "Skoonen lääni"
 
 # SE-N
 msgid "Hallands län"
-msgstr ""
+msgstr "Hallannin lääni"
 
 # SE-O
 msgid "Västra Götalands län"
-msgstr ""
+msgstr "Länsi-Göötanmaan lääni"
 
 # SE-S
 msgid "Värmlands län"
-msgstr ""
+msgstr "Värmlannin lääni"
 
 # SE-T
 msgid "Örebro län"
-msgstr ""
+msgstr "Örebron lääni"
 
 # SE-U
 msgid "Västmanlands län"
-msgstr ""
+msgstr "Västmanlannin lääni"
 
 # SE-W
 msgid "Dalarnas län"
-msgstr ""
+msgstr "Taalainmaan lääni"
 
 # SE-X
 msgid "Gävleborgs län"
-msgstr ""
+msgstr "Gävleborgin lääni"
 
 # SE-Y
 msgid "Västernorrlands län"
-msgstr ""
+msgstr "Länsi-Norlannin lääni"
 
 # SE-Z
 msgid "Jämtlands län"
-msgstr ""
+msgstr "Jämtlannin lääni"
 
 # SG-01
 msgid "Central Singapore"
@@ -16644,7 +16650,7 @@ msgstr ""
 
 # SS-BN
 msgid "Northern Bahr el Ghazal"
-msgstr ""
+msgstr "Pohjois-Dakota"
 
 # SS-BW
 msgid "Western Bahr el Ghazal"
@@ -17328,7 +17334,7 @@ msgstr ""
 
 # TN-12
 msgid "Ariana"
-msgstr ""
+msgstr "Indiana"
 
 # TN-13
 msgid "Ben Arous"
@@ -18055,39 +18061,48 @@ msgid "Manyara"
 msgstr ""
 
 # UA-05
-msgid "Vinnyts'ka Oblast'"
+# original msgid: "Vinnyts'ka Oblast'"
+msgid "Vinnytska oblast"
 msgstr ""
 
 # UA-07
-msgid "Volyns'ka Oblast'"
+# original msgid: "Volyns'ka Oblast'"
+msgid "Volynska oblast"
 msgstr ""
 
 # UA-09
-msgid "Luhans'ka Oblast'"
+# original msgid: "Luhans'ka Oblast'"
+msgid "Luhanska oblast"
 msgstr ""
 
 # UA-12
-msgid "Dnipropetrovs'ka Oblast'"
+# original msgid: "Dnipropetrovs'ka Oblast'"
+msgid "Dnipropetrovska oblast"
 msgstr ""
 
 # UA-14
-msgid "Donets'ka Oblast'"
+# original msgid: "Donets'ka Oblast'"
+msgid "Donetska oblast"
 msgstr ""
 
 # UA-18
-msgid "Zhytomyrs'ka Oblast'"
+# original msgid: "Zhytomyrs'ka Oblast'"
+msgid "Zhytomyrska oblast"
 msgstr ""
 
 # UA-21
-msgid "Zakarpats'ka Oblast'"
+# original msgid: "Zakarpats'ka Oblast'"
+msgid "Zakarpatska oblast"
 msgstr ""
 
 # UA-23
-msgid "Zaporiz'ka Oblast'"
+# original msgid: "Zaporiz'ka Oblast'"
+msgid "Zaporizka oblast"
 msgstr ""
 
 # UA-26
-msgid "Ivano-Frankivs'ka Oblast'"
+# original msgid: "Ivano-Frankivs'ka Oblast'"
+msgid "Ivano-Frankivska oblast"
 msgstr ""
 
 # UA-30
@@ -18097,11 +18112,12 @@ msgstr ""
 
 # UA-32
 # original msgid: "Kyïvs'ka Oblast'"
-msgid "Kyivs'ka Oblast'"
+msgid "Kyivska oblast"
 msgstr ""
 
 # UA-35
-msgid "Kirovohrads'ka Oblast'"
+# original msgid: "Kirovohrads'ka Oblast'"
+msgid "Kirovohradska oblast"
 msgstr ""
 
 # UA-40
@@ -18109,59 +18125,73 @@ msgid "Sevastopol"
 msgstr ""
 
 # UA-43
-msgid "Respublika Krym"
+# original msgid: "Respublika Krym"
+msgid "Avtonomna Respublika Krym"
 msgstr ""
 
 # UA-46
-msgid "L'vivs'ka Oblast'"
+# original msgid: "L'vivs'ka Oblast'"
+msgid "Lvivska oblast"
 msgstr ""
 
 # UA-48
-msgid "Mykolaïvs'ka Oblast'"
+# original msgid: "Mykolaïvs'ka Oblast'"
+msgid "Mykolaivska oblast"
 msgstr ""
 
 # UA-51
-msgid "Odes'ka Oblast'"
+# original msgid: "Odes'ka Oblast'"
+msgid "Odeska oblast"
 msgstr ""
 
 # UA-53
-msgid "Poltavs'ka Oblast'"
+# original msgid: "Poltavs'ka Oblast'"
+msgid "Poltavska oblast"
 msgstr ""
 
 # UA-56
-msgid "Rivnens'ka Oblast'"
+# original msgid: "Rivnens'ka Oblast'"
+msgid "Rivnenska oblast"
 msgstr ""
 
 # UA-59
-msgid "Sums 'ka Oblast'"
+# original msgid: "Sums 'ka Oblast'"
+msgid "Sumska oblast"
 msgstr ""
 
 # UA-61
-msgid "Ternopil's'ka Oblast'"
+# original msgid: "Ternopil's'ka Oblast'"
+msgid "Ternopilska oblast"
 msgstr ""
 
 # UA-63
-msgid "Kharkivs'ka Oblast'"
+# original msgid: "Kharkivs'ka Oblast'"
+msgid "Kharkivska oblast"
 msgstr ""
 
 # UA-65
-msgid "Khersons'ka Oblast'"
+# original msgid: "Khersons'ka Oblast'"
+msgid "Khersonska oblast"
 msgstr ""
 
 # UA-68
-msgid "Khmel'nyts'ka Oblast'"
+# original msgid: "Khmel'nyts'ka Oblast'"
+msgid "Khmelnytska oblast"
 msgstr ""
 
 # UA-71
-msgid "Cherkas'ka Oblast'"
+# original msgid: "Cherkas'ka Oblast'"
+msgid "Cherkaska oblast"
 msgstr ""
 
 # UA-74
-msgid "Chernihivs'ka Oblast'"
+# original msgid: "Chernihivs'ka Oblast'"
+msgid "Chernihivska oblast"
 msgstr ""
 
 # UA-77
-msgid "Chernivets'ka Oblast'"
+# original msgid: "Chernivets'ka Oblast'"
+msgid "Chernivetska oblast"
 msgstr ""
 
 # UG-101
@@ -18322,7 +18352,7 @@ msgstr ""
 
 # UG-224
 msgid "Bukedea"
-msgstr ""
+msgstr "Buskerudin lääni"
 
 # UG-301
 msgid "Adjumani"
@@ -18538,15 +18568,15 @@ msgstr ""
 
 # US-AK
 msgid "Alaska"
-msgstr ""
+msgstr "Alaska"
 
 # US-AL
 msgid "Alabama"
-msgstr ""
+msgstr "Alabama"
 
 # US-AR
 msgid "Arkansas"
-msgstr ""
+msgstr "Arkansas"
 
 # US-AS
 msgid "American Samoa"
@@ -18554,31 +18584,31 @@ msgstr "Amerikan Samoa"
 
 # US-AZ
 msgid "Arizona"
-msgstr ""
+msgstr "Arizona"
 
 # US-CA
 msgid "California"
-msgstr ""
+msgstr "Kalifornia"
 
 # US-CO
 msgid "Colorado"
-msgstr ""
+msgstr "Colorado"
 
 # US-CT
 msgid "Connecticut"
-msgstr ""
+msgstr "Connecticut"
 
 # US-DC
 msgid "District of Columbia"
-msgstr ""
+msgstr "Kolumbian piiri"
 
 # US-DE
 msgid "Delaware"
-msgstr ""
+msgstr "Delaware"
 
 # US-FL
 msgid "Florida"
-msgstr ""
+msgstr "Florida"
 
 # US-GA
 msgid "Georgia"
@@ -18590,39 +18620,39 @@ msgstr "Guam"
 
 # US-HI
 msgid "Hawaii"
-msgstr ""
+msgstr "Havaiji"
 
 # US-IA
 msgid "Iowa"
-msgstr ""
+msgstr "Iowa"
 
 # US-ID
 msgid "Idaho"
-msgstr ""
+msgstr "Idaho"
 
 # US-IL
 msgid "Illinois"
-msgstr ""
+msgstr "Illinois"
 
 # US-IN
 msgid "Indiana"
-msgstr ""
+msgstr "Indiana"
 
 # US-KS
 msgid "Kansas"
-msgstr ""
+msgstr "Kansas"
 
 # US-KY
 msgid "Kentucky"
-msgstr ""
+msgstr "Kentucky"
 
 # US-LA
 msgid "Louisiana"
-msgstr ""
+msgstr "Louisiana"
 
 # US-MA
 msgid "Massachusetts"
-msgstr ""
+msgstr "Massachusetts"
 
 # US-MD
 msgid "Maryland"
@@ -18630,19 +18660,19 @@ msgstr ""
 
 # US-ME
 msgid "Maine"
-msgstr ""
+msgstr "Maine"
 
 # US-MI
 msgid "Michigan"
-msgstr ""
+msgstr "Michigan"
 
 # US-MN
 msgid "Minnesota"
-msgstr ""
+msgstr "Minnesota"
 
 # US-MO
 msgid "Missouri"
-msgstr ""
+msgstr "Missouri"
 
 # US-MP
 msgid "Northern Mariana Islands"
@@ -18650,7 +18680,7 @@ msgstr "Pohjois-Mariaanit"
 
 # US-MS
 msgid "Mississippi"
-msgstr ""
+msgstr "Mississippi"
 
 # US-MT
 msgid "Montana"
@@ -18658,51 +18688,51 @@ msgstr ""
 
 # US-NC
 msgid "North Carolina"
-msgstr ""
+msgstr "Pohjois-Carolina"
 
 # US-ND
 msgid "North Dakota"
-msgstr ""
+msgstr "Pohjois-Dakota"
 
 # US-NE
 msgid "Nebraska"
-msgstr ""
+msgstr "Nebraska"
 
 # US-NH
 msgid "New Hampshire"
-msgstr ""
+msgstr "New Hampshire"
 
 # US-NJ
 msgid "New Jersey"
-msgstr ""
+msgstr "New Jersey"
 
 # US-NM
 msgid "New Mexico"
-msgstr ""
+msgstr "New Mexico"
 
 # US-NV
 msgid "Nevada"
-msgstr ""
+msgstr "Nevada"
 
 # US-NY
 msgid "New York"
-msgstr ""
+msgstr "New York"
 
 # US-OH
 msgid "Ohio"
-msgstr ""
+msgstr "Ohio"
 
 # US-OK
 msgid "Oklahoma"
-msgstr ""
+msgstr "Oklahoma"
 
 # US-OR
 msgid "Oregon"
-msgstr ""
+msgstr "Oregon"
 
 # US-PA
 msgid "Pennsylvania"
-msgstr ""
+msgstr "Pennsylvania"
 
 # US-PR
 msgid "Puerto Rico"
@@ -18710,23 +18740,23 @@ msgstr "Puerto Rico"
 
 # US-RI
 msgid "Rhode Island"
-msgstr ""
+msgstr "Rhode Island"
 
 # US-SC
 msgid "South Carolina"
-msgstr ""
+msgstr "Etelä-Carolina"
 
 # US-SD
 msgid "South Dakota"
-msgstr ""
+msgstr "Etelä-Dakota"
 
 # US-TN
 msgid "Tennessee"
-msgstr ""
+msgstr "Tennessee"
 
 # US-TX
 msgid "Texas"
-msgstr ""
+msgstr "Texas"
 
 # US-UM
 msgid "United States Minor Outlying Islands"
@@ -18734,35 +18764,35 @@ msgstr "Yhdysvaltain pienet erillissaaret"
 
 # US-UT
 msgid "Utah"
-msgstr ""
+msgstr "Utah"
 
 # US-VA
 msgid "Virginia"
-msgstr ""
+msgstr "Virginia"
 
 # US-VI
 msgid "Virgin Islands"
-msgstr ""
+msgstr "Yhdysvaltain Neitsytsaaret"
 
 # US-VT
 msgid "Vermont"
-msgstr ""
+msgstr "Vermont"
 
 # US-WA
 msgid "Washington"
-msgstr ""
+msgstr "Washington"
 
 # US-WI
 msgid "Wisconsin"
-msgstr ""
+msgstr "Wisconsin"
 
 # US-WV
 msgid "West Virginia"
-msgstr ""
+msgstr "Länsi-Virginia"
 
 # US-WY
 msgid "Wyoming"
-msgstr ""
+msgstr "Wyoming"
 
 # UY-AR
 msgid "Artigas"
@@ -18786,7 +18816,7 @@ msgstr ""
 
 # UY-FD
 msgid "Florida"
-msgstr ""
+msgstr "Florida"
 
 # UY-FS
 msgid "Flores"

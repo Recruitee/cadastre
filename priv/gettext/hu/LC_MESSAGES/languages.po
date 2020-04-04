@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr "bambara"
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr "bengáli"
 
 # bo
@@ -101,7 +102,7 @@ msgstr "német"
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "divehi; maldív"
 
 # dz
@@ -193,7 +194,7 @@ msgstr "horvát"
 
 # ht
 # original msgid: "Haitian; Haitian Creole"
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "haiti; haiti kreol"
 
 # hu
@@ -261,7 +262,8 @@ msgid "Kalaallisut"
 msgstr "kalaallisut; grönlandi"
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr "középkhmer"
 
 # kn
@@ -282,7 +284,7 @@ msgstr "cornwalli"
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr "kirgiz"
 
 # lb
@@ -296,7 +298,7 @@ msgstr "ganda"
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr "limburgi"
 
 # ln
@@ -393,12 +395,12 @@ msgstr "okcitán (1500 után); provanszál"
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr "oszét"
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr "pandzsábi"
 
 # pl
@@ -522,7 +524,7 @@ msgstr "csvana"
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr "tonga (Tonga-szigetek)"
 
 # tr
@@ -547,7 +549,7 @@ msgstr "tahiti"
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr "ujgur"
 
 # uk

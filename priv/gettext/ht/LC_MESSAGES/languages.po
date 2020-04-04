@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr ""
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr ""
 
 # bo
@@ -101,7 +102,7 @@ msgstr ""
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr ""
 
 # dz
@@ -194,7 +195,7 @@ msgstr ""
 # ht
 # original msgid: "Haitian; Haitian Creole"
 # original msgstr: ""
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "Kreyòl ayisyen"
 
 # hu
@@ -262,7 +263,8 @@ msgid "Kalaallisut"
 msgstr ""
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr ""
 
 # kn
@@ -283,7 +285,7 @@ msgstr ""
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr ""
 
 # lb
@@ -297,7 +299,7 @@ msgstr ""
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr ""
 
 # ln
@@ -394,12 +396,12 @@ msgstr ""
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr ""
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr ""
 
 # pl
@@ -523,7 +525,7 @@ msgstr ""
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr ""
 
 # tr
@@ -548,7 +550,7 @@ msgstr ""
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr ""
 
 # uk

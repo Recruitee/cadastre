@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr "班巴拉语"
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr "孟加拉语"
 
 # bo
@@ -101,7 +102,7 @@ msgstr "德语"
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "迪维希语"
 
 # dz
@@ -193,7 +194,7 @@ msgstr "克罗地亚语"
 
 # ht
 # original msgid: "Haitian; Haitian Creole"
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "海地克里奥尔语"
 
 # hu
@@ -261,7 +262,8 @@ msgid "Kalaallisut"
 msgstr "格陵兰语"
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr "高棉语"
 
 # kn
@@ -282,7 +284,7 @@ msgstr "康沃尔语"
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr "吉尔吉斯语"
 
 # lb
@@ -296,7 +298,7 @@ msgstr "干达语"
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr "林堡语"
 
 # ln
@@ -393,12 +395,12 @@ msgstr "奥克语"
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr "奥塞梯语"
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr "旁遮普语"
 
 # pl
@@ -522,7 +524,7 @@ msgstr "塞茨瓦纳语"
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr "汤加语 (汤加岛)"
 
 # tr
@@ -547,7 +549,7 @@ msgstr "塔希提语"
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr "维吾尔语"
 
 # uk

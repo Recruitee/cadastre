@@ -479,8 +479,7 @@ msgid "Saint Kitts and Nevis"
 msgstr "સેન્ટ કીટ્સ અને નેવિસ"
 
 # KP
-# original msgid: "Korea, Democratic People's Republic of"
-msgid "North Korea"
+msgid "Korea, Democratic People's Republic of"
 msgstr "ઉત્તર કોરિયા"
 
 # KR
@@ -760,7 +759,8 @@ msgid "Serbia"
 msgstr "સર્બિઆ"
 
 # RU
-msgid "Russian Federation"
+# original msgid: "Russian Federation"
+msgid "Russia"
 msgstr "રશિયન ફેડરેશન"
 
 # RW
@@ -848,7 +848,8 @@ msgid "Syrian Arab Republic"
 msgstr "સીરીયન આરબ રીપબ્લિક"
 
 # SZ
-msgid "Eswatini"
+# original msgid: "Eswatini"
+msgid "Swaziland"
 msgstr ""
 
 # TC
@@ -908,7 +909,8 @@ msgid "Tuvalu"
 msgstr "ટુવાલુ"
 
 # TW
-msgid "Taiwan, Province of China"
+# original msgid: "Taiwan, Province of China"
+msgid "Taiwan"
 msgstr "તાઇવાન, પ્રોવિનન્સ ઓફ ચાઇના"
 
 # TZ
@@ -960,7 +962,8 @@ msgid "Virgin Islands, U.S."
 msgstr "વર્જીન ટાપુઓ, યુ.એસ."
 
 # VN
-msgid "Viet Nam"
+# original msgid: "Viet Nam"
+msgid "Vietnam"
 msgstr "વિયેત નામ"
 
 # VU

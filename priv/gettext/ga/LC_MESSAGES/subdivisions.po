@@ -1,6 +1,6 @@
 # AD-02
 msgid "Canillo"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # AD-03
 msgid "Encamp"
@@ -8,11 +8,11 @@ msgstr ""
 
 # AD-04
 msgid "La Massana"
-msgstr ""
+msgstr "Málta"
 
 # AD-05
 msgid "Ordino"
-msgstr ""
+msgstr "An tSiria"
 
 # AD-06
 msgid "Sant Julià de Lòria"
@@ -80,7 +80,7 @@ msgstr ""
 
 # AF-FRA
 msgid "Farāh"
-msgstr ""
+msgstr "An Fhrainc"
 
 # AF-FYB
 msgid "Fāryāb"
@@ -112,7 +112,7 @@ msgstr ""
 
 # AF-KAN
 msgid "Kandahār"
-msgstr ""
+msgstr "Ceanada"
 
 # AF-KAP
 msgid "Kāpīsā"
@@ -140,7 +140,7 @@ msgstr ""
 
 # AF-NAN
 msgid "Nangarhār"
-msgstr ""
+msgstr "An Tansáin"
 
 # AF-NIM
 msgid "Nīmrōz"
@@ -148,11 +148,11 @@ msgstr ""
 
 # AF-NUR
 msgid "Nūristān"
-msgstr ""
+msgstr "An Pholainn"
 
 # AF-PAN
 msgid "Panjshayr"
-msgstr ""
+msgstr "An Pholainn"
 
 # AF-PAR
 msgid "Parwān"
@@ -168,7 +168,7 @@ msgstr ""
 
 # AF-SAM
 msgid "Samangān"
-msgstr ""
+msgstr "An Tasmáin"
 
 # AF-SAR
 msgid "Sar-e Pul"
@@ -180,11 +180,11 @@ msgstr ""
 
 # AF-URU
 msgid "Uruzgān"
-msgstr ""
+msgstr "An Iordáin"
 
 # AF-WAR
 msgid "Wardak"
-msgstr ""
+msgstr "An Ghuáin"
 
 # AF-ZAB
 msgid "Zābul"
@@ -192,11 +192,11 @@ msgstr ""
 
 # AG-03
 msgid "Saint George"
-msgstr ""
+msgstr "San Héilin"
 
 # AG-04
 msgid "Saint John"
-msgstr ""
+msgstr "San Héilin"
 
 # AG-05
 msgid "Saint Mary"
@@ -204,11 +204,11 @@ msgstr ""
 
 # AG-06
 msgid "Saint Paul"
-msgstr ""
+msgstr "San Héilin"
 
 # AG-07
 msgid "Saint Peter"
-msgstr ""
+msgstr "San Héilin"
 
 # AG-08
 msgid "Saint Philip"
@@ -216,7 +216,7 @@ msgstr ""
 
 # AG-10
 msgid "Barbuda"
-msgstr ""
+msgstr "Beirmiúda"
 
 # AG-11
 msgid "Redonda"
@@ -224,27 +224,27 @@ msgstr ""
 
 # AL-01
 msgid "Berat"
-msgstr ""
+msgstr "An Chóiré"
 
 # AL-02
 msgid "Durrës"
-msgstr ""
+msgstr "An Tuirc"
 
 # AL-03
 msgid "Elbasan"
-msgstr ""
+msgstr "An Tasmáin"
 
 # AL-04
 msgid "Fier"
-msgstr ""
+msgstr "An Nígir"
 
 # AL-05
 msgid "Gjirokastër"
-msgstr ""
+msgstr "Gíobráltar"
 
 # AL-06
 msgid "Korçë"
-msgstr ""
+msgstr "An Chóiré"
 
 # AL-07
 msgid "Kukës"
@@ -256,7 +256,7 @@ msgstr ""
 
 # AL-09
 msgid "Dibër"
-msgstr ""
+msgstr "An Tibéid"
 
 # AL-10
 msgid "Shkodër"
@@ -264,31 +264,31 @@ msgstr ""
 
 # AL-11
 msgid "Tiranë"
-msgstr ""
+msgstr "An Iaráin"
 
 # AL-12
 msgid "Vlorë"
-msgstr ""
+msgstr "An Clár"
 
 # AL-BR
 msgid "Berat"
-msgstr ""
+msgstr "An Chóiré"
 
 # AL-BU
 msgid "Bulqizë"
-msgstr ""
+msgstr "An Bheilís"
 
 # AL-DI
 msgid "Dibër"
-msgstr ""
+msgstr "An Tibéid"
 
 # AL-DL
 msgid "Delvinë"
-msgstr ""
+msgstr "An Bheilís"
 
 # AL-DR
 msgid "Durrës"
-msgstr ""
+msgstr "An Tuirc"
 
 # AL-DV
 msgid "Devoll"
@@ -296,23 +296,23 @@ msgstr ""
 
 # AL-EL
 msgid "Elbasan"
-msgstr ""
+msgstr "An Tasmáin"
 
 # AL-ER
 msgid "Kolonjë"
-msgstr ""
+msgstr "Camarún"
 
 # AL-FR
 msgid "Fier"
-msgstr ""
+msgstr "An Nígir"
 
 # AL-GJ
 msgid "Gjirokastër"
-msgstr ""
+msgstr "Gíobráltar"
 
 # AL-GR
 msgid "Gramsh"
-msgstr ""
+msgstr "Gána"
 
 # AL-HA
 msgid "Has"
@@ -320,11 +320,11 @@ msgstr ""
 
 # AL-KA
 msgid "Kavajë"
-msgstr ""
+msgstr "An Chóiré"
 
 # AL-KB
 msgid "Kurbin"
-msgstr ""
+msgstr "An Chóiré"
 
 # AL-KC
 msgid "Kuçovë"
@@ -332,11 +332,11 @@ msgstr ""
 
 # AL-KO
 msgid "Korçë"
-msgstr ""
+msgstr "An Chóiré"
 
 # AL-KR
 msgid "Krujë"
-msgstr ""
+msgstr "An Chóiré"
 
 # AL-KU
 msgid "Kukës"
@@ -344,7 +344,7 @@ msgstr ""
 
 # AL-LB
 msgid "Librazhd"
-msgstr ""
+msgstr "An Libia"
 
 # AL-LE
 msgid "Lezhë"
@@ -368,23 +368,23 @@ msgstr ""
 
 # AL-MT
 msgid "Mat"
-msgstr ""
+msgstr "Málta"
 
 # AL-PG
 msgid "Pogradec"
-msgstr ""
+msgstr "An Iorua"
 
 # AL-PQ
 msgid "Peqin"
-msgstr ""
+msgstr "Éimin"
 
 # AL-PR
 msgid "Përmet"
-msgstr ""
+msgstr "An Phalaistín"
 
 # AL-PU
 msgid "Pukë"
-msgstr ""
+msgstr "Cúba"
 
 # AL-SH
 msgid "Shkodër"
@@ -396,23 +396,23 @@ msgstr ""
 
 # AL-SR
 msgid "Sarandë"
-msgstr ""
+msgstr "Éire"
 
 # AL-TE
 msgid "Tepelenë"
-msgstr ""
+msgstr "An tSualainn"
 
 # AL-TP
 msgid "Tropojë"
-msgstr ""
+msgstr "Maracó"
 
 # AL-TR
 msgid "Tiranë"
-msgstr ""
+msgstr "An Iaráin"
 
 # AL-VL
 msgid "Vlorë"
-msgstr ""
+msgstr "An Clár"
 
 # AM-AG
 msgid "Aragacotn"
@@ -528,7 +528,7 @@ msgstr ""
 
 # AO-ZAI
 msgid "Zaire"
-msgstr ""
+msgstr "An tSáir"
 
 # AR-A
 msgid "Salta"
@@ -560,7 +560,7 @@ msgstr ""
 
 # AR-J
 msgid "San Juan"
-msgstr ""
+msgstr "San Héilin"
 
 # AR-K
 msgid "Catamarca"
@@ -620,7 +620,7 @@ msgstr ""
 
 # AR-Z
 msgid "Santa Cruz"
-msgstr ""
+msgstr "San Héilin"
 
 # AT-1
 msgid "Burgenland"
@@ -680,7 +680,7 @@ msgstr ""
 
 # AU-TAS
 msgid "Tasmania"
-msgstr ""
+msgstr "An Tasmáin"
 
 # AU-VIC
 msgid "Victoria"
@@ -696,7 +696,7 @@ msgstr ""
 
 # AZ-AGA
 msgid "Ağstafa"
-msgstr ""
+msgstr "An Albáin"
 
 # AZ-AGC
 msgid "Ağcabədi"
@@ -704,7 +704,7 @@ msgstr ""
 
 # AZ-AGM
 msgid "Ağdam"
-msgstr ""
+msgstr "An tSúdáin"
 
 # AZ-AGS
 msgid "Ağdaş"
@@ -728,7 +728,7 @@ msgstr ""
 
 # AZ-BAL
 msgid "Balakən"
-msgstr ""
+msgstr "An Albáin"
 
 # AZ-BAR
 msgid "Bərdə"
@@ -736,7 +736,7 @@ msgstr ""
 
 # AZ-BEY
 msgid "Beyləqan"
-msgstr ""
+msgstr "An Chéinia"
 
 # AZ-BIL
 msgid "Biləsuvar"
@@ -992,7 +992,7 @@ msgstr ""
 
 # AZ-ZAN
 msgid "Zəngilan"
-msgstr ""
+msgstr "An Pholainn"
 
 # AZ-ZAQ
 msgid "Zaqatala"
@@ -1032,7 +1032,7 @@ msgstr ""
 
 # BA-08
 msgid "Zapadnohercegovački kanton"
-msgstr ""
+msgstr "Srí Lanca"
 
 # BA-09
 msgid "Kanton Sarajevo"
@@ -1044,7 +1044,7 @@ msgstr ""
 
 # BA-BIH
 msgid "Federacija Bosne i Hercegovine"
-msgstr ""
+msgstr "An Bhoisnia-Heirseagaivéin"
 
 # BA-BRC
 msgid "Brčko distrikt"
@@ -1064,7 +1064,7 @@ msgstr ""
 
 # BB-03
 msgid "Saint George"
-msgstr ""
+msgstr "San Héilin"
 
 # BB-04
 msgid "Saint James"
@@ -1072,7 +1072,7 @@ msgstr ""
 
 # BB-05
 msgid "Saint John"
-msgstr ""
+msgstr "San Héilin"
 
 # BB-06
 msgid "Saint Joseph"
@@ -1084,11 +1084,11 @@ msgstr ""
 
 # BB-08
 msgid "Saint Michael"
-msgstr ""
+msgstr "San Héilin"
 
 # BB-09
 msgid "Saint Peter"
-msgstr ""
+msgstr "San Héilin"
 
 # BB-10
 msgid "Saint Philip"
@@ -1100,7 +1100,7 @@ msgstr ""
 
 # BD-01
 msgid "Bandarban"
-msgstr ""
+msgstr "An tSúdáin"
 
 # BD-02
 msgid "Barguna"
@@ -1108,19 +1108,19 @@ msgstr ""
 
 # BD-03
 msgid "Bogra"
-msgstr ""
+msgstr "An Chóiré"
 
 # BD-04
 msgid "Brahmanbaria"
-msgstr ""
+msgstr "an tAntartasch"
 
 # BD-05
 msgid "Bagerhat"
-msgstr ""
+msgstr "An Ailgéir"
 
 # BD-06
 msgid "Barisal"
-msgstr ""
+msgstr "An Phacastáin"
 
 # BD-07
 msgid "Bhola"
@@ -1132,7 +1132,7 @@ msgstr ""
 
 # BD-09
 msgid "Chandpur"
-msgstr ""
+msgstr "An tSín"
 
 # BD-10
 msgid "Chittagong"
@@ -1144,11 +1144,11 @@ msgstr ""
 
 # BD-12
 msgid "Chuadanga"
-msgstr ""
+msgstr "Madagascar"
 
 # BD-13
 msgid "Dhaka"
-msgstr ""
+msgstr "Mailí"
 
 # BD-14
 msgid "Dinajpur"
@@ -1172,7 +1172,7 @@ msgstr ""
 
 # BD-19
 msgid "Gaibandha"
-msgstr ""
+msgstr "Ceanada"
 
 # BD-20
 msgid "Habiganj"
@@ -1196,7 +1196,7 @@ msgstr ""
 
 # BD-25
 msgid "Jhalakati"
-msgstr ""
+msgstr "An Albáin"
 
 # BD-26
 msgid "Kishorganj"
@@ -1212,7 +1212,7 @@ msgstr ""
 
 # BD-29
 msgid "Khagrachari"
-msgstr ""
+msgstr "An Fhrainc"
 
 # BD-30
 msgid "Kushtia"
@@ -1228,7 +1228,7 @@ msgstr ""
 
 # BD-33
 msgid "Manikganj"
-msgstr ""
+msgstr "An Albáin"
 
 # BD-34
 msgid "Mymensingh"
@@ -1244,7 +1244,7 @@ msgstr ""
 
 # BD-37
 msgid "Magura"
-msgstr ""
+msgstr "Burma"
 
 # BD-38
 msgid "Moulvibazar"
@@ -1256,11 +1256,11 @@ msgstr ""
 
 # BD-40
 msgid "Narayanganj"
-msgstr ""
+msgstr "Gána"
 
 # BD-41
 msgid "Netrakona"
-msgstr ""
+msgstr "Laois"
 
 # BD-42
 msgid "Narsingdi"
@@ -1268,11 +1268,11 @@ msgstr ""
 
 # BD-43
 msgid "Narail"
-msgstr ""
+msgstr "Nicaragua"
 
 # BD-44
 msgid "Natore"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # BD-45
 msgid "Nawabganj"
@@ -1320,7 +1320,7 @@ msgstr ""
 
 # BD-56
 msgid "Rangamati"
-msgstr ""
+msgstr "Málta"
 
 # BD-57
 msgid "Sherpur"
@@ -1348,7 +1348,7 @@ msgstr ""
 
 # BD-63
 msgid "Tangail"
-msgstr ""
+msgstr "An Tansáin"
 
 # BD-64
 msgid "Thakurgaon"
@@ -1356,7 +1356,7 @@ msgstr ""
 
 # BD-A
 msgid "Barisal"
-msgstr ""
+msgstr "An Phacastáin"
 
 # BD-B
 msgid "Chittagong"
@@ -1364,7 +1364,7 @@ msgstr ""
 
 # BD-C
 msgid "Dhaka"
-msgstr ""
+msgstr "Mailí"
 
 # BD-D
 msgid "Khulna"
@@ -1400,7 +1400,7 @@ msgstr ""
 
 # BE-VLI
 msgid "Limburg"
-msgstr ""
+msgstr "An Libia"
 
 # BE-VOV
 msgid "Oost-Vlaanderen"
@@ -1424,7 +1424,7 @@ msgstr ""
 
 # BE-WLG
 msgid "Liège"
-msgstr ""
+msgstr "An Ailgéir"
 
 # BE-WLX
 msgid "Luxembourg"
@@ -1440,31 +1440,31 @@ msgstr ""
 
 # BF-02
 msgid "Cascades"
-msgstr ""
+msgstr "An Tasmáin"
 
 # BF-03
 msgid "Centre"
-msgstr ""
+msgstr "Ceanada"
 
 # BF-04
 msgid "Centre-Est"
-msgstr ""
+msgstr "Ceanada"
 
 # BF-05
 msgid "Centre-Nord"
-msgstr ""
+msgstr "Ceanada"
 
 # BF-06
 msgid "Centre-Ouest"
-msgstr ""
+msgstr "Ceanada"
 
 # BF-07
 msgid "Centre-Sud"
-msgstr ""
+msgstr "Ceanada"
 
 # BF-08
 msgid "Est"
-msgstr ""
+msgstr "Málta"
 
 # BF-09
 msgid "Hauts-Bassins"
@@ -1472,11 +1472,11 @@ msgstr ""
 
 # BF-10
 msgid "Nord"
-msgstr ""
+msgstr "An Iorua"
 
 # BF-11
 msgid "Plateau-Central"
-msgstr ""
+msgstr "Ceanada"
 
 # BF-12
 msgid "Sahel"
@@ -1488,7 +1488,7 @@ msgstr ""
 
 # BF-BAL
 msgid "Balé"
-msgstr ""
+msgstr "An Albáin"
 
 # BF-BAM
 msgid "Bam"
@@ -1500,7 +1500,7 @@ msgstr ""
 
 # BF-BAZ
 msgid "Bazèga"
-msgstr ""
+msgstr "Paraguay"
 
 # BF-BGR
 msgid "Bougouriba"
@@ -1516,7 +1516,7 @@ msgstr ""
 
 # BF-COM
 msgid "Comoé"
-msgstr ""
+msgstr "An Cholóim"
 
 # BF-GAN
 msgid "Ganzourgou"
@@ -1556,7 +1556,7 @@ msgstr ""
 
 # BF-KOP
 msgid "Koulpélogo"
-msgstr ""
+msgstr "Cúba"
 
 # BF-KOS
 msgid "Kossi"
@@ -1572,7 +1572,7 @@ msgstr ""
 
 # BF-LER
 msgid "Léraba"
-msgstr ""
+msgstr "An Ghuine"
 
 # BF-LOR
 msgid "Loroum"
@@ -1588,7 +1588,7 @@ msgstr ""
 
 # BF-NAO
 msgid "Naouri"
-msgstr ""
+msgstr "An tSiria"
 
 # BF-NAY
 msgid "Nayala"
@@ -1616,11 +1616,11 @@ msgstr ""
 
 # BF-SEN
 msgid "Séno"
-msgstr ""
+msgstr "An tSeapáin"
 
 # BF-SIS
 msgid "Sissili"
-msgstr ""
+msgstr "Srí Lanca"
 
 # BF-SMT
 msgid "Sanmatenga"
@@ -1628,7 +1628,7 @@ msgstr ""
 
 # BF-SNG
 msgid "Sanguié"
-msgstr ""
+msgstr "Gána"
 
 # BF-SOM
 msgid "Soum"
@@ -1644,7 +1644,7 @@ msgstr ""
 
 # BF-TUI
 msgid "Tui"
-msgstr ""
+msgstr "An Túinéis"
 
 # BF-YAG
 msgid "Yagha"
@@ -1684,35 +1684,35 @@ msgstr ""
 
 # BG-05
 msgid "Vidin"
-msgstr ""
+msgstr "An India"
 
 # BG-06
 msgid "Vratsa"
-msgstr ""
+msgstr "An Fhrainc"
 
 # BG-07
 msgid "Gabrovo"
-msgstr ""
+msgstr "An Ghabúin"
 
 # BG-08
 msgid "Dobrich"
-msgstr ""
+msgstr "Dún na nGall"
 
 # BG-09
 msgid "Kardzhali"
-msgstr ""
+msgstr "Cuáit"
 
 # BG-10
 msgid "Kyustendil"
-msgstr ""
+msgstr "An Chóiré"
 
 # BG-11
 msgid "Lovech"
-msgstr ""
+msgstr "Monacó"
 
 # BG-12
 msgid "Montana"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # BG-13
 msgid "Pazardzhik"
@@ -1720,11 +1720,11 @@ msgstr ""
 
 # BG-14
 msgid "Pernik"
-msgstr ""
+msgstr "Peiriú"
 
 # BG-15
 msgid "Pleven"
-msgstr ""
+msgstr "Éimin"
 
 # BG-16
 msgid "Plovdiv"
@@ -1732,7 +1732,7 @@ msgstr ""
 
 # BG-17
 msgid "Razgrad"
-msgstr ""
+msgstr "Gána"
 
 # BG-18
 msgid "Ruse"
@@ -1740,15 +1740,15 @@ msgstr ""
 
 # BG-19
 msgid "Silistra"
-msgstr ""
+msgstr "Srí Lanca"
 
 # BG-20
 msgid "Sliven"
-msgstr ""
+msgstr "Vitneam"
 
 # BG-21
 msgid "Smolyan"
-msgstr ""
+msgstr "Samó"
 
 # BG-22
 msgid "Sofia-Grad"
@@ -1756,15 +1756,15 @@ msgstr ""
 
 # BG-23
 msgid "Sofia"
-msgstr ""
+msgstr "An tSiria"
 
 # BG-24
 msgid "Stara Zagora"
-msgstr ""
+msgstr "Paraguay"
 
 # BG-25
 msgid "Targovishte"
-msgstr ""
+msgstr "An Tibéid"
 
 # BG-26
 msgid "Haskovo"
@@ -1772,11 +1772,11 @@ msgstr ""
 
 # BG-27
 msgid "Shumen"
-msgstr ""
+msgstr "Suranam"
 
 # BG-28
 msgid "Yambol"
-msgstr ""
+msgstr "An tSaimbia"
 
 # BH-13
 msgid "Al Manāmah (Al ‘Āşimah)"
@@ -1784,15 +1784,15 @@ msgstr ""
 
 # BH-14
 msgid "Al Janūbīyah"
-msgstr ""
+msgstr "An Albáin"
 
 # BH-15
 msgid "Al Muḩarraq"
-msgstr ""
+msgstr "Málta"
 
 # BH-16
 msgid "Al Wusţá"
-msgstr ""
+msgstr "An Ostair"
 
 # BH-17
 msgid "Ash Shamālīyah"
@@ -1800,19 +1800,19 @@ msgstr ""
 
 # BI-BB
 msgid "Bubanza"
-msgstr ""
+msgstr "Burma"
 
 # BI-BL
 msgid "Bujumbura Rural"
-msgstr ""
+msgstr "Burma"
 
 # BI-BM
 msgid "Bujumbura Mairie"
-msgstr ""
+msgstr "Burma"
 
 # BI-BR
 msgid "Bururi"
-msgstr ""
+msgstr "Burma"
 
 # BI-CA
 msgid "Cankuzo"
@@ -1824,31 +1824,31 @@ msgstr ""
 
 # BI-GI
 msgid "Gitega"
-msgstr ""
+msgstr "An Ghuine"
 
 # BI-KI
 msgid "Kirundo"
-msgstr ""
+msgstr "Maracó"
 
 # BI-KR
 msgid "Karuzi"
-msgstr ""
+msgstr "Cuáit"
 
 # BI-KY
 msgid "Kayanza"
-msgstr ""
+msgstr "An Spáinn"
 
 # BI-MA
 msgid "Makamba"
-msgstr ""
+msgstr "Madagascar"
 
 # BI-MU
 msgid "Muramvya"
-msgstr ""
+msgstr "Burma"
 
 # BI-MW
 msgid "Mwaro"
-msgstr ""
+msgstr "Málta"
 
 # BI-NG
 msgid "Ngozi"
@@ -1856,7 +1856,7 @@ msgstr ""
 
 # BI-RT
 msgid "Rutana"
-msgstr ""
+msgstr "An Pholainn"
 
 # BI-RY
 msgid "Ruyigi"
@@ -1868,7 +1868,7 @@ msgstr ""
 
 # BJ-AL
 msgid "Alibori"
-msgstr ""
+msgstr "An Ailgéir"
 
 # BJ-AQ
 msgid "Atlantique"
@@ -1880,11 +1880,11 @@ msgstr ""
 
 # BJ-CO
 msgid "Collines"
-msgstr ""
+msgstr "Camarún"
 
 # BJ-DO
 msgid "Donga"
-msgstr ""
+msgstr "Dún na nGall"
 
 # BJ-KO
 msgid "Kouffo"
@@ -1892,7 +1892,7 @@ msgstr ""
 
 # BJ-LI
 msgid "Littoral"
-msgstr ""
+msgstr "An Libia"
 
 # BJ-MO
 msgid "Mono"
@@ -1952,11 +1952,11 @@ msgstr ""
 
 # BO-P
 msgid "Potosí"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # BO-S
 msgid "Santa Cruz"
-msgstr ""
+msgstr "San Héilin"
 
 # BO-T
 msgid "Tarija"
@@ -1964,7 +1964,7 @@ msgstr ""
 
 # BQ-BO
 msgid "Bonaire"
-msgstr ""
+msgstr "An tSáir"
 
 # BQ-SA
 msgid "Saba"
@@ -1972,7 +1972,7 @@ msgstr ""
 
 # BQ-SE
 msgid "Sint Eustatius"
-msgstr ""
+msgstr "San Héilin"
 
 # BR-AC
 msgid "Acre"
@@ -1984,19 +1984,19 @@ msgstr ""
 
 # BR-AM
 msgid "Amazonas"
-msgstr ""
+msgstr "An Ostair"
 
 # BR-AP
 msgid "Amapá"
-msgstr ""
+msgstr "An Tasmáin"
 
 # BR-BA
 msgid "Bahia"
-msgstr ""
+msgstr "Málta"
 
 # BR-CE
 msgid "Ceará"
-msgstr ""
+msgstr "Ceanada"
 
 # BR-DF
 msgid "Distrito Federal"
@@ -2016,7 +2016,7 @@ msgstr ""
 
 # BR-MA
 msgid "Maranhão"
-msgstr ""
+msgstr "An Fhrainc"
 
 # BR-MG
 msgid "Minas Gerais"
@@ -2032,11 +2032,11 @@ msgstr ""
 
 # BR-PA
 msgid "Pará"
-msgstr ""
+msgstr "Nicaragua"
 
 # BR-PB
 msgid "Paraíba"
-msgstr ""
+msgstr "Nicaragua"
 
 # BR-PE
 msgid "Pernambuco"
@@ -2044,11 +2044,11 @@ msgstr ""
 
 # BR-PI
 msgid "Piauí"
-msgstr ""
+msgstr "An Phacastáin"
 
 # BR-PR
 msgid "Paraná"
-msgstr ""
+msgstr "Nicaragua"
 
 # BR-RJ
 msgid "Rio de Janeiro"
@@ -2072,7 +2072,7 @@ msgstr ""
 
 # BR-SC
 msgid "Santa Catarina"
-msgstr ""
+msgstr "San Héilin"
 
 # BR-SE
 msgid "Sergipe"
@@ -2080,19 +2080,19 @@ msgstr ""
 
 # BR-SP
 msgid "São Paulo"
-msgstr ""
+msgstr "San Héilin"
 
 # BR-TO
 msgid "Tocantins"
-msgstr ""
+msgstr "An Tansáin"
 
 # BS-AK
 msgid "Acklins"
-msgstr ""
+msgstr "An India"
 
 # BS-BI
 msgid "Bimini"
-msgstr ""
+msgstr "An Rómáin"
 
 # BS-BP
 msgid "Black Point"
@@ -2100,11 +2100,11 @@ msgstr ""
 
 # BS-BY
 msgid "Berry Islands"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # BS-CE
 msgid "Central Eleuthera"
-msgstr ""
+msgstr "Ceanada"
 
 # BS-CI
 msgid "Cat Island"
@@ -2116,15 +2116,15 @@ msgstr ""
 
 # BS-CO
 msgid "Central Abaco"
-msgstr ""
+msgstr "Ceanada"
 
 # BS-CS
 msgid "Central Andros"
-msgstr ""
+msgstr "Ceanada"
 
 # BS-EG
 msgid "East Grand Bahama"
-msgstr ""
+msgstr "Gána"
 
 # BS-EX
 msgid "Exuma"
@@ -2136,7 +2136,7 @@ msgstr ""
 
 # BS-GC
 msgid "Grand Cay"
-msgstr ""
+msgstr "Gána"
 
 # BS-HI
 msgid "Harbour Island"
@@ -2164,19 +2164,19 @@ msgstr ""
 
 # BS-MI
 msgid "Moore's Island"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # BS-NE
 msgid "North Eleuthera"
-msgstr ""
+msgstr "An Iorua"
 
 # BS-NO
 msgid "North Abaco"
-msgstr ""
+msgstr "An Iorua"
 
 # BS-NS
 msgid "North Andros"
-msgstr ""
+msgstr "An tSile"
 
 # BS-RC
 msgid "Rum Cay"
@@ -2188,19 +2188,19 @@ msgstr ""
 
 # BS-SA
 msgid "South Andros"
-msgstr ""
+msgstr "An Pholainn"
 
 # BS-SE
 msgid "South Eleuthera"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # BS-SO
 msgid "South Abaco"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # BS-SS
 msgid "San Salvador"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # BS-SW
 msgid "Spanish Wells"
@@ -2208,7 +2208,7 @@ msgstr ""
 
 # BS-WG
 msgid "West Grand Bahama"
-msgstr ""
+msgstr "Gána"
 
 # BT-11
 msgid "Paro"
@@ -2292,7 +2292,7 @@ msgstr ""
 
 # BW-CE
 msgid "Central"
-msgstr ""
+msgstr "Ceanada"
 
 # BW-GH
 msgid "Ghanzi"
@@ -2316,7 +2316,7 @@ msgstr ""
 
 # BW-NW
 msgid "North-West"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # BW-SE
 msgid "South-East"
@@ -2324,10 +2324,11 @@ msgstr ""
 
 # BW-SO
 msgid "Southern"
-msgstr ""
+msgstr "An Isiltir"
 
 # BY-BR
-msgid "Brèsckaja voblasc'"
+# original msgid: "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 # BY-HM
@@ -2335,23 +2336,28 @@ msgid "Horad Minsk"
 msgstr ""
 
 # BY-HO
-msgid "Homel'skaja voblasc'"
+# original msgid: "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 # BY-HR
-msgid "Hrodzenskaja voblasc'"
+# original msgid: "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 # BY-MA
-msgid "Mahilëuskaja voblasc'"
+# original msgid: "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 # BY-MI
-msgid "Minskaja voblasc'"
+# original msgid: "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 # BY-VI
-msgid "Vicebskaja voblasc'"
+# original msgid: "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 # BZ-BZ
@@ -2376,11 +2382,11 @@ msgstr ""
 
 # BZ-TOL
 msgid "Toledo"
-msgstr ""
+msgstr "An Bholaiv"
 
 # CA-AB
 msgid "Alberta"
-msgstr ""
+msgstr "An Ailgéir"
 
 # CA-BC
 msgid "British Columbia"
@@ -2388,7 +2394,7 @@ msgstr ""
 
 # CA-MB
 msgid "Manitoba"
-msgstr ""
+msgstr "Málta"
 
 # CA-NB
 msgid "New Brunswick"
@@ -2396,7 +2402,7 @@ msgstr ""
 
 # CA-NL
 msgid "Newfoundland and Labrador"
-msgstr ""
+msgstr "An Nua-Shéalainn"
 
 # CA-NS
 msgid "Nova Scotia"
@@ -2432,7 +2438,7 @@ msgstr ""
 
 # CD-BC
 msgid "Bas-Congo"
-msgstr ""
+msgstr "An Congó"
 
 # CD-BN
 msgid "Bandundu"
@@ -2468,7 +2474,7 @@ msgstr ""
 
 # CD-OR
 msgid "Orientale"
-msgstr ""
+msgstr "Vitneam"
 
 # CD-SK
 msgid "Sud-Kivu"
@@ -2488,7 +2494,7 @@ msgstr ""
 
 # CF-BK
 msgid "Basse-Kotto"
-msgstr ""
+msgstr "An Congó"
 
 # CF-HK
 msgid "Haute-Kotto"
@@ -2548,7 +2554,7 @@ msgstr ""
 
 # CG-12
 msgid "Pool"
-msgstr ""
+msgstr "An Pholainn"
 
 # CG-13
 msgid "Sangha"
@@ -2564,15 +2570,15 @@ msgstr ""
 
 # CG-2
 msgid "Lékoumou"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # CG-5
 msgid "Kouilou"
-msgstr ""
+msgstr "Cúba"
 
 # CG-7
 msgid "Likouala"
-msgstr ""
+msgstr "An Pholainn"
 
 # CG-8
 msgid "Cuvette"
@@ -2580,11 +2586,11 @@ msgstr ""
 
 # CG-9
 msgid "Niari"
-msgstr ""
+msgstr "An tSiria"
 
 # CG-BZV
 msgid "Brazzaville"
-msgstr ""
+msgstr "An Bhrasaíl"
 
 # CH-AG
 msgid "Aargau"
@@ -2616,7 +2622,7 @@ msgstr ""
 
 # CH-GE
 msgid "Genève"
-msgstr ""
+msgstr "An Ghréig"
 
 # CH-GL
 msgid "Glarus"
@@ -2628,7 +2634,7 @@ msgstr ""
 
 # CH-JU
 msgid "Jura"
-msgstr ""
+msgstr "Burma"
 
 # CH-LU
 msgid "Luzern"
@@ -2748,7 +2754,7 @@ msgstr ""
 
 # CI-15
 msgid "Sud-Bandama (Région du)"
-msgstr ""
+msgstr "An tSúdáin"
 
 # CI-16
 msgid "Agnébi (Région de l')"
@@ -2772,7 +2778,7 @@ msgstr ""
 
 # CL-AN
 msgid "Antofagasta"
-msgstr ""
+msgstr "An afganastáin"
 
 # CL-AP
 msgid "Arica y Parinacota"
@@ -2780,7 +2786,7 @@ msgstr ""
 
 # CL-AR
 msgid "Araucanía"
-msgstr ""
+msgstr "An Albáin"
 
 # CL-AT
 msgid "Atacama"
@@ -2812,7 +2818,7 @@ msgstr ""
 
 # CL-ML
 msgid "Maule"
-msgstr ""
+msgstr "Málta"
 
 # CL-RM
 msgid "Región Metropolitana de Santiago"
@@ -2820,7 +2826,7 @@ msgstr ""
 
 # CL-TA
 msgid "Tarapacá"
-msgstr ""
+msgstr "An Tasmáin"
 
 # CL-VS
 msgid "Valparaíso"
@@ -2832,7 +2838,7 @@ msgstr ""
 
 # CM-CE
 msgid "Centre"
-msgstr ""
+msgstr "Ceanada"
 
 # CM-EN
 msgid "Far North"
@@ -2844,7 +2850,7 @@ msgstr ""
 
 # CM-LT
 msgid "Littoral"
-msgstr ""
+msgstr "An Libia"
 
 # CM-NO
 msgid "North"
@@ -2852,7 +2858,7 @@ msgstr ""
 
 # CM-NW
 msgid "North-West (Cameroon)"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # CM-OU
 msgid "West"
@@ -2864,7 +2870,7 @@ msgstr ""
 
 # CM-SW
 msgid "South-West"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # CN-AH
 msgid "Anhui Sheng"
@@ -2880,7 +2886,7 @@ msgstr ""
 
 # CN-FJ
 msgid "Fujian Sheng"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # CN-GD
 msgid "Guangdong Sheng"
@@ -2888,7 +2894,7 @@ msgstr ""
 
 # CN-GS
 msgid "Gansu Sheng"
-msgstr ""
+msgstr "Gána"
 
 # CN-GX
 msgid "Guangxi Zhuangzu Zizhiqu"
@@ -2900,7 +2906,7 @@ msgstr ""
 
 # CN-HA
 msgid "Henan Sheng"
-msgstr ""
+msgstr "An Chéinia"
 
 # CN-HB
 msgid "Hubei Sheng"
@@ -2912,7 +2918,7 @@ msgstr ""
 
 # CN-HI
 msgid "Hainan Sheng"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # CN-HK
 msgid "Hong Kong SAR (see also separate country code entry under HK)"
@@ -2924,7 +2930,7 @@ msgstr ""
 
 # CN-HN
 msgid "Hunan Sheng"
-msgstr ""
+msgstr "An Ungáir"
 
 # CN-JL
 msgid "Jilin Sheng"
@@ -2960,7 +2966,7 @@ msgstr ""
 
 # CN-SC
 msgid "Sichuan Sheng"
-msgstr ""
+msgstr "An tSúdáin"
 
 # CN-SD
 msgid "Shandong Sheng"
@@ -2968,7 +2974,7 @@ msgstr ""
 
 # CN-SH
 msgid "Shanghai Shi"
-msgstr ""
+msgstr "Gána"
 
 # CN-SN
 msgid "Shaanxi Sheng"
@@ -3004,7 +3010,7 @@ msgstr ""
 
 # CO-AMA
 msgid "Amazonas"
-msgstr ""
+msgstr "An Ostair"
 
 # CO-ANT
 msgid "Antioquia"
@@ -3016,7 +3022,7 @@ msgstr ""
 
 # CO-ATL
 msgid "Atlántico"
-msgstr ""
+msgstr "An Albáin"
 
 # CO-BOL
 msgid "Bolívar"
@@ -3024,11 +3030,11 @@ msgstr ""
 
 # CO-BOY
 msgid "Boyacá"
-msgstr ""
+msgstr "Monacó"
 
 # CO-CAL
 msgid "Caldas"
-msgstr ""
+msgstr "Ceanada"
 
 # CO-CAQ
 msgid "Caquetá"
@@ -3036,11 +3042,11 @@ msgstr ""
 
 # CO-CAS
 msgid "Casanare"
-msgstr ""
+msgstr "An Tasmáin"
 
 # CO-CAU
 msgid "Cauca"
-msgstr ""
+msgstr "Cúba"
 
 # CO-CES
 msgid "Cesar"
@@ -3048,7 +3054,7 @@ msgstr ""
 
 # CO-CHO
 msgid "Chocó"
-msgstr ""
+msgstr "An Congó"
 
 # CO-COR
 msgid "Córdoba"
@@ -3064,15 +3070,15 @@ msgstr ""
 
 # CO-GUA
 msgid "Guainía"
-msgstr ""
+msgstr "An Ghuine"
 
 # CO-GUV
 msgid "Guaviare"
-msgstr ""
+msgstr "An tSáir"
 
 # CO-HUI
 msgid "Huila"
-msgstr ""
+msgstr "Málta"
 
 # CO-LAG
 msgid "La Guajira"
@@ -3088,7 +3094,7 @@ msgstr ""
 
 # CO-NAR
 msgid "Nariño"
-msgstr ""
+msgstr "An tSiria"
 
 # CO-NSA
 msgid "Norte de Santander"
@@ -3100,7 +3106,7 @@ msgstr ""
 
 # CO-QUI
 msgid "Quindío"
-msgstr ""
+msgstr "An Ghuine"
 
 # CO-RIS
 msgid "Risaralda"
@@ -3116,11 +3122,11 @@ msgstr ""
 
 # CO-SUC
 msgid "Sucre"
-msgstr ""
+msgstr "An Tuirc"
 
 # CO-TOL
 msgid "Tolima"
-msgstr ""
+msgstr "An Bholaiv"
 
 # CO-VAC
 msgid "Valle del Cauca"
@@ -3144,7 +3150,7 @@ msgstr ""
 
 # CR-G
 msgid "Guanacaste"
-msgstr ""
+msgstr "An Ghuáin"
 
 # CR-H
 msgid "Heredia"
@@ -3152,7 +3158,7 @@ msgstr ""
 
 # CR-L
 msgid "Limón"
-msgstr ""
+msgstr "An Liobáin"
 
 # CR-P
 msgid "Puntarenas"
@@ -3160,7 +3166,7 @@ msgstr ""
 
 # CR-SJ
 msgid "San José"
-msgstr ""
+msgstr "San Héilin"
 
 # CU-01
 msgid "Pinar del Rio"
@@ -3176,7 +3182,7 @@ msgstr ""
 
 # CU-04
 msgid "Matanzas"
-msgstr ""
+msgstr "Málta"
 
 # CU-05
 msgid "Villa Clara"
@@ -3208,7 +3214,7 @@ msgstr ""
 
 # CU-12
 msgid "Granma"
-msgstr ""
+msgstr "Gána"
 
 # CU-13
 msgid "Santiago de Cuba"
@@ -3216,7 +3222,7 @@ msgstr ""
 
 # CU-14
 msgid "Guantánamo"
-msgstr ""
+msgstr "Guatamala"
 
 # CU-99
 msgid "Isla de la Juventud"
@@ -3224,11 +3230,11 @@ msgstr ""
 
 # CV-B
 msgid "Ilhas de Barlavento"
-msgstr ""
+msgstr "An Bhanglaidéis"
 
 # CV-BR
 msgid "Brava"
-msgstr ""
+msgstr "Burma"
 
 # CV-BV
 msgid "Boa Vista"
@@ -3236,19 +3242,19 @@ msgstr ""
 
 # CV-CA
 msgid "Santa Catarina"
-msgstr ""
+msgstr "San Héilin"
 
 # CV-CF
 msgid "Santa Catarina de Fogo"
-msgstr ""
+msgstr "San Héilin"
 
 # CV-CR
 msgid "Santa Cruz"
-msgstr ""
+msgstr "San Héilin"
 
 # CV-MA
 msgid "Maio"
-msgstr ""
+msgstr "Monacó"
 
 # CV-MO
 msgid "Mosteiros"
@@ -3264,7 +3270,7 @@ msgstr ""
 
 # CV-PR
 msgid "Praia"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CV-RB
 msgid "Ribeira Brava"
@@ -3320,15 +3326,15 @@ msgstr ""
 
 # CY-01
 msgid "Lefkosía"
-msgstr ""
+msgstr "Laois"
 
 # CY-02
 msgid "Lemesós"
-msgstr ""
+msgstr "An Liobáin"
 
 # CY-03
 msgid "Lárnaka"
-msgstr ""
+msgstr "Srí Lanca"
 
 # CY-04
 msgid "Ammóchostos"
@@ -3340,7 +3346,7 @@ msgstr ""
 
 # CY-06
 msgid "Kerýneia"
-msgstr ""
+msgstr "An Chéinia"
 
 # CZ-10
 msgid "Praha, Hlavní mešto"
@@ -3348,91 +3354,91 @@ msgstr ""
 
 # CZ-101
 msgid "Praha 1"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-102
 msgid "Praha 2"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-103
 msgid "Praha 3"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-104
 msgid "Praha 4"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-105
 msgid "Praha 5"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-106
 msgid "Praha 6"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-107
 msgid "Praha 7"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-108
 msgid "Praha 8"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-109
 msgid "Praha 9"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-110
 msgid "Praha 10"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-111
 msgid "Praha 11"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-112
 msgid "Praha 12"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-113
 msgid "Praha 13"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-114
 msgid "Praha 14"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-115
 msgid "Praha 15"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-116
 msgid "Praha 16"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-117
 msgid "Praha 17"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-118
 msgid "Praha 18"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-119
 msgid "Praha 19"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-120
 msgid "Praha 20"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-121
 msgid "Praha 21"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-122
 msgid "Praha 22"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-20
 msgid "Středočeský kraj"
@@ -3440,19 +3446,19 @@ msgstr ""
 
 # CZ-201
 msgid "Benešov"
-msgstr ""
+msgstr "An tSualainn"
 
 # CZ-202
 msgid "Beroun"
-msgstr ""
+msgstr "An Bheilg"
 
 # CZ-203
 msgid "Kladno"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # CZ-204
 msgid "Kolín"
-msgstr ""
+msgstr "An Cholóim"
 
 # CZ-205
 msgid "Kutná Hora"
@@ -3472,11 +3478,11 @@ msgstr ""
 
 # CZ-209
 msgid "Praha-východ"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-20A
 msgid "Praha-západ"
-msgstr ""
+msgstr "An Phacastáin"
 
 # CZ-20B
 msgid "Příbram"
@@ -3516,7 +3522,7 @@ msgstr ""
 
 # CZ-317
 msgid "Tábor"
-msgstr ""
+msgstr "An Chóiré"
 
 # CZ-32
 msgid "Plzeňský kraj"
@@ -3524,7 +3530,7 @@ msgstr ""
 
 # CZ-321
 msgid "Domažlice"
-msgstr ""
+msgstr "An Rómáin"
 
 # CZ-322
 msgid "Klatovy"
@@ -3548,7 +3554,7 @@ msgstr ""
 
 # CZ-327
 msgid "Tachov"
-msgstr ""
+msgstr "An Chóiré"
 
 # CZ-41
 msgid "Karlovarský kraj"
@@ -3556,11 +3562,11 @@ msgstr ""
 
 # CZ-411
 msgid "Cheb"
-msgstr ""
+msgstr "An tSile"
 
 # CZ-412
 msgid "Karlovy Vary"
-msgstr ""
+msgstr "An Chóiré"
 
 # CZ-413
 msgid "Sokolov"
@@ -3584,15 +3590,15 @@ msgstr ""
 
 # CZ-424
 msgid "Louny"
-msgstr ""
+msgstr "An Liobáin"
 
 # CZ-425
 msgid "Most"
-msgstr ""
+msgstr "An Chóiré"
 
 # CZ-426
 msgid "Teplice"
-msgstr ""
+msgstr "An Bholaiv"
 
 # CZ-427
 msgid "Ústí nad Labem"
@@ -3612,11 +3618,11 @@ msgstr ""
 
 # CZ-513
 msgid "Liberec"
-msgstr ""
+msgstr "An tSáir"
 
 # CZ-514
 msgid "Semily"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # CZ-52
 msgid "Královéhradecký kraj"
@@ -3640,7 +3646,7 @@ msgstr ""
 
 # CZ-525
 msgid "Trutnov"
-msgstr ""
+msgstr "An Tibéid"
 
 # CZ-53
 msgid "Pardubický kraj"
@@ -3652,7 +3658,7 @@ msgstr ""
 
 # CZ-532
 msgid "Pardubice"
-msgstr ""
+msgstr "An Nigéir"
 
 # CZ-533
 msgid "Svitavy"
@@ -3672,7 +3678,7 @@ msgstr ""
 
 # CZ-632
 msgid "Jihlava"
-msgstr ""
+msgstr "An Albáin"
 
 # CZ-633
 msgid "Pelhřimov"
@@ -3692,7 +3698,7 @@ msgstr ""
 
 # CZ-641
 msgid "Blansko"
-msgstr ""
+msgstr "An Fhrainc"
 
 # CZ-642
 msgid "Brno-město"
@@ -3704,15 +3710,15 @@ msgstr ""
 
 # CZ-644
 msgid "Břeclav"
-msgstr ""
+msgstr "An Chéinia"
 
 # CZ-645
 msgid "Hodonín"
-msgstr ""
+msgstr "Hondúras"
 
 # CZ-646
 msgid "Vyškov"
-msgstr ""
+msgstr "An Chóiré"
 
 # CZ-647
 msgid "Znojmo"
@@ -3724,7 +3730,7 @@ msgstr ""
 
 # CZ-711
 msgid "Jeseník"
-msgstr ""
+msgstr "Éimin"
 
 # CZ-712
 msgid "Olomouc"
@@ -3732,15 +3738,15 @@ msgstr ""
 
 # CZ-713
 msgid "Prostějov"
-msgstr ""
+msgstr "Ros Comáin"
 
 # CZ-714
 msgid "Přerov"
-msgstr ""
+msgstr "Éimin"
 
 # CZ-715
 msgid "Šumperk"
-msgstr ""
+msgstr "Suranam"
 
 # CZ-72
 msgid "Zlínský kraj"
@@ -3756,7 +3762,7 @@ msgstr ""
 
 # CZ-723
 msgid "Vsetín"
-msgstr ""
+msgstr "Éimin"
 
 # CZ-724
 msgid "Zlín"
@@ -3768,7 +3774,7 @@ msgstr ""
 
 # CZ-801
 msgid "Bruntál"
-msgstr ""
+msgstr "An Chéinia"
 
 # CZ-802
 msgid "Frýdek Místek"
@@ -3776,7 +3782,7 @@ msgstr ""
 
 # CZ-803
 msgid "Karviná"
-msgstr ""
+msgstr "Nicaragua"
 
 # CZ-804
 msgid "Nový Jičín"
@@ -3784,7 +3790,7 @@ msgstr ""
 
 # CZ-805
 msgid "Opava"
-msgstr ""
+msgstr "An tSiria"
 
 # CZ-806
 msgid "Ostrava-město"
@@ -3796,7 +3802,7 @@ msgstr ""
 
 # DE-BE
 msgid "Berlin"
-msgstr ""
+msgstr "An Bheilg"
 
 # DE-BW
 msgid "Baden-Württemberg"
@@ -3808,7 +3814,7 @@ msgstr ""
 
 # DE-HB
 msgid "Bremen"
-msgstr ""
+msgstr "Éimin"
 
 # DE-HE
 msgid "Hessen"
@@ -3840,7 +3846,7 @@ msgstr ""
 
 # DE-SL
 msgid "Saarland"
-msgstr ""
+msgstr "Éire"
 
 # DE-SN
 msgid "Sachsen"
@@ -3856,7 +3862,7 @@ msgstr ""
 
 # DJ-AR
 msgid "Arta"
-msgstr ""
+msgstr "An Ailgéir"
 
 # DJ-AS
 msgid "Ali Sabieh"
@@ -3880,15 +3886,15 @@ msgstr ""
 
 # DK-81
 msgid "Nordjylland"
-msgstr ""
+msgstr "An Iordáin"
 
 # DK-82
 msgid "Midtjylland"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # DK-83
 msgid "Syddanmark"
-msgstr ""
+msgstr "San Héilin"
 
 # DK-84
 msgid "Hovedstaden"
@@ -3896,11 +3902,11 @@ msgstr ""
 
 # DK-85
 msgid "Sjælland"
-msgstr ""
+msgstr "An Ghraonlainn"
 
 # DM-01
 msgid "Saint Peter"
-msgstr ""
+msgstr "San Héilin"
 
 # DM-02
 msgid "Saint Andrew"
@@ -3908,15 +3914,15 @@ msgstr ""
 
 # DM-03
 msgid "Saint David"
-msgstr ""
+msgstr "San Héilin"
 
 # DM-04
 msgid "Saint George"
-msgstr ""
+msgstr "San Héilin"
 
 # DM-05
 msgid "Saint John"
-msgstr ""
+msgstr "San Héilin"
 
 # DM-06
 msgid "Saint Joseph"
@@ -3924,11 +3930,11 @@ msgstr ""
 
 # DM-07
 msgid "Saint Luke"
-msgstr ""
+msgstr "San Héilin"
 
 # DM-08
 msgid "Saint Mark"
-msgstr ""
+msgstr "San Héilin"
 
 # DM-09
 msgid "Saint Patrick"
@@ -3936,7 +3942,7 @@ msgstr ""
 
 # DM-10
 msgid "Saint Paul"
-msgstr ""
+msgstr "San Héilin"
 
 # DO-01
 msgid "Distrito Nacional (Santo Domingo)"
@@ -3976,15 +3982,15 @@ msgstr ""
 
 # DO-10
 msgid "Independencia"
-msgstr ""
+msgstr "An Indinéis"
 
 # DO-11
 msgid "La Altagracia"
-msgstr ""
+msgstr "an tAntartasch"
 
 # DO-12
 msgid "La Romana"
-msgstr ""
+msgstr "An Rómáin"
 
 # DO-13
 msgid "La Vega"
@@ -4016,7 +4022,7 @@ msgstr ""
 
 # DO-20
 msgid "Samaná"
-msgstr ""
+msgstr "An Tasmáin"
 
 # DO-21
 msgid "San Cristóbal"
@@ -4024,7 +4030,7 @@ msgstr ""
 
 # DO-22
 msgid "San Juan"
-msgstr ""
+msgstr "San Héilin"
 
 # DO-23
 msgid "San Pedro de Macorís"
@@ -4060,11 +4066,11 @@ msgstr ""
 
 # DZ-01
 msgid "Adrar"
-msgstr ""
+msgstr "An Ailgéir"
 
 # DZ-02
 msgid "Chlef"
-msgstr ""
+msgstr "An tSile"
 
 # DZ-03
 msgid "Laghouat"
@@ -4076,7 +4082,7 @@ msgstr ""
 
 # DZ-05
 msgid "Batna"
-msgstr ""
+msgstr "Málta"
 
 # DZ-06
 msgid "Béjaïa"
@@ -4088,19 +4094,19 @@ msgstr ""
 
 # DZ-08
 msgid "Béchar"
-msgstr ""
+msgstr "An Bhreatain"
 
 # DZ-09
 msgid "Blida"
-msgstr ""
+msgstr "An Bholaiv"
 
 # DZ-10
 msgid "Bouira"
-msgstr ""
+msgstr "Burma"
 
 # DZ-11
 msgid "Tamanghasset"
-msgstr ""
+msgstr "An Tasmáin"
 
 # DZ-12
 msgid "Tébessa"
@@ -4108,11 +4114,11 @@ msgstr ""
 
 # DZ-13
 msgid "Tlemcen"
-msgstr ""
+msgstr "Éimin"
 
 # DZ-14
 msgid "Tiaret"
-msgstr ""
+msgstr "An Tibéid"
 
 # DZ-15
 msgid "Tizi Ouzou"
@@ -4120,7 +4126,7 @@ msgstr ""
 
 # DZ-16
 msgid "Alger"
-msgstr ""
+msgstr "An Ailgéir"
 
 # DZ-17
 msgid "Djelfa"
@@ -4136,7 +4142,7 @@ msgstr ""
 
 # DZ-20
 msgid "Saïda"
-msgstr ""
+msgstr "An tSiria"
 
 # DZ-21
 msgid "Skikda"
@@ -4152,7 +4158,7 @@ msgstr ""
 
 # DZ-24
 msgid "Guelma"
-msgstr ""
+msgstr "An Ghuine"
 
 # DZ-25
 msgid "Constantine"
@@ -4160,7 +4166,7 @@ msgstr ""
 
 # DZ-26
 msgid "Médéa"
-msgstr ""
+msgstr "An Ailgéir"
 
 # DZ-27
 msgid "Mostaganem"
@@ -4168,11 +4174,11 @@ msgstr ""
 
 # DZ-28
 msgid "Msila"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # DZ-29
 msgid "Mascara"
-msgstr ""
+msgstr "Madagascar"
 
 # DZ-30
 msgid "Ouargla"
@@ -4180,11 +4186,11 @@ msgstr ""
 
 # DZ-31
 msgid "Oran"
-msgstr ""
+msgstr "An Iaráin"
 
 # DZ-32
 msgid "El Bayadh"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # DZ-33
 msgid "Illizi"
@@ -4228,7 +4234,7 @@ msgstr ""
 
 # DZ-43
 msgid "Mila"
-msgstr ""
+msgstr "Málta"
 
 # DZ-44
 msgid "Aïn Defla"
@@ -4244,7 +4250,7 @@ msgstr ""
 
 # DZ-47
 msgid "Ghardaïa"
-msgstr ""
+msgstr "Gána"
 
 # DZ-48
 msgid "Relizane"
@@ -4264,7 +4270,7 @@ msgstr ""
 
 # EC-D
 msgid "Orellana"
-msgstr ""
+msgstr "An Iaráin"
 
 # EC-E
 msgid "Esmeraldas"
@@ -4272,11 +4278,11 @@ msgstr ""
 
 # EC-F
 msgid "Cañar"
-msgstr ""
+msgstr "Ceanada"
 
 # EC-G
 msgid "Guayas"
-msgstr ""
+msgstr "An Ghuáin"
 
 # EC-H
 msgid "Chimborazo"
@@ -4292,7 +4298,7 @@ msgstr ""
 
 # EC-M
 msgid "Manabí"
-msgstr ""
+msgstr "An Albáin"
 
 # EC-N
 msgid "Napo"
@@ -4320,7 +4326,7 @@ msgstr ""
 
 # EC-SE
 msgid "Santa Elena"
-msgstr ""
+msgstr "San Héilin"
 
 # EC-T
 msgid "Tungurahua"
@@ -4340,7 +4346,7 @@ msgstr ""
 
 # EC-Y
 msgid "Pastaza"
-msgstr ""
+msgstr "An Phacastáin"
 
 # EC-Z
 msgid "Zamora-Chinchipe"
@@ -4348,7 +4354,7 @@ msgstr ""
 
 # EE-37
 msgid "Harjumaa"
-msgstr ""
+msgstr "Paraguay"
 
 # EE-39
 msgid "Hiiumaa"
@@ -4364,7 +4370,7 @@ msgstr ""
 
 # EE-51
 msgid "Järvamaa"
-msgstr ""
+msgstr "Burma"
 
 # EE-57
 msgid "Läänemaa"
@@ -4380,19 +4386,19 @@ msgstr ""
 
 # EE-67
 msgid "Pärnumaa"
-msgstr ""
+msgstr "Paraguay"
 
 # EE-70
 msgid "Raplamaa"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # EE-74
 msgid "Saaremaa"
-msgstr ""
+msgstr "An tSaimbia"
 
 # EE-78
 msgid "Tartumaa"
-msgstr ""
+msgstr "Málta"
 
 # EE-82
 msgid "Valgamaa"
@@ -4400,15 +4406,15 @@ msgstr ""
 
 # EE-84
 msgid "Viljandimaa"
-msgstr ""
+msgstr "An Tansáin"
 
 # EE-86
 msgid "Võrumaa"
-msgstr ""
+msgstr "An Fhrainc"
 
 # EG-ALX
 msgid "Al Iskandarīyah"
-msgstr ""
+msgstr "An Albáin"
 
 # EG-ASN
 msgid "Aswān"
@@ -4432,7 +4438,7 @@ msgstr ""
 
 # EG-C
 msgid "Al Qāhirah"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # EG-DK
 msgid "Ad Daqahlīyah"
@@ -4448,11 +4454,11 @@ msgstr ""
 
 # EG-GH
 msgid "Al Gharbīyah"
-msgstr ""
+msgstr "An Albáin"
 
 # EG-GZ
 msgid "Al Jīzah"
-msgstr ""
+msgstr "An Albáin"
 
 # EG-HU
 msgid "Ḩulwān"
@@ -4468,7 +4474,7 @@ msgstr ""
 
 # EG-KB
 msgid "Al Qalyūbīyah"
-msgstr ""
+msgstr "An Albáin"
 
 # EG-KFS
 msgid "Kafr ash Shaykh"
@@ -4476,7 +4482,7 @@ msgstr ""
 
 # EG-KN
 msgid "Qinā"
-msgstr ""
+msgstr "An tSín"
 
 # EG-MN
 msgid "Al Minyā"
@@ -4484,11 +4490,11 @@ msgstr ""
 
 # EG-MNF
 msgid "Al Minūfīyah"
-msgstr ""
+msgstr "An Albáin"
 
 # EG-MT
 msgid "Matrūh"
-msgstr ""
+msgstr "An Mhí"
 
 # EG-PTS
 msgid "Būr Sa`īd"
@@ -4504,7 +4510,7 @@ msgstr ""
 
 # EG-SIN
 msgid "Shamal Sīnā'"
-msgstr ""
+msgstr "An Tasmáin"
 
 # EG-SU
 msgid "As Sādis min Uktūbar"
@@ -4524,11 +4530,11 @@ msgstr ""
 
 # ER-DK
 msgid "Janūbī al Baḩrī al Aḩmar"
-msgstr ""
+msgstr "An Albáin"
 
 # ER-DU
 msgid "Al Janūbī"
-msgstr ""
+msgstr "An Albáin"
 
 # ER-GB
 msgid "Qāsh-Barkah"
@@ -4540,11 +4546,11 @@ msgstr ""
 
 # ER-SK
 msgid "Shimālī al Baḩrī al Aḩmar"
-msgstr ""
+msgstr "An Albáin"
 
 # ES-A
 msgid "Alicante"
-msgstr ""
+msgstr "An Albáin"
 
 # ES-AB
 msgid "Albacete"
@@ -4552,15 +4558,15 @@ msgstr ""
 
 # ES-AL
 msgid "Almería"
-msgstr ""
+msgstr "An Ailgéir"
 
 # ES-AN
 msgid "Andalucía"
-msgstr ""
+msgstr "An Albáin"
 
 # ES-AR
 msgid "Aragón"
-msgstr ""
+msgstr "An tSúdáin"
 
 # ES-AS
 msgid "Asturias, Principado de"
@@ -4568,7 +4574,7 @@ msgstr ""
 
 # ES-AV
 msgid "Ávila"
-msgstr ""
+msgstr "Málta"
 
 # ES-B
 msgid "Barcelona"
@@ -4588,7 +4594,7 @@ msgstr ""
 
 # ES-C
 msgid "A Coruña"
-msgstr ""
+msgstr "Aruba"
 
 # ES-CA
 msgid "Cádiz"
@@ -4596,7 +4602,7 @@ msgstr ""
 
 # ES-CB
 msgid "Cantabria"
-msgstr ""
+msgstr "an tAntartasch"
 
 # ES-CC
 msgid "Cáceres"
@@ -4604,7 +4610,7 @@ msgstr ""
 
 # ES-CE
 msgid "Ceuta"
-msgstr ""
+msgstr "Cúba"
 
 # ES-CL
 msgid "Castilla y León"
@@ -4616,7 +4622,7 @@ msgstr ""
 
 # ES-CN
 msgid "Canarias"
-msgstr ""
+msgstr "an tAntartasch"
 
 # ES-CO
 msgid "Córdoba"
@@ -4632,11 +4638,11 @@ msgstr ""
 
 # ES-CT
 msgid "Catalunya"
-msgstr ""
+msgstr "Ceanada"
 
 # ES-CU
 msgid "Cuenca"
-msgstr ""
+msgstr "Cúba"
 
 # ES-EX
 msgid "Extremadura"
@@ -4644,7 +4650,7 @@ msgstr ""
 
 # ES-GA
 msgid "Galicia"
-msgstr ""
+msgstr "Gaillimh"
 
 # ES-GC
 msgid "Las Palmas"
@@ -4652,15 +4658,15 @@ msgstr ""
 
 # ES-GI
 msgid "Girona"
-msgstr ""
+msgstr "An Ghuine"
 
 # ES-GR
 msgid "Granada"
-msgstr ""
+msgstr "Gána"
 
 # ES-GU
 msgid "Guadalajara"
-msgstr ""
+msgstr "Guatamala"
 
 # ES-H
 msgid "Huelva"
@@ -4672,19 +4678,19 @@ msgstr ""
 
 # ES-IB
 msgid "Illes Balears"
-msgstr ""
+msgstr "An Bhanglaidéis"
 
 # ES-J
 msgid "Jaén"
-msgstr ""
+msgstr "An tSeapáin"
 
 # ES-L
 msgid "Lleida"
-msgstr ""
+msgstr "An Bholaiv"
 
 # ES-LE
 msgid "León"
-msgstr ""
+msgstr "An Liobáin"
 
 # ES-LO
 msgid "La Rioja"
@@ -4700,7 +4706,7 @@ msgstr ""
 
 # ES-MA
 msgid "Málaga"
-msgstr ""
+msgstr "Málta"
 
 # ES-MC
 msgid "Murcia, Región de"
@@ -4716,7 +4722,7 @@ msgstr ""
 
 # ES-MU
 msgid "Murcia"
-msgstr ""
+msgstr "An Ostair"
 
 # ES-NA
 msgid "Navarra / Nafarroa"
@@ -4728,11 +4734,11 @@ msgstr ""
 
 # ES-O
 msgid "Asturias"
-msgstr ""
+msgstr "An Ostair"
 
 # ES-OR
 msgid "Ourense"
-msgstr ""
+msgstr "An Fhrainc"
 
 # ES-P
 msgid "Palencia"
@@ -4740,7 +4746,7 @@ msgstr ""
 
 # ES-PM
 msgid "Balears"
-msgstr ""
+msgstr "An Bhanglaidéis"
 
 # ES-PO
 msgid "Pontevedra"
@@ -4756,7 +4762,7 @@ msgstr ""
 
 # ES-S
 msgid "Cantabria"
-msgstr ""
+msgstr "an tAntartasch"
 
 # ES-SA
 msgid "Salamanca"
@@ -4772,7 +4778,7 @@ msgstr ""
 
 # ES-SO
 msgid "Soria"
-msgstr ""
+msgstr "An tSiria"
 
 # ES-SS
 msgid "Gipuzkoa"
@@ -4784,7 +4790,7 @@ msgstr ""
 
 # ES-TE
 msgid "Teruel"
-msgstr ""
+msgstr "Peiriú"
 
 # ES-TF
 msgid "Santa Cruz de Tenerife"
@@ -4792,7 +4798,7 @@ msgstr ""
 
 # ES-TO
 msgid "Toledo"
-msgstr ""
+msgstr "An Bholaiv"
 
 # ES-V
 msgid "Valencia / València"
@@ -4808,15 +4814,15 @@ msgstr ""
 
 # ES-VI
 msgid "Álava"
-msgstr ""
+msgstr "An Albáin"
 
 # ES-Z
 msgid "Zaragoza"
-msgstr ""
+msgstr "Paraguay"
 
 # ES-ZA
 msgid "Zamora"
-msgstr ""
+msgstr "An tSaimbia"
 
 # ET-AA
 msgid "Ādīs Ābeba"
@@ -4824,11 +4830,11 @@ msgstr ""
 
 # ET-AF
 msgid "Āfar"
-msgstr ""
+msgstr "An tSáir"
 
 # ET-AM
 msgid "Āmara"
-msgstr ""
+msgstr "an tAntartasch"
 
 # ET-BE
 msgid "Bīnshangul Gumuz"
@@ -4848,7 +4854,7 @@ msgstr ""
 
 # ET-OR
 msgid "Oromīya"
-msgstr ""
+msgstr "An Rómáin"
 
 # ET-SN
 msgid "YeDebub Bihēroch Bihēreseboch na Hizboch"
@@ -4856,11 +4862,11 @@ msgstr ""
 
 # ET-SO
 msgid "Sumalē"
-msgstr ""
+msgstr "An Rómáin"
 
 # ET-TI
 msgid "Tigray"
-msgstr ""
+msgstr "An Nigéir"
 
 # FI-01
 msgid "Ahvenanmaan maakunta"
@@ -4884,7 +4890,7 @@ msgstr ""
 
 # FI-06
 msgid "Kanta-Häme"
-msgstr ""
+msgstr "San Héilin"
 
 # FI-07
 msgid "Keski-Pohjanmaa"
@@ -4904,7 +4910,7 @@ msgstr ""
 
 # FI-11
 msgid "Pirkanmaa"
-msgstr ""
+msgstr "Gána"
 
 # FI-12
 msgid "Pohjanmaa"
@@ -4940,27 +4946,27 @@ msgstr ""
 
 # FJ-C
 msgid "Central"
-msgstr ""
+msgstr "Ceanada"
 
 # FJ-E
 msgid "Eastern"
-msgstr ""
+msgstr "Málta"
 
 # FJ-N
 msgid "Northern"
-msgstr ""
+msgstr "An Isiltir"
 
 # FJ-R
 msgid "Rotuma"
-msgstr ""
+msgstr "An Rómáin"
 
 # FJ-W
 msgid "Western"
-msgstr ""
+msgstr "An Iarmhí"
 
 # FM-KSA
 msgid "Kosrae"
-msgstr ""
+msgstr "An Chóiré"
 
 # FM-PNI
 msgid "Pohnpei"
@@ -4984,7 +4990,7 @@ msgstr ""
 
 # FR-03
 msgid "Allier"
-msgstr ""
+msgstr "An Ailgéir"
 
 # FR-04
 msgid "Alpes-de-Haute-Provence"
@@ -5000,7 +5006,7 @@ msgstr ""
 
 # FR-07
 msgid "Ardèche"
-msgstr ""
+msgstr "An Ghréig"
 
 # FR-08
 msgid "Ardennes"
@@ -5008,7 +5014,7 @@ msgstr ""
 
 # FR-09
 msgid "Ariège"
-msgstr ""
+msgstr "An Ailgéir"
 
 # FR-10
 msgid "Aube"
@@ -5028,11 +5034,11 @@ msgstr ""
 
 # FR-14
 msgid "Calvados"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # FR-15
 msgid "Cantal"
-msgstr ""
+msgstr "Ceanada"
 
 # FR-16
 msgid "Charente"
@@ -5044,7 +5050,7 @@ msgstr ""
 
 # FR-18
 msgid "Cher"
-msgstr ""
+msgstr "An tSile"
 
 # FR-19
 msgid "Corrèze"
@@ -5060,7 +5066,7 @@ msgstr ""
 
 # FR-23
 msgid "Creuse"
-msgstr ""
+msgstr "An Chipir"
 
 # FR-24
 msgid "Dordogne"
@@ -5076,7 +5082,7 @@ msgstr ""
 
 # FR-27
 msgid "Eure"
-msgstr ""
+msgstr "An Tuirc"
 
 # FR-28
 msgid "Eure-et-Loir"
@@ -5108,7 +5114,7 @@ msgstr ""
 
 # FR-33
 msgid "Gironde"
-msgstr ""
+msgstr "An Ghuine"
 
 # FR-34
 msgid "Hérault"
@@ -5120,7 +5126,7 @@ msgstr ""
 
 # FR-36
 msgid "Indre"
-msgstr ""
+msgstr "An India"
 
 # FR-37
 msgid "Indre-et-Loire"
@@ -5128,15 +5134,15 @@ msgstr ""
 
 # FR-38
 msgid "Isère"
-msgstr ""
+msgstr "Iosrael"
 
 # FR-39
 msgid "Jura"
-msgstr ""
+msgstr "Burma"
 
 # FR-40
 msgid "Landes"
-msgstr ""
+msgstr "An Bhanglaidéis"
 
 # FR-41
 msgid "Loir-et-Cher"
@@ -5144,7 +5150,7 @@ msgstr ""
 
 # FR-42
 msgid "Loire"
-msgstr ""
+msgstr "An tSáir"
 
 # FR-43
 msgid "Haute-Loire"
@@ -5168,7 +5174,7 @@ msgstr ""
 
 # FR-48
 msgid "Lozère"
-msgstr ""
+msgstr "An tSáir"
 
 # FR-49
 msgid "Maine-et-Loire"
@@ -5176,19 +5182,19 @@ msgstr ""
 
 # FR-50
 msgid "Manche"
-msgstr ""
+msgstr "An Fhrainc"
 
 # FR-51
 msgid "Marne"
-msgstr ""
+msgstr "An tSáir"
 
 # FR-52
 msgid "Haute-Marne"
-msgstr ""
+msgstr "An tSáir"
 
 # FR-53
 msgid "Mayenne"
-msgstr ""
+msgstr "An tSáir"
 
 # FR-54
 msgid "Meurthe-et-Moselle"
@@ -5208,11 +5214,11 @@ msgstr ""
 
 # FR-58
 msgid "Nièvre"
-msgstr ""
+msgstr "An Nígir"
 
 # FR-59
 msgid "Nord"
-msgstr ""
+msgstr "An Iorua"
 
 # FR-60
 msgid "Oise"
@@ -5220,7 +5226,7 @@ msgstr ""
 
 # FR-61
 msgid "Orne"
-msgstr ""
+msgstr "An Fhrainc"
 
 # FR-62
 msgid "Pas-de-Calais"
@@ -5240,7 +5246,7 @@ msgstr ""
 
 # FR-66
 msgid "Pyrénées-Orientales"
-msgstr ""
+msgstr "Vitneam"
 
 # FR-67
 msgid "Bas-Rhin"
@@ -5276,7 +5282,7 @@ msgstr ""
 
 # FR-75
 msgid "Paris"
-msgstr ""
+msgstr "An Phacastáin"
 
 # FR-76
 msgid "Seine-Maritime"
@@ -5316,11 +5322,11 @@ msgstr ""
 
 # FR-85
 msgid "Vendée"
-msgstr ""
+msgstr "Veiniséala"
 
 # FR-86
 msgid "Vienne"
-msgstr ""
+msgstr "Vitneam"
 
 # FR-87
 msgid "Haute-Vienne"
@@ -5368,15 +5374,15 @@ msgstr ""
 
 # FR-BL
 msgid "Saint-Barthélemy"
-msgstr ""
+msgstr "San Héilin"
 
 # FR-BRE
 msgid "Bretagne"
-msgstr ""
+msgstr "An Fhrainc"
 
 # FR-COR
 msgid "Corse"
-msgstr ""
+msgstr "An Chipir"
 
 # FR-CP
 msgid "Clipperton"
@@ -5384,11 +5390,11 @@ msgstr ""
 
 # FR-CVL
 msgid "Centre-Val de Loire"
-msgstr ""
+msgstr "Ceanada"
 
 # FR-GES
 msgid "Grand-Est"
-msgstr ""
+msgstr "An Iorua"
 
 # FR-GF
 msgid "Guyane (française)"
@@ -5404,7 +5410,7 @@ msgstr "Guadalúip"
 
 # FR-HDF
 msgid "Hauts-de-France"
-msgstr ""
+msgstr "An tSáir"
 
 # FR-IDF
 msgid "Île-de-France"
@@ -5412,23 +5418,23 @@ msgstr ""
 
 # FR-LRE
 msgid "La Réunion"
-msgstr ""
+msgstr "Monacó"
 
 # FR-MAY
 msgid "Mayotte"
-msgstr "Mayotte"
+msgstr "Maigh Eo"
 
 # FR-MF
 msgid "Saint-Martin"
-msgstr ""
+msgstr "San Héilin"
 
 # FR-MQ
 msgid "Martinique"
-msgstr "Martainíc"
+msgstr "Mósaimbic"
 
 # FR-NAQ
 msgid "Nouvelle-Aquitaine"
-msgstr ""
+msgstr "Vitneam"
 
 # FR-NC
 msgid "Nouvelle-Calédonie"
@@ -5440,7 +5446,7 @@ msgstr ""
 
 # FR-OCC
 msgid "Occitanie"
-msgstr ""
+msgstr "Vitneam"
 
 # FR-PAC
 msgid "Provence-Alpes-Côte-d’Azur"
@@ -5460,7 +5466,7 @@ msgstr ""
 
 # FR-RE
 msgid "La Réunion"
-msgstr ""
+msgstr "Monacó"
 
 # FR-TF
 msgid "Terres australes françaises"
@@ -5472,15 +5478,15 @@ msgstr ""
 
 # FR-YT
 msgid "Mayotte"
-msgstr "Mayotte"
+msgstr "Maigh Eo"
 
 # GA-1
 msgid "Estuaire"
-msgstr ""
+msgstr "An Tuirc"
 
 # GA-2
 msgid "Haut-Ogooué"
-msgstr ""
+msgstr "An Congó"
 
 # GA-3
 msgid "Moyen-Ogooué"
@@ -5488,11 +5494,11 @@ msgstr ""
 
 # GA-4
 msgid "Ngounié"
-msgstr ""
+msgstr "Gána"
 
 # GA-5
 msgid "Nyanga"
-msgstr ""
+msgstr "An Tansáin"
 
 # GA-6
 msgid "Ogooué-Ivindo"
@@ -5552,7 +5558,7 @@ msgstr ""
 
 # GB-BDF
 msgid "Bedford"
-msgstr ""
+msgstr "Barbadós"
 
 # GB-BDG
 msgid "Barking and Dagenham"
@@ -5568,7 +5574,7 @@ msgstr ""
 
 # GB-BFS
 msgid "Belfast"
-msgstr ""
+msgstr "An  Bhealarúis"
 
 # GB-BGE
 msgid "Bridgend; Pen-y-bont ar Ogwr"
@@ -5580,7 +5586,7 @@ msgstr ""
 
 # GB-BIR
 msgid "Birmingham"
-msgstr ""
+msgstr "An Iaráic"
 
 # GB-BKM
 msgid "Buckinghamshire"
@@ -5616,7 +5622,7 @@ msgstr ""
 
 # GB-BRD
 msgid "Bradford"
-msgstr ""
+msgstr "Barbadós"
 
 # GB-BRY
 msgid "Bromley"
@@ -5628,7 +5634,7 @@ msgstr ""
 
 # GB-BUR
 msgid "Bury"
-msgstr ""
+msgstr "Burma"
 
 # GB-CAM
 msgid "Cambridgeshire"
@@ -5640,7 +5646,7 @@ msgstr ""
 
 # GB-CBF
 msgid "Central Bedfordshire"
-msgstr ""
+msgstr "Ceanada"
 
 # GB-CCG
 msgid "Causeway Coast and Glens"
@@ -5652,7 +5658,7 @@ msgstr ""
 
 # GB-CHE
 msgid "Cheshire East"
-msgstr ""
+msgstr "An tSile"
 
 # GB-CHW
 msgid "Cheshire West and Chester"
@@ -5668,11 +5674,11 @@ msgstr ""
 
 # GB-CMA
 msgid "Cumbria"
-msgstr ""
+msgstr "Cúba"
 
 # GB-CMD
 msgid "Camden"
-msgstr ""
+msgstr "Camarún"
 
 # GB-CMN
 msgid "Carmarthenshire; Sir Gaerfyrddin"
@@ -5684,7 +5690,7 @@ msgstr ""
 
 # GB-COV
 msgid "Coventry"
-msgstr ""
+msgstr "An Congó"
 
 # GB-CRF
 msgid "Cardiff; Caerdydd"
@@ -5692,11 +5698,11 @@ msgstr ""
 
 # GB-CRY
 msgid "Croydon"
-msgstr ""
+msgstr "Camarún"
 
 # GB-CWY
 msgid "Conwy"
-msgstr ""
+msgstr "An Congó"
 
 # GB-DAL
 msgid "Darlington"
@@ -5712,7 +5718,7 @@ msgstr ""
 
 # GB-DER
 msgid "Derby"
-msgstr ""
+msgstr "Ciarraí"
 
 # GB-DEV
 msgid "Devon"
@@ -5780,7 +5786,7 @@ msgstr ""
 
 # GB-ENG
 msgid "England"
-msgstr ""
+msgstr "An Pholainn"
 
 # GB-ERW
 msgid "East Renfrewshire"
@@ -5812,7 +5818,7 @@ msgstr ""
 
 # GB-FMO
 msgid "Fermanagh and Omagh"
-msgstr ""
+msgstr "An Ghearmáin"
 
 # GB-GAT
 msgid "Gateshead"
@@ -5820,7 +5826,7 @@ msgstr ""
 
 # GB-GBN
 msgid "Great Britain"
-msgstr ""
+msgstr "An Bhreatain"
 
 # GB-GLG
 msgid "Glasgow City"
@@ -5832,7 +5838,7 @@ msgstr ""
 
 # GB-GRE
 msgid "Greenwich"
-msgstr ""
+msgstr "An Ghréig"
 
 # GB-GWN
 msgid "Gwynedd"
@@ -5856,7 +5862,7 @@ msgstr ""
 
 # GB-HEF
 msgid "Herefordshire"
-msgstr ""
+msgstr "An tSile"
 
 # GB-HIL
 msgid "Hillingdon"
@@ -5912,7 +5918,7 @@ msgstr ""
 
 # GB-KEN
 msgid "Kent"
-msgstr ""
+msgstr "An Chéinia"
 
 # GB-KHL
 msgid "Kingston upon Hull"
@@ -5944,7 +5950,7 @@ msgstr ""
 
 # GB-LCE
 msgid "Leicester"
-msgstr ""
+msgstr "An Lichtinstéin"
 
 # GB-LDS
 msgid "Leeds"
@@ -5976,7 +5982,7 @@ msgstr ""
 
 # GB-MAN
 msgid "Manchester"
-msgstr ""
+msgstr "An Fhrainc"
 
 # GB-MDB
 msgid "Middlesbrough"
@@ -6008,7 +6014,7 @@ msgstr ""
 
 # GB-MRY
 msgid "Moray"
-msgstr ""
+msgstr "An Iorua"
 
 # GB-MTY
 msgid "Merthyr Tydfil; Merthyr Tudful"
@@ -6020,11 +6026,11 @@ msgstr ""
 
 # GB-NAY
 msgid "North Ayrshire"
-msgstr ""
+msgstr "An tSile"
 
 # GB-NBL
 msgid "Northumberland"
-msgstr ""
+msgstr "An Isiltir"
 
 # GB-NEL
 msgid "North East Lincolnshire"
@@ -6044,7 +6050,7 @@ msgstr ""
 
 # GB-NIR
 msgid "Northern Ireland"
-msgstr ""
+msgstr "An Isiltir"
 
 # GB-NLK
 msgid "North Lanarkshire"
@@ -6112,7 +6118,7 @@ msgstr ""
 
 # GB-PLY
 msgid "Plymouth"
-msgstr ""
+msgstr "Lú"
 
 # GB-POL
 msgid "Poole"
@@ -6120,7 +6126,7 @@ msgstr ""
 
 # GB-POR
 msgid "Portsmouth"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # GB-POW
 msgid "Powys"
@@ -6152,7 +6158,7 @@ msgstr ""
 
 # GB-RFW
 msgid "Renfrewshire"
-msgstr ""
+msgstr "An tSile"
 
 # GB-RIC
 msgid "Richmond upon Thames"
@@ -6164,7 +6170,7 @@ msgstr ""
 
 # GB-RUT
 msgid "Rutland"
-msgstr ""
+msgstr "An Pholainn"
 
 # GB-SAW
 msgid "Sandwell"
@@ -6180,7 +6186,7 @@ msgstr ""
 
 # GB-SCT
 msgid "Scotland"
-msgstr ""
+msgstr "An Pholainn"
 
 # GB-SFK
 msgid "Suffolk"
@@ -6212,7 +6218,7 @@ msgstr ""
 
 # GB-SLF
 msgid "Salford"
-msgstr ""
+msgstr "Málta"
 
 # GB-SLG
 msgid "Slough"
@@ -6224,7 +6230,7 @@ msgstr ""
 
 # GB-SND
 msgid "Sunderland"
-msgstr ""
+msgstr "An Ghraonlainn"
 
 # GB-SOL
 msgid "Solihull"
@@ -6232,7 +6238,7 @@ msgstr ""
 
 # GB-SOM
 msgid "Somerset"
-msgstr ""
+msgstr "Iosrael"
 
 # GB-SOS
 msgid "Southend-on-Sea"
@@ -6240,7 +6246,7 @@ msgstr ""
 
 # GB-SRY
 msgid "Surrey"
-msgstr ""
+msgstr "An Tuirc"
 
 # GB-STE
 msgid "Stoke-on-Trent"
@@ -6252,7 +6258,7 @@ msgstr ""
 
 # GB-STH
 msgid "Southampton"
-msgstr ""
+msgstr "An Pholainn"
 
 # GB-STN
 msgid "Sutton"
@@ -6272,11 +6278,11 @@ msgstr ""
 
 # GB-SWA
 msgid "Swansea; Abertawe"
-msgstr ""
+msgstr "Ruanda"
 
 # GB-SWD
 msgid "Swindon"
-msgstr ""
+msgstr "An tSualainn"
 
 # GB-SWK
 msgid "Southwark"
@@ -6296,11 +6302,11 @@ msgstr ""
 
 # GB-TOB
 msgid "Torbay"
-msgstr ""
+msgstr "An Iorua"
 
 # GB-TOF
 msgid "Torfaen; Tor-faen"
-msgstr ""
+msgstr "An Iordáin"
 
 # GB-TRF
 msgid "Trafford"
@@ -6344,7 +6350,7 @@ msgstr ""
 
 # GB-WKF
 msgid "Wakefield"
-msgstr ""
+msgstr "An Nua-Shéalainn"
 
 # GB-WLL
 msgid "Walsall"
@@ -6392,7 +6398,7 @@ msgstr ""
 
 # GB-WSM
 msgid "Westminster"
-msgstr ""
+msgstr "An Iarmhí"
 
 # GB-WSX
 msgid "West Sussex"
@@ -6400,7 +6406,7 @@ msgstr ""
 
 # GB-YOR
 msgid "York"
-msgstr ""
+msgstr "Corcaigh"
 
 # GB-ZET
 msgid "Shetland Islands"
@@ -6412,19 +6418,19 @@ msgstr ""
 
 # GD-02
 msgid "Saint David"
-msgstr ""
+msgstr "San Héilin"
 
 # GD-03
 msgid "Saint George"
-msgstr ""
+msgstr "San Héilin"
 
 # GD-04
 msgid "Saint John"
-msgstr ""
+msgstr "San Héilin"
 
 # GD-05
 msgid "Saint Mark"
-msgstr ""
+msgstr "San Héilin"
 
 # GD-06
 msgid "Saint Patrick"
@@ -6432,23 +6438,23 @@ msgstr ""
 
 # GD-10
 msgid "Southern Grenadine Islands"
-msgstr ""
+msgstr "Oileáin Mariana Thuiadh"
 
 # GE-AB
 msgid "Abkhazia"
-msgstr ""
+msgstr "An Astráil"
 
 # GE-AJ
 msgid "Ajaria"
-msgstr ""
+msgstr "an tAntartasch"
 
 # GE-GU
 msgid "Guria"
-msgstr ""
+msgstr "An Ghuine"
 
 # GE-IM
 msgid "Imeret’i"
-msgstr ""
+msgstr "Iosrael"
 
 # GE-KA
 msgid "Kakhet’i"
@@ -6480,7 +6486,7 @@ msgstr ""
 
 # GE-TB
 msgid "T’bilisi"
-msgstr ""
+msgstr "An Túinéis"
 
 # GH-AA
 msgid "Greater Accra"
@@ -6496,19 +6502,19 @@ msgstr ""
 
 # GH-CP
 msgid "Central"
-msgstr ""
+msgstr "Ceanada"
 
 # GH-EP
 msgid "Eastern"
-msgstr ""
+msgstr "Málta"
 
 # GH-NP
 msgid "Northern"
-msgstr ""
+msgstr "An Isiltir"
 
 # GH-TV
 msgid "Volta"
-msgstr ""
+msgstr "Málta"
 
 # GH-UE
 msgid "Upper East"
@@ -6520,7 +6526,7 @@ msgstr ""
 
 # GH-WP
 msgid "Western"
-msgstr ""
+msgstr "An Iarmhí"
 
 # GL-KU
 msgid "Kommune Kujalleq"
@@ -6548,7 +6554,7 @@ msgstr ""
 
 # GM-M
 msgid "Central River"
-msgstr ""
+msgstr "Ceanada"
 
 # GM-N
 msgid "North Bank"
@@ -6560,7 +6566,7 @@ msgstr ""
 
 # GM-W
 msgid "Western"
-msgstr ""
+msgstr "An Iarmhí"
 
 # GN-B
 msgid "Boké"
@@ -6568,7 +6574,7 @@ msgstr ""
 
 # GN-BE
 msgid "Beyla"
-msgstr ""
+msgstr "An Chéinia"
 
 # GN-BF
 msgid "Boffa"
@@ -6580,7 +6586,7 @@ msgstr ""
 
 # GN-C
 msgid "Conakry"
-msgstr ""
+msgstr "Ceanada"
 
 # GN-CO
 msgid "Coyah"
@@ -6588,7 +6594,7 @@ msgstr ""
 
 # GN-D
 msgid "Kindia"
-msgstr ""
+msgstr "An India"
 
 # GN-DB
 msgid "Dabola"
@@ -6608,11 +6614,11 @@ msgstr ""
 
 # GN-F
 msgid "Faranah"
-msgstr ""
+msgstr "An Fhrainc"
 
 # GN-FA
 msgid "Faranah"
-msgstr ""
+msgstr "An Fhrainc"
 
 # GN-FO
 msgid "Forécariah"
@@ -6620,7 +6626,7 @@ msgstr ""
 
 # GN-FR
 msgid "Fria"
-msgstr ""
+msgstr "An tSiria"
 
 # GN-GA
 msgid "Gaoual"
@@ -6640,11 +6646,11 @@ msgstr ""
 
 # GN-KB
 msgid "Koubia"
-msgstr ""
+msgstr "Cúba"
 
 # GN-KD
 msgid "Kindia"
-msgstr ""
+msgstr "An India"
 
 # GN-KE
 msgid "Kérouané"
@@ -6652,7 +6658,7 @@ msgstr ""
 
 # GN-KN
 msgid "Koundara"
-msgstr ""
+msgstr "An Chóiré"
 
 # GN-KO
 msgid "Kouroussa"
@@ -6664,19 +6670,19 @@ msgstr ""
 
 # GN-L
 msgid "Labé"
-msgstr ""
+msgstr "An tSeapáin"
 
 # GN-LA
 msgid "Labé"
-msgstr ""
+msgstr "An tSeapáin"
 
 # GN-LE
 msgid "Lélouma"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # GN-LO
 msgid "Lola"
-msgstr ""
+msgstr "An Pholainn"
 
 # GN-M
 msgid "Mamou"
@@ -6684,11 +6690,11 @@ msgstr ""
 
 # GN-MC
 msgid "Macenta"
-msgstr ""
+msgstr "Málta"
 
 # GN-MD
 msgid "Mandiana"
-msgstr ""
+msgstr "An Tansáin"
 
 # GN-ML
 msgid "Mali"
@@ -6708,7 +6714,7 @@ msgstr ""
 
 # GN-PI
 msgid "Pita"
-msgstr ""
+msgstr "An Phacastáin"
 
 # GN-SI
 msgid "Siguiri"
@@ -6768,7 +6774,7 @@ msgstr ""
 
 # GR-03
 msgid "Voiotia"
-msgstr ""
+msgstr "Háítí"
 
 # GR-04
 msgid "Evvoias"
@@ -6780,39 +6786,39 @@ msgstr ""
 
 # GR-06
 msgid "Fthiotida"
-msgstr ""
+msgstr "An tSín"
 
 # GR-07
 msgid "Fokida"
-msgstr ""
+msgstr "An tSiria"
 
 # GR-11
 msgid "Argolida"
-msgstr ""
+msgstr "An Bholaiv"
 
 # GR-12
 msgid "Arkadia"
-msgstr ""
+msgstr "An Phacastáin"
 
 # GR-13
 msgid "Achaïa"
-msgstr ""
+msgstr "Gána"
 
 # GR-14
 msgid "Ileia"
-msgstr ""
+msgstr "An Bholaiv"
 
 # GR-15
 msgid "Korinthia"
-msgstr ""
+msgstr "An India"
 
 # GR-16
 msgid "Lakonia"
-msgstr ""
+msgstr "Laois"
 
 # GR-17
 msgid "Messinia"
-msgstr ""
+msgstr "An Albáin"
 
 # GR-21
 msgid "Zakynthos"
@@ -6820,19 +6826,19 @@ msgstr ""
 
 # GR-22
 msgid "Kerkyra"
-msgstr ""
+msgstr "Ciarraí"
 
 # GR-23
 msgid "Kefallonia"
-msgstr ""
+msgstr "An Cholóim"
 
 # GR-24
 msgid "Lefkada"
-msgstr ""
+msgstr "Laois"
 
 # GR-31
 msgid "Arta"
-msgstr ""
+msgstr "An Ailgéir"
 
 # GR-32
 msgid "Thesprotia"
@@ -6840,39 +6846,39 @@ msgstr ""
 
 # GR-33
 msgid "Ioannina"
-msgstr ""
+msgstr "An Tansáin"
 
 # GR-34
 msgid "Preveza"
-msgstr ""
+msgstr "Oileán Chomóra"
 
 # GR-41
 msgid "Karditsa"
-msgstr ""
+msgstr "Háítí"
 
 # GR-42
 msgid "Larisa"
-msgstr ""
+msgstr "An Phacastáin"
 
 # GR-43
 msgid "Magnisia"
-msgstr ""
+msgstr "An Albáin"
 
 # GR-44
 msgid "Trikala"
-msgstr ""
+msgstr "An Pholainn"
 
 # GR-51
 msgid "Grevena"
-msgstr ""
+msgstr "An Ghréig"
 
 # GR-52
 msgid "Drama"
-msgstr ""
+msgstr "Gána"
 
 # GR-53
 msgid "Imathia"
-msgstr ""
+msgstr "Málta"
 
 # GR-54
 msgid "Thessaloniki"
@@ -6880,35 +6886,35 @@ msgstr ""
 
 # GR-55
 msgid "Kavala"
-msgstr ""
+msgstr "Guatamala"
 
 # GR-56
 msgid "Kastoria"
-msgstr ""
+msgstr "An Ostair"
 
 # GR-57
 msgid "Kilkis"
-msgstr ""
+msgstr "An Bhreatain"
 
 # GR-58
 msgid "Kozani"
-msgstr ""
+msgstr "An Rómáin"
 
 # GR-59
 msgid "Pella"
-msgstr ""
+msgstr "Cúba"
 
 # GR-61
 msgid "Pieria"
-msgstr ""
+msgstr "An Phacastáin"
 
 # GR-62
 msgid "Serres"
-msgstr ""
+msgstr "An Tuirc"
 
 # GR-63
 msgid "Florina"
-msgstr ""
+msgstr "An tSiria"
 
 # GR-64
 msgid "Chalkidiki"
@@ -6924,7 +6930,7 @@ msgstr ""
 
 # GR-72
 msgid "Xanthi"
-msgstr ""
+msgstr "Málta"
 
 # GR-73
 msgid "Rodopi"
@@ -6944,19 +6950,19 @@ msgstr ""
 
 # GR-84
 msgid "Samos"
-msgstr ""
+msgstr "Laois"
 
 # GR-85
 msgid "Chios"
-msgstr ""
+msgstr "An tSín"
 
 # GR-91
 msgid "Irakleio"
-msgstr ""
+msgstr "An Nigéir"
 
 # GR-92
 msgid "Lasithi"
-msgstr ""
+msgstr "Málta"
 
 # GR-93
 msgid "Rethymno"
@@ -6964,7 +6970,7 @@ msgstr ""
 
 # GR-94
 msgid "Chania"
-msgstr ""
+msgstr "An tSín"
 
 # GR-A
 msgid "Anatoliki Makedonia kai Thraki"
@@ -6976,7 +6982,7 @@ msgstr ""
 
 # GR-B
 msgid "Kentriki Makedonia"
-msgstr ""
+msgstr "Ceanada"
 
 # GR-C
 msgid "Dytiki Makedonia"
@@ -6988,7 +6994,7 @@ msgstr ""
 
 # GR-E
 msgid "Thessalia"
-msgstr ""
+msgstr "An Téalainn"
 
 # GR-F
 msgid "Ionia Nisia"
@@ -7020,7 +7026,7 @@ msgstr ""
 
 # GR-M
 msgid "Kriti"
-msgstr ""
+msgstr "An Chóiré"
 
 # GT-AV
 msgid "Alta Verapaz"
@@ -7056,15 +7062,15 @@ msgstr ""
 
 # GT-JA
 msgid "Jalapa"
-msgstr ""
+msgstr "An tSeapáin"
 
 # GT-JU
 msgid "Jutiapa"
-msgstr ""
+msgstr "An tSeapáin"
 
 # GT-PE
 msgid "Petén"
-msgstr ""
+msgstr "Éimin"
 
 # GT-PR
 msgid "El Progreso"
@@ -7080,7 +7086,7 @@ msgstr ""
 
 # GT-RE
 msgid "Retalhuleu"
-msgstr ""
+msgstr "Málta"
 
 # GT-SA
 msgid "Sacatepéquez"
@@ -7116,7 +7122,7 @@ msgstr ""
 
 # GW-BL
 msgid "Bolama"
-msgstr ""
+msgstr "An Bholaiv"
 
 # GW-BM
 msgid "Biombo"
@@ -7132,15 +7138,15 @@ msgstr ""
 
 # GW-GA
 msgid "Gabú"
-msgstr ""
+msgstr "An tSeapáin"
 
 # GW-L
 msgid "Leste"
-msgstr ""
+msgstr "An Lichtinstéin"
 
 # GW-N
 msgid "Norte"
-msgstr ""
+msgstr "An Isiltir"
 
 # GW-OI
 msgid "Oio"
@@ -7148,19 +7154,19 @@ msgstr ""
 
 # GW-QU
 msgid "Quinara"
-msgstr ""
+msgstr "An tSín"
 
 # GW-S
 msgid "Sul"
-msgstr ""
+msgstr "An tSúdáin"
 
 # GW-TO
 msgid "Tombali"
-msgstr ""
+msgstr "An Rómáin"
 
 # GY-BA
 msgid "Barima-Waini"
-msgstr ""
+msgstr "An Bhreatain"
 
 # GY-CU
 msgid "Cuyuni-Mazaruni"
@@ -7200,7 +7206,7 @@ msgstr ""
 
 # HN-AT
 msgid "Atlántida"
-msgstr ""
+msgstr "An Albáin"
 
 # HN-CH
 msgid "Choluteca"
@@ -7208,7 +7214,7 @@ msgstr ""
 
 # HN-CL
 msgid "Colón"
-msgstr ""
+msgstr "An Cholóim"
 
 # HN-CM
 msgid "Comayagua"
@@ -7216,15 +7222,15 @@ msgstr ""
 
 # HN-CP
 msgid "Copán"
-msgstr ""
+msgstr "An Spáinn"
 
 # HN-CR
 msgid "Cortés"
-msgstr ""
+msgstr "An Chipir"
 
 # HN-EP
 msgid "El Paraíso"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # HN-FM
 msgid "Francisco Morazán"
@@ -7240,7 +7246,7 @@ msgstr ""
 
 # HN-IN
 msgid "Intibucá"
-msgstr ""
+msgstr "An India"
 
 # HN-LE
 msgid "Lempira"
@@ -7260,7 +7266,7 @@ msgstr ""
 
 # HN-SB
 msgid "Santa Bárbara"
-msgstr ""
+msgstr "San Héilin"
 
 # HN-VA
 msgid "Valle"
@@ -7352,15 +7358,15 @@ msgstr ""
 
 # HR-21
 msgid "Grad Zagreb"
-msgstr ""
+msgstr "Paraguay"
 
 # HT-AR
 msgid "Artibonite"
-msgstr ""
+msgstr "An Bhreatain"
 
 # HT-CE
 msgid "Centre"
-msgstr ""
+msgstr "Ceanada"
 
 # HT-GA
 msgid "Grande-Anse"
@@ -7368,11 +7374,11 @@ msgstr ""
 
 # HT-ND
 msgid "Nord"
-msgstr ""
+msgstr "An Iorua"
 
 # HT-NE
 msgid "Nord-Est"
-msgstr ""
+msgstr "An Iorua"
 
 # HT-NO
 msgid "Nord-Ouest"
@@ -7384,7 +7390,7 @@ msgstr ""
 
 # HT-SD
 msgid "Sud"
-msgstr ""
+msgstr "An tSúdáin"
 
 # HT-SE
 msgid "Sud-Est"
@@ -7416,7 +7422,7 @@ msgstr ""
 
 # HU-CS
 msgid "Csongrád"
-msgstr ""
+msgstr "An Congó"
 
 # HU-DE
 msgid "Debrecen"
@@ -7428,11 +7434,11 @@ msgstr ""
 
 # HU-EG
 msgid "Eger"
-msgstr ""
+msgstr "An Nígir"
 
 # HU-ER
 msgid "Érd"
-msgstr ""
+msgstr "Málta"
 
 # HU-FE
 msgid "Fejér"
@@ -7448,7 +7454,7 @@ msgstr ""
 
 # HU-HB
 msgid "Hajdú-Bihar"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # HU-HE
 msgid "Heves"
@@ -7480,11 +7486,11 @@ msgstr ""
 
 # HU-NK
 msgid "Nagykanizsa"
-msgstr ""
+msgstr "An Túinéis"
 
 # HU-NO
 msgid "Nógrád"
-msgstr ""
+msgstr "An Iorua"
 
 # HU-NY
 msgid "Nyíregyháza"
@@ -7492,7 +7498,7 @@ msgstr ""
 
 # HU-PE
 msgid "Pest"
-msgstr ""
+msgstr "An Phalaistín"
 
 # HU-PS
 msgid "Pécs"
@@ -7500,7 +7506,7 @@ msgstr ""
 
 # HU-SD
 msgid "Szeged"
-msgstr ""
+msgstr "An tSualainn"
 
 # HU-SF
 msgid "Székesfehérvár"
@@ -7556,7 +7562,7 @@ msgstr ""
 
 # HU-ZA
 msgid "Zala"
-msgstr ""
+msgstr "Málta"
 
 # HU-ZE
 msgid "Zalaegerszeg"
@@ -7580,19 +7586,19 @@ msgstr ""
 
 # ID-BT
 msgid "Banten"
-msgstr ""
+msgstr "Málta"
 
 # ID-GO
 msgid "Gorontalo"
-msgstr ""
+msgstr "Maracó"
 
 # ID-IJ
 msgid "Papua"
-msgstr ""
+msgstr "Paraguay"
 
 # ID-JA
 msgid "Jambi"
-msgstr ""
+msgstr "An tSaimbia"
 
 # ID-JB
 msgid "Jawa Barat"
@@ -7612,11 +7618,11 @@ msgstr ""
 
 # ID-JW
 msgid "Jawa"
-msgstr ""
+msgstr "Háítí"
 
 # ID-KA
 msgid "Kalimantan"
-msgstr ""
+msgstr "An Chéinia"
 
 # ID-KB
 msgid "Kalimantan Barat"
@@ -7636,7 +7642,7 @@ msgstr ""
 
 # ID-KT
 msgid "Kalimantan Tengah"
-msgstr ""
+msgstr "An Chéinia"
 
 # ID-LA
 msgid "Lampung"
@@ -7652,7 +7658,7 @@ msgstr ""
 
 # ID-MU
 msgid "Maluku Utara"
-msgstr ""
+msgstr "Málta"
 
 # ID-NB
 msgid "Nusa Tenggara Barat"
@@ -7668,15 +7674,15 @@ msgstr ""
 
 # ID-PA
 msgid "Papua"
-msgstr ""
+msgstr "Paraguay"
 
 # ID-PB
 msgid "Papua Barat"
-msgstr ""
+msgstr "An tSlóvaic"
 
 # ID-RI
 msgid "Riau"
-msgstr ""
+msgstr "An Rúis"
 
 # ID-SA
 msgid "Sulawesi Utara"
@@ -7692,11 +7698,11 @@ msgstr ""
 
 # ID-SL
 msgid "Sulawesi"
-msgstr ""
+msgstr "An tSlóvaic"
 
 # ID-SM
 msgid "Sumatera"
-msgstr ""
+msgstr "An Ghuáin"
 
 # ID-SN
 msgid "Sulawesi Selatan"
@@ -7704,7 +7710,7 @@ msgstr ""
 
 # ID-SR
 msgid "Sulawesi Barat"
-msgstr ""
+msgstr "An tSlóvaic"
 
 # ID-SS
 msgid "Sumatra Selatan"
@@ -7728,99 +7734,99 @@ msgstr ""
 
 # IE-CE
 msgid "Clare"
-msgstr ""
+msgstr "An Clár"
 
 # IE-CN
 msgid "Cavan"
-msgstr ""
+msgstr "An Cabhán"
 
 # IE-CO
 msgid "Cork"
-msgstr ""
+msgstr "Corcaigh"
 
 # IE-CW
 msgid "Carlow"
-msgstr ""
+msgstr "Ceatharlach"
 
 # IE-D
 msgid "Dublin"
-msgstr ""
+msgstr "Baile Átha Cliath"
 
 # IE-DL
 msgid "Donegal"
-msgstr ""
+msgstr "Dún na nGall"
 
 # IE-G
 msgid "Galway"
-msgstr ""
+msgstr "Gaillimh"
 
 # IE-KE
 msgid "Kildare"
-msgstr ""
+msgstr "Cill Dara"
 
 # IE-KK
 msgid "Kilkenny"
-msgstr ""
+msgstr "Cill Chainnaigh"
 
 # IE-KY
 msgid "Kerry"
-msgstr ""
+msgstr "Ciarraí"
 
 # IE-L
 msgid "Leinster"
-msgstr ""
+msgstr "An Lichtinstéin"
 
 # IE-LD
 msgid "Longford"
-msgstr ""
+msgstr "An Longfort"
 
 # IE-LH
 msgid "Louth"
-msgstr ""
+msgstr "Lú"
 
 # IE-LK
 msgid "Limerick"
-msgstr ""
+msgstr "Luimneach"
 
 # IE-LM
 msgid "Leitrim"
-msgstr ""
+msgstr "Liatroim"
 
 # IE-LS
 msgid "Laois"
-msgstr ""
+msgstr "Laois"
 
 # IE-M
 msgid "Munster"
-msgstr ""
+msgstr "Peiriú"
 
 # IE-MH
 msgid "Meath"
-msgstr ""
+msgstr "An Mhí"
 
 # IE-MN
 msgid "Monaghan"
-msgstr ""
+msgstr "Muineacháin"
 
 # IE-MO
 msgid "Mayo"
-msgstr ""
+msgstr "Maigh Eo"
 
 # IE-OY
 msgid "Offaly"
-msgstr ""
+msgstr "Uibh Fhailí"
 
 # IE-RN
 msgid "Roscommon"
-msgstr ""
+msgstr "Ros Comáin"
 
 # IE-SO
 msgid "Sligo"
-msgstr ""
+msgstr "Sligeach"
 
 # IE-TA
 msgid "Tipperary"
-msgstr ""
+msgstr "Tiobraid Áirainn"
 
 # IE-U
 msgid "Ulster"
@@ -7828,19 +7834,19 @@ msgstr ""
 
 # IE-WD
 msgid "Waterford"
-msgstr ""
+msgstr "Port Láirge"
 
 # IE-WH
 msgid "Westmeath"
-msgstr ""
+msgstr "An Iarmhí"
 
 # IE-WW
 msgid "Wicklow"
-msgstr ""
+msgstr "Cill Mhaintáin"
 
 # IE-WX
 msgid "Wexford"
-msgstr ""
+msgstr "Loch Garman"
 
 # IL-D
 msgid "HaDarom"
@@ -7888,11 +7894,11 @@ msgstr ""
 
 # IN-CH
 msgid "Chandigarh"
-msgstr ""
+msgstr "An tSín"
 
 # IN-CT
 msgid "Chhattisgarh"
-msgstr ""
+msgstr "An tSín"
 
 # IN-DD
 msgid "Daman and Diu"
@@ -7912,7 +7918,7 @@ msgstr ""
 
 # IN-GJ
 msgid "Gujarat"
-msgstr ""
+msgstr "Guatamala"
 
 # IN-HP
 msgid "Himachal Pradesh"
@@ -7932,7 +7938,7 @@ msgstr ""
 
 # IN-KA
 msgid "Karnataka"
-msgstr ""
+msgstr "Srí Lanca"
 
 # IN-KL
 msgid "Kerala"
@@ -7944,7 +7950,7 @@ msgstr ""
 
 # IN-MH
 msgid "Maharashtra"
-msgstr ""
+msgstr "Málta"
 
 # IN-ML
 msgid "Meghalaya"
@@ -7964,7 +7970,7 @@ msgstr ""
 
 # IN-NL
 msgid "Nagaland"
-msgstr ""
+msgstr "An Pholainn"
 
 # IN-OR
 msgid "Odisha"
@@ -7972,7 +7978,7 @@ msgstr ""
 
 # IN-PB
 msgid "Punjab"
-msgstr ""
+msgstr "An tSín"
 
 # IN-PY
 msgid "Puducherry"
@@ -7988,11 +7994,11 @@ msgstr ""
 
 # IN-TG
 msgid "Telangana"
-msgstr ""
+msgstr "An Tansáin"
 
 # IN-TN
 msgid "Tamil Nadu"
-msgstr ""
+msgstr "An Pholainn"
 
 # IN-TR
 msgid "Tripura"
@@ -8008,7 +8014,7 @@ msgstr ""
 
 # IN-WB
 msgid "West Bengal"
-msgstr ""
+msgstr "An Iarmhí"
 
 # IQ-AN
 msgid "Al Anbar"
@@ -8020,11 +8026,11 @@ msgstr ""
 
 # IQ-BA
 msgid "Al Basrah"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # IQ-BB
 msgid "Babil"
-msgstr ""
+msgstr "An Bhrasaíl"
 
 # IQ-BG
 msgid "Baghdad"
@@ -8092,11 +8098,11 @@ msgstr ""
 
 # IR-03
 msgid "Ardabīl"
-msgstr ""
+msgstr "An Chóiré"
 
 # IR-04
 msgid "Eşfahān"
-msgstr ""
+msgstr "Gána"
 
 # IR-05
 msgid "Īlām"
@@ -8108,7 +8114,7 @@ msgstr ""
 
 # IR-07
 msgid "Tehrān"
-msgstr ""
+msgstr "An Iaráin"
 
 # IR-08
 msgid "Chahār Mahāll va Bakhtīārī"
@@ -8116,15 +8122,15 @@ msgstr ""
 
 # IR-10
 msgid "Khūzestān"
-msgstr ""
+msgstr "An Chirgeastáin"
 
 # IR-11
 msgid "Zanjān"
-msgstr ""
+msgstr "An Tansáin"
 
 # IR-12
 msgid "Semnān"
-msgstr ""
+msgstr "An Chéinia"
 
 # IR-13
 msgid "Sīstān va Balūchestān"
@@ -8132,19 +8138,19 @@ msgstr ""
 
 # IR-14
 msgid "Fārs"
-msgstr ""
+msgstr "An Chóiré"
 
 # IR-15
 msgid "Kermān"
-msgstr ""
+msgstr "An Ghearmáin"
 
 # IR-16
 msgid "Kordestān"
-msgstr ""
+msgstr "An Chóiré"
 
 # IR-17
 msgid "Kermānshāh"
-msgstr ""
+msgstr "An Ghearmáin"
 
 # IR-18
 msgid "Kohgīlūyeh va Būyer Ahmad"
@@ -8156,23 +8162,23 @@ msgstr ""
 
 # IR-20
 msgid "Lorestān"
-msgstr ""
+msgstr "An Pholainn"
 
 # IR-21
 msgid "Māzandarān"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # IR-22
 msgid "Markazī"
-msgstr ""
+msgstr "Málta"
 
 # IR-23
 msgid "Hormozgān"
-msgstr ""
+msgstr "An Iordáin"
 
 # IR-24
 msgid "Hamadān"
-msgstr ""
+msgstr "An Tasmáin"
 
 # IR-25
 msgid "Yazd"
@@ -8184,11 +8190,11 @@ msgstr ""
 
 # IR-27
 msgid "Golestān"
-msgstr ""
+msgstr "Málta"
 
 # IR-28
 msgid "Qazvīn"
-msgstr ""
+msgstr "An Tansáin"
 
 # IR-29
 msgid "Khorāsān-e Janūbī"
@@ -8212,7 +8218,7 @@ msgstr ""
 
 # IS-2
 msgid "Suðurnes"
-msgstr ""
+msgstr "An Tuirc"
 
 # IS-3
 msgid "Vesturland"
@@ -8236,11 +8242,11 @@ msgstr ""
 
 # IS-8
 msgid "Suðurland"
-msgstr ""
+msgstr "An Ghraonlainn"
 
 # IT-21
 msgid "Piemonte"
-msgstr ""
+msgstr "Éimin"
 
 # IT-23
 msgid "Valle d'Aosta"
@@ -8248,7 +8254,7 @@ msgstr ""
 
 # IT-25
 msgid "Lombardia"
-msgstr ""
+msgstr "Cúba"
 
 # IT-32
 msgid "Trentino-Alto Adige"
@@ -8256,7 +8262,7 @@ msgstr ""
 
 # IT-34
 msgid "Veneto"
-msgstr ""
+msgstr "Vitneam"
 
 # IT-36
 msgid "Friuli-Venezia Giulia"
@@ -8264,27 +8270,27 @@ msgstr ""
 
 # IT-42
 msgid "Liguria"
-msgstr ""
+msgstr "An Ailgéir"
 
 # IT-45
 msgid "Emilia-Romagna"
-msgstr ""
+msgstr "An Rómáin"
 
 # IT-52
 msgid "Toscana"
-msgstr ""
+msgstr "An Tansáin"
 
 # IT-55
 msgid "Umbria"
-msgstr ""
+msgstr "Cúba"
 
 # IT-57
 msgid "Marche"
-msgstr ""
+msgstr "An Fhrainc"
 
 # IT-62
 msgid "Lazio"
-msgstr ""
+msgstr "Monacó"
 
 # IT-65
 msgid "Abruzzo"
@@ -8292,31 +8298,31 @@ msgstr ""
 
 # IT-67
 msgid "Molise"
-msgstr ""
+msgstr "An tSáir"
 
 # IT-72
 msgid "Campania"
-msgstr ""
+msgstr "An Tasmáin"
 
 # IT-75
 msgid "Puglia"
-msgstr ""
+msgstr "An Bhulgáir"
 
 # IT-77
 msgid "Basilicata"
-msgstr ""
+msgstr "An Téalainn"
 
 # IT-78
 msgid "Calabria"
-msgstr ""
+msgstr "an tAntartasch"
 
 # IT-82
 msgid "Sicilia"
-msgstr ""
+msgstr "Srí Lanca"
 
 # IT-88
 msgid "Sardegna"
-msgstr ""
+msgstr "An Fhrainc"
 
 # IT-AG
 msgid "Agrigento"
@@ -8356,7 +8362,7 @@ msgstr ""
 
 # IT-BA
 msgid "Bari"
-msgstr ""
+msgstr "An Bhreatain"
 
 # IT-BG
 msgid "Bergamo"
@@ -8464,7 +8470,7 @@ msgstr ""
 
 # IT-FM
 msgid "Fermo"
-msgstr ""
+msgstr "An Nígir"
 
 # IT-FR
 msgid "Frosinone"
@@ -8564,7 +8570,7 @@ msgstr ""
 
 # IT-OG
 msgid "Ogliastra"
-msgstr ""
+msgstr "Srí Lanca"
 
 # IT-OR
 msgid "Oristano"
@@ -8648,11 +8654,11 @@ msgstr ""
 
 # IT-RM
 msgid "Roma"
-msgstr ""
+msgstr "An Rómáin"
 
 # IT-RN
 msgid "Rimini"
-msgstr ""
+msgstr "An Rómáin"
 
 # IT-RO
 msgid "Rovigo"
@@ -8664,7 +8670,7 @@ msgstr ""
 
 # IT-SI
 msgid "Siena"
-msgstr ""
+msgstr "Vitneam"
 
 # IT-SO
 msgid "Sondrio"
@@ -8704,7 +8710,7 @@ msgstr ""
 
 # IT-TP
 msgid "Trapani"
-msgstr ""
+msgstr "An Tasmáin"
 
 # IT-TR
 msgid "Terni"
@@ -8712,7 +8718,7 @@ msgstr ""
 
 # IT-TS
 msgid "Trieste"
-msgstr ""
+msgstr "An Tibéid"
 
 # IT-TV
 msgid "Treviso"
@@ -8736,15 +8742,15 @@ msgstr ""
 
 # IT-VE
 msgid "Venezia"
-msgstr ""
+msgstr "Veiniséala"
 
 # IT-VI
 msgid "Vicenza"
-msgstr ""
+msgstr "Vitneam"
 
 # IT-VR
 msgid "Verona"
-msgstr ""
+msgstr "Vitneam"
 
 # IT-VS
 msgid "Medio Campidano"
@@ -8772,7 +8778,7 @@ msgstr ""
 
 # JM-04
 msgid "Portland"
-msgstr ""
+msgstr "An Pholainn"
 
 # JM-05
 msgid "Saint Mary"
@@ -8784,7 +8790,7 @@ msgstr ""
 
 # JM-07
 msgid "Trelawny"
-msgstr ""
+msgstr "Éire"
 
 # JM-08
 msgid "Saint James"
@@ -8796,7 +8802,7 @@ msgstr ""
 
 # JM-10
 msgid "Westmoreland"
-msgstr ""
+msgstr "Éire"
 
 # JM-11
 msgid "Saint Elizabeth"
@@ -8804,7 +8810,7 @@ msgstr ""
 
 # JM-12
 msgid "Manchester"
-msgstr ""
+msgstr "An Fhrainc"
 
 # JM-13
 msgid "Clarendon"
@@ -8824,7 +8830,7 @@ msgstr ""
 
 # JO-AQ
 msgid "Al ‘Aqabah"
-msgstr ""
+msgstr "An Albáin"
 
 # JO-AT
 msgid "Aţ Ţafīlah"
@@ -8832,7 +8838,7 @@ msgstr ""
 
 # JO-AZ
 msgid "Az Zarqā'"
-msgstr ""
+msgstr "Paraguay"
 
 # JO-BA
 msgid "Al Balqā'"
@@ -8856,7 +8862,7 @@ msgstr ""
 
 # JO-MD
 msgid "Mādabā"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # JO-MN
 msgid "Ma‘ān"
@@ -8880,7 +8886,7 @@ msgstr ""
 
 # JP-05
 msgid "Akita"
-msgstr ""
+msgstr "An Phacastáin"
 
 # JP-06
 msgid "Yamagata"
@@ -8888,7 +8894,7 @@ msgstr ""
 
 # JP-07
 msgid "Fukushima"
-msgstr ""
+msgstr "An Túinéis"
 
 # JP-08
 msgid "Ibaraki"
@@ -8900,7 +8906,7 @@ msgstr ""
 
 # JP-10
 msgid "Gunma"
-msgstr ""
+msgstr "An Ghuine"
 
 # JP-11
 msgid "Saitama"
@@ -8908,7 +8914,7 @@ msgstr ""
 
 # JP-12
 msgid "Chiba"
-msgstr ""
+msgstr "An tSín"
 
 # JP-13
 msgid "Tokyo"
@@ -8960,7 +8966,7 @@ msgstr ""
 
 # JP-25
 msgid "Shiga"
-msgstr ""
+msgstr "An tSiria"
 
 # JP-26
 msgid "Kyoto"
@@ -8972,11 +8978,11 @@ msgstr ""
 
 # JP-28
 msgid "Hyogo"
-msgstr ""
+msgstr "An Congó"
 
 # JP-29
 msgid "Nara"
-msgstr ""
+msgstr "Nicaragua"
 
 # JP-30
 msgid "Wakayama"
@@ -9004,7 +9010,7 @@ msgstr ""
 
 # JP-36
 msgid "Tokushima"
-msgstr ""
+msgstr "An Túinéis"
 
 # JP-37
 msgid "Kagawa"
@@ -9012,7 +9018,7 @@ msgstr ""
 
 # JP-38
 msgid "Ehime"
-msgstr ""
+msgstr "An tSile"
 
 # JP-39
 msgid "Kochi"
@@ -9052,7 +9058,7 @@ msgstr ""
 
 # KE-01
 msgid "Baringo"
-msgstr ""
+msgstr "An Bhreatain"
 
 # KE-02
 msgid "Bomet"
@@ -9060,11 +9066,11 @@ msgstr ""
 
 # KE-03
 msgid "Bungoma"
-msgstr ""
+msgstr "Angóla"
 
 # KE-04
 msgid "Busia"
-msgstr ""
+msgstr "Burma"
 
 # KE-05
 msgid "Elgeyo/Marakwet"
@@ -9076,7 +9082,7 @@ msgstr ""
 
 # KE-07
 msgid "Garissa"
-msgstr ""
+msgstr "An Phacastáin"
 
 # KE-08
 msgid "Homa Bay"
@@ -9092,7 +9098,7 @@ msgstr ""
 
 # KE-11
 msgid "Kakamega"
-msgstr ""
+msgstr "Madagascar"
 
 # KE-12
 msgid "Kericho"
@@ -9136,7 +9142,7 @@ msgstr ""
 
 # KE-22
 msgid "Machakos"
-msgstr ""
+msgstr "An Fhrainc"
 
 # KE-23
 msgid "Makueni"
@@ -9144,11 +9150,11 @@ msgstr ""
 
 # KE-24
 msgid "Mandera"
-msgstr ""
+msgstr "An Tansáin"
 
 # KE-25
 msgid "Marsabit"
-msgstr ""
+msgstr "Málta"
 
 # KE-26
 msgid "Meru"
@@ -9160,15 +9166,15 @@ msgstr ""
 
 # KE-28
 msgid "Mombasa"
-msgstr ""
+msgstr "An tSaimbia"
 
 # KE-29
 msgid "Murang'a"
-msgstr ""
+msgstr "Burma"
 
 # KE-30
 msgid "Nairobi City"
-msgstr ""
+msgstr "An Tansáin"
 
 # KE-31
 msgid "Nakuru"
@@ -9176,7 +9182,7 @@ msgstr ""
 
 # KE-32
 msgid "Nandi"
-msgstr ""
+msgstr "An Tansáin"
 
 # KE-33
 msgid "Narok"
@@ -9188,7 +9194,7 @@ msgstr ""
 
 # KE-35
 msgid "Nyandarua"
-msgstr ""
+msgstr "An tSúdáin"
 
 # KE-36
 msgid "Nyeri"
@@ -9208,7 +9214,7 @@ msgstr ""
 
 # KE-40
 msgid "Tana River"
-msgstr ""
+msgstr "Ceanada"
 
 # KE-41
 msgid "Tharaka-Nithi"
@@ -9220,7 +9226,7 @@ msgstr ""
 
 # KE-43
 msgid "Turkana"
-msgstr ""
+msgstr "Gána"
 
 # KE-44
 msgid "Uasin Gishu"
@@ -9228,7 +9234,7 @@ msgstr ""
 
 # KE-45
 msgid "Vihiga"
-msgstr ""
+msgstr "An tSiria"
 
 # KE-46
 msgid "Wajir"
@@ -9240,11 +9246,11 @@ msgstr ""
 
 # KG-B
 msgid "Batken"
-msgstr ""
+msgstr "Málta"
 
 # KG-C
 msgid "Chü"
-msgstr ""
+msgstr "An Congó"
 
 # KG-GB
 msgid "Bishkek"
@@ -9264,7 +9270,7 @@ msgstr ""
 
 # KG-T
 msgid "Talas"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # KG-Y
 msgid "Ysyk-Köl"
@@ -9280,7 +9286,7 @@ msgstr ""
 
 # KH-11
 msgid "Mondol Kiri"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # KH-12
 msgid "Phnom Penh"
@@ -9296,7 +9302,7 @@ msgstr ""
 
 # KH-15
 msgid "Pousaat"
-msgstr ""
+msgstr "An Túinéis"
 
 # KH-16
 msgid "Rotanak Kiri"
@@ -9316,11 +9322,11 @@ msgstr ""
 
 # KH-2
 msgid "Battambang"
-msgstr ""
+msgstr "An Bhreatain"
 
 # KH-20
 msgid "Svaay Rieng"
-msgstr ""
+msgstr "An Spáinn"
 
 # KH-21
 msgid "Taakaev"
@@ -9340,7 +9346,7 @@ msgstr ""
 
 # KH-3
 msgid "Kampong Cham"
-msgstr ""
+msgstr "Paraguay"
 
 # KH-4
 msgid "Kampong Chhnang"
@@ -9348,7 +9354,7 @@ msgstr ""
 
 # KH-5
 msgid "Kampong Speu"
-msgstr ""
+msgstr "An Chéinia"
 
 # KH-6
 msgid "Kampong Thom"
@@ -9356,11 +9362,11 @@ msgstr ""
 
 # KH-7
 msgid "Kampot"
-msgstr ""
+msgstr "Guatamala"
 
 # KH-8
 msgid "Kandal"
-msgstr ""
+msgstr "Ceanada"
 
 # KH-9
 msgid "Kach Kong"
@@ -9372,7 +9378,7 @@ msgstr ""
 
 # KI-L
 msgid "Line Islands"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # KI-P
 msgid "Phoenix Islands"
@@ -9568,7 +9574,7 @@ msgstr ""
 
 # KW-FA
 msgid "Al Farwānīyah"
-msgstr ""
+msgstr "An Albáin"
 
 # KW-HA
 msgid "Hawallī"
@@ -9604,7 +9610,7 @@ msgstr ""
 
 # KZ-AST
 msgid "Astana"
-msgstr ""
+msgstr "An Albáin"
 
 # KZ-ATY
 msgid "Atyraū oblysy"
@@ -9660,15 +9666,15 @@ msgstr ""
 
 # LA-BL
 msgid "Bolikhamxai"
-msgstr ""
+msgstr "An Bholaiv"
 
 # LA-CH
 msgid "Champasak"
-msgstr ""
+msgstr "An tSín"
 
 # LA-HO
 msgid "Houaphan"
-msgstr ""
+msgstr "An tSeapáin"
 
 # LA-KH
 msgid "Khammouan"
@@ -9680,19 +9686,19 @@ msgstr ""
 
 # LA-LP
 msgid "Louangphabang"
-msgstr ""
+msgstr "An tSeapáin"
 
 # LA-OU
 msgid "Oudômxai"
-msgstr ""
+msgstr "An tSúdáin"
 
 # LA-PH
 msgid "Phôngsali"
-msgstr ""
+msgstr "Dún na nGall"
 
 # LA-SL
 msgid "Salavan"
-msgstr ""
+msgstr "An Pholainn"
 
 # LA-SV
 msgid "Savannakhét"
@@ -9700,11 +9706,11 @@ msgstr ""
 
 # LA-VI
 msgid "Vientiane"
-msgstr ""
+msgstr "Vitneam"
 
 # LA-VT
 msgid "Vientiane"
-msgstr ""
+msgstr "Vitneam"
 
 # LA-XA
 msgid "Xaignabouli"
@@ -9712,7 +9718,7 @@ msgstr ""
 
 # LA-XE
 msgid "Xékong"
-msgstr ""
+msgstr "An Congó"
 
 # LA-XI
 msgid "Xiangkhouang"
@@ -9732,7 +9738,7 @@ msgstr ""
 
 # LB-BA
 msgid "Beyrouth"
-msgstr ""
+msgstr "Lú"
 
 # LB-BH
 msgid "Baalbek-Hermel"
@@ -9740,7 +9746,7 @@ msgstr ""
 
 # LB-BI
 msgid "Béqaa"
-msgstr ""
+msgstr "An Ghuine"
 
 # LB-JA
 msgid "Liban-Sud"
@@ -9748,7 +9754,7 @@ msgstr ""
 
 # LB-JL
 msgid "Mont-Liban"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # LB-NA
 msgid "Nabatîyé"
@@ -9756,23 +9762,23 @@ msgstr ""
 
 # LI-01
 msgid "Balzers"
-msgstr ""
+msgstr "An Bhanglaidéis"
 
 # LI-02
 msgid "Eschen"
-msgstr ""
+msgstr "Gána"
 
 # LI-03
 msgid "Gamprin"
-msgstr ""
+msgstr "Gána"
 
 # LI-04
 msgid "Mauren"
-msgstr ""
+msgstr "Málta"
 
 # LI-05
 msgid "Planken"
-msgstr ""
+msgstr "Éimin"
 
 # LI-06
 msgid "Ruggell"
@@ -9780,19 +9786,19 @@ msgstr ""
 
 # LI-07
 msgid "Schaan"
-msgstr ""
+msgstr "An tSúdáin"
 
 # LI-08
 msgid "Schellenberg"
-msgstr ""
+msgstr "An tSualainn"
 
 # LI-09
 msgid "Triesen"
-msgstr ""
+msgstr "An Tibéid"
 
 # LI-10
 msgid "Triesenberg"
-msgstr ""
+msgstr "An Tibéid"
 
 # LI-11
 msgid "Vaduz"
@@ -9808,11 +9814,11 @@ msgstr ""
 
 # LK-12
 msgid "Gampaha"
-msgstr ""
+msgstr "Guatamala"
 
 # LK-13
 msgid "Kaḷutara"
-msgstr ""
+msgstr "Málta"
 
 # LK-2
 msgid "Madhyama paḷāta"
@@ -9820,11 +9826,11 @@ msgstr ""
 
 # LK-21
 msgid "Mahanuvara"
-msgstr ""
+msgstr "Málta"
 
 # LK-22
 msgid "Mātale"
-msgstr ""
+msgstr "Málta"
 
 # LK-23
 msgid "Nuvara Ĕliya"
@@ -9840,7 +9846,7 @@ msgstr ""
 
 # LK-32
 msgid "Mātara"
-msgstr ""
+msgstr "Málta"
 
 # LK-33
 msgid "Hambantŏṭa"
@@ -9860,15 +9866,15 @@ msgstr ""
 
 # LK-43
 msgid "Mannārama"
-msgstr ""
+msgstr "Srí Lanca"
 
 # LK-44
 msgid "Vavuniyāva"
-msgstr ""
+msgstr "Cúba"
 
 # LK-45
 msgid "Mulativ"
-msgstr ""
+msgstr "Málta"
 
 # LK-5
 msgid "Næ̆gĕnahira paḷāta"
@@ -9876,7 +9882,7 @@ msgstr ""
 
 # LK-51
 msgid "Maḍakalapuva"
-msgstr ""
+msgstr "Madagascar"
 
 # LK-52
 msgid "Ampāara"
@@ -9884,7 +9890,7 @@ msgstr ""
 
 # LK-53
 msgid "Trikuṇāmalaya"
-msgstr ""
+msgstr "An Pholainn"
 
 # LK-6
 msgid "Vayamba paḷāta"
@@ -9896,7 +9902,7 @@ msgstr ""
 
 # LK-62
 msgid "Puttalama"
-msgstr ""
+msgstr "An Pholainn"
 
 # LK-7
 msgid "Uturumæ̆da paḷāta"
@@ -9936,7 +9942,7 @@ msgstr ""
 
 # LR-BG
 msgid "Bong"
-msgstr ""
+msgstr "An Congó"
 
 # LR-BM
 msgid "Bomi"
@@ -9948,7 +9954,7 @@ msgstr ""
 
 # LR-GB
 msgid "Grand Bassa"
-msgstr ""
+msgstr "Gána"
 
 # LR-GG
 msgid "Grand Gedeh"
@@ -9972,11 +9978,11 @@ msgstr ""
 
 # LR-MY
 msgid "Maryland"
-msgstr ""
+msgstr "Éire"
 
 # LR-NI
 msgid "Nimba"
-msgstr ""
+msgstr "An tSiombáib"
 
 # LR-RI
 msgid "Rivercess"
@@ -9984,11 +9990,11 @@ msgstr ""
 
 # LR-SI
 msgid "Sinoe"
-msgstr ""
+msgstr "Singeapór"
 
 # LS-A
 msgid "Maseru"
-msgstr ""
+msgstr "Peiriú"
 
 # LS-B
 msgid "Butha-Buthe"
@@ -10000,7 +10006,7 @@ msgstr ""
 
 # LS-D
 msgid "Berea"
-msgstr ""
+msgstr "An Chóiré"
 
 # LS-E
 msgid "Mafeteng"
@@ -10072,7 +10078,7 @@ msgstr ""
 
 # LU-G
 msgid "Grevenmacher"
-msgstr ""
+msgstr "An Ghréig"
 
 # LU-L
 msgid "Luxembourg"
@@ -10312,7 +10318,7 @@ msgstr ""
 
 # LV-059
 msgid "Madonas novads"
-msgstr ""
+msgstr "Monacó"
 
 # LV-060
 msgid "Mazsalacas novads"
@@ -10416,7 +10422,7 @@ msgstr ""
 
 # LV-085
 msgid "Salas novads"
-msgstr ""
+msgstr "An Pholainn"
 
 # LV-086
 msgid "Salacgrīvas novads"
@@ -10532,7 +10538,7 @@ msgstr ""
 
 # LV-JUR
 msgid "Jūrmala"
-msgstr ""
+msgstr "Burma"
 
 # LV-LPX
 msgid "Liepāja"
@@ -10564,7 +10570,7 @@ msgstr ""
 
 # LY-DR
 msgid "Darnah"
-msgstr ""
+msgstr "An Fhrainc"
 
 # LY-GT
 msgid "Ghāt"
@@ -10572,7 +10578,7 @@ msgstr ""
 
 # LY-JA
 msgid "Al Jabal al Akhḑar"
-msgstr ""
+msgstr "An Albáin"
 
 # LY-JB
 msgid "Jaghbūb"
@@ -10580,7 +10586,7 @@ msgstr ""
 
 # LY-JG
 msgid "Al Jabal al Gharbī"
-msgstr ""
+msgstr "An Albáin"
 
 # LY-JI
 msgid "Al Jifārah"
@@ -10592,15 +10598,15 @@ msgstr ""
 
 # LY-KF
 msgid "Al Kufrah"
-msgstr ""
+msgstr "Cuáit"
 
 # LY-MB
 msgid "Al Marqab"
-msgstr ""
+msgstr "Málta"
 
 # LY-MI
 msgid "Mişrātah"
-msgstr ""
+msgstr "Málta"
 
 # LY-MJ
 msgid "Al Marj"
@@ -10624,7 +10630,7 @@ msgstr ""
 
 # LY-SR
 msgid "Surt"
-msgstr ""
+msgstr "An tSiria"
 
 # LY-TB
 msgid "Ţarābulus"
@@ -10648,11 +10654,11 @@ msgstr ""
 
 # MA-01
 msgid "Tanger-Tétouan-Al Hoceïma"
-msgstr ""
+msgstr "An Tansáin"
 
 # MA-02
 msgid "L'Oriental"
-msgstr ""
+msgstr "Vitneam"
 
 # MA-03
 msgid "Fès-Meknès"
@@ -10672,7 +10678,7 @@ msgstr ""
 
 # MA-07
 msgid "Marrakech-Safi"
-msgstr ""
+msgstr "An Fhrainc"
 
 # MA-08
 msgid "Drâa-Tafilalet"
@@ -10716,11 +10722,11 @@ msgstr ""
 
 # MA-BER
 msgid "Berkane"
-msgstr ""
+msgstr "An Fhrainc"
 
 # MA-BES
 msgid "Benslimane"
-msgstr ""
+msgstr "Vitneam"
 
 # MA-BOD
 msgid "Boujdour (EH)"
@@ -10736,7 +10742,7 @@ msgstr ""
 
 # MA-CAS
 msgid "Casablanca"
-msgstr ""
+msgstr "An Tasmáin"
 
 # MA-CHE
 msgid "Chefchaouen"
@@ -10764,7 +10770,7 @@ msgstr ""
 
 # MA-ESM
 msgid "Es-Semara (EH-partial)"
-msgstr ""
+msgstr "an tAntartasch"
 
 # MA-FAH
 msgid "Fahs-Anjra"
@@ -10772,7 +10778,7 @@ msgstr ""
 
 # MA-FES
 msgid "Fès"
-msgstr ""
+msgstr "An Tibéid"
 
 # MA-FIG
 msgid "Figuig"
@@ -10804,7 +10810,7 @@ msgstr ""
 
 # MA-IFR
 msgid "Ifrane"
-msgstr ""
+msgstr "An Iaráin"
 
 # MA-INE
 msgid "Inezgane-Ait Melloul"
@@ -10816,11 +10822,11 @@ msgstr ""
 
 # MA-JRA
 msgid "Jerada"
-msgstr ""
+msgstr "An Iordáin"
 
 # MA-KEN
 msgid "Kénitra"
-msgstr ""
+msgstr "An Chéinia"
 
 # MA-KES
 msgid "El Kelâa des Sraghna"
@@ -10832,7 +10838,7 @@ msgstr ""
 
 # MA-KHN
 msgid "Khenifra"
-msgstr ""
+msgstr "An Chéinia"
 
 # MA-KHO
 msgid "Khouribga"
@@ -10844,11 +10850,11 @@ msgstr ""
 
 # MA-LAR
 msgid "Larache"
-msgstr ""
+msgstr "An Fhrainc"
 
 # MA-MAR
 msgid "Marrakech"
-msgstr ""
+msgstr "An Fhrainc"
 
 # MA-MDF
 msgid "M’diq-Fnideq"
@@ -10856,7 +10862,7 @@ msgstr ""
 
 # MA-MED
 msgid "Médiouna"
-msgstr ""
+msgstr "An Tansáin"
 
 # MA-MEK
 msgid "Meknès"
@@ -10868,7 +10874,7 @@ msgstr ""
 
 # MA-MOH
 msgid "Mohammadia"
-msgstr ""
+msgstr "Cúba"
 
 # MA-MOU
 msgid "Moulay Yacoub"
@@ -10876,11 +10882,11 @@ msgstr ""
 
 # MA-NAD
 msgid "Nador"
-msgstr ""
+msgstr "Eacuadór"
 
 # MA-NOU
 msgid "Nouaceur"
-msgstr ""
+msgstr "Eacuadór"
 
 # MA-OUA
 msgid "Ouarzazate"
@@ -10892,7 +10898,7 @@ msgstr ""
 
 # MA-OUJ
 msgid "Oujda-Angad"
-msgstr ""
+msgstr "An tSúdáin"
 
 # MA-OUZ
 msgid "Ouezzane"
@@ -10900,7 +10906,7 @@ msgstr ""
 
 # MA-RAB
 msgid "Rabat"
-msgstr ""
+msgstr "An Rómáin"
 
 # MA-REH
 msgid "Rehamna"
@@ -10908,15 +10914,15 @@ msgstr ""
 
 # MA-SAF
 msgid "Safi"
-msgstr ""
+msgstr "An Spáinn"
 
 # MA-SAL
 msgid "Salé"
-msgstr ""
+msgstr "An Albáin"
 
 # MA-SEF
 msgid "Sefrou"
-msgstr ""
+msgstr "Peiriú"
 
 # MA-SET
 msgid "Settat"
@@ -10936,7 +10942,7 @@ msgstr ""
 
 # MA-SIL
 msgid "Sidi Slimane"
-msgstr ""
+msgstr "Vitneam"
 
 # MA-SKH
 msgid "Skhirate-Témara"
@@ -10948,7 +10954,7 @@ msgstr ""
 
 # MA-TAI
 msgid "Taourirt"
-msgstr ""
+msgstr "An tSiria"
 
 # MA-TAO
 msgid "Taounate"
@@ -10956,15 +10962,15 @@ msgstr ""
 
 # MA-TAR
 msgid "Taroudant"
-msgstr ""
+msgstr "Beirmiúda"
 
 # MA-TAT
 msgid "Tata"
-msgstr ""
+msgstr "Málta"
 
 # MA-TAZ
 msgid "Taza"
-msgstr ""
+msgstr "An Tansáin"
 
 # MA-TET
 msgid "Tétouan"
@@ -10992,11 +10998,11 @@ msgstr ""
 
 # MA-ZAG
 msgid "Zagora"
-msgstr ""
+msgstr "An tSaimbia"
 
 # MC-CL
 msgid "La Colle"
-msgstr ""
+msgstr "Camarún"
 
 # MC-CO
 msgid "La Condamine"
@@ -11004,7 +11010,7 @@ msgstr ""
 
 # MC-FO
 msgid "Fontvieille"
-msgstr ""
+msgstr "An Bhrasaíl"
 
 # MC-GA
 msgid "La Gare"
@@ -11012,7 +11018,7 @@ msgstr ""
 
 # MC-JE
 msgid "Jardin Exotique"
-msgstr ""
+msgstr "Mósaimbic"
 
 # MC-LA
 msgid "Larvotto"
@@ -11040,11 +11046,11 @@ msgstr ""
 
 # MC-PH
 msgid "Port-Hercule"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # MC-SD
 msgid "Sainte-Dévote"
-msgstr ""
+msgstr "San Héilin"
 
 # MC-SO
 msgid "La Source"
@@ -11056,7 +11062,7 @@ msgstr ""
 
 # MC-SR
 msgid "Saint-Roman"
-msgstr ""
+msgstr "San Héilin"
 
 # MC-VR
 msgid "Vallon de la Rousse"
@@ -11072,7 +11078,7 @@ msgstr ""
 
 # MD-BD
 msgid "Tighina"
-msgstr ""
+msgstr "An Túinéis"
 
 # MD-BR
 msgid "Briceni"
@@ -11084,7 +11090,7 @@ msgstr ""
 
 # MD-CA
 msgid "Cahul"
-msgstr ""
+msgstr "An tSile"
 
 # MD-CL
 msgid "Călărași"
@@ -11092,7 +11098,7 @@ msgstr ""
 
 # MD-CM
 msgid "Cimișlia"
-msgstr ""
+msgstr "Srí Lanca"
 
 # MD-CR
 msgid "Criuleni"
@@ -11108,7 +11114,7 @@ msgstr ""
 
 # MD-CU
 msgid "Chișinău"
-msgstr ""
+msgstr "An tSín"
 
 # MD-DO
 msgid "Dondușeni"
@@ -11132,7 +11138,7 @@ msgstr ""
 
 # MD-FL
 msgid "Florești"
-msgstr ""
+msgstr "Burma"
 
 # MD-GA
 msgid "Găgăuzia, Unitatea teritorială autonomă"
@@ -11144,11 +11150,11 @@ msgstr ""
 
 # MD-HI
 msgid "Hîncești"
-msgstr ""
+msgstr "Burma"
 
 # MD-IA
 msgid "Ialoveni"
-msgstr ""
+msgstr "Málta"
 
 # MD-LE
 msgid "Leova"
@@ -11156,7 +11162,7 @@ msgstr ""
 
 # MD-NI
 msgid "Nisporeni"
-msgstr ""
+msgstr "Vitneam"
 
 # MD-OC
 msgid "Ocnița"
@@ -11188,7 +11194,7 @@ msgstr ""
 
 # MD-SO
 msgid "Soroca"
-msgstr ""
+msgstr "Maracó"
 
 # MD-ST
 msgid "Strășeni"
@@ -11200,7 +11206,7 @@ msgstr ""
 
 # MD-TA
 msgid "Taraclia"
-msgstr ""
+msgstr "Iamáice"
 
 # MD-TE
 msgid "Telenești"
@@ -11212,15 +11218,15 @@ msgstr ""
 
 # ME-01
 msgid "Andrijevica"
-msgstr ""
+msgstr "An Bholaiv"
 
 # ME-02
 msgid "Bar"
-msgstr ""
+msgstr "An Bhreatain"
 
 # ME-03
 msgid "Berane"
-msgstr ""
+msgstr "An Fhrainc"
 
 # ME-04
 msgid "Bijelo Polje"
@@ -11228,15 +11234,15 @@ msgstr ""
 
 # ME-05
 msgid "Budva"
-msgstr ""
+msgstr "Beirmiúda"
 
 # ME-06
 msgid "Cetinje"
-msgstr ""
+msgstr "An tSile"
 
 # ME-07
 msgid "Danilovgrad"
-msgstr ""
+msgstr "An Iorua"
 
 # ME-08
 msgid "Herceg-Novi"
@@ -11244,15 +11250,15 @@ msgstr ""
 
 # ME-09
 msgid "Kolašin"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # ME-10
 msgid "Kotor"
-msgstr ""
+msgstr "An Ostair"
 
 # ME-11
 msgid "Mojkovac"
-msgstr ""
+msgstr "Monacó"
 
 # ME-12
 msgid "Nikšić"
@@ -11260,7 +11266,7 @@ msgstr ""
 
 # ME-13
 msgid "Plav"
-msgstr ""
+msgstr "Éimin"
 
 # ME-14
 msgid "Pljevlja"
@@ -11280,11 +11286,11 @@ msgstr ""
 
 # ME-18
 msgid "Šavnik"
-msgstr ""
+msgstr "An Rómáin"
 
 # ME-19
 msgid "Tivat"
-msgstr ""
+msgstr "An Tibéid"
 
 # ME-20
 msgid "Ulcinj"
@@ -11296,7 +11302,7 @@ msgstr ""
 
 # MG-A
 msgid "Toamasina"
-msgstr ""
+msgstr "An Tasmáin"
 
 # MG-D
 msgid "Antsiranana"
@@ -11332,7 +11338,7 @@ msgstr ""
 
 # MH-AUR
 msgid "Aur"
-msgstr ""
+msgstr "An Ostair"
 
 # MH-EBO
 msgid "Ebon"
@@ -11344,7 +11350,7 @@ msgstr ""
 
 # MH-JAB
 msgid "Jabat"
-msgstr ""
+msgstr "Háítí"
 
 # MH-JAL
 msgid "Jaluit"
@@ -11368,7 +11374,7 @@ msgstr ""
 
 # MH-LIB
 msgid "Lib"
-msgstr ""
+msgstr "An Libia"
 
 # MH-LIK
 msgid "Likiep"
@@ -11380,7 +11386,7 @@ msgstr ""
 
 # MH-MAL
 msgid "Maloelap"
-msgstr ""
+msgstr "Málta"
 
 # MH-MEJ
 msgid "Mejit"
@@ -11392,7 +11398,7 @@ msgstr ""
 
 # MH-NMK
 msgid "Namdrik"
-msgstr ""
+msgstr "An tSiria"
 
 # MH-NMU
 msgid "Namu"
@@ -11400,7 +11406,7 @@ msgstr ""
 
 # MH-RON
 msgid "Rongelap"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # MH-T
 msgid "Ratak chain"
@@ -11432,19 +11438,19 @@ msgstr ""
 
 # MK-03
 msgid "Berovo"
-msgstr ""
+msgstr "An Ghabúin"
 
 # MK-04
 msgid "Bitola"
-msgstr ""
+msgstr "An Bholaiv"
 
 # MK-05
 msgid "Bogdanci"
-msgstr ""
+msgstr "Monacó"
 
 # MK-06
 msgid "Bogovinje"
-msgstr ""
+msgstr "Bairéin"
 
 # MK-07
 msgid "Bosilovo"
@@ -11452,11 +11458,11 @@ msgstr ""
 
 # MK-08
 msgid "Brvenica"
-msgstr ""
+msgstr "Maracó"
 
 # MK-09
 msgid "Butel"
-msgstr ""
+msgstr "An Chéinia"
 
 # MK-10
 msgid "Valandovo"
@@ -11472,15 +11478,15 @@ msgstr ""
 
 # MK-13
 msgid "Veles"
-msgstr ""
+msgstr "An tSualainn"
 
 # MK-14
 msgid "Vinica"
-msgstr ""
+msgstr "Cúba"
 
 # MK-15
 msgid "Vraneštica"
-msgstr ""
+msgstr "An Fhrainc"
 
 # MK-16
 msgid "Vrapčište"
@@ -11488,27 +11494,27 @@ msgstr ""
 
 # MK-17
 msgid "Gazi Baba"
-msgstr ""
+msgstr "Gána"
 
 # MK-18
 msgid "Gevgelija"
-msgstr ""
+msgstr "An Ghraonlainn"
 
 # MK-19
 msgid "Gostivar"
-msgstr ""
+msgstr "Málta"
 
 # MK-20
 msgid "Gradsko"
-msgstr ""
+msgstr "Grenada"
 
 # MK-21
 msgid "Debar"
-msgstr ""
+msgstr "Ciarraí"
 
 # MK-22
 msgid "Debarca"
-msgstr ""
+msgstr "An Fhrainc"
 
 # MK-23
 msgid "Delčevo"
@@ -11524,7 +11530,7 @@ msgstr ""
 
 # MK-26
 msgid "Dojran"
-msgstr ""
+msgstr "An Iaráin"
 
 # MK-27
 msgid "Dolneni"
@@ -11532,7 +11538,7 @@ msgstr ""
 
 # MK-28
 msgid "Drugovo"
-msgstr ""
+msgstr "Burma"
 
 # MK-29
 msgid "Gjorče Petrov"
@@ -11540,11 +11546,11 @@ msgstr ""
 
 # MK-30
 msgid "Želino"
-msgstr ""
+msgstr "An Bheilg"
 
 # MK-31
 msgid "Zajas"
-msgstr ""
+msgstr "An Tansáin"
 
 # MK-32
 msgid "Zelenikovo"
@@ -11552,11 +11558,11 @@ msgstr ""
 
 # MK-33
 msgid "Zrnovci"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # MK-34
 msgid "Ilinden"
-msgstr ""
+msgstr "An India"
 
 # MK-35
 msgid "Jegunovce"
@@ -11568,11 +11574,11 @@ msgstr ""
 
 # MK-37
 msgid "Karbinci"
-msgstr ""
+msgstr "An Chóiré"
 
 # MK-38
 msgid "Karpoš"
-msgstr ""
+msgstr "Guatamala"
 
 # MK-39
 msgid "Kisela Voda"
@@ -11580,7 +11586,7 @@ msgstr ""
 
 # MK-40
 msgid "Kičevo"
-msgstr ""
+msgstr "Cill Dara"
 
 # MK-41
 msgid "Konče"
@@ -11588,7 +11594,7 @@ msgstr ""
 
 # MK-42
 msgid "Kočani"
-msgstr ""
+msgstr "An Rómáin"
 
 # MK-43
 msgid "Kratovo"
@@ -11608,7 +11614,7 @@ msgstr ""
 
 # MK-47
 msgid "Kumanovo"
-msgstr ""
+msgstr "Cuáit"
 
 # MK-48
 msgid "Lipkovo"
@@ -11632,7 +11638,7 @@ msgstr ""
 
 # MK-53
 msgid "Mogila"
-msgstr ""
+msgstr "Málta"
 
 # MK-54
 msgid "Negotino"
@@ -11640,7 +11646,7 @@ msgstr ""
 
 # MK-55
 msgid "Novaci"
-msgstr ""
+msgstr "Málta"
 
 # MK-56
 msgid "Novo Selo"
@@ -11656,7 +11662,7 @@ msgstr ""
 
 # MK-59
 msgid "Petrovec"
-msgstr ""
+msgstr "Éimin"
 
 # MK-60
 msgid "Pehčevo"
@@ -11664,7 +11670,7 @@ msgstr ""
 
 # MK-61
 msgid "Plasnica"
-msgstr ""
+msgstr "An Albáin"
 
 # MK-62
 msgid "Prilep"
@@ -11680,19 +11686,19 @@ msgstr ""
 
 # MK-65
 msgid "Rankovce"
-msgstr ""
+msgstr "An Cabhán"
 
 # MK-66
 msgid "Resen"
-msgstr ""
+msgstr "Éimin"
 
 # MK-67
 msgid "Rosoman"
-msgstr ""
+msgstr "Ros Comáin"
 
 # MK-68
 msgid "Saraj"
-msgstr ""
+msgstr "Nicaragua"
 
 # MK-69
 msgid "Sveti Nikole"
@@ -11704,7 +11710,7 @@ msgstr ""
 
 # MK-71
 msgid "Staro Nagoričane"
-msgstr ""
+msgstr "Paraguay"
 
 # MK-72
 msgid "Struga"
@@ -11712,7 +11718,7 @@ msgstr ""
 
 # MK-73
 msgid "Strumica"
-msgstr ""
+msgstr "An tSiria"
 
 # MK-74
 msgid "Studeničani"
@@ -11720,15 +11726,15 @@ msgstr ""
 
 # MK-75
 msgid "Tearce"
-msgstr ""
+msgstr "An Tibéid"
 
 # MK-76
 msgid "Tetovo"
-msgstr ""
+msgstr "An Tibéid"
 
 # MK-77
 msgid "Centar"
-msgstr ""
+msgstr "Ceanada"
 
 # MK-78
 msgid "Centar Župa"
@@ -11736,7 +11742,7 @@ msgstr ""
 
 # MK-79
 msgid "Čair"
-msgstr ""
+msgstr "An tSáir"
 
 # MK-80
 msgid "Čaška"
@@ -11764,7 +11770,7 @@ msgstr ""
 
 # ML-2
 msgid "Koulikoro"
-msgstr ""
+msgstr "Cúba"
 
 # ML-3
 msgid "Sikasso"
@@ -11796,7 +11802,7 @@ msgstr ""
 
 # MM-01
 msgid "Sagaing"
-msgstr ""
+msgstr "An Spáinn"
 
 # MM-02
 msgid "Bago"
@@ -11808,7 +11814,7 @@ msgstr ""
 
 # MM-04
 msgid "Mandalay"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # MM-05
 msgid "Tanintharyi"
@@ -11816,7 +11822,7 @@ msgstr ""
 
 # MM-06
 msgid "Yangon"
-msgstr ""
+msgstr "An Liobáin"
 
 # MM-07
 msgid "Ayeyarwady"
@@ -11828,19 +11834,19 @@ msgstr ""
 
 # MM-12
 msgid "Kayah"
-msgstr ""
+msgstr "An Chéinia"
 
 # MM-13
 msgid "Kayin"
-msgstr ""
+msgstr "An Spáinn"
 
 # MM-14
 msgid "Chin"
-msgstr ""
+msgstr "An tSín"
 
 # MM-15
 msgid "Mon"
-msgstr ""
+msgstr "Monacó"
 
 # MM-16
 msgid "Rakhine"
@@ -11848,7 +11854,7 @@ msgstr ""
 
 # MM-17
 msgid "Shan"
-msgstr ""
+msgstr "An tSúdáin"
 
 # MN-035
 msgid "Orhon"
@@ -11880,7 +11886,7 @@ msgstr ""
 
 # MN-049
 msgid "Selenge"
-msgstr ""
+msgstr "An tSualainn"
 
 # MN-051
 msgid "Sühbaatar"
@@ -11892,7 +11898,7 @@ msgstr ""
 
 # MN-055
 msgid "Övörhangay"
-msgstr ""
+msgstr "Paraguay"
 
 # MN-057
 msgid "Dzavhan"
@@ -11908,7 +11914,7 @@ msgstr ""
 
 # MN-063
 msgid "Dornogovi"
-msgstr ""
+msgstr "Burma"
 
 # MN-064
 msgid "Govi-Sumber"
@@ -11920,7 +11926,7 @@ msgstr ""
 
 # MN-067
 msgid "Bulgan"
-msgstr ""
+msgstr "An Bhulgáir"
 
 # MN-069
 msgid "Bayanhongor"
@@ -11932,7 +11938,7 @@ msgstr ""
 
 # MN-073
 msgid "Arhangay"
-msgstr ""
+msgstr "Paraguay"
 
 # MN-1
 msgid "Ulanbaatar"
@@ -11956,7 +11962,7 @@ msgstr ""
 
 # MR-05
 msgid "Brakna"
-msgstr ""
+msgstr "An Bhreatain"
 
 # MR-06
 msgid "Trarza"
@@ -11964,7 +11970,7 @@ msgstr ""
 
 # MR-07
 msgid "Adrar"
-msgstr ""
+msgstr "An Ailgéir"
 
 # MR-08
 msgid "Dakhlet Nouadhibou"
@@ -11992,15 +11998,15 @@ msgstr ""
 
 # MT-01
 msgid "Attard"
-msgstr ""
+msgstr "An Ailgéir"
 
 # MT-02
 msgid "Balzan"
-msgstr ""
+msgstr "An Téalainn"
 
 # MT-03
 msgid "Birgu"
-msgstr ""
+msgstr "Paraguay"
 
 # MT-04
 msgid "Birkirkara"
@@ -12012,31 +12018,31 @@ msgstr ""
 
 # MT-06
 msgid "Bormla"
-msgstr ""
+msgstr "Burma"
 
 # MT-07
 msgid "Dingli"
-msgstr ""
+msgstr "An Bhreatain"
 
 # MT-08
 msgid "Fgura"
-msgstr ""
+msgstr "Burma"
 
 # MT-09
 msgid "Floriana"
-msgstr ""
+msgstr "An tSiria"
 
 # MT-10
 msgid "Fontana"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # MT-11
 msgid "Gudja"
-msgstr ""
+msgstr "An Ghuáin"
 
 # MT-12
 msgid "Gżira"
-msgstr ""
+msgstr "An Ghuine"
 
 # MT-13
 msgid "Għajnsielem"
@@ -12064,15 +12070,15 @@ msgstr ""
 
 # MT-19
 msgid "Iklin"
-msgstr ""
+msgstr "An India"
 
 # MT-20
 msgid "Isla"
-msgstr ""
+msgstr "An Iaráin"
 
 # MT-21
 msgid "Kalkara"
-msgstr ""
+msgstr "Málta"
 
 # MT-22
 msgid "Kerċem"
@@ -12080,23 +12086,23 @@ msgstr ""
 
 # MT-23
 msgid "Kirkop"
-msgstr ""
+msgstr "Maracó"
 
 # MT-24
 msgid "Lija"
-msgstr ""
+msgstr "An Ailgéir"
 
 # MT-25
 msgid "Luqa"
-msgstr ""
+msgstr "An tSúdáin"
 
 # MT-26
 msgid "Marsa"
-msgstr ""
+msgstr "Málta"
 
 # MT-27
 msgid "Marsaskala"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # MT-28
 msgid "Marsaxlokk"
@@ -12104,63 +12110,63 @@ msgstr ""
 
 # MT-29
 msgid "Mdina"
-msgstr ""
+msgstr "An Tansáin"
 
 # MT-30
 msgid "Mellieħa"
-msgstr ""
+msgstr "An Ailgéir"
 
 # MT-31
 msgid "Mġarr"
-msgstr ""
+msgstr "Monacó"
 
 # MT-32
 msgid "Mosta"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # MT-33
 msgid "Mqabba"
-msgstr ""
+msgstr "Madagascar"
 
 # MT-34
 msgid "Msida"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # MT-35
 msgid "Mtarfa"
-msgstr ""
+msgstr "Málta"
 
 # MT-36
 msgid "Munxar"
-msgstr ""
+msgstr "An tSín"
 
 # MT-37
 msgid "Nadur"
-msgstr ""
+msgstr "Eacuadór"
 
 # MT-38
 msgid "Naxxar"
-msgstr ""
+msgstr "Nicaragua"
 
 # MT-39
 msgid "Paola"
-msgstr ""
+msgstr "An Pholainn"
 
 # MT-40
 msgid "Pembroke"
-msgstr ""
+msgstr "Éimin"
 
 # MT-41
 msgid "Pietà"
-msgstr ""
+msgstr "Éimin"
 
 # MT-42
 msgid "Qala"
-msgstr ""
+msgstr "Málta"
 
 # MT-43
 msgid "Qormi"
-msgstr ""
+msgstr "Cuáit"
 
 # MT-44
 msgid "Qrendi"
@@ -12176,19 +12182,19 @@ msgstr ""
 
 # MT-47
 msgid "Safi"
-msgstr ""
+msgstr "An Spáinn"
 
 # MT-48
 msgid "San Ġiljan"
-msgstr ""
+msgstr "San Héilin"
 
 # MT-49
 msgid "San Ġwann"
-msgstr ""
+msgstr "San Héilin"
 
 # MT-50
 msgid "San Lawrenz"
-msgstr ""
+msgstr "San Héilin"
 
 # MT-51
 msgid "San Pawl il-Baħar"
@@ -12196,15 +12202,15 @@ msgstr ""
 
 # MT-52
 msgid "Sannat"
-msgstr ""
+msgstr "Singeapór"
 
 # MT-53
 msgid "Santa Luċija"
-msgstr ""
+msgstr "San Héilin"
 
 # MT-54
 msgid "Santa Venera"
-msgstr ""
+msgstr "San Héilin"
 
 # MT-55
 msgid "Siġġiewi"
@@ -12212,7 +12218,7 @@ msgstr ""
 
 # MT-56
 msgid "Sliema"
-msgstr ""
+msgstr "Vitneam"
 
 # MT-57
 msgid "Swieqi"
@@ -12224,15 +12230,15 @@ msgstr ""
 
 # MT-59
 msgid "Tarxien"
-msgstr ""
+msgstr "An Tibéid"
 
 # MT-60
 msgid "Valletta"
-msgstr ""
+msgstr "An Ailgéir"
 
 # MT-61
 msgid "Xagħra"
-msgstr ""
+msgstr "An Ailgéir"
 
 # MT-62
 msgid "Xewkija"
@@ -12244,7 +12250,7 @@ msgstr ""
 
 # MT-64
 msgid "Żabbar"
-msgstr ""
+msgstr "An tSaimbia"
 
 # MT-65
 msgid "Żebbuġ Għawdex"
@@ -12292,7 +12298,7 @@ msgstr ""
 
 # MU-MO
 msgid "Moka"
-msgstr ""
+msgstr "Monacó"
 
 # MU-PA
 msgid "Pamplemousses"
@@ -12336,7 +12342,7 @@ msgstr ""
 
 # MV-01
 msgid "Seenu"
-msgstr ""
+msgstr "An tSualainn"
 
 # MV-02
 msgid "Alifu Alifu"
@@ -12360,7 +12366,7 @@ msgstr ""
 
 # MV-08
 msgid "Thaa"
-msgstr ""
+msgstr "An Téalainn"
 
 # MV-12
 msgid "Meemu"
@@ -12368,7 +12374,7 @@ msgstr ""
 
 # MV-13
 msgid "Raa"
-msgstr ""
+msgstr "An Rómáin"
 
 # MV-14
 msgid "Faafu"
@@ -12412,15 +12418,15 @@ msgstr ""
 
 # MV-CE
 msgid "Central"
-msgstr ""
+msgstr "Ceanada"
 
 # MV-MLE
 msgid "Male"
-msgstr ""
+msgstr "Málta"
 
 # MV-NC
 msgid "North Central"
-msgstr ""
+msgstr "An Iorua"
 
 # MV-NO
 msgid "North"
@@ -12428,7 +12434,7 @@ msgstr ""
 
 # MV-SC
 msgid "South Central"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # MV-SU
 msgid "South"
@@ -12440,11 +12446,11 @@ msgstr ""
 
 # MV-US
 msgid "Upper South"
-msgstr ""
+msgstr "Lú"
 
 # MW-BA
 msgid "Balaka"
-msgstr ""
+msgstr "An Albáin"
 
 # MW-BL
 msgid "Blantyre"
@@ -12452,11 +12458,11 @@ msgstr ""
 
 # MW-C
 msgid "Central Region"
-msgstr ""
+msgstr "Ceanada"
 
 # MW-CK
 msgid "Chikwawa"
-msgstr ""
+msgstr "An tSín"
 
 # MW-CR
 msgid "Chiradzulu"
@@ -12464,7 +12470,7 @@ msgstr ""
 
 # MW-CT
 msgid "Chitipa"
-msgstr ""
+msgstr "An tSín"
 
 # MW-DE
 msgid "Dedza"
@@ -12472,7 +12478,7 @@ msgstr ""
 
 # MW-DO
 msgid "Dowa"
-msgstr ""
+msgstr "An Iorua"
 
 # MW-KR
 msgid "Karonga"
@@ -12488,7 +12494,7 @@ msgstr ""
 
 # MW-LK
 msgid "Likoma"
-msgstr ""
+msgstr "An Pholainn"
 
 # MW-MC
 msgid "Mchinji"
@@ -12496,11 +12502,11 @@ msgstr ""
 
 # MW-MG
 msgid "Mangochi"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # MW-MH
 msgid "Machinga"
-msgstr ""
+msgstr "An tSín"
 
 # MW-MU
 msgid "Mulanje"
@@ -12508,7 +12514,7 @@ msgstr ""
 
 # MW-MW
 msgid "Mwanza"
-msgstr ""
+msgstr "Málta"
 
 # MW-MZ
 msgid "Mzimba"
@@ -12516,7 +12522,7 @@ msgstr ""
 
 # MW-N
 msgid "Northern Region"
-msgstr ""
+msgstr "An Isiltir"
 
 # MW-NB
 msgid "Nkhata Bay"
@@ -12544,7 +12550,7 @@ msgstr ""
 
 # MW-PH
 msgid "Phalombe"
-msgstr ""
+msgstr "An Cholóim"
 
 # MW-RU
 msgid "Rumphi"
@@ -12552,7 +12558,7 @@ msgstr ""
 
 # MW-S
 msgid "Southern Region"
-msgstr ""
+msgstr "An Isiltir"
 
 # MW-SA
 msgid "Salima"
@@ -12564,7 +12570,7 @@ msgstr ""
 
 # MW-ZO
 msgid "Zomba"
-msgstr ""
+msgstr "An tSaimbia"
 
 # MX-AGU
 msgid "Aguascalientes"
@@ -12584,11 +12590,11 @@ msgstr ""
 
 # MX-CHH
 msgid "Chihuahua"
-msgstr ""
+msgstr "An tSín"
 
 # MX-CHP
 msgid "Chiapas"
-msgstr ""
+msgstr "An tSín"
 
 # MX-CMX
 msgid "Ciudad de México"
@@ -12600,7 +12606,7 @@ msgstr ""
 
 # MX-COL
 msgid "Colima"
-msgstr ""
+msgstr "An Cholóim"
 
 # MX-DUR
 msgid "Durango"
@@ -12612,7 +12618,7 @@ msgstr ""
 
 # MX-GUA
 msgid "Guanajuato"
-msgstr ""
+msgstr "An Ghuáin"
 
 # MX-HID
 msgid "Hidalgo"
@@ -12624,7 +12630,7 @@ msgstr ""
 
 # MX-MEX
 msgid "México"
-msgstr ""
+msgstr "Meicsiceo"
 
 # MX-MIC
 msgid "Michoacán de Ocampo"
@@ -12632,7 +12638,7 @@ msgstr ""
 
 # MX-MOR
 msgid "Morelos"
-msgstr ""
+msgstr "An Chóiré"
 
 # MX-NAY
 msgid "Nayarit"
@@ -12640,7 +12646,7 @@ msgstr ""
 
 # MX-NLE
 msgid "Nuevo León"
-msgstr ""
+msgstr "An Liobáin"
 
 # MX-OAX
 msgid "Oaxaca"
@@ -12648,7 +12654,7 @@ msgstr ""
 
 # MX-PUE
 msgid "Puebla"
-msgstr ""
+msgstr "Cúba"
 
 # MX-QUE
 msgid "Querétaro"
@@ -12660,7 +12666,7 @@ msgstr ""
 
 # MX-SIN
 msgid "Sinaloa"
-msgstr ""
+msgstr "Singeapór"
 
 # MX-SLP
 msgid "San Luis Potosí"
@@ -12676,7 +12682,7 @@ msgstr ""
 
 # MX-TAM
 msgid "Tamaulipas"
-msgstr ""
+msgstr "An Tasmáin"
 
 # MX-TLA
 msgid "Tlaxcala"
@@ -12700,11 +12706,11 @@ msgstr ""
 
 # MY-02
 msgid "Kedah"
-msgstr ""
+msgstr "An Chóiré"
 
 # MY-03
 msgid "Kelantan"
-msgstr ""
+msgstr "An Chéinia"
 
 # MY-04
 msgid "Melaka"
@@ -12724,11 +12730,11 @@ msgstr ""
 
 # MY-08
 msgid "Perak"
-msgstr ""
+msgstr "Peiriú"
 
 # MY-09
 msgid "Perlis"
-msgstr ""
+msgstr "Peiriú"
 
 # MY-10
 msgid "Selangor"
@@ -12760,15 +12766,15 @@ msgstr ""
 
 # MZ-A
 msgid "Niassa"
-msgstr ""
+msgstr "Nicaragua"
 
 # MZ-B
 msgid "Manica"
-msgstr ""
+msgstr "An Albáin"
 
 # MZ-G
 msgid "Gaza"
-msgstr ""
+msgstr "Gána"
 
 # MZ-I
 msgid "Inhambane"
@@ -12792,7 +12798,7 @@ msgstr ""
 
 # MZ-Q
 msgid "Zambezia"
-msgstr ""
+msgstr "An tSaimbia"
 
 # MZ-S
 msgid "Sofala"
@@ -12800,7 +12806,7 @@ msgstr ""
 
 # MZ-T
 msgid "Tete"
-msgstr ""
+msgstr "An Tibéid"
 
 # NA-CA
 msgid "Caprivi"
@@ -12808,7 +12814,7 @@ msgstr ""
 
 # NA-ER
 msgid "Erongo"
-msgstr ""
+msgstr "An Congó"
 
 # NA-HA
 msgid "Hardap"
@@ -12816,11 +12822,11 @@ msgstr ""
 
 # NA-KA
 msgid "Karas"
-msgstr ""
+msgstr "An Chóiré"
 
 # NA-KH
 msgid "Khomas"
-msgstr ""
+msgstr "An Chóiré"
 
 # NA-KU
 msgid "Kunene"
@@ -12840,7 +12846,7 @@ msgstr ""
 
 # NA-ON
 msgid "Oshana"
-msgstr ""
+msgstr "Gána"
 
 # NA-OS
 msgid "Omusati"
@@ -12888,7 +12894,7 @@ msgstr ""
 
 # NG-AB
 msgid "Abia"
-msgstr ""
+msgstr "An Albáin"
 
 # NG-AD
 msgid "Adamawa"
@@ -12900,7 +12906,7 @@ msgstr ""
 
 # NG-AN
 msgid "Anambra"
-msgstr ""
+msgstr "An tSaimbia"
 
 # NG-BA
 msgid "Bauchi"
@@ -12912,7 +12918,7 @@ msgstr ""
 
 # NG-BO
 msgid "Borno"
-msgstr ""
+msgstr "An Congó"
 
 # NG-BY
 msgid "Bayelsa"
@@ -12924,7 +12930,7 @@ msgstr ""
 
 # NG-DE
 msgid "Delta"
-msgstr ""
+msgstr "Málta"
 
 # NG-EB
 msgid "Ebonyi"
@@ -12932,11 +12938,11 @@ msgstr ""
 
 # NG-ED
 msgid "Edo"
-msgstr ""
+msgstr "Eacuadór"
 
 # NG-EK
 msgid "Ekiti"
-msgstr ""
+msgstr "Háítí"
 
 # NG-EN
 msgid "Enugu"
@@ -12980,7 +12986,7 @@ msgstr ""
 
 # NG-KW
 msgid "Kwara"
-msgstr ""
+msgstr "An Chóiré"
 
 # NG-LA
 msgid "Lagos"
@@ -13032,19 +13038,19 @@ msgstr ""
 
 # NG-ZA
 msgid "Zamfara"
-msgstr ""
+msgstr "An tSaimbia"
 
 # NI-AN
 msgid "Atlántico Norte"
-msgstr ""
+msgstr "An Albáin"
 
 # NI-AS
 msgid "Atlántico Sur"
-msgstr ""
+msgstr "An Albáin"
 
 # NI-BO
 msgid "Boaco"
-msgstr ""
+msgstr "Monacó"
 
 # NI-CA
 msgid "Carazo"
@@ -13052,7 +13058,7 @@ msgstr ""
 
 # NI-CI
 msgid "Chinandega"
-msgstr ""
+msgstr "An tSín"
 
 # NI-CO
 msgid "Chontales"
@@ -13060,11 +13066,11 @@ msgstr ""
 
 # NI-ES
 msgid "Estelí"
-msgstr ""
+msgstr "An Chóiré"
 
 # NI-GR
 msgid "Granada"
-msgstr ""
+msgstr "Gána"
 
 # NI-JI
 msgid "Jinotega"
@@ -13072,7 +13078,7 @@ msgstr ""
 
 # NI-LE
 msgid "León"
-msgstr ""
+msgstr "An Liobáin"
 
 # NI-MD
 msgid "Madriz"
@@ -13080,15 +13086,15 @@ msgstr ""
 
 # NI-MN
 msgid "Managua"
-msgstr ""
+msgstr "Paraguay"
 
 # NI-MS
 msgid "Masaya"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # NI-MT
 msgid "Matagalpa"
-msgstr ""
+msgstr "Madagascar"
 
 # NI-NS
 msgid "Nueva Segovia"
@@ -13108,7 +13114,7 @@ msgstr "Aruba"
 
 # NL-BQ1
 msgid "Bonaire"
-msgstr ""
+msgstr "An tSáir"
 
 # NL-BQ2
 msgid "Saba"
@@ -13116,7 +13122,7 @@ msgstr ""
 
 # NL-BQ3
 msgid "Sint Eustatius"
-msgstr ""
+msgstr "San Héilin"
 
 # NL-CW
 msgid "Curaçao"
@@ -13124,19 +13130,19 @@ msgstr "Curasao"
 
 # NL-DR
 msgid "Drenthe"
-msgstr ""
+msgstr "An tSile"
 
 # NL-FL
 msgid "Flevoland"
-msgstr ""
+msgstr "An Pholainn"
 
 # NL-FR
 msgid "Friesland"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # NL-GE
 msgid "Gelderland"
-msgstr ""
+msgstr "An Ghraonlainn"
 
 # NL-GR
 msgid "Groningen"
@@ -13144,7 +13150,7 @@ msgstr ""
 
 # NL-LI
 msgid "Limburg"
-msgstr ""
+msgstr "An Libia"
 
 # NL-NB
 msgid "Noord-Brabant"
@@ -13160,7 +13166,7 @@ msgstr ""
 
 # NL-SX
 msgid "Sint Maarten"
-msgstr ""
+msgstr "San Héilin"
 
 # NL-UT
 msgid "Utrecht"
@@ -13168,7 +13174,7 @@ msgstr ""
 
 # NL-ZE
 msgid "Zeeland"
-msgstr ""
+msgstr "An Ghraonlainn"
 
 # NL-ZH
 msgid "Zuid-Holland"
@@ -13188,11 +13194,11 @@ msgstr ""
 
 # NO-04
 msgid "Hedmark"
-msgstr ""
+msgstr "An Danmhairg"
 
 # NO-05
 msgid "Oppland"
-msgstr ""
+msgstr "An Pholainn"
 
 # NO-06
 msgid "Buskerud"
@@ -13204,7 +13210,7 @@ msgstr ""
 
 # NO-08
 msgid "Telemark"
-msgstr ""
+msgstr "An Danmhairg"
 
 # NO-09
 msgid "Aust-Agder"
@@ -13216,11 +13222,11 @@ msgstr ""
 
 # NO-11
 msgid "Rogaland"
-msgstr ""
+msgstr "An Pholainn"
 
 # NO-12
 msgid "Hordaland"
-msgstr ""
+msgstr "An Pholainn"
 
 # NO-14
 msgid "Sogn og Fjordane"
@@ -13240,7 +13246,7 @@ msgstr ""
 
 # NO-18
 msgid "Nordland"
-msgstr ""
+msgstr "An Iordáin"
 
 # NO-19
 msgid "Troms"
@@ -13248,7 +13254,7 @@ msgstr ""
 
 # NO-20
 msgid "Finnmark"
-msgstr ""
+msgstr "An Danmhairg"
 
 # NO-21
 msgid "Svalbard (Arctic Region)"
@@ -13260,7 +13266,7 @@ msgstr ""
 
 # NP-1
 msgid "Madhyamanchal"
-msgstr ""
+msgstr "An Fhrainc"
 
 # NP-2
 msgid "Madhya Pashchimanchal"
@@ -13280,11 +13286,11 @@ msgstr ""
 
 # NP-BA
 msgid "Bagmati"
-msgstr ""
+msgstr "Málta"
 
 # NP-BH
 msgid "Bheri"
-msgstr ""
+msgstr "An Bheilg"
 
 # NP-DH
 msgid "Dhawalagiri"
@@ -13292,7 +13298,7 @@ msgstr ""
 
 # NP-GA
 msgid "Gandaki"
-msgstr ""
+msgstr "Gána"
 
 # NP-JA
 msgid "Janakpur"
@@ -13300,67 +13306,67 @@ msgstr ""
 
 # NP-KA
 msgid "Karnali"
-msgstr ""
+msgstr "Ceanada"
 
 # NP-KO
 msgid "Kosi"
-msgstr ""
+msgstr "An Chóiré"
 
 # NP-LU
 msgid "Lumbini"
-msgstr ""
+msgstr "An India"
 
 # NP-MA
 msgid "Mahakali"
-msgstr ""
+msgstr "Mailí"
 
 # NP-ME
 msgid "Mechi"
-msgstr ""
+msgstr "An tSín"
 
 # NP-NA
 msgid "Narayani"
-msgstr ""
+msgstr "Gána"
 
 # NP-RA
 msgid "Rapti"
-msgstr ""
+msgstr "Málta"
 
 # NP-SA
 msgid "Sagarmatha"
-msgstr ""
+msgstr "An tSaimbia"
 
 # NP-SE
 msgid "Seti"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # NR-01
 msgid "Aiwo"
-msgstr ""
+msgstr "an tAntartasch"
 
 # NR-02
 msgid "Anabar"
-msgstr ""
+msgstr "An tSaimbia"
 
 # NR-03
 msgid "Anetan"
-msgstr ""
+msgstr "An Albáin"
 
 # NR-04
 msgid "Anibare"
-msgstr ""
+msgstr "An Tibéid"
 
 # NR-05
 msgid "Baiti"
-msgstr ""
+msgstr "Málta"
 
 # NR-06
 msgid "Boe"
-msgstr ""
+msgstr "Monacó"
 
 # NR-07
 msgid "Buada"
-msgstr ""
+msgstr "An Ghuáin"
 
 # NR-08
 msgid "Denigomodu"
@@ -13376,23 +13382,23 @@ msgstr ""
 
 # NR-11
 msgid "Meneng"
-msgstr ""
+msgstr "An tSualainn"
 
 # NR-12
 msgid "Nibok"
-msgstr ""
+msgstr "An tSiombáib"
 
 # NR-13
 msgid "Uaboe"
-msgstr ""
+msgstr "An Chóiré"
 
 # NR-14
 msgid "Yaren"
-msgstr ""
+msgstr "An Fhrainc"
 
 # NZ-AUK
 msgid "Auckland"
-msgstr ""
+msgstr "An Íoslainn"
 
 # NZ-BOP
 msgid "Bay of Plenty"
@@ -13424,7 +13430,7 @@ msgstr ""
 
 # NZ-N
 msgid "North Island"
-msgstr ""
+msgstr "An Isiltir"
 
 # NZ-NSN
 msgid "Nelson City"
@@ -13432,7 +13438,7 @@ msgstr ""
 
 # NZ-NTL
 msgid "Northland"
-msgstr ""
+msgstr "An Isiltir"
 
 # NZ-OTA
 msgid "Otago"
@@ -13440,19 +13446,19 @@ msgstr ""
 
 # NZ-S
 msgid "South Island"
-msgstr ""
+msgstr "An Pholainn"
 
 # NZ-STL
 msgid "Southland"
-msgstr ""
+msgstr "An Pholainn"
 
 # NZ-TAS
 msgid "Tasman District"
-msgstr ""
+msgstr "An Tasmáin"
 
 # NZ-TKI
 msgid "Taranaki"
-msgstr ""
+msgstr "An Tansáin"
 
 # NZ-WGN
 msgid "Wellington"
@@ -13460,7 +13466,7 @@ msgstr ""
 
 # NZ-WKO
 msgid "Waikato"
-msgstr ""
+msgstr "Cuáit"
 
 # NZ-WTC
 msgid "West Coast"
@@ -13468,11 +13474,11 @@ msgstr ""
 
 # OM-BA
 msgid "Al Bāţinah"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # OM-BU
 msgid "Al Buraymī"
-msgstr ""
+msgstr "Málta"
 
 # OM-DA
 msgid "Ad Dākhilīya"
@@ -13492,11 +13498,11 @@ msgstr ""
 
 # OM-WU
 msgid "Al Wusţá"
-msgstr ""
+msgstr "An Ostair"
 
 # OM-ZA
 msgid "Az̧ Z̧āhirah"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # OM-ZU
 msgid "Z̧ufār"
@@ -13508,11 +13514,11 @@ msgstr ""
 
 # PA-2
 msgid "Coclé"
-msgstr ""
+msgstr "An tSile"
 
 # PA-3
 msgid "Colón"
-msgstr ""
+msgstr "An Cholóim"
 
 # PA-4
 msgid "Chiriquí"
@@ -13520,7 +13526,7 @@ msgstr ""
 
 # PA-5
 msgid "Darién"
-msgstr ""
+msgstr "An tSeapáin"
 
 # PA-6
 msgid "Herrera"
@@ -13532,11 +13538,11 @@ msgstr ""
 
 # PA-8
 msgid "Panamá"
-msgstr ""
+msgstr "Panama"
 
 # PA-9
 msgid "Veraguas"
-msgstr ""
+msgstr "Paraguay"
 
 # PA-EM
 msgid "Emberá"
@@ -13544,7 +13550,7 @@ msgstr ""
 
 # PA-KY
 msgid "Kuna Yala"
-msgstr ""
+msgstr "Guatamala"
 
 # PA-NB
 msgid "Ngöbe-Buglé"
@@ -13552,7 +13558,7 @@ msgstr ""
 
 # PE-AMA
 msgid "Amazonas"
-msgstr ""
+msgstr "An Ostair"
 
 # PE-ANC
 msgid "Ancash"
@@ -13560,7 +13566,7 @@ msgstr ""
 
 # PE-APU
 msgid "Apurímac"
-msgstr ""
+msgstr "An Ostair"
 
 # PE-ARE
 msgid "Arequipa"
@@ -13576,7 +13582,7 @@ msgstr ""
 
 # PE-CAL
 msgid "El Callao"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # PE-CUS
 msgid "Cusco [Cuzco]"
@@ -13592,7 +13598,7 @@ msgstr ""
 
 # PE-ICA
 msgid "Ica"
-msgstr ""
+msgstr "An Íoslainn"
 
 # PE-JUN
 msgid "Junín"
@@ -13600,15 +13606,15 @@ msgstr ""
 
 # PE-LAL
 msgid "La Libertad"
-msgstr ""
+msgstr "An Libia"
 
 # PE-LAM
 msgid "Lambayeque"
-msgstr ""
+msgstr "Mósaimbic"
 
 # PE-LIM
 msgid "Lima"
-msgstr ""
+msgstr "An Libia"
 
 # PE-LMA
 msgid "Municipalidad Metropolitana de Lima"
@@ -13632,7 +13638,7 @@ msgstr ""
 
 # PE-PIU
 msgid "Piura"
-msgstr ""
+msgstr "Burma"
 
 # PE-PUN
 msgid "Puno"
@@ -13640,11 +13646,11 @@ msgstr ""
 
 # PE-SAM
 msgid "San Martín"
-msgstr ""
+msgstr "San Héilin"
 
 # PE-TAC
 msgid "Tacna"
-msgstr ""
+msgstr "An Tansáin"
 
 # PE-TUM
 msgid "Tumbes"
@@ -13660,11 +13666,11 @@ msgstr ""
 
 # PG-CPM
 msgid "Central"
-msgstr ""
+msgstr "Ceanada"
 
 # PG-EBR
 msgid "East New Britain"
-msgstr ""
+msgstr "An Bhreatain"
 
 # PG-EHG
 msgid "Eastern Highlands"
@@ -13688,11 +13694,11 @@ msgstr ""
 
 # PG-MPL
 msgid "Morobe"
-msgstr ""
+msgstr "Maracó"
 
 # PG-MPM
 msgid "Madang"
-msgstr ""
+msgstr "Madagascar"
 
 # PG-MRL
 msgid "Manus"
@@ -13704,35 +13710,35 @@ msgstr ""
 
 # PG-NIK
 msgid "New Ireland"
-msgstr ""
+msgstr "An Nua-Shéalainn"
 
 # PG-NPP
 msgid "Northern"
-msgstr ""
+msgstr "An Isiltir"
 
 # PG-NSB
 msgid "Bougainville"
-msgstr ""
+msgstr "An Bhrasaíl"
 
 # PG-SAN
 msgid "Sandaun"
-msgstr ""
+msgstr "An tSúdáin"
 
 # PG-SHM
 msgid "Southern Highlands"
-msgstr ""
+msgstr "An Isiltir"
 
 # PG-WBK
 msgid "West New Britain"
-msgstr ""
+msgstr "An Bhreatain"
 
 # PG-WHM
 msgid "Western Highlands"
-msgstr ""
+msgstr "An Isiltir"
 
 # PG-WPD
 msgid "Western"
-msgstr ""
+msgstr "An Iarmhí"
 
 # PH-00
 msgid "National Capital Region"
@@ -13744,11 +13750,11 @@ msgstr ""
 
 # PH-02
 msgid "Cagayan Valley (Region II)"
-msgstr ""
+msgstr "Ceanada"
 
 # PH-03
 msgid "Central Luzon (Region III)"
-msgstr ""
+msgstr "Ceanada"
 
 # PH-05
 msgid "Bicol (Region V)"
@@ -13756,11 +13762,11 @@ msgstr ""
 
 # PH-06
 msgid "Western Visayas (Region VI)"
-msgstr ""
+msgstr "An Isiltir"
 
 # PH-07
 msgid "Central Visayas (Region VII)"
-msgstr ""
+msgstr "Ceanada"
 
 # PH-08
 msgid "Eastern Visayas (Region VIII)"
@@ -13772,11 +13778,11 @@ msgstr ""
 
 # PH-10
 msgid "Northern Mindanao (Region X)"
-msgstr ""
+msgstr "An Isiltir"
 
 # PH-11
 msgid "Davao (Region XI)"
-msgstr ""
+msgstr "Ceanada"
 
 # PH-12
 msgid "Soccsksargen (Region XII)"
@@ -13784,7 +13790,7 @@ msgstr ""
 
 # PH-13
 msgid "Caraga (Region XIII)"
-msgstr ""
+msgstr "Ceanada"
 
 # PH-14
 msgid "Autonomous Region in Muslim Mindanao (ARMM)"
@@ -13816,11 +13822,11 @@ msgstr ""
 
 # PH-AKL
 msgid "Aklan"
-msgstr ""
+msgstr "An Albáin"
 
 # PH-ALB
 msgid "Albay"
-msgstr ""
+msgstr "An Albáin"
 
 # PH-ANT
 msgid "Antique"
@@ -13828,19 +13834,19 @@ msgstr ""
 
 # PH-APA
 msgid "Apayao"
-msgstr ""
+msgstr "An Iodáil"
 
 # PH-AUR
 msgid "Aurora"
-msgstr ""
+msgstr "An Ostair"
 
 # PH-BAN
 msgid "Batasn"
-msgstr ""
+msgstr "An Bhreatain"
 
 # PH-BAS
 msgid "Basilan"
-msgstr ""
+msgstr "An Téalainn"
 
 # PH-BEN
 msgid "Benguet"
@@ -13848,7 +13854,7 @@ msgstr ""
 
 # PH-BIL
 msgid "Biliran"
-msgstr ""
+msgstr "An Téalainn"
 
 # PH-BOH
 msgid "Bohol"
@@ -13856,7 +13862,7 @@ msgstr ""
 
 # PH-BTG
 msgid "Batangas"
-msgstr ""
+msgstr "An Bhanglaidéis"
 
 # PH-BTN
 msgid "Batanes"
@@ -13868,11 +13874,11 @@ msgstr ""
 
 # PH-BUL
 msgid "Bulacan"
-msgstr ""
+msgstr "An Bhulgáir"
 
 # PH-CAG
 msgid "Cagayan"
-msgstr ""
+msgstr "Ceanada"
 
 # PH-CAM
 msgid "Camiguin"
@@ -13920,7 +13926,7 @@ msgstr ""
 
 # PH-DIN
 msgid "Dinagat Islands"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # PH-EAS
 msgid "Eastern Samar"
@@ -13928,7 +13934,7 @@ msgstr ""
 
 # PH-GUI
 msgid "Guimaras"
-msgstr ""
+msgstr "An Ghuáin"
 
 # PH-IFU
 msgid "Ifugao"
@@ -13948,7 +13954,7 @@ msgstr ""
 
 # PH-ISA
 msgid "Isabela"
-msgstr ""
+msgstr "Iosrael"
 
 # PH-KAL
 msgid "Kalinga-Apayso"
@@ -13972,11 +13978,11 @@ msgstr ""
 
 # PH-LUN
 msgid "La Union"
-msgstr ""
+msgstr "Monacó"
 
 # PH-MAD
 msgid "Marinduque"
-msgstr ""
+msgstr "Mósaimbic"
 
 # PH-MAG
 msgid "Maguindanao"
@@ -14032,7 +14038,7 @@ msgstr ""
 
 # PH-PAM
 msgid "Pampanga"
-msgstr ""
+msgstr "Paraguay"
 
 # PH-PAN
 msgid "Pangasinan"
@@ -14040,7 +14046,7 @@ msgstr ""
 
 # PH-PLW
 msgid "Palawan"
-msgstr ""
+msgstr "An Pholainn"
 
 # PH-QUE
 msgid "Quezon"
@@ -14060,7 +14066,7 @@ msgstr ""
 
 # PH-SAR
 msgid "Sarangani"
-msgstr ""
+msgstr "Gána"
 
 # PH-SCO
 msgid "South Cotabato"
@@ -14116,7 +14122,7 @@ msgstr ""
 
 # PH-ZMB
 msgid "Zambales"
-msgstr ""
+msgstr "An tSaimbia"
 
 # PH-ZSI
 msgid "Zamboanga Sibugay"
@@ -14124,7 +14130,7 @@ msgstr ""
 
 # PK-BA
 msgid "Balochistan"
-msgstr ""
+msgstr "Málta"
 
 # PK-GB
 msgid "Gilgit-Baltistan"
@@ -14144,11 +14150,11 @@ msgstr ""
 
 # PK-PB
 msgid "Punjab"
-msgstr ""
+msgstr "An tSín"
 
 # PK-SD
 msgid "Sindh"
-msgstr ""
+msgstr "An tSualainn"
 
 # PK-TA
 msgid "Federally Administered Tribal Areas"
@@ -14156,7 +14162,7 @@ msgstr ""
 
 # PL-DS
 msgid "Dolnośląskie"
-msgstr ""
+msgstr "An tSlóvaic"
 
 # PL-KP
 msgid "Kujawsko-pomorskie"
@@ -14168,7 +14174,7 @@ msgstr ""
 
 # PL-LD
 msgid "Łódzkie"
-msgstr ""
+msgstr "An tSáir"
 
 # PL-LU
 msgid "Lubelskie"
@@ -14196,7 +14202,7 @@ msgstr ""
 
 # PL-PM
 msgid "Pomorskie"
-msgstr ""
+msgstr "Oileán Chomóra"
 
 # PL-SK
 msgid "Świętokrzyskie"
@@ -14204,7 +14210,7 @@ msgstr ""
 
 # PL-SL
 msgid "Śląskie"
-msgstr ""
+msgstr "An tSlóvaic"
 
 # PL-WN
 msgid "Warmińsko-mazurskie"
@@ -14224,11 +14230,11 @@ msgstr ""
 
 # PS-DEB
 msgid "Deir El Balah"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # PS-GZA
 msgid "Gaza"
-msgstr ""
+msgstr "Gána"
 
 # PS-HBN
 msgid "Hebron"
@@ -14256,7 +14262,7 @@ msgstr ""
 
 # PS-NGZ
 msgid "North Gaza"
-msgstr ""
+msgstr "An Iorua"
 
 # PS-QQA
 msgid "Qalqilya"
@@ -14272,7 +14278,7 @@ msgstr ""
 
 # PS-SLT
 msgid "Salfit"
-msgstr ""
+msgstr "Málta"
 
 # PS-TBS
 msgid "Tubas"
@@ -14292,11 +14298,11 @@ msgstr ""
 
 # PT-03
 msgid "Braga"
-msgstr ""
+msgstr "Paraguay"
 
 # PT-04
 msgid "Bragança"
-msgstr ""
+msgstr "Paraguay"
 
 # PT-05
 msgid "Castelo Branco"
@@ -14304,11 +14310,11 @@ msgstr ""
 
 # PT-06
 msgid "Coimbra"
-msgstr ""
+msgstr "An Cholóim"
 
 # PT-07
 msgid "Évora"
-msgstr ""
+msgstr "Málta"
 
 # PT-08
 msgid "Faro"
@@ -14316,27 +14322,27 @@ msgstr ""
 
 # PT-09
 msgid "Guarda"
-msgstr ""
+msgstr "An Ghuáin"
 
 # PT-10
 msgid "Leiria"
-msgstr ""
+msgstr "An Ailgéir"
 
 # PT-11
 msgid "Lisboa"
-msgstr ""
+msgstr "An Libia"
 
 # PT-12
 msgid "Portalegre"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # PT-13
 msgid "Porto"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # PT-14
 msgid "Santarém"
-msgstr ""
+msgstr "San Héilin"
 
 # PT-15
 msgid "Setúbal"
@@ -14364,15 +14370,15 @@ msgstr ""
 
 # PW-002
 msgid "Aimeliik"
-msgstr ""
+msgstr "Luimneach"
 
 # PW-004
 msgid "Airai"
-msgstr ""
+msgstr "An Nigéir"
 
 # PW-010
 msgid "Angaur"
-msgstr ""
+msgstr "An Ostair"
 
 # PW-050
 msgid "Hatobohei"
@@ -14380,11 +14386,11 @@ msgstr ""
 
 # PW-100
 msgid "Kayangel"
-msgstr ""
+msgstr "An Spáinn"
 
 # PW-150
 msgid "Koror"
-msgstr ""
+msgstr "Maracó"
 
 # PW-212
 msgid "Melekeok"
@@ -14392,7 +14398,7 @@ msgstr ""
 
 # PW-214
 msgid "Ngaraard"
-msgstr ""
+msgstr "Nicaragua"
 
 # PW-218
 msgid "Ngarchelong"
@@ -14400,15 +14406,15 @@ msgstr ""
 
 # PW-222
 msgid "Ngardmau"
-msgstr ""
+msgstr "Nicaragua"
 
 # PW-224
 msgid "Ngatpang"
-msgstr ""
+msgstr "An tSeapáin"
 
 # PW-226
 msgid "Ngchesar"
-msgstr ""
+msgstr "An Nígir"
 
 # PW-227
 msgid "Ngeremlengui"
@@ -14416,11 +14422,11 @@ msgstr ""
 
 # PW-228
 msgid "Ngiwal"
-msgstr ""
+msgstr "An Nigéir"
 
 # PW-350
 msgid "Peleliu"
-msgstr ""
+msgstr "Peiriú"
 
 # PW-370
 msgid "Sonsorol"
@@ -14432,11 +14438,11 @@ msgstr ""
 
 # PY-10
 msgid "Alto Paraná"
-msgstr ""
+msgstr "Paraguay"
 
 # PY-11
 msgid "Central"
-msgstr ""
+msgstr "Ceanada"
 
 # PY-12
 msgid "Ñeembucú"
@@ -14444,7 +14450,7 @@ msgstr ""
 
 # PY-13
 msgid "Amambay"
-msgstr ""
+msgstr "An tSaimbia"
 
 # PY-14
 msgid "Canindeyú"
@@ -14456,7 +14462,7 @@ msgstr ""
 
 # PY-16
 msgid "Alto Paraguay"
-msgstr ""
+msgstr "Paraguay"
 
 # PY-19
 msgid "Boquerón"
@@ -14472,15 +14478,15 @@ msgstr ""
 
 # PY-4
 msgid "Guairá"
-msgstr ""
+msgstr "An Ghuáin"
 
 # PY-5
 msgid "Caaguazú"
-msgstr ""
+msgstr "Paraguay"
 
 # PY-6
 msgid "Caazapá"
-msgstr ""
+msgstr "Ceanada"
 
 # PY-7
 msgid "Itapúa"
@@ -14492,7 +14498,7 @@ msgstr ""
 
 # PY-9
 msgid "Paraguarí"
-msgstr ""
+msgstr "Paraguay"
 
 # PY-ASU
 msgid "Asunción"
@@ -14524,15 +14530,15 @@ msgstr ""
 
 # QA-ZA
 msgid "Az̧ Z̧a‘āyin"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # RO-AB
 msgid "Alba"
-msgstr ""
+msgstr "An Albáin"
 
 # RO-AG
 msgid "Argeș"
-msgstr ""
+msgstr "An Ailgéir"
 
 # RO-AR
 msgid "Arad"
@@ -14540,11 +14546,11 @@ msgstr ""
 
 # RO-B
 msgid "București"
-msgstr ""
+msgstr "Burma"
 
 # RO-BC
 msgid "Bacău"
-msgstr ""
+msgstr "Burma"
 
 # RO-BH
 msgid "Bihor"
@@ -14556,7 +14562,7 @@ msgstr ""
 
 # RO-BR
 msgid "Brăila"
-msgstr ""
+msgstr "An Bhrasaíl"
 
 # RO-BT
 msgid "Botoșani"
@@ -14564,11 +14570,11 @@ msgstr ""
 
 # RO-BV
 msgid "Brașov"
-msgstr ""
+msgstr "Burma"
 
 # RO-BZ
 msgid "Buzău"
-msgstr ""
+msgstr "Burma"
 
 # RO-CJ
 msgid "Cluj"
@@ -14584,15 +14590,15 @@ msgstr ""
 
 # RO-CT
 msgid "Constanța"
-msgstr ""
+msgstr "Cósta Rice"
 
 # RO-CV
 msgid "Covasna"
-msgstr ""
+msgstr "Ceanada"
 
 # RO-DB
 msgid "Dâmbovița"
-msgstr ""
+msgstr "An tSaimbia"
 
 # RO-DJ
 msgid "Dolj"
@@ -14604,7 +14610,7 @@ msgstr ""
 
 # RO-GL
 msgid "Galați"
-msgstr ""
+msgstr "Gaillimh"
 
 # RO-GR
 msgid "Giurgiu"
@@ -14612,11 +14618,11 @@ msgstr ""
 
 # RO-HD
 msgid "Hunedoara"
-msgstr ""
+msgstr "An Ungáir"
 
 # RO-HR
 msgid "Harghita"
-msgstr ""
+msgstr "Háítí"
 
 # RO-IF
 msgid "Ilfov"
@@ -14636,15 +14642,15 @@ msgstr ""
 
 # RO-MM
 msgid "Maramureș"
-msgstr ""
+msgstr "Málta"
 
 # RO-MS
 msgid "Mureș"
-msgstr ""
+msgstr "Málta"
 
 # RO-NT
 msgid "Neamț"
-msgstr ""
+msgstr "Neipeál"
 
 # RO-OT
 msgid "Olt"
@@ -14680,7 +14686,7 @@ msgstr ""
 
 # RO-TR
 msgid "Teleorman"
-msgstr ""
+msgstr "An Ghearmáin"
 
 # RO-VL
 msgid "Vâlcea"
@@ -14688,7 +14694,7 @@ msgstr ""
 
 # RO-VN
 msgid "Vrancea"
-msgstr ""
+msgstr "An Fhrainc"
 
 # RO-VS
 msgid "Vaslui"
@@ -14696,7 +14702,7 @@ msgstr ""
 
 # RS-00
 msgid "Beograd"
-msgstr ""
+msgstr "An Chóiré"
 
 # RS-01
 msgid "Severnobački okrug"
@@ -14716,7 +14722,7 @@ msgstr ""
 
 # RS-05
 msgid "Zapadnobački okrug"
-msgstr ""
+msgstr "Srí Lanca"
 
 # RS-06
 msgid "Južnobački okrug"
@@ -14732,7 +14738,7 @@ msgstr ""
 
 # RS-09
 msgid "Kolubarski okrug"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # RS-10
 msgid "Podunavski okrug"
@@ -14740,7 +14746,7 @@ msgstr ""
 
 # RS-11
 msgid "Braničevski okrug"
-msgstr ""
+msgstr "Oileán Chomóra"
 
 # RS-12
 msgid "Šumadijski okrug"
@@ -14748,7 +14754,7 @@ msgstr ""
 
 # RS-13
 msgid "Pomoravski okrug"
-msgstr ""
+msgstr "Oileán Chomóra"
 
 # RS-14
 msgid "Borski okrug"
@@ -14760,7 +14766,7 @@ msgstr ""
 
 # RS-16
 msgid "Zlatiborski okrug"
-msgstr ""
+msgstr "An Ailgéir"
 
 # RS-17
 msgid "Moravički okrug"
@@ -14784,7 +14790,7 @@ msgstr ""
 
 # RS-22
 msgid "Pirotski okrug"
-msgstr ""
+msgstr "Oileán Chomóra"
 
 # RS-23
 msgid "Jablanički okrug"
@@ -14804,7 +14810,7 @@ msgstr ""
 
 # RS-27
 msgid "Prizrenski okrug"
-msgstr ""
+msgstr "Oileán Chomóra"
 
 # RS-28
 msgid "Kosovsko-Mitrovački okrug"
@@ -14832,7 +14838,7 @@ msgstr ""
 
 # RU-ALT
 msgid "Altayskiy kray"
-msgstr ""
+msgstr "An Albáin"
 
 # RU-AMU
 msgid "Amurskaya oblast'"
@@ -14860,7 +14866,7 @@ msgstr ""
 
 # RU-BU
 msgid "Buryatiya, Respublika"
-msgstr ""
+msgstr "An Bhrasaíl"
 
 # RU-CE
 msgid "Chechenskaya Respublika"
@@ -14896,7 +14902,7 @@ msgstr ""
 
 # RU-KAM
 msgid "Kamchatskiy kray"
-msgstr ""
+msgstr "An Chéinia"
 
 # RU-KB
 msgid "Kabardino-Balkarskaya Respublika"
@@ -14908,7 +14914,7 @@ msgstr ""
 
 # RU-KDA
 msgid "Krasnodarskiy kray"
-msgstr ""
+msgstr "Ceanada"
 
 # RU-KEM
 msgid "Kemerovskaya oblast'"
@@ -14916,7 +14922,7 @@ msgstr ""
 
 # RU-KGD
 msgid "Kaliningradskaya oblast'"
-msgstr ""
+msgstr "An Iorua"
 
 # RU-KGN
 msgid "Kurganskaya oblast'"
@@ -14924,7 +14930,7 @@ msgstr ""
 
 # RU-KHA
 msgid "Khabarovskiy kray"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # RU-KHM
 msgid "Khanty-Mansiysky avtonomnyy okrug-Yugra"
@@ -14936,7 +14942,7 @@ msgstr ""
 
 # RU-KK
 msgid "Khakasiya, Respublika"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # RU-KL
 msgid "Kalmykiya, Respublika"
@@ -14984,7 +14990,7 @@ msgstr ""
 
 # RU-MO
 msgid "Mordoviya, Respublika"
-msgstr ""
+msgstr "An Iorua"
 
 # RU-MOS
 msgid "Moskovskaya oblast'"
@@ -15036,7 +15042,7 @@ msgstr ""
 
 # RU-PRI
 msgid "Primorskiy kray"
-msgstr ""
+msgstr "Oileán Chomóra"
 
 # RU-PSK
 msgid "Pskovskaya oblast'"
@@ -15088,7 +15094,7 @@ msgstr ""
 
 # RU-TA
 msgid "Tatarstan, Respublika"
-msgstr ""
+msgstr "Málta"
 
 # RU-TAM
 msgid "Tambovskaya oblast'"
@@ -15144,7 +15150,7 @@ msgstr ""
 
 # RU-YAR
 msgid "Yaroslavskaya oblast'"
-msgstr ""
+msgstr "Málta"
 
 # RU-YEV
 msgid "Yevreyskaya avtonomnaya oblast'"
@@ -15160,11 +15166,11 @@ msgstr ""
 
 # RW-02
 msgid "Est"
-msgstr ""
+msgstr "Málta"
 
 # RW-03
 msgid "Nord"
-msgstr ""
+msgstr "An Iorua"
 
 # RW-04
 msgid "Ouest"
@@ -15172,7 +15178,7 @@ msgstr ""
 
 # RW-05
 msgid "Sud"
-msgstr ""
+msgstr "An tSúdáin"
 
 # SA-01
 msgid "Ar Riyāḍ"
@@ -15184,7 +15190,7 @@ msgstr ""
 
 # SA-03
 msgid "Al Madīnah"
-msgstr ""
+msgstr "An Albáin"
 
 # SA-04
 msgid "Ash Sharqīyah"
@@ -15208,15 +15214,15 @@ msgstr ""
 
 # SA-09
 msgid "Jīzan"
-msgstr ""
+msgstr "An tSeapáin"
 
 # SA-10
 msgid "Najrān"
-msgstr ""
+msgstr "An Iaráin"
 
 # SA-11
 msgid "Al Bāhah"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # SA-12
 msgid "Al Jawf"
@@ -15228,11 +15234,11 @@ msgstr ""
 
 # SB-CE
 msgid "Central"
-msgstr ""
+msgstr "Ceanada"
 
 # SB-CH
 msgid "Choiseul"
-msgstr ""
+msgstr "An Chipir"
 
 # SB-CT
 msgid "Capital Territory (Honiara)"
@@ -15240,11 +15246,11 @@ msgstr ""
 
 # SB-GU
 msgid "Guadalcanal"
-msgstr ""
+msgstr "Guatamala"
 
 # SB-IS
 msgid "Isabel"
-msgstr ""
+msgstr "Iosrael"
 
 # SB-MK
 msgid "Makira"
@@ -15252,7 +15258,7 @@ msgstr ""
 
 # SB-ML
 msgid "Malaita"
-msgstr ""
+msgstr "Málta"
 
 # SB-RB
 msgid "Rennell and Bellona"
@@ -15264,7 +15270,7 @@ msgstr ""
 
 # SB-WE
 msgid "Western"
-msgstr ""
+msgstr "An Iarmhí"
 
 # SC-01
 msgid "Anse aux Pins"
@@ -15288,7 +15294,7 @@ msgstr ""
 
 # SC-06
 msgid "Baie Lazare"
-msgstr ""
+msgstr "An Bhanglaidéis"
 
 # SC-07
 msgid "Baie Sainte Anne"
@@ -15300,7 +15306,7 @@ msgstr ""
 
 # SC-09
 msgid "Bel Air"
-msgstr ""
+msgstr "An Bheilís"
 
 # SC-10
 msgid "Bel Ombre"
@@ -15308,19 +15314,19 @@ msgstr ""
 
 # SC-11
 msgid "Cascade"
-msgstr ""
+msgstr "An Tasmáin"
 
 # SC-12
 msgid "Glacis"
-msgstr ""
+msgstr "Gaillimh"
 
 # SC-13
 msgid "Grand Anse Mahe"
-msgstr ""
+msgstr "Ceanada"
 
 # SC-14
 msgid "Grand Anse Praslin"
-msgstr ""
+msgstr "Ceanada"
 
 # SC-15
 msgid "La Digue"
@@ -15328,11 +15334,11 @@ msgstr ""
 
 # SC-16
 msgid "English River"
-msgstr ""
+msgstr "Ceanada"
 
 # SC-17
 msgid "Mont Buxton"
-msgstr ""
+msgstr "Paraguay"
 
 # SC-18
 msgid "Mont Fleuri"
@@ -15340,23 +15346,23 @@ msgstr ""
 
 # SC-19
 msgid "Plaisance"
-msgstr ""
+msgstr "An Albáin"
 
 # SC-20
 msgid "Pointe Larue"
-msgstr ""
+msgstr "San Héilin"
 
 # SC-21
 msgid "Port Glaud"
-msgstr ""
+msgstr "An Pholainn"
 
 # SC-22
 msgid "Saint Louis"
-msgstr ""
+msgstr "San Héilin"
 
 # SC-23
 msgid "Takamaka"
-msgstr ""
+msgstr "Madagascar"
 
 # SC-24
 msgid "Les Mamelles"
@@ -15392,11 +15398,11 @@ msgstr ""
 
 # SD-GZ
 msgid "Al Jazīrah"
-msgstr ""
+msgstr "An Albáin"
 
 # SD-KA
 msgid "Kassalā"
-msgstr ""
+msgstr "Ceanada"
 
 # SD-KH
 msgid "Al Kharţūm"
@@ -15428,11 +15434,11 @@ msgstr ""
 
 # SD-RS
 msgid "Al Baḩr al Aḩmar"
-msgstr ""
+msgstr "An Albáin"
 
 # SD-SI
 msgid "Sinnār"
-msgstr ""
+msgstr "Singeapór"
 
 # SE-AB
 msgid "Stockholms län"
@@ -15448,7 +15454,7 @@ msgstr ""
 
 # SE-C
 msgid "Uppsala län"
-msgstr ""
+msgstr "An Albáin"
 
 # SE-D
 msgid "Södermanlands län"
@@ -15468,7 +15474,7 @@ msgstr ""
 
 # SE-H
 msgid "Kalmar län"
-msgstr ""
+msgstr "An Albáin"
 
 # SE-I
 msgid "Gotlands län"
@@ -15520,23 +15526,23 @@ msgstr ""
 
 # SG-01
 msgid "Central Singapore"
-msgstr ""
+msgstr "Ceanada"
 
 # SG-02
 msgid "North East"
-msgstr ""
+msgstr "An Iorua"
 
 # SG-03
 msgid "North West"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # SG-04
 msgid "South East"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # SG-05
 msgid "South West"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # SH-AC
 msgid "Ascension"
@@ -15544,7 +15550,7 @@ msgstr ""
 
 # SH-HL
 msgid "Saint Helena"
-msgstr ""
+msgstr "San Héilin"
 
 # SH-TA
 msgid "Tristan da Cunha"
@@ -15556,43 +15562,43 @@ msgstr ""
 
 # SI-002
 msgid "Beltinci"
-msgstr ""
+msgstr "An Bheilg"
 
 # SI-003
 msgid "Bled"
-msgstr ""
+msgstr "An Bholaiv"
 
 # SI-004
 msgid "Bohinj"
-msgstr ""
+msgstr "Bairéin"
 
 # SI-005
 msgid "Borovnica"
-msgstr ""
+msgstr "Maracó"
 
 # SI-006
 msgid "Bovec"
-msgstr ""
+msgstr "Monacó"
 
 # SI-007
 msgid "Brda"
-msgstr ""
+msgstr "Beirmiúda"
 
 # SI-008
 msgid "Brezovica"
-msgstr ""
+msgstr "An Bholaiv"
 
 # SI-009
 msgid "Brežice"
-msgstr ""
+msgstr "An Chóiré"
 
 # SI-010
 msgid "Tišina"
-msgstr ""
+msgstr "An Túinéis"
 
 # SI-011
 msgid "Celje"
-msgstr ""
+msgstr "An tSile"
 
 # SI-012
 msgid "Cerklje na Gorenjskem"
@@ -15600,15 +15606,15 @@ msgstr ""
 
 # SI-013
 msgid "Cerknica"
-msgstr ""
+msgstr "Cúba"
 
 # SI-014
 msgid "Cerkno"
-msgstr ""
+msgstr "An Fhrainc"
 
 # SI-015
 msgid "Črenšovci"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # SI-016
 msgid "Črna na Koroškem"
@@ -15624,7 +15630,7 @@ msgstr ""
 
 # SI-019
 msgid "Divača"
-msgstr ""
+msgstr "Málta"
 
 # SI-020
 msgid "Dobrepolje"
@@ -15640,15 +15646,15 @@ msgstr ""
 
 # SI-023
 msgid "Domžale"
-msgstr ""
+msgstr "An Rómáin"
 
 # SI-024
 msgid "Dornava"
-msgstr ""
+msgstr "Burma"
 
 # SI-025
 msgid "Dravograd"
-msgstr ""
+msgstr "An Iorua"
 
 # SI-026
 msgid "Duplek"
@@ -15660,7 +15666,7 @@ msgstr ""
 
 # SI-028
 msgid "Gorišnica"
-msgstr ""
+msgstr "An tSeoirsia"
 
 # SI-029
 msgid "Gornja Radgona"
@@ -15680,11 +15686,11 @@ msgstr ""
 
 # SI-033
 msgid "Šalovci"
-msgstr ""
+msgstr "Málta"
 
 # SI-034
 msgid "Hrastnik"
-msgstr ""
+msgstr "Háítí"
 
 # SI-035
 msgid "Hrpelje-Kozina"
@@ -15692,7 +15698,7 @@ msgstr ""
 
 # SI-036
 msgid "Idrija"
-msgstr ""
+msgstr "An India"
 
 # SI-037
 msgid "Ig"
@@ -15708,7 +15714,7 @@ msgstr ""
 
 # SI-040
 msgid "Izola/Isola"
-msgstr ""
+msgstr "An Iorua"
 
 # SI-041
 msgid "Jesenice"
@@ -15716,35 +15722,35 @@ msgstr ""
 
 # SI-042
 msgid "Juršinci"
-msgstr ""
+msgstr "An tSiria"
 
 # SI-043
 msgid "Kamnik"
-msgstr ""
+msgstr "An Rómáin"
 
 # SI-044
 msgid "Kanal"
-msgstr ""
+msgstr "Ceanada"
 
 # SI-045
 msgid "Kidričevo"
-msgstr ""
+msgstr "Cill Dara"
 
 # SI-046
 msgid "Kobarid"
-msgstr ""
+msgstr "Cúba"
 
 # SI-047
 msgid "Kobilje"
-msgstr ""
+msgstr "Cúba"
 
 # SI-048
 msgid "Kočevje"
-msgstr ""
+msgstr "Cill Dara"
 
 # SI-049
 msgid "Komen"
-msgstr ""
+msgstr "An Chéinia"
 
 # SI-050
 msgid "Koper/Capodistria"
@@ -15752,11 +15758,11 @@ msgstr ""
 
 # SI-051
 msgid "Kozje"
-msgstr ""
+msgstr "An Chóiré"
 
 # SI-052
 msgid "Kranj"
-msgstr ""
+msgstr "An Chóiré"
 
 # SI-053
 msgid "Kranjska Gora"
@@ -15764,31 +15770,31 @@ msgstr ""
 
 # SI-054
 msgid "Krško"
-msgstr ""
+msgstr "An Chóiré"
 
 # SI-055
 msgid "Kungota"
-msgstr ""
+msgstr "Angóla"
 
 # SI-056
 msgid "Kuzma"
-msgstr ""
+msgstr "Cuáit"
 
 # SI-057
 msgid "Laško"
-msgstr ""
+msgstr "Laos"
 
 # SI-058
 msgid "Lenart"
-msgstr ""
+msgstr "An Danmhairg"
 
 # SI-059
 msgid "Lendava/Lendva"
-msgstr ""
+msgstr "An Laitvia"
 
 # SI-060
 msgid "Litija"
-msgstr ""
+msgstr "An Ailgéir"
 
 # SI-061
 msgid "Ljubljana"
@@ -15796,7 +15802,7 @@ msgstr ""
 
 # SI-062
 msgid "Ljubno"
-msgstr ""
+msgstr "An Liobáin"
 
 # SI-063
 msgid "Ljutomer"
@@ -15804,7 +15810,7 @@ msgstr ""
 
 # SI-064
 msgid "Logatec"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # SI-065
 msgid "Loška dolina"
@@ -15824,11 +15830,11 @@ msgstr ""
 
 # SI-069
 msgid "Majšperk"
-msgstr ""
+msgstr "Peiriú"
 
 # SI-070
 msgid "Maribor"
-msgstr ""
+msgstr "Monacó"
 
 # SI-071
 msgid "Medvode"
@@ -15836,15 +15842,15 @@ msgstr ""
 
 # SI-072
 msgid "Mengeš"
-msgstr ""
+msgstr "An tSualainn"
 
 # SI-073
 msgid "Metlika"
-msgstr ""
+msgstr "An Ailgéir"
 
 # SI-074
 msgid "Mežica"
-msgstr ""
+msgstr "An Ailgéir"
 
 # SI-075
 msgid "Miren-Kostanjevica"
@@ -15852,11 +15858,11 @@ msgstr ""
 
 # SI-076
 msgid "Mislinja"
-msgstr ""
+msgstr "Srí Lanca"
 
 # SI-077
 msgid "Moravče"
-msgstr ""
+msgstr "An Iorua"
 
 # SI-078
 msgid "Moravske Toplice"
@@ -15864,7 +15870,7 @@ msgstr ""
 
 # SI-079
 msgid "Mozirje"
-msgstr ""
+msgstr "An tSáir"
 
 # SI-080
 msgid "Murska Sobota"
@@ -15872,15 +15878,15 @@ msgstr ""
 
 # SI-081
 msgid "Muta"
-msgstr ""
+msgstr "An Ostair"
 
 # SI-082
 msgid "Naklo"
-msgstr ""
+msgstr "Málta"
 
 # SI-083
 msgid "Nazarje"
-msgstr ""
+msgstr "Nicaragua"
 
 # SI-084
 msgid "Nova Gorica"
@@ -15892,7 +15898,7 @@ msgstr ""
 
 # SI-086
 msgid "Odranci"
-msgstr ""
+msgstr "An Iaráin"
 
 # SI-087
 msgid "Ormož"
@@ -15900,11 +15906,11 @@ msgstr ""
 
 # SI-088
 msgid "Osilnica"
-msgstr ""
+msgstr "Cúba"
 
 # SI-089
 msgid "Pesnica"
-msgstr ""
+msgstr "An Albáin"
 
 # SI-090
 msgid "Piran/Pirano"
@@ -15912,7 +15918,7 @@ msgstr ""
 
 # SI-091
 msgid "Pivka"
-msgstr ""
+msgstr "An Phacastáin"
 
 # SI-092
 msgid "Podčetrtek"
@@ -15924,7 +15930,7 @@ msgstr ""
 
 # SI-094
 msgid "Postojna"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # SI-095
 msgid "Preddvor"
@@ -15948,7 +15954,7 @@ msgstr ""
 
 # SI-100
 msgid "Radenci"
-msgstr ""
+msgstr "Camarún"
 
 # SI-101
 msgid "Radlje ob Dravi"
@@ -15964,7 +15970,7 @@ msgstr ""
 
 # SI-104
 msgid "Ribnica"
-msgstr ""
+msgstr "Cúba"
 
 # SI-105
 msgid "Rogašovci"
@@ -15976,7 +15982,7 @@ msgstr ""
 
 # SI-107
 msgid "Rogatec"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # SI-108
 msgid "Ruše"
@@ -15984,15 +15990,15 @@ msgstr ""
 
 # SI-109
 msgid "Semič"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # SI-110
 msgid "Sevnica"
-msgstr ""
+msgstr "Vitneam"
 
 # SI-111
 msgid "Sežana"
-msgstr ""
+msgstr "Vitneam"
 
 # SI-112
 msgid "Slovenj Gradec"
@@ -16008,7 +16014,7 @@ msgstr ""
 
 # SI-115
 msgid "Starče"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # SI-116
 msgid "Sveti Jurij"
@@ -16032,7 +16038,7 @@ msgstr ""
 
 # SI-121
 msgid "Škocjan"
-msgstr ""
+msgstr "Maracó"
 
 # SI-122
 msgid "Škofja Loka"
@@ -16052,15 +16058,15 @@ msgstr ""
 
 # SI-126
 msgid "Šoštanj"
-msgstr ""
+msgstr "An Pholainn"
 
 # SI-127
 msgid "Štore"
-msgstr ""
+msgstr "An Chóiré Dheas"
 
 # SI-128
 msgid "Tolmin"
-msgstr ""
+msgstr "An Tasmáin"
 
 # SI-129
 msgid "Trbovlje"
@@ -16076,11 +16082,11 @@ msgstr ""
 
 # SI-132
 msgid "Turnišče"
-msgstr ""
+msgstr "An Túinéis"
 
 # SI-133
 msgid "Velenje"
-msgstr ""
+msgstr "An tSualainn"
 
 # SI-134
 msgid "Velike Lašče"
@@ -16088,19 +16094,19 @@ msgstr ""
 
 # SI-135
 msgid "Videm"
-msgstr ""
+msgstr "Vitneam"
 
 # SI-136
 msgid "Vipava"
-msgstr ""
+msgstr "An tSiria"
 
 # SI-137
 msgid "Vitanje"
-msgstr ""
+msgstr "Vitneam"
 
 # SI-138
 msgid "Vodice"
-msgstr ""
+msgstr "Vitneam"
 
 # SI-139
 msgid "Vojnik"
@@ -16108,11 +16114,11 @@ msgstr ""
 
 # SI-140
 msgid "Vrhnika"
-msgstr ""
+msgstr "An tSín"
 
 # SI-141
 msgid "Vuzenica"
-msgstr ""
+msgstr "Cúba"
 
 # SI-142
 msgid "Zagorje ob Savi"
@@ -16120,11 +16126,11 @@ msgstr ""
 
 # SI-143
 msgid "Zavrč"
-msgstr ""
+msgstr "An tSáir"
 
 # SI-144
 msgid "Zreče"
-msgstr ""
+msgstr "An Ghréig"
 
 # SI-146
 msgid "Železniki"
@@ -16132,11 +16138,11 @@ msgstr ""
 
 # SI-147
 msgid "Žiri"
-msgstr ""
+msgstr "An tSáir"
 
 # SI-148
 msgid "Benedikt"
-msgstr ""
+msgstr "Beinin"
 
 # SI-149
 msgid "Bistrica ob Sotli"
@@ -16152,7 +16158,7 @@ msgstr ""
 
 # SI-152
 msgid "Cankova"
-msgstr ""
+msgstr "An Cabhán"
 
 # SI-153
 msgid "Cerkvenjak"
@@ -16164,7 +16170,7 @@ msgstr ""
 
 # SI-155
 msgid "Dobrna"
-msgstr ""
+msgstr "Dún na nGall"
 
 # SI-156
 msgid "Dobrovnik/Dobronak"
@@ -16176,15 +16182,15 @@ msgstr ""
 
 # SI-158
 msgid "Grad"
-msgstr ""
+msgstr "Grenada"
 
 # SI-159
 msgid "Hajdina"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # SI-160
 msgid "Hoče-Slivnica"
-msgstr ""
+msgstr "An Bholaiv"
 
 # SI-161
 msgid "Hodoš/Hodos"
@@ -16200,11 +16206,11 @@ msgstr ""
 
 # SI-164
 msgid "Komenda"
-msgstr ""
+msgstr "An Chéinia"
 
 # SI-165
 msgid "Kostel"
-msgstr ""
+msgstr "An Chóiré"
 
 # SI-166
 msgid "Križevci"
@@ -16216,7 +16222,7 @@ msgstr ""
 
 # SI-168
 msgid "Markovci"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # SI-169
 msgid "Miklavž na Dravskem polju"
@@ -16224,27 +16230,27 @@ msgstr ""
 
 # SI-170
 msgid "Mirna Peč"
-msgstr ""
+msgstr "Ceanada"
 
 # SI-171
 msgid "Oplotnica"
-msgstr ""
+msgstr "An Bholaiv"
 
 # SI-172
 msgid "Podlehnik"
-msgstr ""
+msgstr "Peiriú"
 
 # SI-173
 msgid "Polzela"
-msgstr ""
+msgstr "Cúba"
 
 # SI-174
 msgid "Prebold"
-msgstr ""
+msgstr "Cúba"
 
 # SI-175
 msgid "Prevalje"
-msgstr ""
+msgstr "Oileán Chomóra"
 
 # SI-176
 msgid "Razkrižje"
@@ -16260,11 +16266,11 @@ msgstr ""
 
 # SI-179
 msgid "Sodražica"
-msgstr ""
+msgstr "An tSiria"
 
 # SI-180
 msgid "Solčava"
-msgstr ""
+msgstr "An Pholainn"
 
 # SI-181
 msgid "Sveta Ana"
@@ -16280,7 +16286,7 @@ msgstr ""
 
 # SI-184
 msgid "Tabor"
-msgstr ""
+msgstr "An Chóiré"
 
 # SI-185
 msgid "Trnovska vas"
@@ -16288,7 +16294,7 @@ msgstr ""
 
 # SI-186
 msgid "Trzin"
-msgstr ""
+msgstr "An Iaráin"
 
 # SI-187
 msgid "Velika Polana"
@@ -16304,15 +16310,15 @@ msgstr ""
 
 # SI-190
 msgid "Žalec"
-msgstr ""
+msgstr "Málta"
 
 # SI-191
 msgid "Žetale"
-msgstr ""
+msgstr "Málta"
 
 # SI-192
 msgid "Žirovnica"
-msgstr ""
+msgstr "Maracó"
 
 # SI-193
 msgid "Žužemberk"
@@ -16424,15 +16430,15 @@ msgstr ""
 
 # SL-E
 msgid "Eastern"
-msgstr ""
+msgstr "Málta"
 
 # SL-N
 msgid "Northern"
-msgstr ""
+msgstr "An Isiltir"
 
 # SL-S
 msgid "Southern (Sierra Leone)"
-msgstr ""
+msgstr "An Isiltir"
 
 # SL-W
 msgid "Western Area (Freetown)"
@@ -16444,7 +16450,7 @@ msgstr ""
 
 # SM-02
 msgid "Chiesanuova"
-msgstr ""
+msgstr "An Cabhán"
 
 # SM-03
 msgid "Domagnano"
@@ -16452,11 +16458,11 @@ msgstr ""
 
 # SM-04
 msgid "Faetano"
-msgstr ""
+msgstr "An Albáin"
 
 # SM-05
 msgid "Fiorentino"
-msgstr ""
+msgstr "Vitneam"
 
 # SM-06
 msgid "Borgo Maggiore"
@@ -16464,7 +16470,7 @@ msgstr ""
 
 # SM-07
 msgid "San Marino"
-msgstr "San Mairíne"
+msgstr "San Héilin"
 
 # SM-08
 msgid "Montegiardino"
@@ -16492,7 +16498,7 @@ msgstr ""
 
 # SN-KD
 msgid "Kolda"
-msgstr ""
+msgstr "An Chóiré"
 
 # SN-KE
 msgid "Kédougou"
@@ -16504,11 +16510,11 @@ msgstr ""
 
 # SN-LG
 msgid "Louga"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # SN-MT
 msgid "Matam"
-msgstr ""
+msgstr "Málta"
 
 # SN-SE
 msgid "Sédhiou"
@@ -16520,11 +16526,11 @@ msgstr ""
 
 # SN-TC
 msgid "Tambacounda"
-msgstr ""
+msgstr "An Tasmáin"
 
 # SN-TH
 msgid "Thiès"
-msgstr ""
+msgstr "An Tibéid"
 
 # SN-ZG
 msgid "Ziguinchor"
@@ -16544,7 +16550,7 @@ msgstr ""
 
 # SO-BR
 msgid "Bari"
-msgstr ""
+msgstr "An Bhreatain"
 
 # SO-BY
 msgid "Bay"
@@ -16620,7 +16626,7 @@ msgstr ""
 
 # SR-NI
 msgid "Nickerie"
-msgstr ""
+msgstr "An Nigéir"
 
 # SR-PM
 msgid "Paramaribo"
@@ -16628,7 +16634,7 @@ msgstr ""
 
 # SR-PR
 msgid "Para"
-msgstr ""
+msgstr "Nicaragua"
 
 # SR-SA
 msgid "Saramacca"
@@ -16636,23 +16642,23 @@ msgstr ""
 
 # SR-SI
 msgid "Sipaliwini"
-msgstr ""
+msgstr "An Spáinn"
 
 # SR-WA
 msgid "Wanica"
-msgstr ""
+msgstr "An Albáin"
 
 # SS-BN
 msgid "Northern Bahr el Ghazal"
-msgstr ""
+msgstr "An Isiltir"
 
 # SS-BW
 msgid "Western Bahr el Ghazal"
-msgstr ""
+msgstr "Gána"
 
 # SS-EC
 msgid "Central Equatoria"
-msgstr ""
+msgstr "Ceanada"
 
 # SS-EE
 msgid "Eastern Equatoria"
@@ -16696,7 +16702,7 @@ msgstr ""
 
 # SV-CA
 msgid "Cabañas"
-msgstr ""
+msgstr "Ceanada"
 
 # SV-CH
 msgid "Chalatenango"
@@ -16708,11 +16714,11 @@ msgstr ""
 
 # SV-LI
 msgid "La Libertad"
-msgstr ""
+msgstr "An Libia"
 
 # SV-MO
 msgid "Morazán"
-msgstr ""
+msgstr "An Iordáin"
 
 # SV-PA
 msgid "La Paz"
@@ -16732,7 +16738,7 @@ msgstr ""
 
 # SV-SS
 msgid "San Salvador"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # SV-SV
 msgid "San Vicente"
@@ -16740,7 +16746,7 @@ msgstr ""
 
 # SV-UN
 msgid "La Unión"
-msgstr ""
+msgstr "Monacó"
 
 # SV-US
 msgid "Usulután"
@@ -16764,11 +16770,11 @@ msgstr ""
 
 # SY-HI
 msgid "Homs"
-msgstr ""
+msgstr "Hondúras"
 
 # SY-HL
 msgid "Halab"
-msgstr ""
+msgstr "Málta"
 
 # SY-HM
 msgid "Hamah"
@@ -16776,7 +16782,7 @@ msgstr ""
 
 # SY-ID
 msgid "Idlib"
-msgstr ""
+msgstr "An India"
 
 # SY-LA
 msgid "Al Ladhiqiyah"
@@ -16800,7 +16806,7 @@ msgstr ""
 
 # SY-TA
 msgid "Tartus"
-msgstr ""
+msgstr "Málta"
 
 # SZ-HH
 msgid "Hhohho"
@@ -16812,7 +16818,7 @@ msgstr ""
 
 # SZ-MA
 msgid "Manzini"
-msgstr ""
+msgstr "An Tansáin"
 
 # SZ-SH
 msgid "Shiselweni"
@@ -16820,7 +16826,7 @@ msgstr ""
 
 # TD-BA
 msgid "Al Baṭḩah"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # TD-BG
 msgid "Baḩr al Ghazāl"
@@ -16852,7 +16858,7 @@ msgstr ""
 
 # TD-LC
 msgid "Al Buḩayrah"
-msgstr ""
+msgstr "An tSalvadóir"
 
 # TD-LO
 msgid "Lūqūn al Gharbī"
@@ -16960,11 +16966,11 @@ msgstr ""
 
 # TH-18
 msgid "Chai Nat"
-msgstr ""
+msgstr "An tSín"
 
 # TH-19
 msgid "Saraburi"
-msgstr ""
+msgstr "An Araib"
 
 # TH-20
 msgid "Chon Buri"
@@ -17004,11 +17010,11 @@ msgstr ""
 
 # TH-31
 msgid "Buri Ram"
-msgstr ""
+msgstr "An Bhulgáir"
 
 # TH-32
 msgid "Surin"
-msgstr ""
+msgstr "An tSiria"
 
 # TH-33
 msgid "Si Sa Ket"
@@ -17060,7 +17066,7 @@ msgstr ""
 
 # TH-46
 msgid "Kalasin"
-msgstr ""
+msgstr "An Mhalaeisia"
 
 # TH-47
 msgid "Sakon Nakhon"
@@ -17072,11 +17078,11 @@ msgstr ""
 
 # TH-49
 msgid "Mukdahan"
-msgstr ""
+msgstr "An tSúdáin"
 
 # TH-50
 msgid "Chiang Mai"
-msgstr ""
+msgstr "An tSín"
 
 # TH-51
 msgid "Lamphun"
@@ -17084,7 +17090,7 @@ msgstr ""
 
 # TH-52
 msgid "Lampang"
-msgstr ""
+msgstr "An tSeapáin"
 
 # TH-53
 msgid "Uttaradit"
@@ -17104,7 +17110,7 @@ msgstr ""
 
 # TH-57
 msgid "Chiang Rai"
-msgstr ""
+msgstr "An tSín"
 
 # TH-58
 msgid "Mae Hong Son"
@@ -17180,11 +17186,11 @@ msgstr ""
 
 # TH-81
 msgid "Krabi"
-msgstr ""
+msgstr "An Chóiré"
 
 # TH-82
 msgid "Phangnga"
-msgstr ""
+msgstr "Gána"
 
 # TH-83
 msgid "Phuket"
@@ -17196,7 +17202,7 @@ msgstr ""
 
 # TH-85
 msgid "Ranong"
-msgstr ""
+msgstr "An Liobáin"
 
 # TH-86
 msgid "Chumphon"
@@ -17204,15 +17210,15 @@ msgstr ""
 
 # TH-90
 msgid "Songkhla"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # TH-91
 msgid "Satun"
-msgstr ""
+msgstr "An tSúdáin"
 
 # TH-92
 msgid "Trang"
-msgstr ""
+msgstr "An Iaráin"
 
 # TH-93
 msgid "Phatthalung"
@@ -17220,11 +17226,11 @@ msgstr ""
 
 # TH-94
 msgid "Pattani"
-msgstr ""
+msgstr "An Phacastáin"
 
 # TH-95
 msgid "Yala"
-msgstr ""
+msgstr "Málta"
 
 # TH-96
 msgid "Narathiwat"
@@ -17244,27 +17250,27 @@ msgstr ""
 
 # TJ-SU
 msgid "Sughd"
-msgstr ""
+msgstr "An tSúdáin"
 
 # TL-AL
 msgid "Aileu"
-msgstr ""
+msgstr "An Ailgéir"
 
 # TL-AN
 msgid "Ainaro"
-msgstr ""
+msgstr "an tAntartasch"
 
 # TL-BA
 msgid "Baucau"
-msgstr ""
+msgstr "Burma"
 
 # TL-BO
 msgid "Bobonaro"
-msgstr ""
+msgstr "An Congó"
 
 # TL-CO
 msgid "Cova Lima"
-msgstr ""
+msgstr "An Cholóim"
 
 # TL-DI
 msgid "Díli"
@@ -17272,27 +17278,27 @@ msgstr ""
 
 # TL-ER
 msgid "Ermera"
-msgstr ""
+msgstr "An Airméin"
 
 # TL-LA
 msgid "Lautem"
-msgstr ""
+msgstr "Málta"
 
 # TL-LI
 msgid "Liquiça"
-msgstr ""
+msgstr "An Liotuáin"
 
 # TL-MF
 msgid "Manufahi"
-msgstr ""
+msgstr "Paraguay"
 
 # TL-MT
 msgid "Manatuto"
-msgstr ""
+msgstr "Paraguay"
 
 # TL-OE
 msgid "Oecussi"
-msgstr ""
+msgstr "An Rúis"
 
 # TL-VI
 msgid "Viqueque"
@@ -17312,7 +17318,7 @@ msgstr ""
 
 # TM-L
 msgid "Lebap"
-msgstr ""
+msgstr "An Liobáin"
 
 # TM-M
 msgid "Mary"
@@ -17320,15 +17326,15 @@ msgstr ""
 
 # TM-S
 msgid "Aşgabat"
-msgstr ""
+msgstr "An Rómáin"
 
 # TN-11
 msgid "Tunis"
-msgstr ""
+msgstr "An Túinéis"
 
 # TN-12
 msgid "Ariana"
-msgstr ""
+msgstr "An tSiria"
 
 # TN-13
 msgid "Ben Arous"
@@ -17336,7 +17342,7 @@ msgstr ""
 
 # TN-14
 msgid "La Manouba"
-msgstr ""
+msgstr "Málta"
 
 # TN-21
 msgid "Nabeul"
@@ -17364,7 +17370,7 @@ msgstr ""
 
 # TN-34
 msgid "Siliana"
-msgstr ""
+msgstr "Srí Lanca"
 
 # TN-41
 msgid "Kairouan"
@@ -17396,7 +17402,7 @@ msgstr ""
 
 # TN-71
 msgid "Gafsa"
-msgstr ""
+msgstr "Gána"
 
 # TN-72
 msgid "Tozeur"
@@ -17424,31 +17430,31 @@ msgstr ""
 
 # TO-02
 msgid "Ha'apai"
-msgstr ""
+msgstr "Háítí"
 
 # TO-03
 msgid "Niuas"
-msgstr ""
+msgstr "Nicaragua"
 
 # TO-04
 msgid "Tongatapu"
-msgstr ""
+msgstr "Málta"
 
 # TO-05
 msgid "Vava'u"
-msgstr ""
+msgstr "An tSiria"
 
 # TR-01
 msgid "Adana"
-msgstr ""
+msgstr "An Albáin"
 
 # TR-02
 msgid "Adıyaman"
-msgstr ""
+msgstr "An Iordáin"
 
 # TR-03
 msgid "Afyonkarahisar"
-msgstr ""
+msgstr "an tAntartasch"
 
 # TR-04
 msgid "Ağrı"
@@ -17460,19 +17466,19 @@ msgstr ""
 
 # TR-06
 msgid "Ankara"
-msgstr ""
+msgstr "an tAntartasch"
 
 # TR-07
 msgid "Antalya"
-msgstr ""
+msgstr "An Iodáil"
 
 # TR-08
 msgid "Artvin"
-msgstr ""
+msgstr "An Bhreatain"
 
 # TR-09
 msgid "Aydın"
-msgstr ""
+msgstr "An tSúdáin"
 
 # TR-10
 msgid "Balıkesir"
@@ -17488,7 +17494,7 @@ msgstr ""
 
 # TR-13
 msgid "Bitlis"
-msgstr ""
+msgstr "An Bhreatain"
 
 # TR-14
 msgid "Bolu"
@@ -17500,11 +17506,11 @@ msgstr ""
 
 # TR-16
 msgid "Bursa"
-msgstr ""
+msgstr "Burma"
 
 # TR-17
 msgid "Çanakkale"
-msgstr ""
+msgstr "Ceanada"
 
 # TR-18
 msgid "Çankırı"
@@ -17552,7 +17558,7 @@ msgstr ""
 
 # TR-29
 msgid "Gümüşhane"
-msgstr ""
+msgstr "Gána"
 
 # TR-30
 msgid "Hakkâri"
@@ -17560,11 +17566,11 @@ msgstr ""
 
 # TR-31
 msgid "Hatay"
-msgstr ""
+msgstr "Málta"
 
 # TR-32
 msgid "Isparta"
-msgstr ""
+msgstr "Iosrael"
 
 # TR-33
 msgid "Mersin"
@@ -17572,7 +17578,7 @@ msgstr ""
 
 # TR-34
 msgid "İstanbul"
-msgstr ""
+msgstr "An Iodáil"
 
 # TR-35
 msgid "İzmir"
@@ -17592,7 +17598,7 @@ msgstr ""
 
 # TR-39
 msgid "Kırklareli"
-msgstr ""
+msgstr "Cill Dara"
 
 # TR-40
 msgid "Kırşehir"
@@ -17604,19 +17610,19 @@ msgstr ""
 
 # TR-42
 msgid "Konya"
-msgstr ""
+msgstr "An Chéinia"
 
 # TR-43
 msgid "Kütahya"
-msgstr ""
+msgstr "An Chéinia"
 
 # TR-44
 msgid "Malatya"
-msgstr ""
+msgstr "Málta"
 
 # TR-45
 msgid "Manisa"
-msgstr ""
+msgstr "An Albáin"
 
 # TR-46
 msgid "Kahramanmaraş"
@@ -17628,7 +17634,7 @@ msgstr ""
 
 # TR-48
 msgid "Muğla"
-msgstr ""
+msgstr "Málta"
 
 # TR-49
 msgid "Muş"
@@ -17640,7 +17646,7 @@ msgstr ""
 
 # TR-51
 msgid "Niğde"
-msgstr ""
+msgstr "An Nígir"
 
 # TR-52
 msgid "Ordu"
@@ -17664,11 +17670,11 @@ msgstr ""
 
 # TR-57
 msgid "Sinop"
-msgstr ""
+msgstr "An Spáinn"
 
 # TR-58
 msgid "Sivas"
-msgstr ""
+msgstr "An tSiria"
 
 # TR-59
 msgid "Tekirdağ"
@@ -17724,7 +17730,7 @@ msgstr ""
 
 # TR-72
 msgid "Batman"
-msgstr ""
+msgstr "An Bhreatain"
 
 # TR-73
 msgid "Şırnak"
@@ -17732,11 +17738,11 @@ msgstr ""
 
 # TR-74
 msgid "Bartın"
-msgstr ""
+msgstr "An Bhreatain"
 
 # TR-75
 msgid "Ardahan"
-msgstr ""
+msgstr "An Iordáin"
 
 # TR-76
 msgid "Iğdır"
@@ -17748,7 +17754,7 @@ msgstr ""
 
 # TR-78
 msgid "Karabük"
-msgstr ""
+msgstr "An Chóiré"
 
 # TR-79
 msgid "Kilis"
@@ -17756,7 +17762,7 @@ msgstr ""
 
 # TR-80
 msgid "Osmaniye"
-msgstr ""
+msgstr "An Tasmáin"
 
 # TR-81
 msgid "Düzce"
@@ -17764,7 +17770,7 @@ msgstr ""
 
 # TT-ARI
 msgid "Arima"
-msgstr ""
+msgstr "An Ostair"
 
 # TT-CHA
 msgid "Chaguanas"
@@ -17812,7 +17818,7 @@ msgstr ""
 
 # TT-SIP
 msgid "Siparia"
-msgstr ""
+msgstr "An tSiria"
 
 # TT-SJL
 msgid "San Juan-Laventille"
@@ -17832,7 +17838,7 @@ msgstr ""
 
 # TV-NIT
 msgid "Niutao"
-msgstr ""
+msgstr "An Phacastáin"
 
 # TV-NKF
 msgid "Nukufetau"
@@ -17844,11 +17850,11 @@ msgstr ""
 
 # TV-NMA
 msgid "Nanumea"
-msgstr ""
+msgstr "Paraguay"
 
 # TV-NMG
 msgid "Nanumanga"
-msgstr ""
+msgstr "An Tasmáin"
 
 # TV-NUI
 msgid "Nui"
@@ -17860,15 +17866,15 @@ msgstr ""
 
 # TW-CHA
 msgid "Changhua"
-msgstr ""
+msgstr "An tSín"
 
 # TW-CYI
 msgid "Chiay City"
-msgstr ""
+msgstr "An tSín"
 
 # TW-CYQ
 msgid "Chiayi"
-msgstr ""
+msgstr "An tSín"
 
 # TW-HSQ
 msgid "Hsinchu"
@@ -17884,7 +17890,7 @@ msgstr ""
 
 # TW-ILA
 msgid "Ilan"
-msgstr ""
+msgstr "An Iaráin"
 
 # TW-KEE
 msgid "Keelung City"
@@ -17908,7 +17914,7 @@ msgstr ""
 
 # TW-PEN
 msgid "Penghu"
-msgstr ""
+msgstr "Peiriú"
 
 # TW-PIF
 msgid "Pingtung"
@@ -17920,11 +17926,11 @@ msgstr ""
 
 # TW-TNN
 msgid "Tainan City"
-msgstr ""
+msgstr "An Tansáin"
 
 # TW-TNQ
 msgid "Tainan"
-msgstr ""
+msgstr "An Tansáin"
 
 # TW-TPE
 msgid "Taipei City"
@@ -17952,7 +17958,7 @@ msgstr ""
 
 # TZ-01
 msgid "Arusha"
-msgstr ""
+msgstr "An Ostair"
 
 # TZ-02
 msgid "Dar-es-Salaam"
@@ -17964,11 +17970,11 @@ msgstr ""
 
 # TZ-04
 msgid "Iringa"
-msgstr ""
+msgstr "An Iaráic"
 
 # TZ-05
 msgid "Kagera"
-msgstr ""
+msgstr "An Ailgéir"
 
 # TZ-06
 msgid "Kaskazini Pemba"
@@ -17980,7 +17986,7 @@ msgstr ""
 
 # TZ-08
 msgid "Kigoma"
-msgstr ""
+msgstr "An Chéinia"
 
 # TZ-09
 msgid "Kilimanjaro"
@@ -17996,15 +18002,15 @@ msgstr ""
 
 # TZ-12
 msgid "Lindi"
-msgstr ""
+msgstr "An India"
 
 # TZ-13
 msgid "Mara"
-msgstr ""
+msgstr "Málta"
 
 # TZ-14
 msgid "Mbeya"
-msgstr ""
+msgstr "An Libia"
 
 # TZ-15
 msgid "Mjini Magharibi"
@@ -18012,7 +18018,7 @@ msgstr ""
 
 # TZ-16
 msgid "Morogoro"
-msgstr ""
+msgstr "Maracó"
 
 # TZ-17
 msgid "Mtwara"
@@ -18020,7 +18026,7 @@ msgstr ""
 
 # TZ-18
 msgid "Mwanza"
-msgstr ""
+msgstr "Málta"
 
 # TZ-19
 msgid "Pwani"
@@ -18040,7 +18046,7 @@ msgstr ""
 
 # TZ-23
 msgid "Singida"
-msgstr ""
+msgstr "Singeapór"
 
 # TZ-24
 msgid "Tabora"
@@ -18048,46 +18054,55 @@ msgstr ""
 
 # TZ-25
 msgid "Tanga"
-msgstr ""
+msgstr "An Tansáin"
 
 # TZ-26
 msgid "Manyara"
-msgstr ""
+msgstr "Málta"
 
 # UA-05
-msgid "Vinnyts'ka Oblast'"
+# original msgid: "Vinnyts'ka Oblast'"
+msgid "Vinnytska oblast"
 msgstr ""
 
 # UA-07
-msgid "Volyns'ka Oblast'"
-msgstr ""
+# original msgid: "Volyns'ka Oblast'"
+msgid "Volynska oblast"
+msgstr "Málta"
 
 # UA-09
-msgid "Luhans'ka Oblast'"
+# original msgid: "Luhans'ka Oblast'"
+msgid "Luhanska oblast"
 msgstr ""
 
 # UA-12
-msgid "Dnipropetrovs'ka Oblast'"
+# original msgid: "Dnipropetrovs'ka Oblast'"
+msgid "Dnipropetrovska oblast"
 msgstr ""
 
 # UA-14
-msgid "Donets'ka Oblast'"
+# original msgid: "Donets'ka Oblast'"
+msgid "Donetska oblast"
 msgstr ""
 
 # UA-18
-msgid "Zhytomyrs'ka Oblast'"
+# original msgid: "Zhytomyrs'ka Oblast'"
+msgid "Zhytomyrska oblast"
 msgstr ""
 
 # UA-21
-msgid "Zakarpats'ka Oblast'"
+# original msgid: "Zakarpats'ka Oblast'"
+msgid "Zakarpatska oblast"
 msgstr ""
 
 # UA-23
-msgid "Zaporiz'ka Oblast'"
+# original msgid: "Zaporiz'ka Oblast'"
+msgid "Zaporizka oblast"
 msgstr ""
 
 # UA-26
-msgid "Ivano-Frankivs'ka Oblast'"
+# original msgid: "Ivano-Frankivs'ka Oblast'"
+msgid "Ivano-Frankivska oblast"
 msgstr ""
 
 # UA-30
@@ -18097,11 +18112,12 @@ msgstr ""
 
 # UA-32
 # original msgid: "Kyïvs'ka Oblast'"
-msgid "Kyivs'ka Oblast'"
+msgid "Kyivska oblast"
 msgstr ""
 
 # UA-35
-msgid "Kirovohrads'ka Oblast'"
+# original msgid: "Kirovohrads'ka Oblast'"
+msgid "Kirovohradska oblast"
 msgstr ""
 
 # UA-40
@@ -18109,59 +18125,73 @@ msgid "Sevastopol"
 msgstr ""
 
 # UA-43
-msgid "Respublika Krym"
+# original msgid: "Respublika Krym"
+msgid "Avtonomna Respublika Krym"
 msgstr ""
 
 # UA-46
-msgid "L'vivs'ka Oblast'"
+# original msgid: "L'vivs'ka Oblast'"
+msgid "Lvivska oblast"
 msgstr ""
 
 # UA-48
-msgid "Mykolaïvs'ka Oblast'"
+# original msgid: "Mykolaïvs'ka Oblast'"
+msgid "Mykolaivska oblast"
 msgstr ""
 
 # UA-51
-msgid "Odes'ka Oblast'"
+# original msgid: "Odes'ka Oblast'"
+msgid "Odeska oblast"
 msgstr ""
 
 # UA-53
-msgid "Poltavs'ka Oblast'"
+# original msgid: "Poltavs'ka Oblast'"
+msgid "Poltavska oblast"
 msgstr ""
 
 # UA-56
-msgid "Rivnens'ka Oblast'"
+# original msgid: "Rivnens'ka Oblast'"
+msgid "Rivnenska oblast"
 msgstr ""
 
 # UA-59
-msgid "Sums 'ka Oblast'"
+# original msgid: "Sums 'ka Oblast'"
+msgid "Sumska oblast"
 msgstr ""
 
 # UA-61
-msgid "Ternopil's'ka Oblast'"
+# original msgid: "Ternopil's'ka Oblast'"
+msgid "Ternopilska oblast"
 msgstr ""
 
 # UA-63
-msgid "Kharkivs'ka Oblast'"
+# original msgid: "Kharkivs'ka Oblast'"
+msgid "Kharkivska oblast"
 msgstr ""
 
 # UA-65
-msgid "Khersons'ka Oblast'"
+# original msgid: "Khersons'ka Oblast'"
+msgid "Khersonska oblast"
 msgstr ""
 
 # UA-68
-msgid "Khmel'nyts'ka Oblast'"
+# original msgid: "Khmel'nyts'ka Oblast'"
+msgid "Khmelnytska oblast"
 msgstr ""
 
 # UA-71
-msgid "Cherkas'ka Oblast'"
+# original msgid: "Cherkas'ka Oblast'"
+msgid "Cherkaska oblast"
 msgstr ""
 
 # UA-74
-msgid "Chernihivs'ka Oblast'"
+# original msgid: "Chernihivs'ka Oblast'"
+msgid "Chernihivska oblast"
 msgstr ""
 
 # UA-77
-msgid "Chernivets'ka Oblast'"
+# original msgid: "Chernivets'ka Oblast'"
+msgid "Chernivetska oblast"
 msgstr ""
 
 # UG-101
@@ -18170,7 +18200,7 @@ msgstr ""
 
 # UG-102
 msgid "Kampala"
-msgstr ""
+msgstr "Guatamala"
 
 # UG-103
 msgid "Kiboga"
@@ -18194,11 +18224,11 @@ msgstr ""
 
 # UG-108
 msgid "Mukono"
-msgstr ""
+msgstr "Monacó"
 
 # UG-109
 msgid "Nakasongola"
-msgstr ""
+msgstr "An Tasmáin"
 
 # UG-110
 msgid "Rakai"
@@ -18210,15 +18240,15 @@ msgstr ""
 
 # UG-112
 msgid "Kayunga"
-msgstr ""
+msgstr "An Spáinn"
 
 # UG-113
 msgid "Wakiso"
-msgstr ""
+msgstr "Monacó"
 
 # UG-114
 msgid "Mityana"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # UG-115
 msgid "Nakaseke"
@@ -18226,23 +18256,23 @@ msgstr ""
 
 # UG-116
 msgid "Lyantonde"
-msgstr ""
+msgstr "An Bhanglaidéis"
 
 # UG-201
 msgid "Bugiri"
-msgstr ""
+msgstr "An Bhulgáir"
 
 # UG-202
 msgid "Busia"
-msgstr ""
+msgstr "Burma"
 
 # UG-203
 msgid "Iganga"
-msgstr ""
+msgstr "Uganda"
 
 # UG-204
 msgid "Jinja"
-msgstr ""
+msgstr "An tSín"
 
 # UG-205
 msgid "Kamuli"
@@ -18254,19 +18284,19 @@ msgstr ""
 
 # UG-207
 msgid "Katakwi"
-msgstr ""
+msgstr "An Mhaláiv"
 
 # UG-208
 msgid "Kumi"
-msgstr ""
+msgstr "Cuáit"
 
 # UG-209
 msgid "Mbale"
-msgstr ""
+msgstr "Málta"
 
 # UG-210
 msgid "Pallisa"
-msgstr ""
+msgstr "An Phacastáin"
 
 # UG-211
 msgid "Soroti"
@@ -18274,7 +18304,7 @@ msgstr ""
 
 # UG-212
 msgid "Tororo"
-msgstr ""
+msgstr "Maracó"
 
 # UG-213
 msgid "Kaberamaido"
@@ -18282,51 +18312,51 @@ msgstr ""
 
 # UG-214
 msgid "Mayuge"
-msgstr ""
+msgstr "Málta"
 
 # UG-215
 msgid "Sironko"
-msgstr ""
+msgstr "An Spáinn"
 
 # UG-216
 msgid "Amuria"
-msgstr ""
+msgstr "An Ostair"
 
 # UG-217
 msgid "Budaka"
-msgstr ""
+msgstr "Beirmiúda"
 
 # UG-218
 msgid "Bukwa"
-msgstr ""
+msgstr "Burma"
 
 # UG-219
 msgid "Butaleja"
-msgstr ""
+msgstr "An Bhanglaidéis"
 
 # UG-220
 msgid "Kaliro"
-msgstr ""
+msgstr "Maracó"
 
 # UG-221
 msgid "Manafwa"
-msgstr ""
+msgstr "Paraguay"
 
 # UG-222
 msgid "Namutumba"
-msgstr ""
+msgstr "Paraguay"
 
 # UG-223
 msgid "Bududa"
-msgstr ""
+msgstr "Beirmiúda"
 
 # UG-224
 msgid "Bukedea"
-msgstr ""
+msgstr "An Chóiré"
 
 # UG-301
 msgid "Adjumani"
-msgstr ""
+msgstr "An tSúdáin"
 
 # UG-302
 msgid "Apac"
@@ -18350,15 +18380,15 @@ msgstr ""
 
 # UG-307
 msgid "Lira"
-msgstr ""
+msgstr "An Libia"
 
 # UG-308
 msgid "Moroto"
-msgstr ""
+msgstr "Maracó"
 
 # UG-309
 msgid "Moyo"
-msgstr ""
+msgstr "Monacó"
 
 # UG-310
 msgid "Nebbi"
@@ -18370,19 +18400,19 @@ msgstr ""
 
 # UG-312
 msgid "Pader"
-msgstr ""
+msgstr "An Iorua"
 
 # UG-313
 msgid "Yumbe"
-msgstr ""
+msgstr "Suranam"
 
 # UG-314
 msgid "Amolatar"
-msgstr ""
+msgstr "Málta"
 
 # UG-315
 msgid "Kaabong"
-msgstr ""
+msgstr "An Spáinn"
 
 # UG-316
 msgid "Koboko"
@@ -18390,19 +18420,19 @@ msgstr ""
 
 # UG-317
 msgid "Abim"
-msgstr ""
+msgstr "An Albáin"
 
 # UG-318
 msgid "Dokolo"
-msgstr ""
+msgstr "An Pholainn"
 
 # UG-319
 msgid "Amuru"
-msgstr ""
+msgstr "An Ostair"
 
 # UG-320
 msgid "Maracha"
-msgstr ""
+msgstr "An Fhrainc"
 
 # UG-321
 msgid "Oyam"
@@ -18434,7 +18464,7 @@ msgstr ""
 
 # UG-407
 msgid "Kibaale"
-msgstr ""
+msgstr "Málta"
 
 # UG-408
 msgid "Kisoro"
@@ -18458,11 +18488,11 @@ msgstr ""
 
 # UG-413
 msgid "Kamwenge"
-msgstr ""
+msgstr "An Chéinia"
 
 # UG-414
 msgid "Kanungu"
-msgstr ""
+msgstr "An Liobáin"
 
 # UG-415
 msgid "Kyenjojo"
@@ -18470,7 +18500,7 @@ msgstr ""
 
 # UG-416
 msgid "Ibanda"
-msgstr ""
+msgstr "Ceanada"
 
 # UG-417
 msgid "Isingiro"
@@ -18478,27 +18508,27 @@ msgstr ""
 
 # UG-418
 msgid "Kiruhura"
-msgstr ""
+msgstr "Burma"
 
 # UG-419
 msgid "Buliisa"
-msgstr ""
+msgstr "An Bholaiv"
 
 # UG-C
 msgid "Central"
-msgstr ""
+msgstr "Ceanada"
 
 # UG-E
 msgid "Eastern"
-msgstr ""
+msgstr "Málta"
 
 # UG-N
 msgid "Northern"
-msgstr ""
+msgstr "An Isiltir"
 
 # UG-W
 msgid "Western"
-msgstr ""
+msgstr "An Iarmhí"
 
 # UM-67
 msgid "Johnston Atoll"
@@ -18538,11 +18568,11 @@ msgstr ""
 
 # US-AK
 msgid "Alaska"
-msgstr ""
+msgstr "An Albáin"
 
 # US-AL
 msgid "Alabama"
-msgstr ""
+msgstr "An Albáin"
 
 # US-AR
 msgid "Arkansas"
@@ -18554,15 +18584,15 @@ msgstr "Samó Meiriceánach"
 
 # US-AZ
 msgid "Arizona"
-msgstr ""
+msgstr "An Ostair"
 
 # US-CA
 msgid "California"
-msgstr ""
+msgstr "An Cholóim"
 
 # US-CO
 msgid "Colorado"
-msgstr ""
+msgstr "An Cholóim"
 
 # US-CT
 msgid "Connecticut"
@@ -18578,7 +18608,7 @@ msgstr ""
 
 # US-FL
 msgid "Florida"
-msgstr ""
+msgstr "An tSiria"
 
 # US-GA
 msgid "Georgia"
@@ -18590,15 +18620,15 @@ msgstr "Guam"
 
 # US-HI
 msgid "Hawaii"
-msgstr ""
+msgstr "Háítí"
 
 # US-IA
 msgid "Iowa"
-msgstr ""
+msgstr "An Iorua"
 
 # US-ID
 msgid "Idaho"
-msgstr ""
+msgstr "An India"
 
 # US-IL
 msgid "Illinois"
@@ -18606,7 +18636,7 @@ msgstr ""
 
 # US-IN
 msgid "Indiana"
-msgstr ""
+msgstr "An India"
 
 # US-KS
 msgid "Kansas"
@@ -18614,11 +18644,11 @@ msgstr ""
 
 # US-KY
 msgid "Kentucky"
-msgstr ""
+msgstr "An Chéinia"
 
 # US-LA
 msgid "Louisiana"
-msgstr ""
+msgstr "An Túinéis"
 
 # US-MA
 msgid "Massachusetts"
@@ -18626,11 +18656,11 @@ msgstr ""
 
 # US-MD
 msgid "Maryland"
-msgstr ""
+msgstr "Éire"
 
 # US-ME
 msgid "Maine"
-msgstr ""
+msgstr "An tSáir"
 
 # US-MI
 msgid "Michigan"
@@ -18646,7 +18676,7 @@ msgstr ""
 
 # US-MP
 msgid "Northern Mariana Islands"
-msgstr "Oileáin Mariana Thuaidh"
+msgstr "Oileáin Mariana Thuiadh"
 
 # US-MS
 msgid "Mississippi"
@@ -18654,7 +18684,7 @@ msgstr ""
 
 # US-MT
 msgid "Montana"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # US-NC
 msgid "North Carolina"
@@ -18678,7 +18708,7 @@ msgstr ""
 
 # US-NM
 msgid "New Mexico"
-msgstr ""
+msgstr "Meicsiceo"
 
 # US-NV
 msgid "Nevada"
@@ -18742,7 +18772,7 @@ msgstr ""
 
 # US-VI
 msgid "Virgin Islands"
-msgstr ""
+msgstr "Oileáin na Maighdean"
 
 # US-VT
 msgid "Vermont"
@@ -18766,7 +18796,7 @@ msgstr ""
 
 # UY-AR
 msgid "Artigas"
-msgstr ""
+msgstr "An tSúdáin"
 
 # UY-CA
 msgid "Canelones"
@@ -18778,7 +18808,7 @@ msgstr ""
 
 # UY-CO
 msgid "Colonia"
-msgstr ""
+msgstr "An Cholóim"
 
 # UY-DU
 msgid "Durazno"
@@ -18786,7 +18816,7 @@ msgstr ""
 
 # UY-FD
 msgid "Florida"
-msgstr ""
+msgstr "An tSiria"
 
 # UY-FS
 msgid "Flores"
@@ -18798,7 +18828,7 @@ msgstr ""
 
 # UY-MA
 msgid "Maldonado"
-msgstr ""
+msgstr "Monacó"
 
 # UY-MO
 msgid "Montevideo"
@@ -18806,7 +18836,7 @@ msgstr ""
 
 # UY-PA
 msgid "Paysandú"
-msgstr ""
+msgstr "An Phacastáin"
 
 # UY-RN
 msgid "Río Negro"
@@ -18818,19 +18848,19 @@ msgstr ""
 
 # UY-RV
 msgid "Rivera"
-msgstr ""
+msgstr "An Nigéir"
 
 # UY-SA
 msgid "Salto"
-msgstr ""
+msgstr "Málta"
 
 # UY-SJ
 msgid "San José"
-msgstr ""
+msgstr "San Héilin"
 
 # UY-SO
 msgid "Soriano"
-msgstr ""
+msgstr "An tSiria"
 
 # UY-TA
 msgid "Tacuarembó"
@@ -18846,11 +18876,11 @@ msgstr ""
 
 # UZ-BU
 msgid "Buxoro"
-msgstr ""
+msgstr "An Congó"
 
 # UZ-FA
 msgid "Farg'ona"
-msgstr ""
+msgstr "An Fhrainc"
 
 # UZ-JI
 msgid "Jizzax"
@@ -18858,7 +18888,7 @@ msgstr ""
 
 # UZ-NG
 msgid "Namangan"
-msgstr ""
+msgstr "An Tasmáin"
 
 # UZ-NW
 msgid "Navoiy"
@@ -18894,11 +18924,11 @@ msgstr ""
 
 # UZ-XO
 msgid "Xorazm"
-msgstr ""
+msgstr "An Chóiré"
 
 # VC-01
 msgid "Charlotte"
-msgstr ""
+msgstr "Ceatharlach"
 
 # VC-02
 msgid "Saint Andrew"
@@ -18906,11 +18936,11 @@ msgstr ""
 
 # VC-03
 msgid "Saint David"
-msgstr ""
+msgstr "San Héilin"
 
 # VC-04
 msgid "Saint George"
-msgstr ""
+msgstr "San Héilin"
 
 # VC-05
 msgid "Saint Patrick"
@@ -18934,11 +18964,11 @@ msgstr ""
 
 # VE-D
 msgid "Aragua"
-msgstr ""
+msgstr "Paraguay"
 
 # VE-E
 msgid "Barinas"
-msgstr ""
+msgstr "An Bhulgáir"
 
 # VE-F
 msgid "Bolívar"
@@ -18946,7 +18976,7 @@ msgstr ""
 
 # VE-G
 msgid "Carabobo"
-msgstr ""
+msgstr "Camarún"
 
 # VE-H
 msgid "Cojedes"
@@ -18966,15 +18996,15 @@ msgstr ""
 
 # VE-L
 msgid "Mérida"
-msgstr ""
+msgstr "An Ailgéir"
 
 # VE-M
 msgid "Miranda"
-msgstr ""
+msgstr "Ceanada"
 
 # VE-N
 msgid "Monagas"
-msgstr ""
+msgstr "An Mhóngóil"
 
 # VE-O
 msgid "Nueva Esparta"
@@ -18982,11 +19012,11 @@ msgstr ""
 
 # VE-P
 msgid "Portuguesa"
-msgstr ""
+msgstr "An Phortaingéil"
 
 # VE-R
 msgid "Sucre"
-msgstr ""
+msgstr "An Tuirc"
 
 # VE-S
 msgid "Táchira"
@@ -18998,11 +19028,11 @@ msgstr ""
 
 # VE-U
 msgid "Yaracuy"
-msgstr ""
+msgstr "Paraguay"
 
 # VE-V
 msgid "Zulia"
-msgstr ""
+msgstr "An Bhulgáir"
 
 # VE-W
 msgid "Dependencias Federales"
@@ -19010,7 +19040,7 @@ msgstr ""
 
 # VE-X
 msgid "Vargas"
-msgstr ""
+msgstr "An Chóiré"
 
 # VE-Y
 msgid "Delta Amacuro"
@@ -19018,7 +19048,7 @@ msgstr ""
 
 # VE-Z
 msgid "Amazonas"
-msgstr ""
+msgstr "An Ostair"
 
 # VN-01
 msgid "Lai Châu"
@@ -19030,11 +19060,11 @@ msgstr ""
 
 # VN-03
 msgid "Hà Giang"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # VN-04
 msgid "Cao Bằng"
-msgstr ""
+msgstr "An Congó"
 
 # VN-05
 msgid "Sơn La"
@@ -19050,7 +19080,7 @@ msgstr ""
 
 # VN-09
 msgid "Lạng Sơn"
-msgstr ""
+msgstr "An Liobáin"
 
 # VN-13
 msgid "Quảng Ninh"
@@ -19170,7 +19200,7 @@ msgstr ""
 
 # VN-47
 msgid "Kiên Giang"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # VN-49
 msgid "Vĩnh Long"
@@ -19194,7 +19224,7 @@ msgstr ""
 
 # VN-54
 msgid "Bắc Giang"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # VN-55
 msgid "Bạc Liêu"
@@ -19254,7 +19284,7 @@ msgstr ""
 
 # VN-73
 msgid "Hậu Giang"
-msgstr ""
+msgstr "An Fhionlainn"
 
 # VN-CT
 msgid "Cần Thơ"
@@ -19278,11 +19308,11 @@ msgstr ""
 
 # VU-MAP
 msgid "Malampa"
-msgstr ""
+msgstr "Málta"
 
 # VU-PAM
 msgid "Pénama"
-msgstr ""
+msgstr "Panama"
 
 # VU-SAM
 msgid "Sanma"
@@ -19290,19 +19320,19 @@ msgstr ""
 
 # VU-SEE
 msgid "Shéfa"
-msgstr ""
+msgstr "An tSúdáin"
 
 # VU-TAE
 msgid "Taféa"
-msgstr ""
+msgstr "Málta"
 
 # VU-TOB
 msgid "Torba"
-msgstr ""
+msgstr "An Chóiré"
 
 # WS-AA
 msgid "A'ana"
-msgstr ""
+msgstr "An Albáin"
 
 # WS-AL
 msgid "Aiga-i-le-Tai"
@@ -19318,7 +19348,7 @@ msgstr ""
 
 # WS-GE
 msgid "Gaga'emauga"
-msgstr ""
+msgstr "Guatamala"
 
 # WS-GI
 msgid "Gagaifomauga"
@@ -19346,15 +19376,15 @@ msgstr ""
 
 # YE-AB
 msgid "Abyān"
-msgstr ""
+msgstr "An Albáin"
 
 # YE-AD
 msgid "'Adan"
-msgstr ""
+msgstr "An tSúdáin"
 
 # YE-AM
 msgid "'Amrān"
-msgstr ""
+msgstr "An tSúdáin"
 
 # YE-BA
 msgid "Al Bayḑā'"
@@ -19430,7 +19460,7 @@ msgstr ""
 
 # ZA-FS
 msgid "Free State"
-msgstr ""
+msgstr "Stáit Aontaithe Mheiriceá"
 
 # ZA-GT
 msgid "Gauteng"
@@ -19462,15 +19492,15 @@ msgstr ""
 
 # ZM-01
 msgid "Western"
-msgstr ""
+msgstr "An Iarmhí"
 
 # ZM-02
 msgid "Central"
-msgstr ""
+msgstr "Ceanada"
 
 # ZM-03
 msgid "Eastern"
-msgstr ""
+msgstr "Málta"
 
 # ZM-04
 msgid "Luapula"
@@ -19478,7 +19508,7 @@ msgstr ""
 
 # ZM-05
 msgid "Northern"
-msgstr ""
+msgstr "An Isiltir"
 
 # ZM-06
 msgid "North-Western"
@@ -19486,7 +19516,7 @@ msgstr ""
 
 # ZM-07
 msgid "Southern (Zambia)"
-msgstr ""
+msgstr "An Isiltir"
 
 # ZM-08
 msgid "Copperbelt"
@@ -19498,7 +19528,7 @@ msgstr ""
 
 # ZW-BU
 msgid "Bulawayo"
-msgstr ""
+msgstr "An Bhulgáir"
 
 # ZW-HA
 msgid "Harare"
@@ -19506,7 +19536,7 @@ msgstr ""
 
 # ZW-MA
 msgid "Manicaland"
-msgstr ""
+msgstr "An Téalainn"
 
 # ZW-MC
 msgid "Mashonaland Central"

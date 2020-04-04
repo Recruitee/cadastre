@@ -1120,7 +1120,7 @@ msgstr ""
 
 # BD-06
 msgid "Barisal"
-msgstr ""
+msgstr "Paris"
 
 # BD-07
 msgid "Bhola"
@@ -1148,7 +1148,7 @@ msgstr ""
 
 # BD-13
 msgid "Dhaka"
-msgstr ""
+msgstr "Mali"
 
 # BD-14
 msgid "Dinajpur"
@@ -1356,7 +1356,7 @@ msgstr ""
 
 # BD-A
 msgid "Barisal"
-msgstr ""
+msgstr "Paris"
 
 # BD-B
 msgid "Chittagong"
@@ -1364,7 +1364,7 @@ msgstr ""
 
 # BD-C
 msgid "Dhaka"
-msgstr ""
+msgstr "Mali"
 
 # BD-D
 msgid "Khulna"
@@ -1424,7 +1424,7 @@ msgstr ""
 
 # BE-WLG
 msgid "Liège"
-msgstr ""
+msgstr "Arièja"
 
 # BE-WLX
 msgid "Luxembourg"
@@ -1460,7 +1460,7 @@ msgstr ""
 
 # BF-07
 msgid "Centre-Sud"
-msgstr ""
+msgstr "Corsega del Sud"
 
 # BF-08
 msgid "Est"
@@ -1468,11 +1468,11 @@ msgstr ""
 
 # BF-09
 msgid "Hauts-Bassins"
-msgstr ""
+msgstr "Naut Ren"
 
 # BF-10
 msgid "Nord"
-msgstr ""
+msgstr "Nòrd"
 
 # BF-11
 msgid "Plateau-Central"
@@ -2164,11 +2164,11 @@ msgstr ""
 
 # BS-MI
 msgid "Moore's Island"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # BS-NE
 msgid "North Eleuthera"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # BS-NO
 msgid "North Abaco"
@@ -2316,7 +2316,7 @@ msgstr ""
 
 # BW-NW
 msgid "North-West"
-msgstr ""
+msgstr "Nòrd"
 
 # BW-SE
 msgid "South-East"
@@ -2324,10 +2324,11 @@ msgstr ""
 
 # BW-SO
 msgid "Southern"
-msgstr ""
+msgstr "Escòcia"
 
 # BY-BR
-msgid "Brèsckaja voblasc'"
+# original msgid: "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 # BY-HM
@@ -2335,23 +2336,28 @@ msgid "Horad Minsk"
 msgstr ""
 
 # BY-HO
-msgid "Homel'skaja voblasc'"
+# original msgid: "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 # BY-HR
-msgid "Hrodzenskaja voblasc'"
+# original msgid: "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 # BY-MA
-msgid "Mahilëuskaja voblasc'"
+# original msgid: "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 # BY-MI
-msgid "Minskaja voblasc'"
+# original msgid: "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 # BY-VI
-msgid "Vicebskaja voblasc'"
+# original msgid: "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 # BZ-BZ
@@ -4632,7 +4638,7 @@ msgstr ""
 
 # ES-CT
 msgid "Catalunya"
-msgstr ""
+msgstr "Cantal"
 
 # ES-CU
 msgid "Cuenca"
@@ -4740,7 +4746,7 @@ msgstr ""
 
 # ES-PM
 msgid "Balears"
-msgstr ""
+msgstr "País de Galas"
 
 # ES-PO
 msgid "Pontevedra"
@@ -4876,7 +4882,7 @@ msgstr ""
 
 # FI-04
 msgid "Etelä-Savo"
-msgstr ""
+msgstr "Nauta Savòia"
 
 # FI-05
 msgid "Kainuu"
@@ -4976,159 +4982,159 @@ msgstr ""
 
 # FR-01
 msgid "Ain"
-msgstr ""
+msgstr "Ain"
 
 # FR-02
 msgid "Aisne"
-msgstr ""
+msgstr "Aisne"
 
 # FR-03
 msgid "Allier"
-msgstr ""
+msgstr "Alèir"
 
 # FR-04
 msgid "Alpes-de-Haute-Provence"
-msgstr ""
+msgstr "Aups d'Auta Provença"
 
 # FR-05
 msgid "Hautes-Alpes"
-msgstr ""
+msgstr "Auts Aups"
 
 # FR-06
 msgid "Alpes-Maritimes"
-msgstr ""
+msgstr "Aups Maritims"
 
 # FR-07
 msgid "Ardèche"
-msgstr ""
+msgstr "Ardecha"
 
 # FR-08
 msgid "Ardennes"
-msgstr ""
+msgstr "Ardenas"
 
 # FR-09
 msgid "Ariège"
-msgstr ""
+msgstr "Arièja"
 
 # FR-10
 msgid "Aube"
-msgstr ""
+msgstr "Auba"
 
 # FR-11
 msgid "Aude"
-msgstr ""
+msgstr "Auda"
 
 # FR-12
 msgid "Aveyron"
-msgstr ""
+msgstr "Avairon"
 
 # FR-13
 msgid "Bouches-du-Rhône"
-msgstr ""
+msgstr "Bocas de Ròse"
 
 # FR-14
 msgid "Calvados"
-msgstr ""
+msgstr "Calvadòs"
 
 # FR-15
 msgid "Cantal"
-msgstr ""
+msgstr "Cantal"
 
 # FR-16
 msgid "Charente"
-msgstr ""
+msgstr "Charanta"
 
 # FR-17
 msgid "Charente-Maritime"
-msgstr ""
+msgstr "Charanta Maritima"
 
 # FR-18
 msgid "Cher"
-msgstr ""
+msgstr "Char"
 
 # FR-19
 msgid "Corrèze"
-msgstr ""
+msgstr "Corresa"
 
 # FR-21
 msgid "Côte-d'Or"
-msgstr ""
+msgstr "Còsta d'Aur"
 
 # FR-22
 msgid "Côtes-d'Armor"
-msgstr ""
+msgstr "Còstas d'Arvòr"
 
 # FR-23
 msgid "Creuse"
-msgstr ""
+msgstr "Cruesa"
 
 # FR-24
 msgid "Dordogne"
-msgstr ""
+msgstr "Dordonha"
 
 # FR-25
 msgid "Doubs"
-msgstr ""
+msgstr "Doubs"
 
 # FR-26
 msgid "Drôme"
-msgstr ""
+msgstr "Droma"
 
 # FR-27
 msgid "Eure"
-msgstr ""
+msgstr "Eure"
 
 # FR-28
 msgid "Eure-et-Loir"
-msgstr ""
+msgstr "Eure et Loir"
 
 # FR-29
 msgid "Finistère"
-msgstr ""
+msgstr "Finistèrra"
 
 # FR-2A
 msgid "Corse-du-Sud"
-msgstr ""
+msgstr "Corsega del Sud"
 
 # FR-2B
 msgid "Haute-Corse"
-msgstr ""
+msgstr "Nauta Corsega"
 
 # FR-30
 msgid "Gard"
-msgstr ""
+msgstr "Gard"
 
 # FR-31
 msgid "Haute-Garonne"
-msgstr ""
+msgstr "Nauta Garona"
 
 # FR-32
 msgid "Gers"
-msgstr ""
+msgstr "Gers"
 
 # FR-33
 msgid "Gironde"
-msgstr ""
+msgstr "Gironda"
 
 # FR-34
 msgid "Hérault"
-msgstr ""
+msgstr "Erau"
 
 # FR-35
 msgid "Ille-et-Vilaine"
-msgstr ""
+msgstr "Ille e Vilaine"
 
 # FR-36
 msgid "Indre"
-msgstr ""
+msgstr "Indre"
 
 # FR-37
 msgid "Indre-et-Loire"
-msgstr ""
+msgstr "Indre e Léger"
 
 # FR-38
 msgid "Isère"
-msgstr ""
+msgstr "Isèra"
 
 # FR-39
 msgid "Jura"
@@ -5136,235 +5142,235 @@ msgstr ""
 
 # FR-40
 msgid "Landes"
-msgstr ""
+msgstr "Lanas"
 
 # FR-41
 msgid "Loir-et-Cher"
-msgstr ""
+msgstr "Loir e Char"
 
 # FR-42
 msgid "Loire"
-msgstr ""
+msgstr "Léger"
 
 # FR-43
 msgid "Haute-Loire"
-msgstr ""
+msgstr "Naut Léger"
 
 # FR-44
 msgid "Loire-Atlantique"
-msgstr ""
+msgstr "Léger Atlantic"
 
 # FR-45
 msgid "Loiret"
-msgstr ""
+msgstr "Loiret"
 
 # FR-46
 msgid "Lot"
-msgstr ""
+msgstr "Òlt"
 
 # FR-47
 msgid "Lot-et-Garonne"
-msgstr ""
+msgstr "Òlt e Garona"
 
 # FR-48
 msgid "Lozère"
-msgstr ""
+msgstr "Losera"
 
 # FR-49
 msgid "Maine-et-Loire"
-msgstr ""
+msgstr "Maine e Léger"
 
 # FR-50
 msgid "Manche"
-msgstr ""
+msgstr "Marga"
 
 # FR-51
 msgid "Marne"
-msgstr ""
+msgstr "Marna"
 
 # FR-52
 msgid "Haute-Marne"
-msgstr ""
+msgstr "Nauta Marna"
 
 # FR-53
 msgid "Mayenne"
-msgstr ""
+msgstr "Mayenne"
 
 # FR-54
 msgid "Meurthe-et-Moselle"
-msgstr ""
+msgstr "Meurthe e Mosèla"
 
 # FR-55
 msgid "Meuse"
-msgstr ""
+msgstr "Mòsa"
 
 # FR-56
 msgid "Morbihan"
-msgstr ""
+msgstr "Morbihan"
 
 # FR-57
 msgid "Moselle"
-msgstr ""
+msgstr "Mosèla"
 
 # FR-58
 msgid "Nièvre"
-msgstr ""
+msgstr "Nièvre"
 
 # FR-59
 msgid "Nord"
-msgstr ""
+msgstr "Nòrd"
 
 # FR-60
 msgid "Oise"
-msgstr ""
+msgstr "Oise"
 
 # FR-61
 msgid "Orne"
-msgstr ""
+msgstr "Orne"
 
 # FR-62
 msgid "Pas-de-Calais"
-msgstr ""
+msgstr "Pas de Calais"
 
 # FR-63
 msgid "Puy-de-Dôme"
-msgstr ""
+msgstr "Puèi Domat"
 
 # FR-64
 msgid "Pyrénées-Atlantiques"
-msgstr ""
+msgstr "Pirenèus Atlantics"
 
 # FR-65
 msgid "Hautes-Pyrénées"
-msgstr ""
+msgstr "Nauts Pirenèus"
 
 # FR-66
 msgid "Pyrénées-Orientales"
-msgstr ""
+msgstr "Pirenèus Orientals"
 
 # FR-67
 msgid "Bas-Rhin"
-msgstr ""
+msgstr "Bas Ren"
 
 # FR-68
 msgid "Haut-Rhin"
-msgstr ""
+msgstr "Naut Ren"
 
 # FR-69
 msgid "Rhône"
-msgstr ""
+msgstr "Ròse"
 
 # FR-70
 msgid "Haute-Saône"
-msgstr ""
+msgstr "Nauta Sòna"
 
 # FR-71
 msgid "Saône-et-Loire"
-msgstr ""
+msgstr "Sòna e Léger"
 
 # FR-72
 msgid "Sarthe"
-msgstr ""
+msgstr "Sarthe"
 
 # FR-73
 msgid "Savoie"
-msgstr ""
+msgstr "Savòia"
 
 # FR-74
 msgid "Haute-Savoie"
-msgstr ""
+msgstr "Nauta Savòia"
 
 # FR-75
 msgid "Paris"
-msgstr ""
+msgstr "Paris"
 
 # FR-76
 msgid "Seine-Maritime"
-msgstr ""
+msgstr "Sèina Maritima"
 
 # FR-77
 msgid "Seine-et-Marne"
-msgstr ""
+msgstr "Sèina e Marna"
 
 # FR-78
 msgid "Yvelines"
-msgstr ""
+msgstr "Yvelines"
 
 # FR-79
 msgid "Deux-Sèvres"
-msgstr ""
+msgstr "Doas Sèvras"
 
 # FR-80
 msgid "Somme"
-msgstr ""
+msgstr "Somme"
 
 # FR-81
 msgid "Tarn"
-msgstr ""
+msgstr "Tarn"
 
 # FR-82
 msgid "Tarn-et-Garonne"
-msgstr ""
+msgstr "Tarn e Garona"
 
 # FR-83
 msgid "Var"
-msgstr ""
+msgstr "Var"
 
 # FR-84
 msgid "Vaucluse"
-msgstr ""
+msgstr "Vauclusa"
 
 # FR-85
 msgid "Vendée"
-msgstr ""
+msgstr "Vendèa"
 
 # FR-86
 msgid "Vienne"
-msgstr ""
+msgstr "Vinhana"
 
 # FR-87
 msgid "Haute-Vienne"
-msgstr ""
+msgstr "Nauta Vinhana"
 
 # FR-88
 msgid "Vosges"
-msgstr ""
+msgstr "Vòges"
 
 # FR-89
 msgid "Yonne"
-msgstr ""
+msgstr "Yonne"
 
 # FR-90
 msgid "Territoire de Belfort"
-msgstr ""
+msgstr "Territòri de Belfòrt"
 
 # FR-91
 msgid "Essonne"
-msgstr ""
+msgstr "Essonne"
 
 # FR-92
 msgid "Hauts-de-Seine"
-msgstr ""
+msgstr "Nauts de Sèina"
 
 # FR-93
 msgid "Seine-Saint-Denis"
-msgstr ""
+msgstr "Sèina Saint Denis"
 
 # FR-94
 msgid "Val-de-Marne"
-msgstr ""
+msgstr "Val de Marna"
 
 # FR-95
 msgid "Val-d'Oise"
-msgstr ""
+msgstr "Val d'Oise"
 
 # FR-ARA
 msgid "Auvergne-Rhône-Alpes"
-msgstr ""
+msgstr "Ròse-Aups"
 
 # FR-BFC
 msgid "Bourgogne-Franche-Comté"
-msgstr ""
+msgstr "Franca Comtat"
 
 # FR-BL
 msgid "Saint-Barthélemy"
@@ -5372,11 +5378,11 @@ msgstr ""
 
 # FR-BRE
 msgid "Bretagne"
-msgstr ""
+msgstr "Bretanha"
 
 # FR-COR
 msgid "Corse"
-msgstr ""
+msgstr "Corsega"
 
 # FR-CP
 msgid "Clipperton"
@@ -5384,7 +5390,7 @@ msgstr ""
 
 # FR-CVL
 msgid "Centre-Val de Loire"
-msgstr ""
+msgstr "Indre e Léger"
 
 # FR-GES
 msgid "Grand-Est"
@@ -5404,15 +5410,15 @@ msgstr "Guadalope"
 
 # FR-HDF
 msgid "Hauts-de-France"
-msgstr ""
+msgstr "Nauts de Sèina"
 
 # FR-IDF
 msgid "Île-de-France"
-msgstr ""
+msgstr "Illa de França"
 
 # FR-LRE
 msgid "La Réunion"
-msgstr ""
+msgstr "Reünion"
 
 # FR-MAY
 msgid "Mayotte"
@@ -5428,7 +5434,7 @@ msgstr "Martinica"
 
 # FR-NAQ
 msgid "Nouvelle-Aquitaine"
-msgstr ""
+msgstr "Aquitània"
 
 # FR-NC
 msgid "Nouvelle-Calédonie"
@@ -5436,7 +5442,7 @@ msgstr ""
 
 # FR-NOR
 msgid "Normandie"
-msgstr ""
+msgstr "Bassa Normandia"
 
 # FR-OCC
 msgid "Occitanie"
@@ -5444,11 +5450,11 @@ msgstr ""
 
 # FR-PAC
 msgid "Provence-Alpes-Côte-d’Azur"
-msgstr ""
+msgstr "Provença-Aups-Còsta d'Azur"
 
 # FR-PDL
 msgid "Pays-de-la-Loire"
-msgstr ""
+msgstr "Païses de Léger"
 
 # FR-PF
 msgid "Polynésie française"
@@ -5460,7 +5466,7 @@ msgstr ""
 
 # FR-RE
 msgid "La Réunion"
-msgstr ""
+msgstr "Reünion"
 
 # FR-TF
 msgid "Terres australes françaises"
@@ -5476,7 +5482,7 @@ msgstr "Maiòta"
 
 # GA-1
 msgid "Estuaire"
-msgstr ""
+msgstr "Eure"
 
 # GA-2
 msgid "Haut-Ogooué"
@@ -5504,7 +5510,7 @@ msgstr ""
 
 # GA-8
 msgid "Ogooué-Maritime"
-msgstr ""
+msgstr "Sèina Maritima"
 
 # GA-9
 msgid "Woleu-Ntem"
@@ -5780,7 +5786,7 @@ msgstr ""
 
 # GB-ENG
 msgid "England"
-msgstr ""
+msgstr "Anglatèrra"
 
 # GB-ERW
 msgid "East Renfrewshire"
@@ -6024,7 +6030,7 @@ msgstr ""
 
 # GB-NBL
 msgid "Northumberland"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # GB-NEL
 msgid "North East Lincolnshire"
@@ -6044,7 +6050,7 @@ msgstr ""
 
 # GB-NIR
 msgid "Northern Ireland"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # GB-NLK
 msgid "North Lanarkshire"
@@ -6180,7 +6186,7 @@ msgstr ""
 
 # GB-SCT
 msgid "Scotland"
-msgstr ""
+msgstr "Escòcia"
 
 # GB-SFK
 msgid "Suffolk"
@@ -6848,11 +6854,11 @@ msgstr ""
 
 # GR-41
 msgid "Karditsa"
-msgstr ""
+msgstr "Paris"
 
 # GR-42
 msgid "Larisa"
-msgstr ""
+msgstr "Paris"
 
 # GR-43
 msgid "Magnisia"
@@ -6900,11 +6906,11 @@ msgstr ""
 
 # GR-61
 msgid "Pieria"
-msgstr ""
+msgstr "Georgia"
 
 # GR-62
 msgid "Serres"
-msgstr ""
+msgstr "Gers"
 
 # GR-63
 msgid "Florina"
@@ -6948,7 +6954,7 @@ msgstr ""
 
 # GR-85
 msgid "Chios"
-msgstr ""
+msgstr "Corsega"
 
 # GR-91
 msgid "Irakleio"
@@ -6964,7 +6970,7 @@ msgstr ""
 
 # GR-94
 msgid "Chania"
-msgstr ""
+msgstr "Cantal"
 
 # GR-A
 msgid "Anatoliki Makedonia kai Thraki"
@@ -7136,11 +7142,11 @@ msgstr ""
 
 # GW-L
 msgid "Leste"
-msgstr ""
+msgstr "Mòsa"
 
 # GW-N
 msgid "Norte"
-msgstr ""
+msgstr "Nòrd"
 
 # GW-OI
 msgid "Oio"
@@ -7368,7 +7374,7 @@ msgstr ""
 
 # HT-ND
 msgid "Nord"
-msgstr ""
+msgstr "Nòrd"
 
 # HT-NE
 msgid "Nord-Est"
@@ -7888,7 +7894,7 @@ msgstr ""
 
 # IN-CH
 msgid "Chandigarh"
-msgstr ""
+msgstr "Cantal"
 
 # IN-CT
 msgid "Chhattisgarh"
@@ -7932,7 +7938,7 @@ msgstr ""
 
 # IN-KA
 msgid "Karnataka"
-msgstr ""
+msgstr "Cantal"
 
 # IN-KL
 msgid "Kerala"
@@ -7964,7 +7970,7 @@ msgstr ""
 
 # IN-NL
 msgid "Nagaland"
-msgstr ""
+msgstr "Anglatèrra"
 
 # IN-OR
 msgid "Odisha"
@@ -9076,7 +9082,7 @@ msgstr ""
 
 # KE-07
 msgid "Garissa"
-msgstr ""
+msgstr "Paris"
 
 # KE-08
 msgid "Homa Bay"
@@ -9144,7 +9150,7 @@ msgstr ""
 
 # KE-24
 msgid "Mandera"
-msgstr ""
+msgstr "Lanas"
 
 # KE-25
 msgid "Marsabit"
@@ -9176,7 +9182,7 @@ msgstr ""
 
 # KE-32
 msgid "Nandi"
-msgstr ""
+msgstr "Bassa Normandia"
 
 # KE-33
 msgid "Narok"
@@ -10956,7 +10962,7 @@ msgstr ""
 
 # MA-TAR
 msgid "Taroudant"
-msgstr ""
+msgstr "Tarn"
 
 # MA-TAT
 msgid "Tata"
@@ -11012,7 +11018,7 @@ msgstr ""
 
 # MC-JE
 msgid "Jardin Exotique"
-msgstr ""
+msgstr "Martinica"
 
 # MC-LA
 msgid "Larvotto"
@@ -12420,7 +12426,7 @@ msgstr ""
 
 # MV-NC
 msgid "North Central"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # MV-NO
 msgid "North"
@@ -12516,7 +12522,7 @@ msgstr ""
 
 # MW-N
 msgid "Northern Region"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # MW-NB
 msgid "Nkhata Bay"
@@ -13284,7 +13290,7 @@ msgstr ""
 
 # NP-BH
 msgid "Bheri"
-msgstr ""
+msgstr "Char"
 
 # NP-DH
 msgid "Dhawalagiri"
@@ -13300,7 +13306,7 @@ msgstr ""
 
 # NP-KA
 msgid "Karnali"
-msgstr ""
+msgstr "Cantal"
 
 # NP-KO
 msgid "Kosi"
@@ -13312,7 +13318,7 @@ msgstr ""
 
 # NP-MA
 msgid "Mahakali"
-msgstr ""
+msgstr "Mali"
 
 # NP-ME
 msgid "Mechi"
@@ -13328,7 +13334,7 @@ msgstr ""
 
 # NP-SA
 msgid "Sagarmatha"
-msgstr ""
+msgstr "Sarthe"
 
 # NP-SE
 msgid "Seti"
@@ -13424,7 +13430,7 @@ msgstr ""
 
 # NZ-N
 msgid "North Island"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # NZ-NSN
 msgid "Nelson City"
@@ -13440,7 +13446,7 @@ msgstr ""
 
 # NZ-S
 msgid "South Island"
-msgstr ""
+msgstr "Escòcia"
 
 # NZ-STL
 msgid "Southland"
@@ -14256,7 +14262,7 @@ msgstr ""
 
 # PS-NGZ
 msgid "North Gaza"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # PS-QQA
 msgid "Qalqilya"
@@ -14532,7 +14538,7 @@ msgstr ""
 
 # RO-AG
 msgid "Argeș"
-msgstr ""
+msgstr "Arièja"
 
 # RO-AR
 msgid "Arad"
@@ -14640,7 +14646,7 @@ msgstr ""
 
 # RO-MS
 msgid "Mureș"
-msgstr ""
+msgstr "Eure"
 
 # RO-NT
 msgid "Neamț"
@@ -15164,7 +15170,7 @@ msgstr ""
 
 # RW-03
 msgid "Nord"
-msgstr ""
+msgstr "Nòrd"
 
 # RW-04
 msgid "Ouest"
@@ -16644,11 +16650,11 @@ msgstr ""
 
 # SS-BN
 msgid "Northern Bahr el Ghazal"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # SS-BW
 msgid "Western Bahr el Ghazal"
-msgstr ""
+msgstr "Irlanda del Nòrd"
 
 # SS-EC
 msgid "Central Equatoria"
@@ -18055,39 +18061,48 @@ msgid "Manyara"
 msgstr ""
 
 # UA-05
-msgid "Vinnyts'ka Oblast'"
+# original msgid: "Vinnyts'ka Oblast'"
+msgid "Vinnytska oblast"
 msgstr ""
 
 # UA-07
-msgid "Volyns'ka Oblast'"
+# original msgid: "Volyns'ka Oblast'"
+msgid "Volynska oblast"
 msgstr ""
 
 # UA-09
-msgid "Luhans'ka Oblast'"
+# original msgid: "Luhans'ka Oblast'"
+msgid "Luhanska oblast"
 msgstr ""
 
 # UA-12
-msgid "Dnipropetrovs'ka Oblast'"
+# original msgid: "Dnipropetrovs'ka Oblast'"
+msgid "Dnipropetrovska oblast"
 msgstr ""
 
 # UA-14
-msgid "Donets'ka Oblast'"
+# original msgid: "Donets'ka Oblast'"
+msgid "Donetska oblast"
 msgstr ""
 
 # UA-18
-msgid "Zhytomyrs'ka Oblast'"
+# original msgid: "Zhytomyrs'ka Oblast'"
+msgid "Zhytomyrska oblast"
 msgstr ""
 
 # UA-21
-msgid "Zakarpats'ka Oblast'"
+# original msgid: "Zakarpats'ka Oblast'"
+msgid "Zakarpatska oblast"
 msgstr ""
 
 # UA-23
-msgid "Zaporiz'ka Oblast'"
+# original msgid: "Zaporiz'ka Oblast'"
+msgid "Zaporizka oblast"
 msgstr ""
 
 # UA-26
-msgid "Ivano-Frankivs'ka Oblast'"
+# original msgid: "Ivano-Frankivs'ka Oblast'"
+msgid "Ivano-Frankivska oblast"
 msgstr ""
 
 # UA-30
@@ -18097,11 +18112,12 @@ msgstr ""
 
 # UA-32
 # original msgid: "Kyïvs'ka Oblast'"
-msgid "Kyivs'ka Oblast'"
+msgid "Kyivska oblast"
 msgstr ""
 
 # UA-35
-msgid "Kirovohrads'ka Oblast'"
+# original msgid: "Kirovohrads'ka Oblast'"
+msgid "Kirovohradska oblast"
 msgstr ""
 
 # UA-40
@@ -18109,59 +18125,73 @@ msgid "Sevastopol"
 msgstr ""
 
 # UA-43
-msgid "Respublika Krym"
+# original msgid: "Respublika Krym"
+msgid "Avtonomna Respublika Krym"
 msgstr ""
 
 # UA-46
-msgid "L'vivs'ka Oblast'"
+# original msgid: "L'vivs'ka Oblast'"
+msgid "Lvivska oblast"
 msgstr ""
 
 # UA-48
-msgid "Mykolaïvs'ka Oblast'"
+# original msgid: "Mykolaïvs'ka Oblast'"
+msgid "Mykolaivska oblast"
 msgstr ""
 
 # UA-51
-msgid "Odes'ka Oblast'"
+# original msgid: "Odes'ka Oblast'"
+msgid "Odeska oblast"
 msgstr ""
 
 # UA-53
-msgid "Poltavs'ka Oblast'"
+# original msgid: "Poltavs'ka Oblast'"
+msgid "Poltavska oblast"
 msgstr ""
 
 # UA-56
-msgid "Rivnens'ka Oblast'"
+# original msgid: "Rivnens'ka Oblast'"
+msgid "Rivnenska oblast"
 msgstr ""
 
 # UA-59
-msgid "Sums 'ka Oblast'"
+# original msgid: "Sums 'ka Oblast'"
+msgid "Sumska oblast"
 msgstr ""
 
 # UA-61
-msgid "Ternopil's'ka Oblast'"
+# original msgid: "Ternopil's'ka Oblast'"
+msgid "Ternopilska oblast"
 msgstr ""
 
 # UA-63
-msgid "Kharkivs'ka Oblast'"
+# original msgid: "Kharkivs'ka Oblast'"
+msgid "Kharkivska oblast"
 msgstr ""
 
 # UA-65
-msgid "Khersons'ka Oblast'"
+# original msgid: "Khersons'ka Oblast'"
+msgid "Khersonska oblast"
 msgstr ""
 
 # UA-68
-msgid "Khmel'nyts'ka Oblast'"
+# original msgid: "Khmel'nyts'ka Oblast'"
+msgid "Khmelnytska oblast"
 msgstr ""
 
 # UA-71
-msgid "Cherkas'ka Oblast'"
+# original msgid: "Cherkas'ka Oblast'"
+msgid "Cherkaska oblast"
 msgstr ""
 
 # UA-74
-msgid "Chernihivs'ka Oblast'"
+# original msgid: "Chernihivs'ka Oblast'"
+msgid "Chernihivska oblast"
 msgstr ""
 
 # UA-77
-msgid "Chernivets'ka Oblast'"
+# original msgid: "Chernivets'ka Oblast'"
+msgid "Chernivetska oblast"
 msgstr ""
 
 # UG-101
@@ -18226,7 +18256,7 @@ msgstr ""
 
 # UG-116
 msgid "Lyantonde"
-msgstr ""
+msgstr "Lanas"
 
 # UG-201
 msgid "Bugiri"

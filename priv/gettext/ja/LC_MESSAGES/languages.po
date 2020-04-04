@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr "バンバラ語"
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr "ベンガル語"
 
 # bo
@@ -101,7 +102,7 @@ msgstr "ドイツ語"
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "ディベヒ語; ディヴェーヒー語; モルジブ語"
 
 # dz
@@ -193,7 +194,7 @@ msgstr "クロアチア語"
 
 # ht
 # original msgid: "Haitian; Haitian Creole"
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "ハイチ; ハイチ混成語"
 
 # hu
@@ -261,7 +262,8 @@ msgid "Kalaallisut"
 msgstr "カラアリス語; グリーンランド語"
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr "中央クメール語"
 
 # kn
@@ -282,7 +284,7 @@ msgstr "コーンウォール語"
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr "キルギス語; クルグズ語"
 
 # lb
@@ -296,7 +298,7 @@ msgstr "ガンダ語"
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr "リンブルフ語"
 
 # ln
@@ -393,12 +395,12 @@ msgstr "オック語 (1500以後); プロバンス語"
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr "オセト語; オセット語"
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr "パンジャブ語; Punjabi"
 
 # pl
@@ -522,7 +524,7 @@ msgstr "ツワナ語"
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr "トンガ語 (トンガ諸島)"
 
 # tr
@@ -547,7 +549,7 @@ msgstr "タヒチ語"
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr "ウイグル語; Uyghur"
 
 # uk

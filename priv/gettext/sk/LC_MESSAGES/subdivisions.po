@@ -28,31 +28,31 @@ msgstr ""
 
 # AE-AJ
 msgid "'Ajmān"
-msgstr ""
+msgstr "Adžmán [Ajmán]"
 
 # AE-AZ
 msgid "Abū Ȥaby [Abu Dhabi]"
-msgstr ""
+msgstr "Abú Zabí [Abú Dhabí]"
 
 # AE-DU
 msgid "Dubayy"
-msgstr ""
+msgstr "Dubaj"
 
 # AE-FU
 msgid "Al Fujayrah"
-msgstr ""
+msgstr "Fudžajra"
 
 # AE-RK
 msgid "Ra’s al Khaymah"
-msgstr ""
+msgstr "Rás al-Chajmá"
 
 # AE-SH
 msgid "Ash Shāriqah"
-msgstr ""
+msgstr "Šardžá [Aš-Šárika]"
 
 # AE-UQ
 msgid "Umm al Qaywayn"
-msgstr ""
+msgstr "Umm al-Kuvajn"
 
 # AF-BAL
 msgid "Balkh"
@@ -540,7 +540,7 @@ msgstr ""
 
 # AR-C
 msgid "Ciudad Autónoma de Buenos Aires"
-msgstr ""
+msgstr "Buenos Aires"
 
 # AR-D
 msgid "San Luis"
@@ -620,43 +620,43 @@ msgstr ""
 
 # AR-Z
 msgid "Santa Cruz"
-msgstr ""
+msgstr "Santa Cruz de Tenerife"
 
 # AT-1
 msgid "Burgenland"
-msgstr ""
+msgstr "Burgenland"
 
 # AT-2
 msgid "Kärnten"
-msgstr ""
+msgstr "Korutánsko"
 
 # AT-3
 msgid "Niederösterreich"
-msgstr ""
+msgstr "Dolné Rakúsko"
 
 # AT-4
 msgid "Oberösterreich"
-msgstr ""
+msgstr "Horné Rakúsko"
 
 # AT-5
 msgid "Salzburg"
-msgstr ""
+msgstr "Salzbursko"
 
 # AT-6
 msgid "Steiermark"
-msgstr ""
+msgstr "Štajersko"
 
 # AT-7
 msgid "Tirol"
-msgstr ""
+msgstr "Tirolsko"
 
 # AT-8
 msgid "Vorarlberg"
-msgstr ""
+msgstr "Vorarlbersko"
 
 # AT-9
 msgid "Wien"
-msgstr ""
+msgstr "Viedeň"
 
 # AU-ACT
 msgid "Australian Capital Territory"
@@ -704,7 +704,7 @@ msgstr ""
 
 # AZ-AGM
 msgid "Ağdam"
-msgstr ""
+msgstr "Adamawa"
 
 # AZ-AGS
 msgid "Ağdaş"
@@ -1112,7 +1112,7 @@ msgstr ""
 
 # BD-04
 msgid "Brahmanbaria"
-msgstr ""
+msgstr "Kanárske ostrovy"
 
 # BD-05
 msgid "Bagerhat"
@@ -1120,7 +1120,7 @@ msgstr ""
 
 # BD-06
 msgid "Barisal"
-msgstr ""
+msgstr "Maranhão"
 
 # BD-07
 msgid "Bhola"
@@ -1172,7 +1172,7 @@ msgstr ""
 
 # BD-19
 msgid "Gaibandha"
-msgstr ""
+msgstr "Indiana"
 
 # BD-20
 msgid "Habiganj"
@@ -1212,7 +1212,7 @@ msgstr ""
 
 # BD-29
 msgid "Khagrachari"
-msgstr ""
+msgstr "Maranhão"
 
 # BD-30
 msgid "Kushtia"
@@ -1236,7 +1236,7 @@ msgstr ""
 
 # BD-35
 msgid "Munshiganj"
-msgstr ""
+msgstr "Michigan"
 
 # BD-36
 msgid "Madaripur"
@@ -1256,11 +1256,11 @@ msgstr ""
 
 # BD-40
 msgid "Narayanganj"
-msgstr ""
+msgstr "Sársko"
 
 # BD-41
 msgid "Netrakona"
-msgstr ""
+msgstr "Liao-ning"
 
 # BD-42
 msgid "Narsingdi"
@@ -1268,7 +1268,7 @@ msgstr ""
 
 # BD-43
 msgid "Narail"
-msgstr ""
+msgstr "Sársko"
 
 # BD-44
 msgid "Natore"
@@ -1320,7 +1320,7 @@ msgstr ""
 
 # BD-56
 msgid "Rangamati"
-msgstr ""
+msgstr "Bahia"
 
 # BD-57
 msgid "Sherpur"
@@ -1348,15 +1348,15 @@ msgstr ""
 
 # BD-63
 msgid "Tangail"
-msgstr ""
+msgstr "Ning-sia"
 
 # BD-64
 msgid "Thakurgaon"
-msgstr ""
+msgstr "Thurgau"
 
 # BD-A
 msgid "Barisal"
-msgstr ""
+msgstr "Maranhão"
 
 # BD-B
 msgid "Chittagong"
@@ -1400,7 +1400,7 @@ msgstr ""
 
 # BE-VLI
 msgid "Limburg"
-msgstr ""
+msgstr "Hamburg"
 
 # BE-VOV
 msgid "Oost-Vlaanderen"
@@ -1956,7 +1956,7 @@ msgstr ""
 
 # BO-S
 msgid "Santa Cruz"
-msgstr ""
+msgstr "Santa Cruz de Tenerife"
 
 # BO-T
 msgid "Tarija"
@@ -1976,11 +1976,11 @@ msgstr ""
 
 # BR-AC
 msgid "Acre"
-msgstr ""
+msgstr "Acre"
 
 # BR-AL
 msgid "Alagoas"
-msgstr ""
+msgstr "Alagoas"
 
 # BR-AM
 msgid "Amazonas"
@@ -1988,23 +1988,23 @@ msgstr ""
 
 # BR-AP
 msgid "Amapá"
-msgstr ""
+msgstr "Amapá"
 
 # BR-BA
 msgid "Bahia"
-msgstr ""
+msgstr "Bahia"
 
 # BR-CE
 msgid "Ceará"
-msgstr ""
+msgstr "Ceará"
 
 # BR-DF
 msgid "Distrito Federal"
-msgstr ""
+msgstr "Federálny dištrikt"
 
 # BR-ES
 msgid "Espírito Santo"
-msgstr ""
+msgstr "Espírito Santo"
 
 # BR-FN
 msgid "Fernando de Noronha"
@@ -2012,23 +2012,23 @@ msgstr ""
 
 # BR-GO
 msgid "Goiás"
-msgstr ""
+msgstr "Goiás"
 
 # BR-MA
 msgid "Maranhão"
-msgstr ""
+msgstr "Maranhão"
 
 # BR-MG
 msgid "Minas Gerais"
-msgstr ""
+msgstr "Minas Gerais"
 
 # BR-MS
 msgid "Mato Grosso do Sul"
-msgstr ""
+msgstr "Mato Grosso do Sul"
 
 # BR-MT
 msgid "Mato Grosso"
-msgstr ""
+msgstr "Mato Grosso"
 
 # BR-PA
 msgid "Pará"
@@ -2036,55 +2036,55 @@ msgstr ""
 
 # BR-PB
 msgid "Paraíba"
-msgstr ""
+msgstr "Paraíba"
 
 # BR-PE
 msgid "Pernambuco"
-msgstr ""
+msgstr "Pernambuco"
 
 # BR-PI
 msgid "Piauí"
-msgstr ""
+msgstr "Piauí"
 
 # BR-PR
 msgid "Paraná"
-msgstr ""
+msgstr "Paraná"
 
 # BR-RJ
 msgid "Rio de Janeiro"
-msgstr ""
+msgstr "Rio de Janeiro"
 
 # BR-RN
 msgid "Rio Grande do Norte"
-msgstr ""
+msgstr "Rio Grande do Norte"
 
 # BR-RO
 msgid "Rondônia"
-msgstr ""
+msgstr "Rondônia"
 
 # BR-RR
 msgid "Roraima"
-msgstr ""
+msgstr "Roraima"
 
 # BR-RS
 msgid "Rio Grande do Sul"
-msgstr ""
+msgstr "Rio Grande do Sul"
 
 # BR-SC
 msgid "Santa Catarina"
-msgstr ""
+msgstr "Santa Catarina"
 
 # BR-SE
 msgid "Sergipe"
-msgstr ""
+msgstr "Sergipe"
 
 # BR-SP
 msgid "São Paulo"
-msgstr ""
+msgstr "São Paulo"
 
 # BR-TO
 msgid "Tocantins"
-msgstr ""
+msgstr "Tocantins"
 
 # BS-AK
 msgid "Acklins"
@@ -2327,7 +2327,8 @@ msgid "Southern"
 msgstr ""
 
 # BY-BR
-msgid "Brèsckaja voblasc'"
+# original msgid: "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 # BY-HM
@@ -2335,23 +2336,28 @@ msgid "Horad Minsk"
 msgstr ""
 
 # BY-HO
-msgid "Homel'skaja voblasc'"
+# original msgid: "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 # BY-HR
-msgid "Hrodzenskaja voblasc'"
+# original msgid: "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 # BY-MA
-msgid "Mahilëuskaja voblasc'"
+# original msgid: "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 # BY-MI
-msgid "Minskaja voblasc'"
+# original msgid: "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 # BY-VI
-msgid "Vicebskaja voblasc'"
+# original msgid: "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 # BZ-BZ
@@ -2588,107 +2594,107 @@ msgstr ""
 
 # CH-AG
 msgid "Aargau"
-msgstr ""
+msgstr "Aargau"
 
 # CH-AI
 msgid "Appenzell Innerrhoden"
-msgstr ""
+msgstr "Appenzell Innerrhoden"
 
 # CH-AR
 msgid "Appenzell Ausserrhoden"
-msgstr ""
+msgstr "Appenzell Ausserrhoden"
 
 # CH-BE
 msgid "Bern"
-msgstr ""
+msgstr "Bern"
 
 # CH-BL
 msgid "Basel-Landschaft"
-msgstr ""
+msgstr "Bazilej-vidiek"
 
 # CH-BS
 msgid "Basel-Stadt"
-msgstr ""
+msgstr "Bazilej-mesto"
 
 # CH-FR
 msgid "Fribourg"
-msgstr ""
+msgstr "Freiburg"
 
 # CH-GE
 msgid "Genève"
-msgstr ""
+msgstr "Ženeva"
 
 # CH-GL
 msgid "Glarus"
-msgstr ""
+msgstr "Glarus"
 
 # CH-GR
 msgid "Graubünden"
-msgstr ""
+msgstr "Graubünden"
 
 # CH-JU
 msgid "Jura"
-msgstr ""
+msgstr "Jura"
 
 # CH-LU
 msgid "Luzern"
-msgstr ""
+msgstr "Luzern"
 
 # CH-NE
 msgid "Neuchâtel"
-msgstr ""
+msgstr "Neuchâtel"
 
 # CH-NW
 msgid "Nidwalden"
-msgstr ""
+msgstr "Unterwalden nid dem Wald"
 
 # CH-OW
 msgid "Obwalden"
-msgstr ""
+msgstr "Unterwalden ob dem Wald"
 
 # CH-SG
 msgid "Sankt Gallen"
-msgstr ""
+msgstr "Sankt Gallen"
 
 # CH-SH
 msgid "Schaffhausen"
-msgstr ""
+msgstr "Schaffhausen"
 
 # CH-SO
 msgid "Solothurn"
-msgstr ""
+msgstr "Solothurn"
 
 # CH-SZ
 msgid "Schwyz"
-msgstr ""
+msgstr "Schwyz"
 
 # CH-TG
 msgid "Thurgau"
-msgstr ""
+msgstr "Thurgau"
 
 # CH-TI
 msgid "Ticino"
-msgstr ""
+msgstr "Ticino"
 
 # CH-UR
 msgid "Uri"
-msgstr ""
+msgstr "Uri"
 
 # CH-VD
 msgid "Vaud"
-msgstr ""
+msgstr "Vaud"
 
 # CH-VS
 msgid "Valais"
-msgstr ""
+msgstr "Valais"
 
 # CH-ZG
 msgid "Zug"
-msgstr ""
+msgstr "Zug"
 
 # CH-ZH
 msgid "Zürich"
-msgstr ""
+msgstr "Zürich"
 
 # CI-01
 msgid "Lagunes (Région des)"
@@ -2868,27 +2874,27 @@ msgstr ""
 
 # CN-AH
 msgid "Anhui Sheng"
-msgstr ""
+msgstr "An-chuej"
 
 # CN-BJ
 msgid "Beijing Shi"
-msgstr ""
+msgstr "Peking"
 
 # CN-CQ
 msgid "Chongqing Shi"
-msgstr ""
+msgstr "Čchung-čching"
 
 # CN-FJ
 msgid "Fujian Sheng"
-msgstr ""
+msgstr "Fu-ťien"
 
 # CN-GD
 msgid "Guangdong Sheng"
-msgstr ""
+msgstr "Kuang-tung"
 
 # CN-GS
 msgid "Gansu Sheng"
-msgstr ""
+msgstr "Kan-su"
 
 # CN-GX
 msgid "Guangxi Zhuangzu Zizhiqu"
@@ -2896,23 +2902,23 @@ msgstr ""
 
 # CN-GZ
 msgid "Guizhou Sheng"
-msgstr ""
+msgstr "Kuej-čou"
 
 # CN-HA
 msgid "Henan Sheng"
-msgstr ""
+msgstr "Che-nan"
 
 # CN-HB
 msgid "Hubei Sheng"
-msgstr ""
+msgstr "Che-pej"
 
 # CN-HE
 msgid "Hebei Sheng"
-msgstr ""
+msgstr "Che-pej"
 
 # CN-HI
 msgid "Hainan Sheng"
-msgstr ""
+msgstr "Chaj-nan"
 
 # CN-HK
 msgid "Hong Kong SAR (see also separate country code entry under HK)"
@@ -2920,27 +2926,27 @@ msgstr ""
 
 # CN-HL
 msgid "Heilongjiang Sheng"
-msgstr ""
+msgstr "Chej-lung-ťiang"
 
 # CN-HN
 msgid "Hunan Sheng"
-msgstr ""
+msgstr "Chu-nan"
 
 # CN-JL
 msgid "Jilin Sheng"
-msgstr ""
+msgstr "Ťi-lin"
 
 # CN-JS
 msgid "Jiangsu Sheng"
-msgstr ""
+msgstr "Ťiang-su"
 
 # CN-JX
 msgid "Jiangxi Sheng"
-msgstr ""
+msgstr "Ťiang-si"
 
 # CN-LN
 msgid "Liaoning Sheng"
-msgstr ""
+msgstr "Liao-ning"
 
 # CN-MO
 msgid "Macao SAR (see also separate country code entry under MO)"
@@ -2948,7 +2954,7 @@ msgstr ""
 
 # CN-NM
 msgid "Nei Mongol Zizhiqu"
-msgstr ""
+msgstr "Vnútorné Mongolsko"
 
 # CN-NX
 msgid "Ningxia Huizi Zizhiqu"
@@ -2956,31 +2962,31 @@ msgstr ""
 
 # CN-QH
 msgid "Qinghai Sheng"
-msgstr ""
+msgstr "Čching-chaj"
 
 # CN-SC
 msgid "Sichuan Sheng"
-msgstr ""
+msgstr "S’-čchuan"
 
 # CN-SD
 msgid "Shandong Sheng"
-msgstr ""
+msgstr "Šan-tung"
 
 # CN-SH
 msgid "Shanghai Shi"
-msgstr ""
+msgstr "Šanghaj"
 
 # CN-SN
 msgid "Shaanxi Sheng"
-msgstr ""
+msgstr "Šen-si"
 
 # CN-SX
 msgid "Shanxi Sheng"
-msgstr ""
+msgstr "Šan-si"
 
 # CN-TJ
 msgid "Tianjin Shi"
-msgstr ""
+msgstr "Tchien-ťin"
 
 # CN-TW
 msgid "Taiwan Sheng (see also separate country code entry under TW)"
@@ -2992,15 +2998,15 @@ msgstr ""
 
 # CN-XZ
 msgid "Xizang Zizhiqu"
-msgstr ""
+msgstr "Tibet"
 
 # CN-YN
 msgid "Yunnan Sheng"
-msgstr ""
+msgstr "Jün-nan"
 
 # CN-ZJ
 msgid "Zhejiang Sheng"
-msgstr ""
+msgstr "Če-ťiang"
 
 # CO-AMA
 msgid "Amazonas"
@@ -3236,7 +3242,7 @@ msgstr ""
 
 # CV-CA
 msgid "Santa Catarina"
-msgstr ""
+msgstr "Santa Catarina"
 
 # CV-CF
 msgid "Santa Catarina de Fogo"
@@ -3244,7 +3250,7 @@ msgstr ""
 
 # CV-CR
 msgid "Santa Cruz"
-msgstr ""
+msgstr "Santa Cruz de Tenerife"
 
 # CV-MA
 msgid "Maio"
@@ -3344,7 +3350,7 @@ msgstr ""
 
 # CZ-10
 msgid "Praha, Hlavní mešto"
-msgstr ""
+msgstr "Praha"
 
 # CZ-101
 msgid "Praha 1"
@@ -3436,7 +3442,7 @@ msgstr ""
 
 # CZ-20
 msgid "Středočeský kraj"
-msgstr ""
+msgstr "Stredočeský kraj"
 
 # CZ-201
 msgid "Benešov"
@@ -3488,7 +3494,7 @@ msgstr ""
 
 # CZ-31
 msgid "Jihočeský kraj"
-msgstr ""
+msgstr "Juhočeský kraj"
 
 # CZ-311
 msgid "České Budějovice"
@@ -3520,7 +3526,7 @@ msgstr ""
 
 # CZ-32
 msgid "Plzeňský kraj"
-msgstr ""
+msgstr "Plzenský kraj"
 
 # CZ-321
 msgid "Domažlice"
@@ -3536,7 +3542,7 @@ msgstr ""
 
 # CZ-324
 msgid "Plzeň-jih"
-msgstr ""
+msgstr "Plzenský kraj"
 
 # CZ-325
 msgid "Plzeň-sever"
@@ -3552,7 +3558,7 @@ msgstr ""
 
 # CZ-41
 msgid "Karlovarský kraj"
-msgstr ""
+msgstr "Karlovarský kraj"
 
 # CZ-411
 msgid "Cheb"
@@ -3568,7 +3574,7 @@ msgstr ""
 
 # CZ-42
 msgid "Ústecký kraj"
-msgstr ""
+msgstr "Ústecký kraj"
 
 # CZ-421
 msgid "Děčín"
@@ -3600,7 +3606,7 @@ msgstr ""
 
 # CZ-51
 msgid "Liberecký kraj"
-msgstr ""
+msgstr "Liberecký kraj"
 
 # CZ-511
 msgid "Česká Lípa"
@@ -3612,7 +3618,7 @@ msgstr ""
 
 # CZ-513
 msgid "Liberec"
-msgstr ""
+msgstr "Liberecký kraj"
 
 # CZ-514
 msgid "Semily"
@@ -3620,7 +3626,7 @@ msgstr ""
 
 # CZ-52
 msgid "Královéhradecký kraj"
-msgstr ""
+msgstr "Královohradecký kraj"
 
 # CZ-521
 msgid "Hradec Králové"
@@ -3644,7 +3650,7 @@ msgstr ""
 
 # CZ-53
 msgid "Pardubický kraj"
-msgstr ""
+msgstr "Pardubický kraj"
 
 # CZ-531
 msgid "Chrudim"
@@ -3652,7 +3658,7 @@ msgstr ""
 
 # CZ-532
 msgid "Pardubice"
-msgstr ""
+msgstr "Pardubický kraj"
 
 # CZ-533
 msgid "Svitavy"
@@ -3664,7 +3670,7 @@ msgstr ""
 
 # CZ-63
 msgid "Kraj Vysočina"
-msgstr ""
+msgstr "Vysočina"
 
 # CZ-631
 msgid "Havlíčkův Brod"
@@ -3688,7 +3694,7 @@ msgstr ""
 
 # CZ-64
 msgid "Jihomoravský kraj"
-msgstr ""
+msgstr "Juhomoravský kraj"
 
 # CZ-641
 msgid "Blansko"
@@ -3720,7 +3726,7 @@ msgstr ""
 
 # CZ-71
 msgid "Olomoucký kraj"
-msgstr ""
+msgstr "Olomoucký kraj"
 
 # CZ-711
 msgid "Jeseník"
@@ -3728,7 +3734,7 @@ msgstr ""
 
 # CZ-712
 msgid "Olomouc"
-msgstr ""
+msgstr "Olomoucký kraj"
 
 # CZ-713
 msgid "Prostějov"
@@ -3744,7 +3750,7 @@ msgstr ""
 
 # CZ-72
 msgid "Zlínský kraj"
-msgstr ""
+msgstr "Zlínsky kraj"
 
 # CZ-721
 msgid "Kroměříž"
@@ -3764,7 +3770,7 @@ msgstr ""
 
 # CZ-80
 msgid "Moravskoslezský kraj"
-msgstr ""
+msgstr "Moravskosliezsky kraj"
 
 # CZ-801
 msgid "Bruntál"
@@ -3792,63 +3798,63 @@ msgstr ""
 
 # DE-BB
 msgid "Brandenburg"
-msgstr ""
+msgstr "Brandenbursko"
 
 # DE-BE
 msgid "Berlin"
-msgstr ""
+msgstr "Berlín"
 
 # DE-BW
 msgid "Baden-Württemberg"
-msgstr ""
+msgstr "Bádensko-Württembersko"
 
 # DE-BY
 msgid "Bayern"
-msgstr ""
+msgstr "Bavorsko"
 
 # DE-HB
 msgid "Bremen"
-msgstr ""
+msgstr "Brémy"
 
 # DE-HE
 msgid "Hessen"
-msgstr ""
+msgstr "Hesensko"
 
 # DE-HH
 msgid "Hamburg"
-msgstr ""
+msgstr "Hamburg"
 
 # DE-MV
 msgid "Mecklenburg-Vorpommern"
-msgstr ""
+msgstr "Meklenbursko-Predpomoransko"
 
 # DE-NI
 msgid "Niedersachsen"
-msgstr ""
+msgstr "Dolné Sasko"
 
 # DE-NW
 msgid "Nordrhein-Westfalen"
-msgstr ""
+msgstr "Severné Porýnie - Vestfálsko"
 
 # DE-RP
 msgid "Rheinland-Pfalz"
-msgstr ""
+msgstr "Porýnie-Falcko"
 
 # DE-SH
 msgid "Schleswig-Holstein"
-msgstr ""
+msgstr "Šlezvicko-Holštajnsko"
 
 # DE-SL
 msgid "Saarland"
-msgstr ""
+msgstr "Sársko"
 
 # DE-SN
 msgid "Sachsen"
-msgstr ""
+msgstr "Sasko"
 
 # DE-ST
 msgid "Sachsen-Anhalt"
-msgstr ""
+msgstr "Sasko-Anhaltsko"
 
 # DE-TH
 msgid "Thüringen"
@@ -4556,15 +4562,15 @@ msgstr ""
 
 # ES-AN
 msgid "Andalucía"
-msgstr ""
+msgstr "Andalúzia"
 
 # ES-AR
 msgid "Aragón"
-msgstr ""
+msgstr "Aragónsko"
 
 # ES-AS
 msgid "Asturias, Principado de"
-msgstr ""
+msgstr "Astúrske kniežatstvo"
 
 # ES-AV
 msgid "Ávila"
@@ -4572,7 +4578,7 @@ msgstr ""
 
 # ES-B
 msgid "Barcelona"
-msgstr ""
+msgstr "Barcelona"
 
 # ES-BA
 msgid "Badajoz"
@@ -4596,7 +4602,7 @@ msgstr ""
 
 # ES-CB
 msgid "Cantabria"
-msgstr ""
+msgstr "Cantabria"
 
 # ES-CC
 msgid "Cáceres"
@@ -4604,19 +4610,19 @@ msgstr ""
 
 # ES-CE
 msgid "Ceuta"
-msgstr ""
+msgstr "Ceuta"
 
 # ES-CL
 msgid "Castilla y León"
-msgstr ""
+msgstr "Kastília-León"
 
 # ES-CM
 msgid "Castilla-La Mancha"
-msgstr ""
+msgstr "Kastília-La Mancha"
 
 # ES-CN
 msgid "Canarias"
-msgstr ""
+msgstr "Kanárske ostrovy"
 
 # ES-CO
 msgid "Córdoba"
@@ -4632,7 +4638,7 @@ msgstr ""
 
 # ES-CT
 msgid "Catalunya"
-msgstr ""
+msgstr "Katalánsko"
 
 # ES-CU
 msgid "Cuenca"
@@ -4640,11 +4646,11 @@ msgstr ""
 
 # ES-EX
 msgid "Extremadura"
-msgstr ""
+msgstr "Estremadura"
 
 # ES-GA
 msgid "Galicia"
-msgstr ""
+msgstr "Galícia"
 
 # ES-GC
 msgid "Las Palmas"
@@ -4672,7 +4678,7 @@ msgstr ""
 
 # ES-IB
 msgid "Illes Balears"
-msgstr ""
+msgstr "Baleáry"
 
 # ES-J
 msgid "Jaén"
@@ -4688,7 +4694,7 @@ msgstr ""
 
 # ES-LO
 msgid "La Rioja"
-msgstr ""
+msgstr "La Rioja"
 
 # ES-LU
 msgid "Lugo"
@@ -4696,27 +4702,27 @@ msgstr ""
 
 # ES-M
 msgid "Madrid"
-msgstr ""
+msgstr "Madrid"
 
 # ES-MA
 msgid "Málaga"
-msgstr ""
+msgstr "Malaga"
 
 # ES-MC
 msgid "Murcia, Región de"
-msgstr ""
+msgstr "Murcia"
 
 # ES-MD
 msgid "Madrid, Comunidad de"
-msgstr ""
+msgstr "Madrid"
 
 # ES-ML
 msgid "Melilla"
-msgstr ""
+msgstr "Melilla"
 
 # ES-MU
 msgid "Murcia"
-msgstr ""
+msgstr "Murcia"
 
 # ES-NA
 msgid "Navarra / Nafarroa"
@@ -4724,7 +4730,7 @@ msgstr ""
 
 # ES-NC
 msgid "Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea"
-msgstr ""
+msgstr "Navarra"
 
 # ES-O
 msgid "Asturias"
@@ -4752,11 +4758,11 @@ msgstr ""
 
 # ES-RI
 msgid "La Rioja"
-msgstr ""
+msgstr "La Rioja"
 
 # ES-S
 msgid "Cantabria"
-msgstr ""
+msgstr "Cantabria"
 
 # ES-SA
 msgid "Salamanca"
@@ -4764,7 +4770,7 @@ msgstr ""
 
 # ES-SE
 msgid "Sevilla"
-msgstr ""
+msgstr "Sevilla"
 
 # ES-SG
 msgid "Segovia"
@@ -4788,7 +4794,7 @@ msgstr ""
 
 # ES-TF
 msgid "Santa Cruz de Tenerife"
-msgstr ""
+msgstr "Santa Cruz de Tenerife"
 
 # ES-TO
 msgid "Toledo"
@@ -4796,15 +4802,15 @@ msgstr ""
 
 # ES-V
 msgid "Valencia / València"
-msgstr ""
+msgstr "Valencia"
 
 # ES-VA
 msgid "Valladolid"
-msgstr ""
+msgstr "Valladolid"
 
 # ES-VC
 msgid "Valenciana, Comunidad / Valenciana, Comunitat"
-msgstr ""
+msgstr "Valencia"
 
 # ES-VI
 msgid "Álava"
@@ -4812,7 +4818,7 @@ msgstr ""
 
 # ES-Z
 msgid "Zaragoza"
-msgstr ""
+msgstr "Zaragoza"
 
 # ES-ZA
 msgid "Zamora"
@@ -5132,7 +5138,7 @@ msgstr ""
 
 # FR-39
 msgid "Jura"
-msgstr ""
+msgstr "Jura"
 
 # FR-40
 msgid "Landes"
@@ -5252,7 +5258,7 @@ msgstr ""
 
 # FR-69
 msgid "Rhône"
-msgstr ""
+msgstr "Rhôna"
 
 # FR-70
 msgid "Haute-Saône"
@@ -5412,7 +5418,7 @@ msgstr ""
 
 # FR-LRE
 msgid "La Réunion"
-msgstr ""
+msgstr "Réunion"
 
 # FR-MAY
 msgid "Mayotte"
@@ -5460,7 +5466,7 @@ msgstr ""
 
 # FR-RE
 msgid "La Réunion"
-msgstr ""
+msgstr "Réunion"
 
 # FR-TF
 msgid "Terres australes françaises"
@@ -6436,11 +6442,11 @@ msgstr ""
 
 # GE-AB
 msgid "Abkhazia"
-msgstr ""
+msgstr "Abcházsko"
 
 # GE-AJ
 msgid "Ajaria"
-msgstr ""
+msgstr "Adžarsko"
 
 # GE-GU
 msgid "Guria"
@@ -6480,7 +6486,7 @@ msgstr ""
 
 # GE-TB
 msgid "T’bilisi"
-msgstr ""
+msgstr "Tbilisi"
 
 # GH-AA
 msgid "Greater Accra"
@@ -6816,7 +6822,7 @@ msgstr ""
 
 # GR-21
 msgid "Zakynthos"
-msgstr ""
+msgstr "Zakynthos [Zakyntos]"
 
 # GR-22
 msgid "Kerkyra"
@@ -7272,83 +7278,83 @@ msgstr ""
 
 # HR-01
 msgid "Zagrebačka županija"
-msgstr ""
+msgstr "Záhrebská župa"
 
 # HR-02
 msgid "Krapinsko-zagorska županija"
-msgstr ""
+msgstr "Krapinsko-zagorská župa"
 
 # HR-03
 msgid "Sisačko-moslavačka županija"
-msgstr ""
+msgstr "Sisacko-moslavinská župa"
 
 # HR-04
 msgid "Karlovačka županija"
-msgstr ""
+msgstr "Karlovecká župa"
 
 # HR-05
 msgid "Varaždinska županija"
-msgstr ""
+msgstr "Varaždínska župa"
 
 # HR-06
 msgid "Koprivničko-križevačka županija"
-msgstr ""
+msgstr "Koprivnicko-križevatská župa"
 
 # HR-07
 msgid "Bjelovarsko-bilogorska županija"
-msgstr ""
+msgstr "Bjelovarsko-bilogorská župa"
 
 # HR-08
 msgid "Primorsko-goranska županija"
-msgstr ""
+msgstr "Prímorsko-gorskokotarská župa"
 
 # HR-09
 msgid "Ličko-senjska županija"
-msgstr ""
+msgstr "Licko-senjská župa"
 
 # HR-10
 msgid "Virovitičko-podravska županija"
-msgstr ""
+msgstr "Viroviticko-podrávska župa"
 
 # HR-11
 msgid "Požeško-slavonska županija"
-msgstr ""
+msgstr "Požecko-slavónska župa"
 
 # HR-12
 msgid "Brodsko-posavska županija"
-msgstr ""
+msgstr "Brodsko-posávska župa"
 
 # HR-13
 msgid "Zadarska županija"
-msgstr ""
+msgstr "Zadarská župa"
 
 # HR-14
 msgid "Osječko-baranjska županija"
-msgstr ""
+msgstr "Osijecko-baranjská župa"
 
 # HR-15
 msgid "Šibensko-kninska županija"
-msgstr ""
+msgstr "Šibenicko-kninská župa"
 
 # HR-16
 msgid "Vukovarsko-srijemska županija"
-msgstr ""
+msgstr "Vukovarsko-sriemska župa"
 
 # HR-17
 msgid "Splitsko-dalmatinska županija"
-msgstr ""
+msgstr "Splitsko-dalmatínska župa"
 
 # HR-18
 msgid "Istarska županija"
-msgstr ""
+msgstr "Istrijská župa"
 
 # HR-19
 msgid "Dubrovačko-neretvanska županija"
-msgstr ""
+msgstr "Dubrovnícko-neretvianska župa"
 
 # HR-20
 msgid "Međimurska županija"
-msgstr ""
+msgstr "Medzimurská župa"
 
 # HR-21
 msgid "Grad Zagreb"
@@ -7392,19 +7398,19 @@ msgstr ""
 
 # HU-BA
 msgid "Baranya"
-msgstr ""
+msgstr "Baranská župa"
 
 # HU-BC
 msgid "Békéscsaba"
-msgstr ""
+msgstr "Békešská Čaba"
 
 # HU-BE
 msgid "Békés"
-msgstr ""
+msgstr "Békešská župa"
 
 # HU-BK
 msgid "Bács-Kiskun"
-msgstr ""
+msgstr "Báčsko-malokumánska župa"
 
 # HU-BU
 msgid "Budapest"
@@ -7412,99 +7418,99 @@ msgstr ""
 
 # HU-BZ
 msgid "Borsod-Abaúj-Zemplén"
-msgstr ""
+msgstr "Boršodsko-abovsko-zemplínska župa"
 
 # HU-CS
 msgid "Csongrád"
-msgstr ""
+msgstr "Čongrádska župa"
 
 # HU-DE
 msgid "Debrecen"
-msgstr ""
+msgstr "Debrecín"
 
 # HU-DU
 msgid "Dunaújváros"
-msgstr ""
+msgstr "Dunaújváros"
 
 # HU-EG
 msgid "Eger"
-msgstr ""
+msgstr "Jáger"
 
 # HU-ER
 msgid "Érd"
-msgstr ""
+msgstr "Érd"
 
 # HU-FE
 msgid "Fejér"
-msgstr ""
+msgstr "(Stolično)Belehradská župa"
 
 # HU-GS
 msgid "Győr-Moson-Sopron"
-msgstr ""
+msgstr "Rábsko-mošonsko-šopronská župa"
 
 # HU-GY
 msgid "Győr"
-msgstr ""
+msgstr "Ráb"
 
 # HU-HB
 msgid "Hajdú-Bihar"
-msgstr ""
+msgstr "Hajducko-bihárska župa"
 
 # HU-HE
 msgid "Heves"
-msgstr ""
+msgstr "Hevešská župa"
 
 # HU-HV
 msgid "Hódmezővásárhely"
-msgstr ""
+msgstr "Hódmezővásárhely"
 
 # HU-JN
 msgid "Jász-Nagykun-Szolnok"
-msgstr ""
+msgstr "Jasovsko-veľkokumánsko-solnocká župa"
 
 # HU-KE
 msgid "Komárom-Esztergom"
-msgstr ""
+msgstr "Komárňansko-ostrihomská župa"
 
 # HU-KM
 msgid "Kecskemét"
-msgstr ""
+msgstr "Kecskemét"
 
 # HU-KV
 msgid "Kaposvár"
-msgstr ""
+msgstr "Kapošvár"
 
 # HU-MI
 msgid "Miskolc"
-msgstr ""
+msgstr "Miškovec"
 
 # HU-NK
 msgid "Nagykanizsa"
-msgstr ""
+msgstr "Veľká Kaniža"
 
 # HU-NO
 msgid "Nógrád"
-msgstr ""
+msgstr "Novohradská župa"
 
 # HU-NY
 msgid "Nyíregyháza"
-msgstr ""
+msgstr "Níreďháza"
 
 # HU-PE
 msgid "Pest"
-msgstr ""
+msgstr "Peštianska župa"
 
 # HU-PS
 msgid "Pécs"
-msgstr ""
+msgstr "Pécs"
 
 # HU-SD
 msgid "Szeged"
-msgstr ""
+msgstr "Segedín"
 
 # HU-SF
 msgid "Székesfehérvár"
-msgstr ""
+msgstr "Stoličný Belehrad"
 
 # HU-SH
 msgid "Szombathely"
@@ -7516,11 +7522,11 @@ msgstr ""
 
 # HU-SN
 msgid "Sopron"
-msgstr ""
+msgstr "Šopron"
 
 # HU-SO
 msgid "Somogy"
-msgstr ""
+msgstr "Šomodská župa"
 
 # HU-SS
 msgid "Szekszárd"
@@ -7528,11 +7534,11 @@ msgstr ""
 
 # HU-ST
 msgid "Salgótarján"
-msgstr ""
+msgstr "Šalgov-Tarjany [Šalgotarján]"
 
 # HU-SZ
 msgid "Szabolcs-Szatmár-Bereg"
-msgstr ""
+msgstr "Sabolčsko-satmársko-berežská župa"
 
 # HU-TB
 msgid "Tatabánya"
@@ -7540,15 +7546,15 @@ msgstr ""
 
 # HU-TO
 msgid "Tolna"
-msgstr ""
+msgstr "Tolnianska župa"
 
 # HU-VA
 msgid "Vas"
-msgstr ""
+msgstr "Vašská župa (Železná župa)"
 
 # HU-VE
 msgid "Veszprém (county)"
-msgstr ""
+msgstr "Vesprémska župa"
 
 # HU-VM
 msgid "Veszprém"
@@ -7556,7 +7562,7 @@ msgstr ""
 
 # HU-ZA
 msgid "Zala"
-msgstr ""
+msgstr "Zalianska župa"
 
 # HU-ZE
 msgid "Zalaegerszeg"
@@ -7988,7 +7994,7 @@ msgstr ""
 
 # IN-TG
 msgid "Telangana"
-msgstr ""
+msgstr "Ning-sia"
 
 # IN-TN
 msgid "Tamil Nadu"
@@ -9076,7 +9082,7 @@ msgstr ""
 
 # KE-07
 msgid "Garissa"
-msgstr ""
+msgstr "Maranhão"
 
 # KE-08
 msgid "Homa Bay"
@@ -9100,7 +9106,7 @@ msgstr ""
 
 # KE-13
 msgid "Kiambu"
-msgstr ""
+msgstr "Hamburg"
 
 # KE-14
 msgid "Kilifi"
@@ -9196,7 +9202,7 @@ msgstr ""
 
 # KE-37
 msgid "Samburu"
-msgstr ""
+msgstr "Hamburg"
 
 # KE-38
 msgid "Siaya"
@@ -9208,7 +9214,7 @@ msgstr ""
 
 # KE-40
 msgid "Tana River"
-msgstr ""
+msgstr "Rivers"
 
 # KE-41
 msgid "Tharaka-Nithi"
@@ -9220,7 +9226,7 @@ msgstr ""
 
 # KE-43
 msgid "Turkana"
-msgstr ""
+msgstr "Arkansas"
 
 # KE-44
 msgid "Uasin Gishu"
@@ -9228,7 +9234,7 @@ msgstr ""
 
 # KE-45
 msgid "Vihiga"
-msgstr ""
+msgstr "Michigan"
 
 # KE-46
 msgid "Wajir"
@@ -9716,7 +9722,7 @@ msgstr ""
 
 # LA-XI
 msgid "Xiangkhouang"
-msgstr ""
+msgstr "Sin-ťiang"
 
 # LA-XS
 msgid "Xaisômboun"
@@ -12888,59 +12894,59 @@ msgstr ""
 
 # NG-AB
 msgid "Abia"
-msgstr ""
+msgstr "Abia"
 
 # NG-AD
 msgid "Adamawa"
-msgstr ""
+msgstr "Adamawa"
 
 # NG-AK
 msgid "Akwa Ibom"
-msgstr ""
+msgstr "Akwa Ibom"
 
 # NG-AN
 msgid "Anambra"
-msgstr ""
+msgstr "Anambra"
 
 # NG-BA
 msgid "Bauchi"
-msgstr ""
+msgstr "Bauchi"
 
 # NG-BE
 msgid "Benue"
-msgstr ""
+msgstr "Benue"
 
 # NG-BO
 msgid "Borno"
-msgstr ""
+msgstr "Borno"
 
 # NG-BY
 msgid "Bayelsa"
-msgstr ""
+msgstr "Bayelsa"
 
 # NG-CR
 msgid "Cross River"
-msgstr ""
+msgstr "Cross River"
 
 # NG-DE
 msgid "Delta"
-msgstr ""
+msgstr "Delta"
 
 # NG-EB
 msgid "Ebonyi"
-msgstr ""
+msgstr "Ebonyi"
 
 # NG-ED
 msgid "Edo"
-msgstr ""
+msgstr "Edo"
 
 # NG-EK
 msgid "Ekiti"
-msgstr ""
+msgstr "Ekiti"
 
 # NG-EN
 msgid "Enugu"
-msgstr ""
+msgstr "Enugu"
 
 # NG-FC
 msgid "Abuja Capital Territory"
@@ -12948,47 +12954,47 @@ msgstr ""
 
 # NG-GO
 msgid "Gombe"
-msgstr ""
+msgstr "Gombe"
 
 # NG-IM
 msgid "Imo"
-msgstr ""
+msgstr "Imo"
 
 # NG-JI
 msgid "Jigawa"
-msgstr ""
+msgstr "Jigawa"
 
 # NG-KD
 msgid "Kaduna"
-msgstr ""
+msgstr "Kaduna"
 
 # NG-KE
 msgid "Kebbi"
-msgstr ""
+msgstr "Kebbi"
 
 # NG-KN
 msgid "Kano"
-msgstr ""
+msgstr "Kano"
 
 # NG-KO
 msgid "Kogi"
-msgstr ""
+msgstr "Kogi"
 
 # NG-KT
 msgid "Katsina"
-msgstr ""
+msgstr "Katsina"
 
 # NG-KW
 msgid "Kwara"
-msgstr ""
+msgstr "Kwara"
 
 # NG-LA
 msgid "Lagos"
-msgstr ""
+msgstr "Lagos"
 
 # NG-NA
 msgid "Nassarawa"
-msgstr ""
+msgstr "Nassarawa"
 
 # NG-NI
 msgid "Niger"
@@ -12996,19 +13002,19 @@ msgstr "Niger"
 
 # NG-OG
 msgid "Ogun"
-msgstr ""
+msgstr "Ogun"
 
 # NG-ON
 msgid "Ondo"
-msgstr ""
+msgstr "Ondo"
 
 # NG-OS
 msgid "Osun"
-msgstr ""
+msgstr "Osun"
 
 # NG-OY
 msgid "Oyo"
-msgstr ""
+msgstr "Oyo"
 
 # NG-PL
 msgid "Plateau"
@@ -13016,23 +13022,23 @@ msgstr ""
 
 # NG-RI
 msgid "Rivers"
-msgstr ""
+msgstr "Rivers"
 
 # NG-SO
 msgid "Sokoto"
-msgstr ""
+msgstr "Sokoto"
 
 # NG-TA
 msgid "Taraba"
-msgstr ""
+msgstr "Taraba"
 
 # NG-YO
 msgid "Yobe"
-msgstr ""
+msgstr "Yobe"
 
 # NG-ZA
 msgid "Zamfara"
-msgstr ""
+msgstr "Zamfara"
 
 # NI-AN
 msgid "Atlántico Norte"
@@ -13144,7 +13150,7 @@ msgstr ""
 
 # NL-LI
 msgid "Limburg"
-msgstr ""
+msgstr "Hamburg"
 
 # NL-NB
 msgid "Noord-Brabant"
@@ -14356,11 +14362,11 @@ msgstr ""
 
 # PT-20
 msgid "Região Autónoma dos Açores"
-msgstr ""
+msgstr "Azory"
 
 # PT-30
 msgid "Região Autónoma da Madeira"
-msgstr ""
+msgstr "Madeira"
 
 # PW-002
 msgid "Aimeliik"
@@ -14496,7 +14502,7 @@ msgstr ""
 
 # PY-ASU
 msgid "Asunción"
-msgstr ""
+msgstr "Asunción"
 
 # QA-DA
 msgid "Ad Dawhah"
@@ -14824,51 +14830,51 @@ msgstr ""
 
 # RU-AD
 msgid "Adygeya, Respublika"
-msgstr ""
+msgstr "Adygejsko"
 
 # RU-AL
 msgid "Altay, Respublika"
-msgstr ""
+msgstr "Altajsko"
 
 # RU-ALT
 msgid "Altayskiy kray"
-msgstr ""
+msgstr "Altajský kraj"
 
 # RU-AMU
 msgid "Amurskaya oblast'"
-msgstr ""
+msgstr "Amurská oblasť"
 
 # RU-ARK
 msgid "Arkhangel'skaya oblast'"
-msgstr ""
+msgstr "Archangeľská oblasť"
 
 # RU-AST
 msgid "Astrakhanskaya oblast'"
-msgstr ""
+msgstr "Astrachánska oblasť"
 
 # RU-BA
 msgid "Bashkortostan, Respublika"
-msgstr ""
+msgstr "Baškirsko"
 
 # RU-BEL
 msgid "Belgorodskaya oblast'"
-msgstr ""
+msgstr "Belgorodská oblasť"
 
 # RU-BRY
 msgid "Bryanskaya oblast'"
-msgstr ""
+msgstr "Brianska oblasť"
 
 # RU-BU
 msgid "Buryatiya, Respublika"
-msgstr ""
+msgstr "Buriatsko"
 
 # RU-CE
 msgid "Chechenskaya Respublika"
-msgstr ""
+msgstr "Čečensko"
 
 # RU-CHE
 msgid "Chelyabinskaya oblast'"
-msgstr ""
+msgstr "Čeľabinská oblasť"
 
 # RU-CHU
 msgid "Chukotskiy avtonomnyy okrug"
@@ -14876,55 +14882,55 @@ msgstr ""
 
 # RU-CU
 msgid "Chuvashskaya Respublika"
-msgstr ""
+msgstr "Čuvašsko"
 
 # RU-DA
 msgid "Dagestan, Respublika"
-msgstr ""
+msgstr "Dagestan"
 
 # RU-IN
 msgid "Respublika Ingushetiya"
-msgstr ""
+msgstr "Ingušsko"
 
 # RU-IRK
 msgid "Irkutiskaya oblast'"
-msgstr ""
+msgstr "Irkutská oblasť"
 
 # RU-IVA
 msgid "Ivanovskaya oblast'"
-msgstr ""
+msgstr "Ivanovská oblasť"
 
 # RU-KAM
 msgid "Kamchatskiy kray"
-msgstr ""
+msgstr "Kamčatský kraj"
 
 # RU-KB
 msgid "Kabardino-Balkarskaya Respublika"
-msgstr ""
+msgstr "Kabardsko-Balkarsko"
 
 # RU-KC
 msgid "Karachayevo-Cherkesskaya Respublika"
-msgstr ""
+msgstr "Karačajsko-Čerkesko"
 
 # RU-KDA
 msgid "Krasnodarskiy kray"
-msgstr ""
+msgstr "Krasnodarský kraj"
 
 # RU-KEM
 msgid "Kemerovskaya oblast'"
-msgstr ""
+msgstr "Kemerovská oblasť"
 
 # RU-KGD
 msgid "Kaliningradskaya oblast'"
-msgstr ""
+msgstr "Kaliningradská oblasť"
 
 # RU-KGN
 msgid "Kurganskaya oblast'"
-msgstr ""
+msgstr "Kurganská oblasť"
 
 # RU-KHA
 msgid "Khabarovskiy kray"
-msgstr ""
+msgstr "Chabarovský kraj"
 
 # RU-KHM
 msgid "Khanty-Mansiysky avtonomnyy okrug-Yugra"
@@ -14932,71 +14938,71 @@ msgstr ""
 
 # RU-KIR
 msgid "Kirovskaya oblast'"
-msgstr ""
+msgstr "Kirovská oblasť"
 
 # RU-KK
 msgid "Khakasiya, Respublika"
-msgstr ""
+msgstr "Chakasko"
 
 # RU-KL
 msgid "Kalmykiya, Respublika"
-msgstr ""
+msgstr "Kalmycko"
 
 # RU-KLU
 msgid "Kaluzhskaya oblast'"
-msgstr ""
+msgstr "Kalužská oblasť"
 
 # RU-KO
 msgid "Komi, Respublika"
-msgstr ""
+msgstr "Komijsko"
 
 # RU-KOS
 msgid "Kostromskaya oblast'"
-msgstr ""
+msgstr "Kostromská oblasť"
 
 # RU-KR
 msgid "Kareliya, Respublika"
-msgstr ""
+msgstr "Karelsko"
 
 # RU-KRS
 msgid "Kurskaya oblast'"
-msgstr ""
+msgstr "Kurská oblasť"
 
 # RU-KYA
 msgid "Krasnoyarskiy kray"
-msgstr ""
+msgstr "Krasnojarský kraj"
 
 # RU-LEN
 msgid "Leningradskaya oblast'"
-msgstr ""
+msgstr "Leningradská oblasť"
 
 # RU-LIP
 msgid "Lipetskaya oblast'"
-msgstr ""
+msgstr "Lipecká oblasť"
 
 # RU-MAG
 msgid "Magadanskaya oblast'"
-msgstr ""
+msgstr "Magadanská oblasť"
 
 # RU-ME
 msgid "Mariy El, Respublika"
-msgstr ""
+msgstr "Marijsko"
 
 # RU-MO
 msgid "Mordoviya, Respublika"
-msgstr ""
+msgstr "Mordviansko"
 
 # RU-MOS
 msgid "Moskovskaya oblast'"
-msgstr ""
+msgstr "Moskovská oblasť"
 
 # RU-MOW
 msgid "Moskva"
-msgstr ""
+msgstr "Moskva"
 
 # RU-MUR
 msgid "Murmanskaya oblast'"
-msgstr ""
+msgstr "Murmanská oblasť"
 
 # RU-NEN
 msgid "Nenetskiy avtonomnyy okrug"
@@ -15004,139 +15010,139 @@ msgstr ""
 
 # RU-NGR
 msgid "Novgorodskaya oblast'"
-msgstr ""
+msgstr "Novgorodská oblasť"
 
 # RU-NIZ
 msgid "Nizhegorodskaya oblast'"
-msgstr ""
+msgstr "Nižnonovgorodská oblasť"
 
 # RU-NVS
 msgid "Novosibirskaya oblast'"
-msgstr ""
+msgstr "Novosibirská oblasť"
 
 # RU-OMS
 msgid "Omskaya oblast'"
-msgstr ""
+msgstr "Omská oblasť"
 
 # RU-ORE
 msgid "Orenburgskaya oblast'"
-msgstr ""
+msgstr "Orenburská oblasť"
 
 # RU-ORL
 msgid "Orlovskaya oblast'"
-msgstr ""
+msgstr "Oriolska oblasť"
 
 # RU-PER
 msgid "Permskiy kray"
-msgstr ""
+msgstr "Permský kraj"
 
 # RU-PNZ
 msgid "Penzenskaya oblast'"
-msgstr ""
+msgstr "Penzianska oblasť"
 
 # RU-PRI
 msgid "Primorskiy kray"
-msgstr ""
+msgstr "Prímorský kraj"
 
 # RU-PSK
 msgid "Pskovskaya oblast'"
-msgstr ""
+msgstr "Pskovská oblasť"
 
 # RU-ROS
 msgid "Rostovskaya oblast'"
-msgstr ""
+msgstr "Rostovská oblasť"
 
 # RU-RYA
 msgid "Ryazanskaya oblast'"
-msgstr ""
+msgstr "Riazanská oblasť"
 
 # RU-SA
 msgid "Sakha, Respublika [Yakutiya]"
-msgstr ""
+msgstr "Jakutsko"
 
 # RU-SAK
 msgid "Sakhalinskaya oblast'"
-msgstr ""
+msgstr "Sachalinská oblasť"
 
 # RU-SAM
 msgid "Samaraskaya oblast'"
-msgstr ""
+msgstr "Samarská oblasť"
 
 # RU-SAR
 msgid "Saratovskaya oblast'"
-msgstr ""
+msgstr "Saratovská oblasť"
 
 # RU-SE
 msgid "Severnaya Osetiya-Alaniya, Respublika"
-msgstr ""
+msgstr "Severné Osetsko"
 
 # RU-SMO
 msgid "Smolenskaya oblast'"
-msgstr ""
+msgstr "Smolenská oblasť"
 
 # RU-SPE
 msgid "Sankt-Peterburg"
-msgstr ""
+msgstr "Petrohrad"
 
 # RU-STA
 msgid "Stavropol'skiy kray"
-msgstr ""
+msgstr "Stavropoľský kraj"
 
 # RU-SVE
 msgid "Sverdlovskaya oblast'"
-msgstr ""
+msgstr "Sverdlovská oblasť"
 
 # RU-TA
 msgid "Tatarstan, Respublika"
-msgstr ""
+msgstr "Tatársko"
 
 # RU-TAM
 msgid "Tambovskaya oblast'"
-msgstr ""
+msgstr "Tambovská oblasť"
 
 # RU-TOM
 msgid "Tomskaya oblast'"
-msgstr ""
+msgstr "Tomská oblasť"
 
 # RU-TUL
 msgid "Tul'skaya oblast'"
-msgstr ""
+msgstr "Tulská oblasť"
 
 # RU-TVE
 msgid "Tverskaya oblast'"
-msgstr ""
+msgstr "Tverská oblasť"
 
 # RU-TY
 msgid "Tyva, Respublika [Tuva]"
-msgstr ""
+msgstr "Tuviansko"
 
 # RU-TYU
 msgid "Tyumenskaya oblast'"
-msgstr ""
+msgstr "Ťumenská oblasť"
 
 # RU-UD
 msgid "Udmurtskaya Respublika"
-msgstr ""
+msgstr "Udmurtsko"
 
 # RU-ULY
 msgid "Ul'yanovskaya oblast'"
-msgstr ""
+msgstr "Ulianovská oblasť"
 
 # RU-VGG
 msgid "Volgogradskaya oblast'"
-msgstr ""
+msgstr "Volgogradská oblasť"
 
 # RU-VLA
 msgid "Vladimirskaya oblast'"
-msgstr ""
+msgstr "Vladimírska oblasť"
 
 # RU-VLG
 msgid "Vologodskaya oblast'"
-msgstr ""
+msgstr "Vologdská oblasť"
 
 # RU-VOR
 msgid "Voronezhskaya oblast'"
-msgstr ""
+msgstr "Voronežská oblasť"
 
 # RU-YAN
 msgid "Yamalo-Nenetskiy avtonomnyy okrug"
@@ -15144,7 +15150,7 @@ msgstr ""
 
 # RU-YAR
 msgid "Yaroslavskaya oblast'"
-msgstr ""
+msgstr "Jaroslavlianska oblasť"
 
 # RU-YEV
 msgid "Yevreyskaya avtonomnaya oblast'"
@@ -15152,7 +15158,7 @@ msgstr ""
 
 # RU-ZAB
 msgid "Zabajkal'skij kraj"
-msgstr ""
+msgstr "Zabajkalský kraj"
 
 # RW-01
 msgid "Ville de Kigali"
@@ -18055,39 +18061,48 @@ msgid "Manyara"
 msgstr ""
 
 # UA-05
-msgid "Vinnyts'ka Oblast'"
+# original msgid: "Vinnyts'ka Oblast'"
+msgid "Vinnytska oblast"
 msgstr ""
 
 # UA-07
-msgid "Volyns'ka Oblast'"
+# original msgid: "Volyns'ka Oblast'"
+msgid "Volynska oblast"
 msgstr ""
 
 # UA-09
-msgid "Luhans'ka Oblast'"
+# original msgid: "Luhans'ka Oblast'"
+msgid "Luhanska oblast"
 msgstr ""
 
 # UA-12
-msgid "Dnipropetrovs'ka Oblast'"
+# original msgid: "Dnipropetrovs'ka Oblast'"
+msgid "Dnipropetrovska oblast"
 msgstr ""
 
 # UA-14
-msgid "Donets'ka Oblast'"
+# original msgid: "Donets'ka Oblast'"
+msgid "Donetska oblast"
 msgstr ""
 
 # UA-18
-msgid "Zhytomyrs'ka Oblast'"
+# original msgid: "Zhytomyrs'ka Oblast'"
+msgid "Zhytomyrska oblast"
 msgstr ""
 
 # UA-21
-msgid "Zakarpats'ka Oblast'"
+# original msgid: "Zakarpats'ka Oblast'"
+msgid "Zakarpatska oblast"
 msgstr ""
 
 # UA-23
-msgid "Zaporiz'ka Oblast'"
+# original msgid: "Zaporiz'ka Oblast'"
+msgid "Zaporizka oblast"
 msgstr ""
 
 # UA-26
-msgid "Ivano-Frankivs'ka Oblast'"
+# original msgid: "Ivano-Frankivs'ka Oblast'"
+msgid "Ivano-Frankivska oblast"
 msgstr ""
 
 # UA-30
@@ -18097,11 +18112,12 @@ msgstr ""
 
 # UA-32
 # original msgid: "Kyïvs'ka Oblast'"
-msgid "Kyivs'ka Oblast'"
+msgid "Kyivska oblast"
 msgstr ""
 
 # UA-35
-msgid "Kirovohrads'ka Oblast'"
+# original msgid: "Kirovohrads'ka Oblast'"
+msgid "Kirovohradska oblast"
 msgstr ""
 
 # UA-40
@@ -18109,59 +18125,73 @@ msgid "Sevastopol"
 msgstr ""
 
 # UA-43
-msgid "Respublika Krym"
+# original msgid: "Respublika Krym"
+msgid "Avtonomna Respublika Krym"
 msgstr ""
 
 # UA-46
-msgid "L'vivs'ka Oblast'"
+# original msgid: "L'vivs'ka Oblast'"
+msgid "Lvivska oblast"
 msgstr ""
 
 # UA-48
-msgid "Mykolaïvs'ka Oblast'"
+# original msgid: "Mykolaïvs'ka Oblast'"
+msgid "Mykolaivska oblast"
 msgstr ""
 
 # UA-51
-msgid "Odes'ka Oblast'"
+# original msgid: "Odes'ka Oblast'"
+msgid "Odeska oblast"
 msgstr ""
 
 # UA-53
-msgid "Poltavs'ka Oblast'"
+# original msgid: "Poltavs'ka Oblast'"
+msgid "Poltavska oblast"
 msgstr ""
 
 # UA-56
-msgid "Rivnens'ka Oblast'"
+# original msgid: "Rivnens'ka Oblast'"
+msgid "Rivnenska oblast"
 msgstr ""
 
 # UA-59
-msgid "Sums 'ka Oblast'"
+# original msgid: "Sums 'ka Oblast'"
+msgid "Sumska oblast"
 msgstr ""
 
 # UA-61
-msgid "Ternopil's'ka Oblast'"
+# original msgid: "Ternopil's'ka Oblast'"
+msgid "Ternopilska oblast"
 msgstr ""
 
 # UA-63
-msgid "Kharkivs'ka Oblast'"
+# original msgid: "Kharkivs'ka Oblast'"
+msgid "Kharkivska oblast"
 msgstr ""
 
 # UA-65
-msgid "Khersons'ka Oblast'"
+# original msgid: "Khersons'ka Oblast'"
+msgid "Khersonska oblast"
 msgstr ""
 
 # UA-68
-msgid "Khmel'nyts'ka Oblast'"
+# original msgid: "Khmel'nyts'ka Oblast'"
+msgid "Khmelnytska oblast"
 msgstr ""
 
 # UA-71
-msgid "Cherkas'ka Oblast'"
+# original msgid: "Cherkas'ka Oblast'"
+msgid "Cherkaska oblast"
 msgstr ""
 
 # UA-74
-msgid "Chernihivs'ka Oblast'"
+# original msgid: "Chernihivs'ka Oblast'"
+msgid "Chernihivska oblast"
 msgstr ""
 
 # UA-77
-msgid "Chernivets'ka Oblast'"
+# original msgid: "Chernivets'ka Oblast'"
+msgid "Chernivetska oblast"
 msgstr ""
 
 # UG-101
@@ -18502,51 +18532,51 @@ msgstr ""
 
 # UM-67
 msgid "Johnston Atoll"
-msgstr ""
+msgstr "Johnston"
 
 # UM-71
 msgid "Midway Islands"
-msgstr ""
+msgstr "Midway"
 
 # UM-76
 msgid "Navassa Island"
-msgstr ""
+msgstr "Navassa"
 
 # UM-79
 msgid "Wake Island"
-msgstr ""
+msgstr "Wake"
 
 # UM-81
 msgid "Baker Island"
-msgstr ""
+msgstr "Baker"
 
 # UM-84
 msgid "Howland Island"
-msgstr ""
+msgstr "Howland"
 
 # UM-86
 msgid "Jarvis Island"
-msgstr ""
+msgstr "Jarvis"
 
 # UM-89
 msgid "Kingman Reef"
-msgstr ""
+msgstr "Kingmanreef"
 
 # UM-95
 msgid "Palmyra Atoll"
-msgstr ""
+msgstr "Palmyra"
 
 # US-AK
 msgid "Alaska"
-msgstr ""
+msgstr "Alijaška"
 
 # US-AL
 msgid "Alabama"
-msgstr ""
+msgstr "Alabama"
 
 # US-AR
 msgid "Arkansas"
-msgstr ""
+msgstr "Arkansas"
 
 # US-AS
 msgid "American Samoa"
@@ -18554,35 +18584,35 @@ msgstr "Americká Samoa"
 
 # US-AZ
 msgid "Arizona"
-msgstr ""
+msgstr "Arizona"
 
 # US-CA
 msgid "California"
-msgstr ""
+msgstr "Kalifornia"
 
 # US-CO
 msgid "Colorado"
-msgstr ""
+msgstr "Colorado"
 
 # US-CT
 msgid "Connecticut"
-msgstr ""
+msgstr "Connecticut"
 
 # US-DC
 msgid "District of Columbia"
-msgstr ""
+msgstr "Federálny dištrikt Kolumbia"
 
 # US-DE
 msgid "Delaware"
-msgstr ""
+msgstr "Delaware"
 
 # US-FL
 msgid "Florida"
-msgstr ""
+msgstr "Florida"
 
 # US-GA
 msgid "Georgia"
-msgstr "Gruzínsko"
+msgstr "Georgia"
 
 # US-GU
 msgid "Guam"
@@ -18590,39 +18620,39 @@ msgstr "Guam"
 
 # US-HI
 msgid "Hawaii"
-msgstr ""
+msgstr "Havaj"
 
 # US-IA
 msgid "Iowa"
-msgstr ""
+msgstr "Iowa"
 
 # US-ID
 msgid "Idaho"
-msgstr ""
+msgstr "Idaho"
 
 # US-IL
 msgid "Illinois"
-msgstr ""
+msgstr "Illinois"
 
 # US-IN
 msgid "Indiana"
-msgstr ""
+msgstr "Indiana"
 
 # US-KS
 msgid "Kansas"
-msgstr ""
+msgstr "Kansas"
 
 # US-KY
 msgid "Kentucky"
-msgstr ""
+msgstr "Kentucky"
 
 # US-LA
 msgid "Louisiana"
-msgstr ""
+msgstr "Louisiana"
 
 # US-MA
 msgid "Massachusetts"
-msgstr ""
+msgstr "Massachusetts"
 
 # US-MD
 msgid "Maryland"
@@ -18630,27 +18660,27 @@ msgstr ""
 
 # US-ME
 msgid "Maine"
-msgstr ""
+msgstr "Maine"
 
 # US-MI
 msgid "Michigan"
-msgstr ""
+msgstr "Michigan"
 
 # US-MN
 msgid "Minnesota"
-msgstr ""
+msgstr "Minnesota"
 
 # US-MO
 msgid "Missouri"
-msgstr ""
+msgstr "Missouri"
 
 # US-MP
 msgid "Northern Mariana Islands"
-msgstr "Severné Mariány"
+msgstr "Spoločenstvo ostrovov Severné Mariány"
 
 # US-MS
 msgid "Mississippi"
-msgstr ""
+msgstr "Mississippi"
 
 # US-MT
 msgid "Montana"
@@ -18658,75 +18688,75 @@ msgstr ""
 
 # US-NC
 msgid "North Carolina"
-msgstr ""
+msgstr "Severná Karolína"
 
 # US-ND
 msgid "North Dakota"
-msgstr ""
+msgstr "Severná Dakota"
 
 # US-NE
 msgid "Nebraska"
-msgstr ""
+msgstr "Nebraska"
 
 # US-NH
 msgid "New Hampshire"
-msgstr ""
+msgstr "New Hampshire"
 
 # US-NJ
 msgid "New Jersey"
-msgstr ""
+msgstr "New Jersey"
 
 # US-NM
 msgid "New Mexico"
-msgstr ""
+msgstr "Nové Mexiko"
 
 # US-NV
 msgid "Nevada"
-msgstr ""
+msgstr "Nevada"
 
 # US-NY
 msgid "New York"
-msgstr ""
+msgstr "New York"
 
 # US-OH
 msgid "Ohio"
-msgstr ""
+msgstr "Ohio"
 
 # US-OK
 msgid "Oklahoma"
-msgstr ""
+msgstr "Oklahoma"
 
 # US-OR
 msgid "Oregon"
-msgstr ""
+msgstr "Oregon"
 
 # US-PA
 msgid "Pennsylvania"
-msgstr ""
+msgstr "Pensylvánia"
 
 # US-PR
 msgid "Puerto Rico"
-msgstr "Portoriko"
+msgstr "Portorické spoločenstvo"
 
 # US-RI
 msgid "Rhode Island"
-msgstr ""
+msgstr "Rhode Island"
 
 # US-SC
 msgid "South Carolina"
-msgstr ""
+msgstr "Južná Karolína"
 
 # US-SD
 msgid "South Dakota"
-msgstr ""
+msgstr "Južná Dakota"
 
 # US-TN
 msgid "Tennessee"
-msgstr ""
+msgstr "Tennessee"
 
 # US-TX
 msgid "Texas"
-msgstr ""
+msgstr "Texas"
 
 # US-UM
 msgid "United States Minor Outlying Islands"
@@ -18734,35 +18764,35 @@ msgstr "Menšie odľahlé ostrovy Spojených štátov"
 
 # US-UT
 msgid "Utah"
-msgstr ""
+msgstr "Utah"
 
 # US-VA
 msgid "Virginia"
-msgstr ""
+msgstr "Virgínia"
 
 # US-VI
 msgid "Virgin Islands"
-msgstr ""
+msgstr "Panenské ostrovy Spojených štátov"
 
 # US-VT
 msgid "Vermont"
-msgstr ""
+msgstr "Vermont"
 
 # US-WA
 msgid "Washington"
-msgstr ""
+msgstr "Washington"
 
 # US-WI
 msgid "Wisconsin"
-msgstr ""
+msgstr "Wisconsin"
 
 # US-WV
 msgid "West Virginia"
-msgstr ""
+msgstr "Západná Virgínia"
 
 # US-WY
 msgid "Wyoming"
-msgstr ""
+msgstr "Wyoming"
 
 # UY-AR
 msgid "Artigas"
@@ -18786,7 +18816,7 @@ msgstr ""
 
 # UY-FD
 msgid "Florida"
-msgstr ""
+msgstr "Florida"
 
 # UY-FS
 msgid "Flores"
@@ -18922,7 +18952,7 @@ msgstr ""
 
 # VE-A
 msgid "Distrito Federal"
-msgstr ""
+msgstr "Federálny dištrikt"
 
 # VE-B
 msgid "Anzoátegui"

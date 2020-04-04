@@ -47,7 +47,8 @@ msgid "Bambara"
 msgstr "밤바라어"
 
 # bn
-msgid "Bengali"
+# original msgid: "Bengali"
+msgid "Bangla"
 msgstr "벵골어"
 
 # bo
@@ -101,7 +102,7 @@ msgstr "독일어"
 
 # dv
 # original msgid: "Divehi; Dhivehi; Maldivian"
-msgid "Dhivehi"
+msgid "Divehi"
 msgstr "디베히어"
 
 # dz
@@ -193,7 +194,7 @@ msgstr "크로아티아어"
 
 # ht
 # original msgid: "Haitian; Haitian Creole"
-msgid "Haitian"
+msgid "Haitian Creole"
 msgstr "아이티어"
 
 # hu
@@ -261,7 +262,8 @@ msgid "Kalaallisut"
 msgstr "그린란드어"
 
 # km
-msgid "Central Khmer"
+# original msgid: "Central Khmer"
+msgid "Khmer"
 msgstr "중부 크메르어"
 
 # kn
@@ -282,7 +284,7 @@ msgstr "콘월어"
 
 # ky
 # original msgid: "Kirghiz; Kyrgyz"
-msgid "Kirghiz"
+msgid "Kyrgyz"
 msgstr "키르기스어"
 
 # lb
@@ -296,7 +298,7 @@ msgstr "간다어"
 
 # li
 # original msgid: "Limburgan; Limburger; Limburgish"
-msgid "Limburgan"
+msgid "Limburgish"
 msgstr "림뷔르흐어"
 
 # ln
@@ -393,12 +395,12 @@ msgstr "오크어 (1500년 이후)"
 
 # os
 # original msgid: "Ossetian; Ossetic"
-msgid "Ossetian"
+msgid "Ossetic"
 msgstr "오세트어"
 
 # pa
 # original msgid: "Panjabi; Punjabi"
-msgid "Panjabi"
+msgid "Punjabi"
 msgstr "펀자브어"
 
 # pl
@@ -522,7 +524,7 @@ msgstr "츠와나어"
 
 # to
 # original msgid: "Tonga (Tonga Islands)"
-msgid "Tonga"
+msgid "Tongan"
 msgstr "통가어 (통가 제도)"
 
 # tr
@@ -547,7 +549,7 @@ msgstr "타히티어"
 
 # ug
 # original msgid: "Uighur; Uyghur"
-msgid "Uighur"
+msgid "Uyghur"
 msgstr "위구르어"
 
 # uk
