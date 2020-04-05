@@ -56,6 +56,7 @@ defmodule AmbassadorDev.API do
     |> case do
       {:ok, {{_, 200, _}, _, body}} -> Jason.decode!(body)
       {:ok, {{_, status, _}, _, _}} -> raise "GET #{url} responded with #{status}"
+      {:error, :socket_closed_remotely} -> call_api(path, query)
     end
   end
 

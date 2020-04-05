@@ -1,589 +1,589 @@
-# aa
+# "aa"
 msgid "Afar"
 msgstr "아파르어"
 
-# ab
+# "ab"
 msgid "Abkhazian"
 msgstr "압하스어"
 
-# af
+# "af"
 msgid "Afrikaans"
 msgstr "아프리칸스어"
 
-# am
+# "am"
 msgid "Amharic"
 msgstr "암하라어"
 
-# an
+# "an"
 msgid "Aragonese"
 msgstr "아라곤어"
 
-# as
+# "as"
 msgid "Assamese"
 msgstr "아삼어"
 
-# av
+# "av"
 msgid "Avaric"
 msgstr "아바르어"
 
-# ba
+# "ba"
 msgid "Bashkir"
 msgstr "바시키르어"
 
-# be
+# "be"
 msgid "Belarusian"
 msgstr "벨로루시어"
 
-# bg
+# "bg"
 msgid "Bulgarian"
 msgstr "불가리아어"
 
-# bi
+# "bi"
 msgid "Bislama"
 msgstr "비슬라마"
 
-# bm
+# "bm"
 msgid "Bambara"
 msgstr "밤바라어"
 
-# bn
+# "bn"
 # original msgid: "Bengali"
 msgid "Bangla"
 msgstr "벵골어"
 
-# bo
+# "bo"
 msgid "Tibetan"
 msgstr "티베트어"
 
-# br
+# "br"
 msgid "Breton"
 msgstr "브르타뉴어"
 
-# bs
+# "bs"
 msgid "Bosnian"
 msgstr "보스니아어"
 
-# ca
+# "ca"
 # original msgid: "Catalan; Valencian"
 msgid "Catalan"
 msgstr "카탈루냐어"
 
-# ce
+# "ce"
 msgid "Chechen"
 msgstr "체첸어"
 
-# ch
+# "ch"
 msgid "Chamorro"
 msgstr "차모로어"
 
-# co
+# "co"
 msgid "Corsican"
 msgstr "코르시카어"
 
-# cs
+# "cs"
 msgid "Czech"
 msgstr "체코어"
 
-# cv
+# "cv"
 msgid "Chuvash"
 msgstr "추바슈어"
 
-# cy
+# "cy"
 msgid "Welsh"
 msgstr "웨일스어"
 
-# da
+# "da"
 msgid "Danish"
 msgstr "덴마크어"
 
-# de
+# "de"
 msgid "German"
 msgstr "독일어"
 
-# dv
+# "dv"
 # original msgid: "Divehi; Dhivehi; Maldivian"
 msgid "Divehi"
 msgstr "디베히어"
 
-# dz
+# "dz"
 msgid "Dzongkha"
 msgstr "종카어"
 
-# ee
+# "ee"
 msgid "Ewe"
 msgstr "에웨어"
 
-# el
+# "el"
 # original msgid: "Greek, Modern (1453-)"
 msgid "Greek"
 msgstr "그리스어 (현대) (1453년 이후)"
 
-# en
+# "en"
 msgid "English"
 msgstr "영어"
 
-# es
+# "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr "스페인어"
 
-# eu
+# "eu"
 msgid "Basque"
 msgstr "바스크어"
 
-# fi
+# "fi"
 msgid "Finnish"
 msgstr "핀란드어"
 
-# fj
+# "fj"
 msgid "Fijian"
 msgstr "피지어"
 
-# fo
+# "fo"
 msgid "Faroese"
 msgstr "페로스어"
 
-# fr
+# "fr"
 msgid "French"
 msgstr "프랑스어"
 
-# fy
+# "fy"
 msgid "Western Frisian"
 msgstr "프리지아어 (서부)"
 
-# ga
+# "ga"
 msgid "Irish"
 msgstr "아일랜드어"
 
-# gd
+# "gd"
 # original msgid: "Gaelic; Scottish Gaelic"
 msgid "Scottish Gaelic"
 msgstr "고이델어"
 
-# gl
+# "gl"
 msgid "Galician"
 msgstr "갈리시아어"
 
-# gu
+# "gu"
 msgid "Gujarati"
 msgstr "구자라트어"
 
-# gv
+# "gv"
 msgid "Manx"
 msgstr "맨어"
 
-# ha
+# "ha"
 msgid "Hausa"
 msgstr "하우사어"
 
-# he
+# "he"
 msgid "Hebrew"
 msgstr "히브리어"
 
-# hi
+# "hi"
 msgid "Hindi"
 msgstr "힌두어"
 
-# ho
+# "ho"
 msgid "Hiri Motu"
 msgstr "히리 모투"
 
-# hr
+# "hr"
 msgid "Croatian"
 msgstr "크로아티아어"
 
-# ht
+# "ht"
 # original msgid: "Haitian; Haitian Creole"
 msgid "Haitian Creole"
 msgstr "아이티어"
 
-# hu
+# "hu"
 msgid "Hungarian"
 msgstr "헝가리어"
 
-# hy
+# "hy"
 msgid "Armenian"
 msgstr "아르메니아어"
 
-# hz
+# "hz"
 msgid "Herero"
 msgstr "헤레로어"
 
-# id
+# "id"
 msgid "Indonesian"
 msgstr "인도네시아어"
 
-# ig
+# "ig"
 msgid "Igbo"
 msgstr "이그보어"
 
-# ii
+# "ii"
 # original msgid: "Sichuan Yi; Nuosu"
 msgid "Sichuan Yi"
 msgstr "쓰촨 이어"
 
-# is
+# "is"
 msgid "Icelandic"
 msgstr "아이슬란드어"
 
-# it
+# "it"
 msgid "Italian"
 msgstr "이탈리아어"
 
-# ja
+# "ja"
 msgid "Japanese"
 msgstr "일본어"
 
-# jv
+# "jv"
 msgid "Javanese"
 msgstr "자와어"
 
-# ka
+# "ka"
 msgid "Georgian"
 msgstr "조지아어"
 
-# ki
+# "ki"
 # original msgid: "Kikuyu; Gikuyu"
 msgid "Kikuyu"
 msgstr "키쿠유어"
 
-# kj
+# "kj"
 # original msgid: "Kuanyama; Kwanyama"
 msgid "Kuanyama"
 msgstr "콰냐마어"
 
-# kk
+# "kk"
 msgid "Kazakh"
 msgstr "카자흐어"
 
-# kl
+# "kl"
 # original msgid: "Kalaallisut; Greenlandic"
 msgid "Kalaallisut"
 msgstr "그린란드어"
 
-# km
+# "km"
 # original msgid: "Central Khmer"
 msgid "Khmer"
 msgstr "중부 크메르어"
 
-# kn
+# "kn"
 msgid "Kannada"
 msgstr "칸나다어"
 
-# ko
+# "ko"
 msgid "Korean"
 msgstr "한국어"
 
-# ks
+# "ks"
 msgid "Kashmiri"
 msgstr "카슈미르어"
 
-# kw
+# "kw"
 msgid "Cornish"
 msgstr "콘월어"
 
-# ky
+# "ky"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr "키르기스어"
 
-# lb
+# "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
 msgid "Luxembourgish"
 msgstr "룩셈부르크어"
 
-# lg
+# "lg"
 msgid "Ganda"
 msgstr "간다어"
 
-# li
+# "li"
 # original msgid: "Limburgan; Limburger; Limburgish"
 msgid "Limburgish"
 msgstr "림뷔르흐어"
 
-# ln
+# "ln"
 msgid "Lingala"
 msgstr "링갈라어"
 
-# lo
+# "lo"
 msgid "Lao"
 msgstr "라오어"
 
-# lt
+# "lt"
 msgid "Lithuanian"
 msgstr "리투아니아어"
 
-# lu
+# "lu"
 msgid "Luba-Katanga"
 msgstr "루바카탕가어"
 
-# mh
+# "mh"
 msgid "Marshallese"
 msgstr "마셜어"
 
-# mi
+# "mi"
 msgid "Maori"
 msgstr "마오리어"
 
-# mk
+# "mk"
 msgid "Macedonian"
 msgstr "마케도니아어"
 
-# ml
+# "ml"
 msgid "Malayalam"
 msgstr "말라얄람어"
 
-# mr
+# "mr"
 msgid "Marathi"
 msgstr "마라티어"
 
-# mt
+# "mt"
 msgid "Maltese"
 msgstr "몰타어"
 
-# my
+# "my"
 msgid "Burmese"
 msgstr "버마어"
 
-# na
+# "na"
 msgid "Nauru"
 msgstr "나우루어"
 
-# nb
+# "nb"
 # original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
 msgid "Norwegian Bokmål"
 msgstr "보크몰"
 
-# nd
+# "nd"
 # original msgid: "Ndebele, North; North Ndebele"
 msgid "North Ndebele"
 msgstr "은데벨레어 (북)"
 
-# ng
+# "ng"
 msgid "Ndonga"
 msgstr "은동가어"
 
-# nl
+# "nl"
 # original msgid: "Dutch; Flemish"
 msgid "Dutch"
 msgstr "네덜란드어"
 
-# nn
+# "nn"
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "뉘노리스크"
 
-# nr
+# "nr"
 # original msgid: "Ndebele, South; South Ndebele"
 msgid "South Ndebele"
 msgstr "은데벨레어 (남)"
 
-# nv
+# "nv"
 # original msgid: "Navajo; Navaho"
 msgid "Navajo"
 msgstr "나바호어"
 
-# ny
+# "ny"
 # original msgid: "Chichewa; Chewa; Nyanja"
 msgid "Nyanja"
 msgstr "니안자어"
 
-# oc
+# "oc"
 # original msgid: "Occitan (post 1500); Provençal"
 msgid "Occitan"
 msgstr "오크어 (1500년 이후)"
 
-# os
+# "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
 msgstr "오세트어"
 
-# pa
+# "pa"
 # original msgid: "Panjabi; Punjabi"
 msgid "Punjabi"
 msgstr "펀자브어"
 
-# pl
+# "pl"
 msgid "Polish"
 msgstr "폴란드어"
 
-# pt
+# "pt"
 msgid "Portuguese"
 msgstr "포르투갈어"
 
-# rm
+# "rm"
 msgid "Romansh"
 msgstr "로만슈어"
 
-# rn
+# "rn"
 msgid "Rundi"
 msgstr "룬디어"
 
-# ro
+# "ro"
 # original msgid: "Romanian; Moldavian; Moldovan"
 msgid "Romanian"
 msgstr "루마니아어"
 
-# ru
+# "ru"
 msgid "Russian"
 msgstr "러시아어"
 
-# rw
+# "rw"
 msgid "Kinyarwanda"
 msgstr "르완다어"
 
-# sd
+# "sd"
 msgid "Sindhi"
 msgstr "신디어"
 
-# se
+# "se"
 msgid "Northern Sami"
 msgstr "사미어 (북)"
 
-# sg
+# "sg"
 msgid "Sango"
 msgstr "상고어"
 
-# si
+# "si"
 # original msgid: "Sinhala; Sinhalese"
 msgid "Sinhala"
 msgstr "싱할라어"
 
-# sk
+# "sk"
 msgid "Slovak"
 msgstr "슬로바키아어"
 
-# sl
+# "sl"
 msgid "Slovenian"
 msgstr "슬로베니아어"
 
-# sm
+# "sm"
 msgid "Samoan"
 msgstr "사모아어"
 
-# sn
+# "sn"
 msgid "Shona"
 msgstr "쇼나어"
 
-# so
+# "so"
 msgid "Somali"
 msgstr "소말리아어"
 
-# sr
+# "sr"
 msgid "Serbian"
 msgstr "세르비아어"
 
-# ss
+# "ss"
 msgid "Swati"
 msgstr "스와티어"
 
-# st
+# "st"
 # original msgid: "Sotho, Southern"
 msgid "Southern Sotho"
 msgstr "소토어 (남)"
 
-# su
+# "su"
 msgid "Sundanese"
 msgstr "순다어"
 
-# sv
+# "sv"
 msgid "Swedish"
 msgstr "스웨덴어"
 
-# ta
+# "ta"
 msgid "Tamil"
 msgstr "타밀어"
 
-# te
+# "te"
 msgid "Telugu"
 msgstr "텔루구어"
 
-# tg
+# "tg"
 msgid "Tajik"
 msgstr "타지크어"
 
-# th
+# "th"
 msgid "Thai"
 msgstr "태국어"
 
-# ti
+# "ti"
 msgid "Tigrinya"
 msgstr "티그리냐어"
 
-# tk
+# "tk"
 msgid "Turkmen"
 msgstr "투르크멘어"
 
-# tl
+# "tl"
 msgid "Tagalog"
 msgstr "타갈로그어"
 
-# tn
+# "tn"
 msgid "Tswana"
 msgstr "츠와나어"
 
-# to
+# "to"
 # original msgid: "Tonga (Tonga Islands)"
 msgid "Tongan"
 msgstr "통가어 (통가 제도)"
 
-# tr
+# "tr"
 msgid "Turkish"
 msgstr "터키어"
 
-# ts
+# "ts"
 msgid "Tsonga"
 msgstr "총가어"
 
-# tt
+# "tt"
 msgid "Tatar"
 msgstr "타타르어"
 
-# tw
+# "tw"
 msgid "Twi"
 msgstr "알칸어군"
 
-# ty
+# "ty"
 msgid "Tahitian"
 msgstr "타히티어"
 
-# ug
+# "ug"
 # original msgid: "Uighur; Uyghur"
 msgid "Uyghur"
 msgstr "위구르어"
 
-# uk
+# "uk"
 msgid "Ukrainian"
 msgstr "우크라이나어"
 
-# ur
+# "ur"
 msgid "Urdu"
 msgstr "우르두어"
 
-# ve
+# "ve"
 msgid "Venda"
 msgstr "벤다어"
 
-# vi
+# "vi"
 msgid "Vietnamese"
 msgstr "베트남어"
 
-# wa
+# "wa"
 msgid "Walloon"
 msgstr "왈론어"
 
-# wo
+# "wo"
 msgid "Wolof"
 msgstr "월로프어"
 
-# xh
+# "xh"
 msgid "Xhosa"
 msgstr "코사어"
 
-# yo
+# "yo"
 msgid "Yoruba"
 msgstr "요루바어"
 
-# zu
+# "zu"
 msgid "Zulu"
 msgstr "줄루어"

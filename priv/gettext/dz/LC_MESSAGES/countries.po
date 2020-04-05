@@ -1,999 +1,999 @@
-# AD
+# "AD"
 msgid "Andorra"
 msgstr "ཨེན་ཌོ་ར།"
 
-# AE
+# "AE"
 msgid "United Arab Emirates"
 msgstr "ཡུ་ནའི་ཊེཊ་ ཨ་རབ་ ཨི་མི་རེཊིསི།"
 
-# AF
+# "AF"
 msgid "Afghanistan"
 msgstr "ཨཕ་ག་ནིསི་ཏཱན།"
 
-# AG
+# "AG"
 msgid "Antigua and Barbuda"
 msgstr "ཨེན་ཊི་གུའ་དང་ བར་བུ་ཌ།"
 
-# AI
+# "AI"
 msgid "Anguilla"
 msgstr "ཨེང་གུའི་ལ།"
 
-# AL
+# "AL"
 msgid "Albania"
 msgstr "ཨཱལ་བ་ནི་ཡ།"
 
-# AM
+# "AM"
 msgid "Armenia"
 msgstr "ཨར་མི་ནི་ཡ།"
 
-# AO
+# "AO"
 msgid "Angola"
 msgstr "ཨེང་གོ་ལ།"
 
-# AQ
+# "AQ"
 msgid "Antarctica"
 msgstr "ཨེན་ཊར་ཊི་ཀ།"
 
-# AR
+# "AR"
 msgid "Argentina"
 msgstr "ཨར་ཇེན་ཊི་ན།"
 
-# AS
+# "AS"
 msgid "American Samoa"
 msgstr "ཨ་མི་རི་ཀཱན་ ས་མོ་འ།"
 
-# AT
+# "AT"
 msgid "Austria"
 msgstr "ཨཱསི་ཊི་ཡ།"
 
-# AU
+# "AU"
 msgid "Australia"
 msgstr "ཨཱསི་ཊ་ལི་ཡ།"
 
-# AW
+# "AW"
 msgid "Aruba"
 msgstr "ཨ་རུ་བ།"
 
-# AX
+# "AX"
 msgid "Åland Islands"
 msgstr "ཨཱ་ལེནཌི་ མཚོ་གླིང།"
 
-# AZ
+# "AZ"
 msgid "Azerbaijan"
 msgstr "ཨ་ཛར་བ་ཡེ་ཇཱན།"
 
-# BA
+# "BA"
 msgid "Bosnia and Herzegovina"
 msgstr "བཱོས་ནི་ཡ་དང་ཧར་ཟི་གཱོ་བཱི་ནཱ།"
 
-# BB
+# "BB"
 msgid "Barbados"
 msgstr "བར་བ་ཌོསི།"
 
-# BD
+# "BD"
 msgid "Bangladesh"
 msgstr "བང་ལ་དེཤི།"
 
-# BE
+# "BE"
 msgid "Belgium"
 msgstr "བེལ་ཇི་ཡམ།"
 
-# BF
+# "BF"
 msgid "Burkina Faso"
 msgstr "བུར་ཀི་ན་ ཕ་སོ།"
 
-# BG
+# "BG"
 msgid "Bulgaria"
 msgstr "བཱལ་ག་རི་ཡ།"
 
-# BH
+# "BH"
 msgid "Bahrain"
 msgstr "བཱ་རེན།"
 
-# BI
+# "BI"
 msgid "Burundi"
 msgstr "བུ་རུན་ཌ་ཡེ།"
 
-# BJ
+# "BJ"
 msgid "Benin"
 msgstr "བེ་ནིན།"
 
-# BL
+# "BL"
 msgid "Saint Barthélemy"
 msgstr "སེནཊི་བཱརཐ་ལེ་མི།"
 
-# BM
+# "BM"
 msgid "Bermuda"
 msgstr "བར་མུ་ད།"
 
-# BN
+# "BN"
 msgid "Brunei Darussalam"
 msgstr "བུ་རུ་ན་ཡེ་ ད་རུ་ས་ལམ།"
 
-# BO
+# "BO"
 msgid "Bolivia, Plurinational State of"
 msgstr "བོ་ལི་ཝ་ཡ་ པུ་ལུ་རི་ནེ་ཤཱ་ནལ་མངའ་སྡེ་"
 
-# BQ
+# "BQ"
 msgid "Bonaire, Sint Eustatius and Saba"
 msgstr ""
 
-# BR
+# "BR"
 msgid "Brazil"
 msgstr "བ་ར་ཛིལ།"
 
-# BS
+# "BS"
 msgid "Bahamas"
 msgstr "བ་ཧ་མཱསི།"
 
-# BT
+# "BT"
 msgid "Bhutan"
 msgstr "འབྲུག།"
 
-# BV
+# "BV"
 msgid "Bouvet Island"
 msgstr "བའུ་བེཊི་ ཨའི་ལེནཌི།"
 
-# BW
+# "BW"
 msgid "Botswana"
 msgstr "བཱོཊསི་ཝ་ན།"
 
-# BY
+# "BY"
 msgid "Belarus"
 msgstr "བེ་ལ་རཱསི།"
 
-# BZ
+# "BZ"
 msgid "Belize"
 msgstr "བེ་ལིཛི།"
 
-# CA
+# "CA"
 msgid "Canada"
 msgstr "ཀེ་ན་ཌ།"
 
-# CC
+# "CC"
 msgid "Cocos (Keeling) Islands"
 msgstr "ཀོ་ཀོསི་(ཀི་ལིང་)ཨའི་ལེནཌིསི།"
 
-# CD
+# "CD"
 msgid "Congo, The Democratic Republic of the"
 msgstr "ཀོང་གོ་ མི་སེར་དམང་གཙོའི་ རྒྱལ་ཁབ།"
 
-# CF
+# "CF"
 msgid "Central African Republic"
 msgstr "དབུས་ ཨཕ་རི་ཀཱན་ རི་པཔ་ལིཀ།"
 
-# CG
+# "CG"
 msgid "Congo"
 msgstr "ཀོང་གོ།"
 
-# CH
+# "CH"
 msgid "Switzerland"
 msgstr "ས་ཝ་ཛི་ལེནཌི།"
 
-# CI
+# "CI"
 msgid "Côte d'Ivoire"
 msgstr "ཀོཊི་ ཌི་ཨའི་བོ་རི།"
 
-# CK
+# "CK"
 msgid "Cook Islands"
 msgstr "ཀུཀ་ ཨའི་ལེནཌིསི།"
 
-# CL
+# "CL"
 msgid "Chile"
 msgstr "ཅི་ལི།"
 
-# CM
+# "CM"
 msgid "Cameroon"
 msgstr "ཀེ་མི་རཱུན།"
 
-# CN
+# "CN"
 msgid "China"
 msgstr "ཅ་ཡེ་ན།(རྒྱ་ནག)"
 
-# CO
+# "CO"
 msgid "Colombia"
 msgstr "ཀོ་ལོམ་བི་ཡ།"
 
-# CR
+# "CR"
 msgid "Costa Rica"
 msgstr "ཀཱོསི་ཊ་རི་ཀ།"
 
-# CU
+# "CU"
 msgid "Cuba"
 msgstr "ཀུས་བ།"
 
-# CV
+# "CV"
 msgid "Cabo Verde"
 msgstr "ཀེཔ་-བར་དི།"
 
-# CW
+# "CW"
 msgid "Curaçao"
 msgstr ""
 
-# CX
+# "CX"
 msgid "Christmas Island"
 msgstr "ཀིརིསིཊི་མཱསི་ ཨའི་ལེནཌི།"
 
-# CY
+# "CY"
 msgid "Cyprus"
 msgstr "སའི་པརཱསི།"
 
-# CZ
+# "CZ"
 msgid "Czechia"
 msgstr ""
 
-# DE
+# "DE"
 msgid "Germany"
 msgstr "ཇར་མ་ནི།"
 
-# DJ
+# "DJ"
 msgid "Djibouti"
 msgstr "ཇི་བའོ་ཊི།"
 
-# DK
+# "DK"
 msgid "Denmark"
 msgstr "ཌེན་མཱརཀ།"
 
-# DM
+# "DM"
 msgid "Dominica"
 msgstr "ཌོ་མི་ནི་ཀ།"
 
-# DO
+# "DO"
 msgid "Dominican Republic"
 msgstr "ཌོ་མི་ནི་ཀཱན་ རི་པཔ་ལིཀ།"
 
-# DZ
+# "DZ"
 msgid "Algeria"
 msgstr "ཨཱལ་ཇི་རི་ཡ།"
 
-# EC
+# "EC"
 msgid "Ecuador"
 msgstr "ཨི་ཀུཡེ་ཌོར།"
 
-# EE
+# "EE"
 msgid "Estonia"
 msgstr "ཨིསི་ཊོ་ནི་ཡ།"
 
-# EG
+# "EG"
 msgid "Egypt"
 msgstr "ཨི་ཇིབཊི།"
 
-# EH
+# "EH"
 msgid "Western Sahara"
 msgstr "ཝེསི་ཊན་ ས་ཧ་ར།"
 
-# ER
+# "ER"
 msgid "Eritrea"
 msgstr "ཨི་རི་ཊི།"
 
-# ES
+# "ES"
 msgid "Spain"
 msgstr "སིཔེན།"
 
-# ET
+# "ET"
 msgid "Ethiopia"
 msgstr "ཨི་ཐོ་པི་ཡ།"
 
-# FI
+# "FI"
 msgid "Finland"
 msgstr "ཕིན་ལེནཌི།"
 
-# FJ
+# "FJ"
 msgid "Fiji"
 msgstr "ཕི་ཇི།"
 
-# FK
+# "FK"
 msgid "Falkland Islands (Malvinas)"
 msgstr "ཕཱལཀ་ལེནཌི་ མཚོ་གླིང་ (མཱལ་ཝི་ནཱསི)"
 
-# FM
+# "FM"
 msgid "Micronesia, Federated States of"
 msgstr "མི་ཀོ་རོ་་ནི་སིཡཱ་ སྤྱི་མཐུན་རྒྱལ་ཁབ།"
 
-# FO
+# "FO"
 msgid "Faroe Islands"
 msgstr "ཕ་རོའི་ ཨའི་ལེནཌིསི།"
 
-# FR
+# "FR"
 msgid "France"
 msgstr "ཕརཱནསི།"
 
-# GA
+# "GA"
 msgid "Gabon"
 msgstr "གེ་བཱོན།"
 
-# GB
+# "GB"
 msgid "United Kingdom"
 msgstr "ཡུ་ནའི་ཊེཊ་ ཀིང་ཌོམ།"
 
-# GD
+# "GD"
 msgid "Grenada"
 msgstr "གིརི་ན་ཌ།"
 
-# GE
+# "GE"
 msgid "Georgia"
 msgstr "ཇིའོར་ཇི་ཡ།"
 
-# GF
+# "GF"
 msgid "French Guiana"
 msgstr "ཕེརེནཆི་ གུའི་ན།"
 
-# GG
+# "GG"
 msgid "Guernsey"
 msgstr "གུ་རེན་སེ།"
 
-# GH
+# "GH"
 msgid "Ghana"
 msgstr "གྷ་ན།"
 
-# GI
+# "GI"
 msgid "Gibraltar"
 msgstr "ཇིབ་རཱལ་ཊར།"
 
-# GL
+# "GL"
 msgid "Greenland"
 msgstr "གིརིན་ལེནཌི།"
 
-# GM
+# "GM"
 msgid "Gambia"
 msgstr "གམ་བོ་ནི་ཡ།"
 
-# GN
+# "GN"
 msgid "Guinea"
 msgstr "གི་ནི།"
 
-# GP
+# "GP"
 msgid "Guadeloupe"
 msgstr "གུ་འ་དི་ལོཔ།"
 
-# GQ
+# "GQ"
 msgid "Equatorial Guinea"
 msgstr "ཨི་ཀུཡེ་ཊོ་རི་ཡཱལ་ གི་ནི།"
 
-# GR
+# "GR"
 msgid "Greece"
 msgstr "གིརིསི་།"
 
-# GS
+# "GS"
 msgid "South Georgia and the South Sandwich Islands"
 msgstr "ལྷོ་ ཇོར་ཇི་ཡ་ དང་ ལྷོ་ སེནཌི་ཝིཅ་ ཨའི་ལེནཌིསི།"
 
-# GT
+# "GT"
 msgid "Guatemala"
 msgstr "གའུ་ཏི་མ་ལ།"
 
-# GU
+# "GU"
 msgid "Guam"
 msgstr "གུའམ།"
 
-# GW
+# "GW"
 msgid "Guinea-Bissau"
 msgstr "གི་ནི་-བི་སའོ།"
 
-# GY
+# "GY"
 msgid "Guyana"
 msgstr "གུ་ཡ་ན།"
 
-# HK
+# "HK"
 msgid "Hong Kong"
 msgstr "ཧོང་ཀོང་"
 
-# HM
+# "HM"
 msgid "Heard Island and McDonald Islands"
 msgstr "ཧརཌ་མཚོ་གླིང་དང་ཨེམ་སི་ ཌའུན་ལེནཌ་ མཚོ་གལིང།"
 
-# HN
+# "HN"
 msgid "Honduras"
 msgstr "ཧཱོན་ཌུ་རཱསི།"
 
-# HR
+# "HR"
 msgid "Croatia"
 msgstr "ཀོརོ་ཤི་ཡ།"
 
-# HT
+# "HT"
 msgid "Haiti"
 msgstr "ཧའི་ཏི།"
 
-# HU
+# "HU"
 msgid "Hungary"
 msgstr "ཧང་ག་རི།"
 
-# ID
+# "ID"
 msgid "Indonesia"
 msgstr "ཨིན་ཌོ་ནེ་ཤི་ཡ།"
 
-# IE
+# "IE"
 msgid "Ireland"
 msgstr "ཨའི་རི་ལེནཌི།"
 
-# IL
+# "IL"
 msgid "Israel"
 msgstr "ཨིཛི་རེལ།"
 
-# IM
+# "IM"
 msgid "Isle of Man"
 msgstr "ཨ་ཡིལ་ཨོཕ་མེན།"
 
-# IN
+# "IN"
 msgid "India"
 msgstr "རྒྱ་གར།"
 
-# IO
+# "IO"
 msgid "British Indian Ocean Territory"
 msgstr "བིརི་ཊིཤ་ ཨིན་ཌི་ཡཱན་ ཨོ་ཤི་ཡཱན་ ཊེ་རི་ཊོ་རི།(ཕྱི་གླིངཔ་དང་རྒྱ་གར་གྱི་རྒྱ་མཚོའི་དབང་བསྒྱུར་ས་ཁོངས)།"
 
-# IQ
+# "IQ"
 msgid "Iraq"
 msgstr "ཨི་རཀ།"
 
-# IR
+# "IR"
 msgid "Iran, Islamic Republic of"
 msgstr "ཨི་རཱན་  ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།"
 
-# IS
+# "IS"
 msgid "Iceland"
 msgstr "ཨའིསི་ལེནཌི།"
 
-# IT
+# "IT"
 msgid "Italy"
 msgstr "ཨི་ཊ་ལི།"
 
-# JE
+# "JE"
 msgid "Jersey"
 msgstr "ཇར་སི།"
 
-# JM
+# "JM"
 msgid "Jamaica"
 msgstr "ཇ་མའི་ཀ"
 
-# JO
+# "JO"
 msgid "Jordan"
 msgstr "ཇོར་ཌན།"
 
-# JP
+# "JP"
 msgid "Japan"
 msgstr "ཇ་པཱན།"
 
-# KE
+# "KE"
 msgid "Kenya"
 msgstr "ཀེན་ཡ།"
 
-# KG
+# "KG"
 msgid "Kyrgyzstan"
 msgstr "ཀར་གིཛི་ཏཱན།"
 
-# KH
+# "KH"
 msgid "Cambodia"
 msgstr "ཀམ་བོ་ཌི་ཡ།"
 
-# KI
+# "KI"
 msgid "Kiribati"
 msgstr "ཀི་རི་བ་ཏི།"
 
-# KM
+# "KM"
 msgid "Comoros"
 msgstr "ཀོ་མོ་རཱོསི།"
 
-# KN
+# "KN"
 msgid "Saint Kitts and Nevis"
 msgstr "སེནཊི་ ཀིཊིསི་ ཨེནཌི་ ནེ་བིསི།"
 
-# KP
+# "KP"
 msgid "Korea, Democratic People's Republic of"
 msgstr "ཀོ་རི་ཡ། ཌེ་མོ་ཀེརེ་ཊིཀ་ པི་པཱལསི་ རི་པཔ་ལིཀ་ ཨོཕ་"
 
-# KR
+# "KR"
 msgid "Korea, Republic of"
 msgstr "ཀོ་རི་ཡ། རི་པཔ་ལིཀ་ ཨོཕ་"
 
-# KW
+# "KW"
 msgid "Kuwait"
 msgstr "ཀུ་ཝེཊི།"
 
-# KY
+# "KY"
 msgid "Cayman Islands"
 msgstr "ཀེ་མཱན་ ཨའི་ལེནཌིསི།"
 
-# KZ
+# "KZ"
 msgid "Kazakhstan"
 msgstr "ཀ་ཛཀསི་ཏཱན།"
 
-# LA
+# "LA"
 msgid "Lao People's Democratic Republic"
 msgstr "ལེཝོ་ མི་སེར་གྱི་དམང་གཙོའི་གཞུང་།"
 
-# LB
+# "LB"
 msgid "Lebanon"
 msgstr "ལེ་བ་ནཱོན།"
 
-# LC
+# "LC"
 msgid "Saint Lucia"
 msgstr "སེནཊི་ ལུ་སི་ཡ།"
 
-# LI
+# "LI"
 msgid "Liechtenstein"
 msgstr "ལིཆི་ཊེནསི་ཊིན།"
 
-# LK
+# "LK"
 msgid "Sri Lanka"
 msgstr "སི་རི་ལང་ཀ།(ཤྲི་ལངྐ་)"
 
-# LR
+# "LR"
 msgid "Liberia"
 msgstr "ལི་བི་རི་ཡ།"
 
-# LS
+# "LS"
 msgid "Lesotho"
 msgstr "ལི་སོ་ཐོ།"
 
-# LT
+# "LT"
 msgid "Lithuania"
 msgstr "ལི་ཐུ་ནི་ཡ།"
 
-# LU
+# "LU"
 msgid "Luxembourg"
 msgstr "ལག་ཟེམ་བཱརག།"
 
-# LV
+# "LV"
 msgid "Latvia"
 msgstr "ལེཊི་བི་ཡ།"
 
-# LY
+# "LY"
 msgid "Libya"
 msgstr "ལིབ་ཡ་"
 
-# MA
+# "MA"
 msgid "Morocco"
 msgstr "མོ་རོཀ་ཀོ།"
 
-# MC
+# "MC"
 msgid "Monaco"
 msgstr "མོ་ན་ཀོ"
 
-# MD
+# "MD"
 msgid "Moldova, Republic of"
 msgstr "མོལ་ཌོ་བ་ མི་སེར་རྒྱལ་ཁབ་ཀྱི་"
 
-# ME
+# "ME"
 msgid "Montenegro"
 msgstr "མཱོན་ཊི་ནིག་རོ།"
 
-# MF
+# "MF"
 msgid "Saint Martin (French part)"
 msgstr "སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།"
 
-# MG
+# "MG"
 msgid "Madagascar"
 msgstr "མ་ད་གཱསི་ཀར།"
 
-# MH
+# "MH"
 msgid "Marshall Islands"
 msgstr "མར་ཤཱལ་ ཨའི་ལེནཌིསི།"
 
-# MK
+# "MK"
 msgid "North Macedonia"
 msgstr "ནིའུ་ ཀེ་ལི་ཌོ་ནི་ཡ།"
 
-# ML
+# "ML"
 msgid "Mali"
 msgstr "མ་ལི།"
 
-# MM
+# "MM"
 msgid "Myanmar"
 msgstr "མི་ཡཱན་མར།"
 
-# MN
+# "MN"
 msgid "Mongolia"
 msgstr "མོང་གོ་ལི་ཡ།"
 
-# MO
+# "MO"
 msgid "Macao"
 msgstr "མ་ཀའོ།"
 
-# MP
+# "MP"
 msgid "Northern Mariana Islands"
 msgstr "བྱང་ མེ་རི་ཡ་ན་ ཨའི་ལེནཌིསི།"
 
-# MQ
+# "MQ"
 msgid "Martinique"
 msgstr "མར་ཊི་ནིཀ།"
 
-# MR
+# "MR"
 msgid "Mauritania"
 msgstr "མའུ་རི་ཊ་ནི་ཡ།"
 
-# MS
+# "MS"
 msgid "Montserrat"
 msgstr "མཱོནཊི་སི་རཊི།"
 
-# MT
+# "MT"
 msgid "Malta"
 msgstr "མཱལ་ཊ་ མི་སེར་རྒྱལ་ཁབ།"
 
-# MU
+# "MU"
 msgid "Mauritius"
 msgstr "མའུ་རི་ཤི་ཡཱསི།"
 
-# MV
+# "MV"
 msgid "Maldives"
 msgstr "མེལ་ཌིབསི།"
 
-# MW
+# "MW"
 msgid "Malawi"
 msgstr "མ་ལ་ཝི།"
 
-# MX
+# "MX"
 msgid "Mexico"
 msgstr "མེག་སི་ཀོ།"
 
-# MY
+# "MY"
 msgid "Malaysia"
 msgstr "མ་ལེ་ཤི་ཡ།"
 
-# MZ
+# "MZ"
 msgid "Mozambique"
 msgstr "མོ་ཛམ་བིཀ།"
 
-# NA
+# "NA"
 msgid "Namibia"
 msgstr "ནམ་བི་ཡ།"
 
-# NC
+# "NC"
 msgid "New Caledonia"
 msgstr "ནིའུ་ ཀེ་ལི་ཌོ་ནི་ཡ།"
 
-# NE
+# "NE"
 msgid "Niger"
 msgstr "ནའི་ཇར།"
 
-# NF
+# "NF"
 msgid "Norfolk Island"
 msgstr "ནོར་ཕོལཀ་ ཨའི་ལེནཌི།"
 
-# NG
+# "NG"
 msgid "Nigeria"
 msgstr "ནའི་ཇི་རི་ཡ།"
 
-# NI
+# "NI"
 msgid "Nicaragua"
 msgstr "ནི་ཀ་ར་གུ་ཝ།"
 
-# NL
+# "NL"
 msgid "Netherlands"
 msgstr "ནེ་དར་ལེནཌིསི།"
 
-# NO
+# "NO"
 msgid "Norway"
 msgstr "ནོར་ཝེ།"
 
-# NP
+# "NP"
 msgid "Nepal"
 msgstr "ནེ་པཱལ།"
 
-# NR
+# "NR"
 msgid "Nauru"
 msgstr "ནའུ་རུ།"
 
-# NU
+# "NU"
 msgid "Niue"
 msgstr "ནིའུ།"
 
-# NZ
+# "NZ"
 msgid "New Zealand"
 msgstr "ནིའུ་ཛི་ལེནཌི།"
 
-# OM
+# "OM"
 msgid "Oman"
 msgstr "ཨོ་མཱན།"
 
-# PA
+# "PA"
 msgid "Panama"
 msgstr "པ་ན་མ།"
 
-# PE
+# "PE"
 msgid "Peru"
 msgstr "པེ་རུ།"
 
-# PF
+# "PF"
 msgid "French Polynesia"
 msgstr "ཕེརེནཆི་ པོ་ལི་ནི་སི་ཡ།"
 
-# PG
+# "PG"
 msgid "Papua New Guinea"
 msgstr "པ་པུ་འ་ ནིའུ་གི་ནི།"
 
-# PH
+# "PH"
 msgid "Philippines"
 msgstr "ཕི་ལི་པིནསི།"
 
-# PK
+# "PK"
 msgid "Pakistan"
 msgstr "པ་ཀིསི་ཏཱན།"
 
-# PL
+# "PL"
 msgid "Poland"
 msgstr "པོ་ལེནཌི།"
 
-# PM
+# "PM"
 msgid "Saint Pierre and Miquelon"
 msgstr "སེནཊི་ པཱི་རི་དང་ མིཀིའུ་ལོན།"
 
-# PN
+# "PN"
 msgid "Pitcairn"
 msgstr "པིཊི་ཀའི་རིན།"
 
-# PR
+# "PR"
 msgid "Puerto Rico"
 msgstr "པུར་ཊོ་ རི་ཀོ།"
 
-# PS
+# "PS"
 msgid "Palestine, State of"
 msgstr ""
 
-# PT
+# "PT"
 msgid "Portugal"
 msgstr "པོར་ཊུ་གཱལ།"
 
-# PW
+# "PW"
 msgid "Palau"
 msgstr "པ་ལའུ།"
 
-# PY
+# "PY"
 msgid "Paraguay"
 msgstr "པ་ར་གུ་ཡེ།"
 
-# QA
+# "QA"
 msgid "Qatar"
 msgstr "ཀ་ཊར།"
 
-# RE
+# "RE"
 msgid "Réunion"
 msgstr "སླར་བསྡོམ།"
 
-# RO
+# "RO"
 msgid "Romania"
 msgstr "རོ་མ་ནི་ཡ།"
 
-# RS
+# "RS"
 msgid "Serbia"
 msgstr "སར་བི་ཡ།"
 
-# RU
+# "RU"
 # original msgid: "Russian Federation"
 msgid "Russia"
 msgstr "ར་ཤི་ཡཱན་ ཕེ་ཌི་རེ་ཤཱན།"
 
-# RW
+# "RW"
 msgid "Rwanda"
 msgstr "ར་ཝན་ཌ།"
 
-# SA
+# "SA"
 msgid "Saudi Arabia"
 msgstr "སའུ་དི་ ཨ་ར་བི་ཡ།"
 
-# SB
+# "SB"
 msgid "Solomon Islands"
 msgstr "སོ་ལོ་མཱོན་ ཨའི་ལེནཌིསི།"
 
-# SC
+# "SC"
 msgid "Seychelles"
 msgstr "སི་ཅི་ལེསི།"
 
-# SD
+# "SD"
 msgid "Sudan"
 msgstr "སུ་དཱན།"
 
-# SE
+# "SE"
 msgid "Sweden"
 msgstr "སུའི་ཌེན།"
 
-# SG
+# "SG"
 msgid "Singapore"
 msgstr "སིང་ག་པོར།"
 
-# SH
+# "SH"
 msgid "Saint Helena, Ascension and Tristan da Cunha"
 msgstr "སཱེནཊི་ཧི་ལི་ན་ ཨེ་སེན་ཤཱན་དང་ཊིསི་ཊན་ ད་ ཀུན་ཧ་"
 
-# SI
+# "SI"
 msgid "Slovenia"
 msgstr "སོལོ་བི་ནི་ཡ།"
 
-# SJ
+# "SJ"
 msgid "Svalbard and Jan Mayen"
 msgstr "ས་བཱལ་བཱཊ་དང་ཇཱན་མ་ཡཱིན།"
 
-# SK
+# "SK"
 msgid "Slovakia"
 msgstr "སོལོ་བ་ཀི་ཡ།"
 
-# SL
+# "SL"
 msgid "Sierra Leone"
 msgstr "སི་ར་ ལིའོ་ནི།"
 
-# SM
+# "SM"
 msgid "San Marino"
 msgstr "སེན་ མེ་རི་ནོ།"
 
-# SN
+# "SN"
 msgid "Senegal"
 msgstr "སི་ནི་གཱལ།"
 
-# SO
+# "SO"
 msgid "Somalia"
 msgstr "སོ་མ་ལི་ཡ།"
 
-# SR
+# "SR"
 msgid "Suriname"
 msgstr "སུ་རི་ནེམ།"
 
-# SS
+# "SS"
 msgid "South Sudan"
 msgstr "སུ་དཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།"
 
-# ST
+# "ST"
 msgid "Sao Tome and Principe"
 msgstr "སེའོ་ ཊོམ་དང་ པི་རིན་སི་པཱི།"
 
-# SV
+# "SV"
 msgid "El Salvador"
 msgstr "ཨེལ་ སཱལ་བེ་ཌོར།"
 
-# SX
+# "SX"
 msgid "Sint Maarten (Dutch part)"
 msgstr "སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།"
 
-# SY
+# "SY"
 msgid "Syrian Arab Republic"
 msgstr "སི་རེན་ ཨ་རབ་ མི་སེར་རྒྱལ་ཁབ།"
 
-# SZ
+# "SZ"
 # original msgid: "Eswatini"
 msgid "Swaziland"
 msgstr ""
 
-# TC
+# "TC"
 msgid "Turks and Caicos Islands"
 msgstr "ཊརཀསི་ དང་ ཀའི་ཀོསི་ ཨའི་ལེནཌིསི།"
 
-# TD
+# "TD"
 msgid "Chad"
 msgstr "ཆཌི།"
 
-# TF
+# "TF"
 msgid "French Southern Territories"
 msgstr "ཕེརེནཆི་ ལྷོ་ཕྱོགས་དབང་བསྒྱུར་ས་ཁོངས།"
 
-# TG
+# "TG"
 msgid "Togo"
 msgstr "ཊོ་གོ།"
 
-# TH
+# "TH"
 msgid "Thailand"
 msgstr "ཐཱའི་ལེནཌི།"
 
-# TJ
+# "TJ"
 msgid "Tajikistan"
 msgstr "ཏ་ཇི་ཀིསི་ཏཱན།"
 
-# TK
+# "TK"
 msgid "Tokelau"
 msgstr "ཊོ་ཀི་ལའོ།"
 
-# TL
+# "TL"
 msgid "Timor-Leste"
 msgstr "ཊི་མོར་-ལིསི་ཏི།"
 
-# TM
+# "TM"
 msgid "Turkmenistan"
 msgstr "ཊརཀ་མི་ནིསི་ཏཱན།"
 
-# TN
+# "TN"
 msgid "Tunisia"
 msgstr "ཊུ་ནི་སི་ཡ།"
 
-# TO
+# "TO"
 msgid "Tonga"
 msgstr "ཊོང་ག།"
 
-# TR
+# "TR"
 msgid "Turkey"
 msgstr "ཊར་ཀི།"
 
-# TT
+# "TT"
 msgid "Trinidad and Tobago"
 msgstr "ཊིར་ནི་ཌེཊདང་ཊོ་བཱ་གཱོ།"
 
-# TV
+# "TV"
 msgid "Tuvalu"
 msgstr "ཊུ་བ་ལུ།"
 
-# TW
+# "TW"
 # original msgid: "Taiwan, Province of China"
 msgid "Taiwan"
 msgstr "ཏ་ཡེ་ཝཱན་ ཅ་ཡེ་ནའི་མངའ་རིས།"
 
-# TZ
+# "TZ"
 msgid "Tanzania, United Republic of"
 msgstr "ཏཱན་ཛ་ནི་ཡ། ཡུ་ན་ཡེ་ཊེཊི་ རི་པཔ་ལིཀ་ ཨོཕ་"
 
-# UA
+# "UA"
 msgid "Ukraine"
 msgstr "ཡུ་ཀེརན།"
 
-# UG
+# "UG"
 msgid "Uganda"
 msgstr "ཡུ་གེན་ཌ།"
 
-# UM
+# "UM"
 msgid "United States Minor Outlying Islands"
 msgstr "ཡུ་ནའི་ཊེཊ་ སིཊེཊིསི་ མའི་ནོར་ ཨའུཊི་ལེ་ཡིང་ ཨའི་ལེནཌིསི།"
 
-# US
+# "US"
 msgid "United States"
 msgstr "ཡུ་ན་ཡེ་ཊེཊི་ སིཊེཊིསི།"
 
-# UY
+# "UY"
 msgid "Uruguay"
 msgstr "ཨུ་རུ་གེ།"
 
-# UZ
+# "UZ"
 msgid "Uzbekistan"
 msgstr "ཨུཛ་བེ་ཀིསི་ཏཱན།"
 
-# VA
+# "VA"
 msgid "Holy See (Vatican City State)"
 msgstr "ཧོ་ལི་སཱི་ (བཱ་ཊི་ཀན་ སི་ཊི་ སི་ཊེཊི།)"
 
-# VC
+# "VC"
 msgid "Saint Vincent and the Grenadines"
 msgstr "སེནཊི་བཱིན་སིནཊ་དང་ གཱེརན་ན་ཌེནེས"
 
-# VE
+# "VE"
 msgid "Venezuela, Bolivarian Republic of"
 msgstr "བེ་ནི་ཛུས་ལ་ བོ་ལི་བི་རཱེན་མི་སེར་རྒྱལ་ཁབ་ཀྱི་"
 
-# VG
+# "VG"
 msgid "Virgin Islands, British"
 msgstr "ཝར་ཇིན་ ཨའི་ལེནཌིསི་ བིརི་ཊིཤི།"
 
-# VI
+# "VI"
 msgid "Virgin Islands, U.S."
 msgstr "ཝར་ཇིན་ ཨའི་ལེནཌིསི་ ཡུ་ཨེསི།"
 
-# VN
+# "VN"
 # original msgid: "Viet Nam"
 msgid "Vietnam"
 msgstr "ཝེཊི་ནམ།"
 
-# VU
+# "VU"
 msgid "Vanuatu"
 msgstr "བ་ནུའ་ཊུ།"
 
-# WF
+# "WF"
 msgid "Wallis and Futuna"
 msgstr "ཝ་ལིསི་དང་ཕུ་ཊ་ན།"
 
-# WS
+# "WS"
 msgid "Samoa"
 msgstr "ས་མོའ།"
 
-# YE
+# "YE"
 msgid "Yemen"
 msgstr "ཡེ་མེན།"
 
-# YT
+# "YT"
 msgid "Mayotte"
 msgstr "མ་ཡོ་ཊི།"
 
-# ZA
+# "ZA"
 msgid "South Africa"
 msgstr "ལྷོ་ཨཕ་རི་ཀ"
 
-# ZM
+# "ZM"
 msgid "Zambia"
 msgstr "ཛམ་བི་ཡ།"
 
-# ZW
+# "ZW"
 msgid "Zimbabwe"
 msgstr "ཛིམ་བབ་ཝི།"

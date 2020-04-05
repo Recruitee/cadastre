@@ -1,589 +1,589 @@
-# aa
+# "aa"
 msgid "Afar"
 msgstr "Afárais"
 
-# ab
+# "ab"
 msgid "Abkhazian"
 msgstr "Abcáisis"
 
-# af
+# "af"
 msgid "Afrikaans"
 msgstr "Afracáinis"
 
-# am
+# "am"
 msgid "Amharic"
 msgstr "Amáiris"
 
-# an
+# "an"
 msgid "Aragonese"
 msgstr "Aragóinis"
 
-# as
+# "as"
 msgid "Assamese"
 msgstr "Asaimis"
 
-# av
+# "av"
 msgid "Avaric"
 msgstr "Avairis"
 
-# ba
+# "ba"
 msgid "Bashkir"
 msgstr "Baiscíris"
 
-# be
+# "be"
 msgid "Belarusian"
 msgstr "Bealarúisis"
 
-# bg
+# "bg"
 msgid "Bulgarian"
 msgstr "Bulgáiris"
 
-# bi
+# "bi"
 msgid "Bislama"
 msgstr "Bioslamais"
 
-# bm
+# "bm"
 msgid "Bambara"
 msgstr "Bambáiris"
 
-# bn
+# "bn"
 # original msgid: "Bengali"
 msgid "Bangla"
 msgstr "Beangáilis"
 
-# bo
+# "bo"
 msgid "Tibetan"
 msgstr "Tibéidis"
 
-# br
+# "br"
 msgid "Breton"
 msgstr "Briotáinis"
 
-# bs
+# "bs"
 msgid "Bosnian"
 msgstr "Boisnis"
 
-# ca
+# "ca"
 # original msgid: "Catalan; Valencian"
 msgid "Catalan"
 msgstr "Catalóinis; Vaileinsis"
 
-# ce
+# "ce"
 msgid "Chechen"
 msgstr "Seisnis"
 
-# ch
+# "ch"
 msgid "Chamorro"
 msgstr "Seamóróis"
 
-# co
+# "co"
 msgid "Corsican"
 msgstr "Corsaicis"
 
-# cs
+# "cs"
 msgid "Czech"
 msgstr "Seicis"
 
-# cv
+# "cv"
 msgid "Chuvash"
 msgstr "Suvaisis"
 
-# cy
+# "cy"
 msgid "Welsh"
 msgstr "Breatnais"
 
-# da
+# "da"
 msgid "Danish"
 msgstr "Danmhairgis"
 
-# de
+# "de"
 msgid "German"
 msgstr "Gearmáinis"
 
-# dv
+# "dv"
 # original msgid: "Divehi; Dhivehi; Maldivian"
 msgid "Divehi"
 msgstr "Divéihis; Maildívis"
 
-# dz
+# "dz"
 msgid "Dzongkha"
 msgstr "Seoinicis"
 
-# ee
+# "ee"
 msgid "Ewe"
 msgstr "Éivéis"
 
-# el
+# "el"
 # original msgid: "Greek, Modern (1453-)"
 msgid "Greek"
 msgstr "Gréigis Nua-Aimseartha (1453-)"
 
-# en
+# "en"
 msgid "English"
 msgstr "Béarla"
 
-# es
+# "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr "Spáinnis; Caistílis"
 
-# eu
+# "eu"
 msgid "Basque"
 msgstr "Bascais"
 
-# fi
+# "fi"
 msgid "Finnish"
 msgstr "Fionlainnis"
 
-# fj
+# "fj"
 msgid "Fijian"
 msgstr "Fidsis"
 
-# fo
+# "fo"
 msgid "Faroese"
 msgstr "Faróis"
 
-# fr
+# "fr"
 msgid "French"
 msgstr "Fraincis"
 
-# fy
+# "fy"
 msgid "Western Frisian"
 msgstr "Freaslainnis Iartharach"
 
-# ga
+# "ga"
 msgid "Irish"
 msgstr "Gaeilge"
 
-# gd
+# "gd"
 # original msgid: "Gaelic; Scottish Gaelic"
 msgid "Scottish Gaelic"
 msgstr "Gaeilge na hAlban"
 
-# gl
+# "gl"
 msgid "Galician"
 msgstr "Gailísis"
 
-# gu
+# "gu"
 msgid "Gujarati"
 msgstr "Gúisearáitis"
 
-# gv
+# "gv"
 msgid "Manx"
 msgstr "Manainnis"
 
-# ha
+# "ha"
 msgid "Hausa"
 msgstr "Hásais"
 
-# he
+# "he"
 msgid "Hebrew"
 msgstr "Eabhrais"
 
-# hi
+# "hi"
 msgid "Hindi"
 msgstr "Hiondúis"
 
-# ho
+# "ho"
 msgid "Hiri Motu"
 msgstr "Hírí-Mótúis"
 
-# hr
+# "hr"
 msgid "Croatian"
 msgstr "Cróitis"
 
-# ht
+# "ht"
 # original msgid: "Haitian; Haitian Creole"
 msgid "Haitian Creole"
 msgstr "Criól Háítíoch"
 
-# hu
+# "hu"
 msgid "Hungarian"
 msgstr "Ungáiris"
 
-# hy
+# "hy"
 msgid "Armenian"
 msgstr "Airméinis"
 
-# hz
+# "hz"
 msgid "Herero"
 msgstr "Heiréiróis"
 
-# id
+# "id"
 msgid "Indonesian"
 msgstr "Indinéisis"
 
-# ig
+# "ig"
 msgid "Igbo"
 msgstr "Íogbóis"
 
-# ii
+# "ii"
 # original msgid: "Sichuan Yi; Nuosu"
 msgid "Sichuan Yi"
 msgstr "Íais Shisiuánach"
 
-# is
+# "is"
 msgid "Icelandic"
 msgstr "Íoslainnis"
 
-# it
+# "it"
 msgid "Italian"
 msgstr "Iodáilis"
 
-# ja
+# "ja"
 msgid "Japanese"
 msgstr "Seapáinis"
 
-# jv
+# "jv"
 msgid "Javanese"
 msgstr "Iávais"
 
-# ka
+# "ka"
 msgid "Georgian"
 msgstr "Seoirsis"
 
-# ki
+# "ki"
 # original msgid: "Kikuyu; Gikuyu"
 msgid "Kikuyu"
 msgstr "Ciocúis"
 
-# kj
+# "kj"
 # original msgid: "Kuanyama; Kwanyama"
 msgid "Kuanyama"
 msgstr "Cuainiáimis"
 
-# kk
+# "kk"
 msgid "Kazakh"
 msgstr "Casaicis"
 
-# kl
+# "kl"
 # original msgid: "Kalaallisut; Greenlandic"
 msgid "Kalaallisut"
 msgstr "Graonlainnis"
 
-# km
+# "km"
 # original msgid: "Central Khmer"
 msgid "Khmer"
 msgstr "Ciméiris Láir"
 
-# kn
+# "kn"
 msgid "Kannada"
 msgstr "Cannadais"
 
-# ko
+# "ko"
 msgid "Korean"
 msgstr "Cóiréis"
 
-# ks
+# "ks"
 msgid "Kashmiri"
 msgstr "Caismíris"
 
-# kw
+# "kw"
 msgid "Cornish"
 msgstr "Coirnis"
 
-# ky
+# "ky"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr "Cirgisis"
 
-# lb
+# "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
 msgid "Luxembourgish"
 msgstr "Lucsambuirgis; Leitseabuirgis"
 
-# lg
+# "lg"
 msgid "Ganda"
 msgstr "Gandais"
 
-# li
+# "li"
 # original msgid: "Limburgan; Limburger; Limburgish"
 msgid "Limburgish"
 msgstr "Limbuirgis"
 
-# ln
+# "ln"
 msgid "Lingala"
 msgstr "Liongáilis"
 
-# lo
+# "lo"
 msgid "Lao"
 msgstr "Láóis"
 
-# lt
+# "lt"
 msgid "Lithuanian"
 msgstr "Liotuáinis"
 
-# lu
+# "lu"
 msgid "Luba-Katanga"
 msgstr "Lúba-Cataingis"
 
-# mh
+# "mh"
 msgid "Marshallese"
 msgstr "Marascailis"
 
-# mi
+# "mi"
 msgid "Maori"
 msgstr "Maorais"
 
-# mk
+# "mk"
 msgid "Macedonian"
 msgstr "Macadóinis"
 
-# ml
+# "ml"
 msgid "Malayalam"
 msgstr "Mailéalaimis"
 
-# mr
+# "mr"
 msgid "Marathi"
 msgstr "Maraitis"
 
-# mt
+# "mt"
 msgid "Maltese"
 msgstr "Máltais"
 
-# my
+# "my"
 msgid "Burmese"
 msgstr "Burmais"
 
-# na
+# "na"
 msgid "Nauru"
 msgstr "Nárúis"
 
-# nb
+# "nb"
 # original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
 msgid "Norwegian Bokmål"
 msgstr "Ioruais Bokmål"
 
-# nd
+# "nd"
 # original msgid: "Ndebele, North; North Ndebele"
 msgid "North Ndebele"
 msgstr "Ndebele Thuaidh"
 
-# ng
+# "ng"
 msgid "Ndonga"
 msgstr "Ndongais"
 
-# nl
+# "nl"
 # original msgid: "Dutch; Flemish"
 msgid "Dutch"
 msgstr "Ollainnis; Pléimeannais"
 
-# nn
+# "nn"
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "Ioruais Nynorsk"
 
-# nr
+# "nr"
 # original msgid: "Ndebele, South; South Ndebele"
 msgid "South Ndebele"
 msgstr "Ndebele Theas"
 
-# nv
+# "nv"
 # original msgid: "Navajo; Navaho"
 msgid "Navajo"
 msgstr "Navachóis"
 
-# ny
+# "ny"
 # original msgid: "Chichewa; Chewa; Nyanja"
 msgid "Nyanja"
 msgstr "Siséivis"
 
-# oc
+# "oc"
 # original msgid: "Occitan (post 1500); Provençal"
 msgid "Occitan"
 msgstr "Ocatáinis (tar éis 1500)"
 
-# os
+# "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
 msgstr "Óiséitis"
 
-# pa
+# "pa"
 # original msgid: "Panjabi; Punjabi"
 msgid "Punjabi"
 msgstr "Puinseáibis"
 
-# pl
+# "pl"
 msgid "Polish"
 msgstr "Polainnis"
 
-# pt
+# "pt"
 msgid "Portuguese"
 msgstr "Portaingéilis"
 
-# rm
+# "rm"
 msgid "Romansh"
 msgstr "Rómainis"
 
-# rn
+# "rn"
 msgid "Rundi"
 msgstr ""
 
-# ro
+# "ro"
 # original msgid: "Romanian; Moldavian; Moldovan"
 msgid "Romanian"
 msgstr "Moldávais"
 
-# ru
+# "ru"
 msgid "Russian"
 msgstr "Rúisis"
 
-# rw
+# "rw"
 msgid "Kinyarwanda"
 msgstr "Cinearuáindis"
 
-# sd
+# "sd"
 msgid "Sindhi"
 msgstr "Sindis"
 
-# se
+# "se"
 msgid "Northern Sami"
 msgstr "Sáimis Thuaidh"
 
-# sg
+# "sg"
 msgid "Sango"
 msgstr "Sangóis"
 
-# si
+# "si"
 # original msgid: "Sinhala; Sinhalese"
 msgid "Sinhala"
 msgstr "Siolóinis"
 
-# sk
+# "sk"
 msgid "Slovak"
 msgstr "Slóvaicis"
 
-# sl
+# "sl"
 msgid "Slovenian"
 msgstr "Slóivéinis"
 
-# sm
+# "sm"
 msgid "Samoan"
 msgstr "Samóis"
 
-# sn
+# "sn"
 msgid "Shona"
 msgstr "Seoinis"
 
-# so
+# "so"
 msgid "Somali"
 msgstr "Somáilis"
 
-# sr
+# "sr"
 msgid "Serbian"
 msgstr "Seirbis"
 
-# ss
+# "ss"
 msgid "Swati"
 msgstr "Suaisis"
 
-# st
+# "st"
 # original msgid: "Sotho, Southern"
 msgid "Southern Sotho"
 msgstr "Sótó Theas"
 
-# su
+# "su"
 msgid "Sundanese"
 msgstr "Sundais"
 
-# sv
+# "sv"
 msgid "Swedish"
 msgstr "Sualainnis"
 
-# ta
+# "ta"
 msgid "Tamil"
 msgstr "Tamailis"
 
-# te
+# "te"
 msgid "Telugu"
 msgstr "Teileagúis"
 
-# tg
+# "tg"
 msgid "Tajik"
 msgstr "Táidsícis"
 
-# th
+# "th"
 msgid "Thai"
 msgstr "Téalainnis"
 
-# ti
+# "ti"
 msgid "Tigrinya"
 msgstr "Tigrínis"
 
-# tk
+# "tk"
 msgid "Turkmen"
 msgstr "Tuircméinis"
 
-# tl
+# "tl"
 msgid "Tagalog"
 msgstr "Tagálaigis"
 
-# tn
+# "tn"
 msgid "Tswana"
 msgstr "Suáinis"
 
-# to
+# "to"
 # original msgid: "Tonga (Tonga Islands)"
 msgid "Tongan"
 msgstr "Tongais (Oileáin Thonga)"
 
-# tr
+# "tr"
 msgid "Turkish"
 msgstr "Tuircis"
 
-# ts
+# "ts"
 msgid "Tsonga"
 msgstr "Songais"
 
-# tt
+# "tt"
 msgid "Tatar"
 msgstr "Tatairis"
 
-# tw
+# "tw"
 msgid "Twi"
 msgstr "Tiuíais"
 
-# ty
+# "ty"
 msgid "Tahitian"
 msgstr "Taihítis"
 
-# ug
+# "ug"
 # original msgid: "Uighur; Uyghur"
 msgid "Uyghur"
 msgstr "Úígiúiris"
 
-# uk
+# "uk"
 msgid "Ukrainian"
 msgstr "Úcráinis"
 
-# ur
+# "ur"
 msgid "Urdu"
 msgstr "Urdúis"
 
-# ve
+# "ve"
 msgid "Venda"
 msgstr "Veindis"
 
-# vi
+# "vi"
 msgid "Vietnamese"
 msgstr "Vítneamais"
 
-# wa
+# "wa"
 msgid "Walloon"
 msgstr "Vallúnais"
 
-# wo
+# "wo"
 msgid "Wolof"
 msgstr "Volaifis"
 
-# xh
+# "xh"
 msgid "Xhosa"
 msgstr "Cóisis"
 
-# yo
+# "yo"
 msgid "Yoruba"
 msgstr "Iarúibis"
 
-# zu
+# "zu"
 msgid "Zulu"
 msgstr "Súlúis"

@@ -1,999 +1,999 @@
-# AD
+# "AD"
 msgid "Andorra"
 msgstr "Àndórà"
 
-# AE
+# "AE"
 msgid "United Arab Emirates"
 msgstr "Àwọn Ẹ́mírétì Árábù Aṣọ̀kan"
 
-# AF
+# "AF"
 msgid "Afghanistan"
 msgstr "Afghanístàn"
 
-# AG
+# "AG"
 msgid "Antigua and Barbuda"
 msgstr "Ántígúà àti Bàrbúdà"
 
-# AI
+# "AI"
 msgid "Anguilla"
 msgstr "Àngúíllà"
 
-# AL
+# "AL"
 msgid "Albania"
 msgstr "Albáníà"
 
-# AM
+# "AM"
 msgid "Armenia"
 msgstr "Arméníà"
 
-# AO
+# "AO"
 msgid "Angola"
 msgstr "Àngólà"
 
-# AQ
+# "AQ"
 msgid "Antarctica"
 msgstr ""
 
-# AR
+# "AR"
 msgid "Argentina"
 msgstr "Argẹntínà"
 
-# AS
+# "AS"
 msgid "American Samoa"
 msgstr "Sàmóà Amẹ́ríkà"
 
-# AT
+# "AT"
 msgid "Austria"
 msgstr "Austríà"
 
-# AU
+# "AU"
 msgid "Australia"
 msgstr "Austrálíà"
 
-# AW
+# "AW"
 msgid "Aruba"
 msgstr "Àrúbà"
 
-# AX
+# "AX"
 msgid "Åland Islands"
 msgstr "Àwọn Erékùṣù Åland"
 
-# AZ
+# "AZ"
 msgid "Azerbaijan"
 msgstr "Azerbaijan"
 
-# BA
+# "BA"
 msgid "Bosnia and Herzegovina"
 msgstr "Bósníà àti Hẹrjẹgòfínà"
 
-# BB
+# "BB"
 msgid "Barbados"
 msgstr "Bárbádọ̀s"
 
-# BD
+# "BD"
 msgid "Bangladesh"
 msgstr "Bangladẹ́shì"
 
-# BE
+# "BE"
 msgid "Belgium"
 msgstr "Bẹ́ljíọ̀m"
 
-# BF
+# "BF"
 msgid "Burkina Faso"
 msgstr "Bùrkínà Fasò"
 
-# BG
+# "BG"
 msgid "Bulgaria"
 msgstr "Bùlgáríà"
 
-# BH
+# "BH"
 msgid "Bahrain"
 msgstr "Báháráìnì"
 
-# BI
+# "BI"
 msgid "Burundi"
 msgstr "Bùrúndì"
 
-# BJ
+# "BJ"
 msgid "Benin"
 msgstr "Benin"
 
-# BL
+# "BL"
 msgid "Saint Barthélemy"
 msgstr ""
 
-# BM
+# "BM"
 msgid "Bermuda"
 msgstr "Bẹ̀rmúdà"
 
-# BN
+# "BN"
 msgid "Brunei Darussalam"
 msgstr ""
 
-# BO
+# "BO"
 msgid "Bolivia, Plurinational State of"
 msgstr ""
 
-# BQ
+# "BQ"
 msgid "Bonaire, Sint Eustatius and Saba"
 msgstr ""
 
-# BR
+# "BR"
 msgid "Brazil"
 msgstr "Brasil"
 
-# BS
+# "BS"
 msgid "Bahamas"
 msgstr ""
 
-# BT
+# "BT"
 msgid "Bhutan"
 msgstr "Bhùtán"
 
-# BV
+# "BV"
 msgid "Bouvet Island"
 msgstr "Erékùṣù Bouvet"
 
-# BW
+# "BW"
 msgid "Botswana"
 msgstr "Bòtswánà"
 
-# BY
+# "BY"
 msgid "Belarus"
 msgstr "Bẹ̀lárùs"
 
-# BZ
+# "BZ"
 msgid "Belize"
 msgstr "Bẹ̀lísè"
 
-# CA
+# "CA"
 msgid "Canada"
 msgstr "Kánádà"
 
-# CC
+# "CC"
 msgid "Cocos (Keeling) Islands"
 msgstr "Àwọn Erékùṣù Kókósì"
 
-# CD
+# "CD"
 msgid "Congo, The Democratic Republic of the"
 msgstr ""
 
-# CF
+# "CF"
 msgid "Central African Republic"
 msgstr "Orílẹ̀-èdè Olómìnira Àrin Áfríkà"
 
-# CG
+# "CG"
 msgid "Congo"
 msgstr ""
 
-# CH
+# "CH"
 msgid "Switzerland"
 msgstr "Swítsàlandì"
 
-# CI
+# "CI"
 msgid "Côte d'Ivoire"
 msgstr ""
 
-# CK
+# "CK"
 msgid "Cook Islands"
 msgstr "Àwọn Erékùṣù Cook"
 
-# CL
+# "CL"
 msgid "Chile"
 msgstr "Tsílè"
 
-# CM
+# "CM"
 msgid "Cameroon"
 msgstr "Kamẹrúùnù"
 
-# CN
+# "CN"
 msgid "China"
 msgstr ""
 
-# CO
+# "CO"
 msgid "Colombia"
 msgstr "Kòlómbìà"
 
-# CR
+# "CR"
 msgid "Costa Rica"
 msgstr "Kóstá Rikà"
 
-# CU
+# "CU"
 msgid "Cuba"
 msgstr "Kúbà"
 
-# CV
+# "CV"
 msgid "Cabo Verde"
 msgstr ""
 
-# CW
+# "CW"
 msgid "Curaçao"
 msgstr "Curaçao"
 
-# CX
+# "CX"
 msgid "Christmas Island"
 msgstr ""
 
-# CY
+# "CY"
 msgid "Cyprus"
 msgstr "Kíprù"
 
-# CZ
+# "CZ"
 msgid "Czechia"
 msgstr ""
 
-# DE
+# "DE"
 msgid "Germany"
 msgstr "Jẹ́mánì"
 
-# DJ
+# "DJ"
 msgid "Djibouti"
 msgstr "Djìbútì"
 
-# DK
+# "DK"
 msgid "Denmark"
 msgstr "Dẹ́nmárkì"
 
-# DM
+# "DM"
 msgid "Dominica"
 msgstr "Dòmíníkà"
 
-# DO
+# "DO"
 msgid "Dominican Republic"
 msgstr "Orílẹ̀òmìnira Dómíníkì"
 
-# DZ
+# "DZ"
 msgid "Algeria"
 msgstr "Àlgéríà"
 
-# EC
+# "EC"
 msgid "Ecuador"
 msgstr "Ẹ̀kùàdọ̀r"
 
-# EE
+# "EE"
 msgid "Estonia"
 msgstr ""
 
-# EG
+# "EG"
 msgid "Egypt"
 msgstr "Ẹ́gíptì"
 
-# EH
+# "EH"
 msgid "Western Sahara"
 msgstr "Apáìwọ̀orùn Sàhárà"
 
-# ER
+# "ER"
 msgid "Eritrea"
 msgstr "Ẹritrẹ́à"
 
-# ES
+# "ES"
 msgid "Spain"
 msgstr "Spéìn"
 
-# ET
+# "ET"
 msgid "Ethiopia"
 msgstr "Ethiópíà"
 
-# FI
+# "FI"
 msgid "Finland"
 msgstr "Fínlándì"
 
-# FJ
+# "FJ"
 msgid "Fiji"
 msgstr "Fíjì"
 
-# FK
+# "FK"
 msgid "Falkland Islands (Malvinas)"
 msgstr ""
 
-# FM
+# "FM"
 msgid "Micronesia, Federated States of"
 msgstr ""
 
-# FO
+# "FO"
 msgid "Faroe Islands"
 msgstr "Àwọn Erékùṣù Fàróè"
 
-# FR
+# "FR"
 msgid "France"
 msgstr "Fránsì"
 
-# GA
+# "GA"
 msgid "Gabon"
 msgstr "Gàbọ̀n"
 
-# GB
+# "GB"
 msgid "United Kingdom"
 msgstr "Ilẹ̀ọba Aṣọ̀kan"
 
-# GD
+# "GD"
 msgid "Grenada"
 msgstr "Grẹ̀nádà"
 
-# GE
+# "GE"
 msgid "Georgia"
 msgstr "Georgia"
 
-# GF
+# "GF"
 msgid "French Guiana"
 msgstr "Gùyánà Fránsì"
 
-# GG
+# "GG"
 msgid "Guernsey"
 msgstr "Guernsey"
 
-# GH
+# "GH"
 msgid "Ghana"
 msgstr "Ghánà"
 
-# GI
+# "GI"
 msgid "Gibraltar"
 msgstr "Gibraltar"
 
-# GL
+# "GL"
 msgid "Greenland"
 msgstr "Grínlándì"
 
-# GM
+# "GM"
 msgid "Gambia"
 msgstr ""
 
-# GN
+# "GN"
 msgid "Guinea"
 msgstr "Guinea"
 
-# GP
+# "GP"
 msgid "Guadeloupe"
 msgstr "Guadeloupe"
 
-# GQ
+# "GQ"
 msgid "Equatorial Guinea"
 msgstr "Guinea Alágedeméjì"
 
-# GR
+# "GR"
 msgid "Greece"
 msgstr "Gríìsì"
 
-# GS
+# "GS"
 msgid "South Georgia and the South Sandwich Islands"
 msgstr "Gúúsù Georgia àti Àwọn Erékùṣù Gúúsù Sandwich"
 
-# GT
+# "GT"
 msgid "Guatemala"
 msgstr "Guatẹmálà"
 
-# GU
+# "GU"
 msgid "Guam"
 msgstr "Guam"
 
-# GW
+# "GW"
 msgid "Guinea-Bissau"
 msgstr "Guinea-Bissau"
 
-# GY
+# "GY"
 msgid "Guyana"
 msgstr "Gùyánà"
 
-# HK
+# "HK"
 msgid "Hong Kong"
 msgstr "Họ́ng Kọng"
 
-# HM
+# "HM"
 msgid "Heard Island and McDonald Islands"
 msgstr "Erékùṣù Heard àti Àwọn Erékùṣù McDonald"
 
-# HN
+# "HN"
 msgid "Honduras"
 msgstr "Họ̀ndúràs"
 
-# HR
+# "HR"
 msgid "Croatia"
 msgstr "Kroatíà"
 
-# HT
+# "HT"
 msgid "Haiti"
 msgstr "Hàítì"
 
-# HU
+# "HU"
 msgid "Hungary"
 msgstr "Húngárì"
 
-# ID
+# "ID"
 msgid "Indonesia"
 msgstr "Indonésíà"
 
-# IE
+# "IE"
 msgid "Ireland"
 msgstr "Írẹ́lándì"
 
-# IL
+# "IL"
 msgid "Israel"
 msgstr "Ísráẹ́lì"
 
-# IM
+# "IM"
 msgid "Isle of Man"
 msgstr "Erékùṣù ilẹ̀ Man"
 
-# IN
+# "IN"
 msgid "India"
 msgstr "Índíà"
 
-# IO
+# "IO"
 msgid "British Indian Ocean Territory"
 msgstr "Agbègbè Òkun Índíà Brítánì"
 
-# IQ
+# "IQ"
 msgid "Iraq"
 msgstr "Irak"
 
-# IR
+# "IR"
 msgid "Iran, Islamic Republic of"
 msgstr ""
 
-# IS
+# "IS"
 msgid "Iceland"
 msgstr "Íslándì"
 
-# IT
+# "IT"
 msgid "Italy"
 msgstr "Itálíà"
 
-# JE
+# "JE"
 msgid "Jersey"
 msgstr "Jersey"
 
-# JM
+# "JM"
 msgid "Jamaica"
 msgstr "Jamáíkà"
 
-# JO
+# "JO"
 msgid "Jordan"
 msgstr "Jọ́rdánì"
 
-# JP
+# "JP"
 msgid "Japan"
 msgstr "Japan"
 
-# KE
+# "KE"
 msgid "Kenya"
 msgstr "Kẹ́nyà"
 
-# KG
+# "KG"
 msgid "Kyrgyzstan"
 msgstr "Kirgistani"
 
-# KH
+# "KH"
 msgid "Cambodia"
 msgstr "Kàmbódíà"
 
-# KI
+# "KI"
 msgid "Kiribati"
 msgstr "Kìrìbátì"
 
-# KM
+# "KM"
 msgid "Comoros"
 msgstr "Kòmórò"
 
-# KN
+# "KN"
 msgid "Saint Kitts and Nevis"
 msgstr "Saint Kitts àti Nevis"
 
-# KP
+# "KP"
 msgid "Korea, Democratic People's Republic of"
 msgstr ""
 
-# KR
+# "KR"
 msgid "Korea, Republic of"
 msgstr ""
 
-# KW
+# "KW"
 msgid "Kuwait"
 msgstr "Kuwaiti"
 
-# KY
+# "KY"
 msgid "Cayman Islands"
 msgstr "Àwọn Erékùṣù Káímàn"
 
-# KZ
+# "KZ"
 msgid "Kazakhstan"
 msgstr "Kàsàkstán"
 
-# LA
+# "LA"
 msgid "Lao People's Democratic Republic"
 msgstr ""
 
-# LB
+# "LB"
 msgid "Lebanon"
 msgstr "Lẹ́bánọ́nì"
 
-# LC
+# "LC"
 msgid "Saint Lucia"
 msgstr "Lùsíà Mímọ́"
 
-# LI
+# "LI"
 msgid "Liechtenstein"
 msgstr "Líktẹ́nstáìnì"
 
-# LK
+# "LK"
 msgid "Sri Lanka"
 msgstr "Sri Lanka"
 
-# LR
+# "LR"
 msgid "Liberia"
 msgstr "Làìbéríà"
 
-# LS
+# "LS"
 msgid "Lesotho"
 msgstr "Lèsóthò"
 
-# LT
+# "LT"
 msgid "Lithuania"
 msgstr "Lituéníà"
 
-# LU
+# "LU"
 msgid "Luxembourg"
 msgstr "Lúksẹ́mbọ̀rg"
 
-# LV
+# "LV"
 msgid "Latvia"
 msgstr "Látfíà"
 
-# LY
+# "LY"
 msgid "Libya"
 msgstr "Líbyà"
 
-# MA
+# "MA"
 msgid "Morocco"
 msgstr "Mòrókò"
 
-# MC
+# "MC"
 msgid "Monaco"
 msgstr "Mónakò"
 
-# MD
+# "MD"
 msgid "Moldova, Republic of"
 msgstr ""
 
-# ME
+# "ME"
 msgid "Montenegro"
 msgstr "Montenẹ́grò"
 
-# MF
+# "MF"
 msgid "Saint Martin (French part)"
 msgstr ""
 
-# MG
+# "MG"
 msgid "Madagascar"
 msgstr "Madagáskàr"
 
-# MH
+# "MH"
 msgid "Marshall Islands"
 msgstr ""
 
-# MK
+# "MK"
 msgid "North Macedonia"
 msgstr "Kalẹdóníà Tuntun"
 
-# ML
+# "ML"
 msgid "Mali"
 msgstr "Málì"
 
-# MM
+# "MM"
 msgid "Myanmar"
 msgstr "Myanmar"
 
-# MN
+# "MN"
 msgid "Mongolia"
 msgstr "Mòngólíà"
 
-# MO
+# "MO"
 msgid "Macao"
 msgstr ""
 
-# MP
+# "MP"
 msgid "Northern Mariana Islands"
 msgstr "Àwọn Erékùṣù Apáàríwá Mariana"
 
-# MQ
+# "MQ"
 msgid "Martinique"
 msgstr "Mártíníkì"
 
-# MR
+# "MR"
 msgid "Mauritania"
 msgstr "Mauritáníà"
 
-# MS
+# "MS"
 msgid "Montserrat"
 msgstr "Montserrat"
 
-# MT
+# "MT"
 msgid "Malta"
 msgstr "Máltà"
 
-# MU
+# "MU"
 msgid "Mauritius"
 msgstr "Mọ́rísì"
 
-# MV
+# "MV"
 msgid "Maldives"
 msgstr "Àwọn Maldive"
 
-# MW
+# "MW"
 msgid "Malawi"
 msgstr "Màláwì"
 
-# MX
+# "MX"
 msgid "Mexico"
 msgstr "Mẹ́ksíkò"
 
-# MY
+# "MY"
 msgid "Malaysia"
 msgstr "Malaysia"
 
-# MZ
+# "MZ"
 msgid "Mozambique"
 msgstr "Mòsámbìk"
 
-# NA
+# "NA"
 msgid "Namibia"
 msgstr "Nàmíbíà"
 
-# NC
+# "NC"
 msgid "New Caledonia"
 msgstr "Kalẹdóníà Tuntun"
 
-# NE
+# "NE"
 msgid "Niger"
 msgstr "Nìjẹ̀r"
 
-# NF
+# "NF"
 msgid "Norfolk Island"
 msgstr "Erékùṣù Norfolk"
 
-# NG
+# "NG"
 msgid "Nigeria"
 msgstr "Nàìjíríà"
 
-# NI
+# "NI"
 msgid "Nicaragua"
 msgstr "Nikarágúà"
 
-# NL
+# "NL"
 msgid "Netherlands"
 msgstr "Nẹ́dálándì"
 
-# NO
+# "NO"
 msgid "Norway"
 msgstr "Nọ́rwèy"
 
-# NP
+# "NP"
 msgid "Nepal"
 msgstr "Nepal"
 
-# NR
+# "NR"
 msgid "Nauru"
 msgstr "Nàúrù"
 
-# NU
+# "NU"
 msgid "Niue"
 msgstr "Niue"
 
-# NZ
+# "NZ"
 msgid "New Zealand"
 msgstr "New Zealand"
 
-# OM
+# "OM"
 msgid "Oman"
 msgstr "Oman"
 
-# PA
+# "PA"
 msgid "Panama"
 msgstr "Panamá"
 
-# PE
+# "PE"
 msgid "Peru"
 msgstr "Perú"
 
-# PF
+# "PF"
 msgid "French Polynesia"
 msgstr "Polinésíà Fránsì"
 
-# PG
+# "PG"
 msgid "Papua New Guinea"
 msgstr "Papua Guinea Titun"
 
-# PH
+# "PH"
 msgid "Philippines"
 msgstr "Filipínì"
 
-# PK
+# "PK"
 msgid "Pakistan"
 msgstr "Pakístàn"
 
-# PL
+# "PL"
 msgid "Poland"
 msgstr "Pólàndì"
 
-# PM
+# "PM"
 msgid "Saint Pierre and Miquelon"
 msgstr "Saint Pierre àti Mìkẹ́lọ̀n"
 
-# PN
+# "PN"
 msgid "Pitcairn"
 msgstr ""
 
-# PR
+# "PR"
 msgid "Puerto Rico"
 msgstr "Púẹ́rtò Ríkò"
 
-# PS
+# "PS"
 msgid "Palestine, State of"
 msgstr ""
 
-# PT
+# "PT"
 msgid "Portugal"
 msgstr "Pọ́rtúgàl"
 
-# PW
+# "PW"
 msgid "Palau"
 msgstr "Páláù"
 
-# PY
+# "PY"
 msgid "Paraguay"
 msgstr "Paragúáì"
 
-# QA
+# "QA"
 msgid "Qatar"
 msgstr "Katar"
 
-# RE
+# "RE"
 msgid "Réunion"
 msgstr "Réunion"
 
-# RO
+# "RO"
 msgid "Romania"
 msgstr "Románíà"
 
-# RS
+# "RS"
 msgid "Serbia"
 msgstr "Sérbíà"
 
-# RU
+# "RU"
 # original msgid: "Russian Federation"
 msgid "Russia"
 msgstr ""
 
-# RW
+# "RW"
 msgid "Rwanda"
 msgstr "Rùwándà"
 
-# SA
+# "SA"
 msgid "Saudi Arabia"
 msgstr "Sáúdí Arábíà"
 
-# SB
+# "SB"
 msgid "Solomon Islands"
 msgstr "Àwọn Erékùsù Sólómọ́nì"
 
-# SC
+# "SC"
 msgid "Seychelles"
 msgstr "Ṣèíhẹ́lẹ́sì"
 
-# SD
+# "SD"
 msgid "Sudan"
 msgstr "Sudan"
 
-# SE
+# "SE"
 msgid "Sweden"
 msgstr "Swídìn"
 
-# SG
+# "SG"
 msgid "Singapore"
 msgstr "Singapore"
 
-# SH
+# "SH"
 msgid "Saint Helena, Ascension and Tristan da Cunha"
 msgstr "Saint Helena, Ascension àti Tristan da Cunha"
 
-# SI
+# "SI"
 msgid "Slovenia"
 msgstr "Sloféníà"
 
-# SJ
+# "SJ"
 msgid "Svalbard and Jan Mayen"
 msgstr "Svalbard àti Jan Mayen"
 
-# SK
+# "SK"
 msgid "Slovakia"
 msgstr "Slofákíà"
 
-# SL
+# "SL"
 msgid "Sierra Leone"
 msgstr "Siẹrra Léònè"
 
-# SM
+# "SM"
 msgid "San Marino"
 msgstr "San Màrínò"
 
-# SN
+# "SN"
 msgid "Senegal"
 msgstr "Sẹ̀nẹ̀gàl"
 
-# SO
+# "SO"
 msgid "Somalia"
 msgstr "Sòmálíà"
 
-# SR
+# "SR"
 msgid "Suriname"
 msgstr "Sùrìnámù"
 
-# SS
+# "SS"
 msgid "South Sudan"
 msgstr "Gúúsù Sudan"
 
-# ST
+# "ST"
 msgid "Sao Tome and Principe"
 msgstr "Sao Tome àti Principe"
 
-# SV
+# "SV"
 msgid "El Salvador"
 msgstr "El Salfador"
 
-# SX
+# "SX"
 msgid "Sint Maarten (Dutch part)"
 msgstr ""
 
-# SY
+# "SY"
 msgid "Syrian Arab Republic"
 msgstr ""
 
-# SZ
+# "SZ"
 # original msgid: "Eswatini"
 msgid "Swaziland"
 msgstr ""
 
-# TC
+# "TC"
 msgid "Turks and Caicos Islands"
 msgstr "Àwọn Erékùṣù Turks àti Caicos"
 
-# TD
+# "TD"
 msgid "Chad"
 msgstr "Tsad"
 
-# TF
+# "TF"
 msgid "French Southern Territories"
 msgstr ""
 
-# TG
+# "TG"
 msgid "Togo"
 msgstr "Tógò"
 
-# TH
+# "TH"
 msgid "Thailand"
 msgstr "Tháílàndì"
 
-# TJ
+# "TJ"
 msgid "Tajikistan"
 msgstr "Tajikistan"
 
-# TK
+# "TK"
 msgid "Tokelau"
 msgstr "Tokelau"
 
-# TL
+# "TL"
 msgid "Timor-Leste"
 msgstr ""
 
-# TM
+# "TM"
 msgid "Turkmenistan"
 msgstr "Turkmẹ́nìstán"
 
-# TN
+# "TN"
 msgid "Tunisia"
 msgstr "Tùnísíà"
 
-# TO
+# "TO"
 msgid "Tonga"
 msgstr "Tóngà"
 
-# TR
+# "TR"
 msgid "Turkey"
 msgstr "Túrkì"
 
-# TT
+# "TT"
 msgid "Trinidad and Tobago"
 msgstr "Trínídád àti Tòbágò"
 
-# TV
+# "TV"
 msgid "Tuvalu"
 msgstr "Tufalu"
 
-# TW
+# "TW"
 # original msgid: "Taiwan, Province of China"
 msgid "Taiwan"
 msgstr ""
 
-# TZ
+# "TZ"
 msgid "Tanzania, United Republic of"
 msgstr ""
 
-# UA
+# "UA"
 msgid "Ukraine"
 msgstr "Ukréìn"
 
-# UG
+# "UG"
 msgid "Uganda"
 msgstr "Ùgándà"
 
-# UM
+# "UM"
 msgid "United States Minor Outlying Islands"
 msgstr "Àwọn Erékùṣù Kékèké Orílẹ̀-èdè Amẹ́ríkà"
 
-# US
+# "US"
 msgid "United States"
 msgstr ""
 
-# UY
+# "UY"
 msgid "Uruguay"
 msgstr "Urugúáì"
 
-# UZ
+# "UZ"
 msgid "Uzbekistan"
 msgstr "Ùsbẹ̀kìstán"
 
-# VA
+# "VA"
 msgid "Holy See (Vatican City State)"
 msgstr ""
 
-# VC
+# "VC"
 msgid "Saint Vincent and the Grenadines"
 msgstr "Saint Vincent àti àwọn Grẹnadínì"
 
-# VE
+# "VE"
 msgid "Venezuela, Bolivarian Republic of"
 msgstr ""
 
-# VG
+# "VG"
 msgid "Virgin Islands, British"
 msgstr ""
 
-# VI
+# "VI"
 msgid "Virgin Islands, U.S."
 msgstr ""
 
-# VN
+# "VN"
 # original msgid: "Viet Nam"
 msgid "Vietnam"
 msgstr ""
 
-# VU
+# "VU"
 msgid "Vanuatu"
 msgstr "Fanuatu"
 
-# WF
+# "WF"
 msgid "Wallis and Futuna"
 msgstr "Wallis àti Futuna"
 
-# WS
+# "WS"
 msgid "Samoa"
 msgstr "Sàmóà"
 
-# YE
+# "YE"
 msgid "Yemen"
 msgstr "Yemen"
 
-# YT
+# "YT"
 msgid "Mayotte"
 msgstr "Mayotte"
 
-# ZA
+# "ZA"
 msgid "South Africa"
 msgstr "Gúúsù Áfríkà"
 
-# ZM
+# "ZM"
 msgid "Zambia"
 msgstr "Sámbíà"
 
-# ZW
+# "ZW"
 msgid "Zimbabwe"
 msgstr "Sìmbábúè"

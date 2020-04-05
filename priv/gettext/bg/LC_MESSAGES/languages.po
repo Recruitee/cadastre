@@ -1,589 +1,589 @@
-# aa
+# "aa"
 msgid "Afar"
 msgstr "Афар"
 
-# ab
+# "ab"
 msgid "Abkhazian"
 msgstr "Абхазки"
 
-# af
+# "af"
 msgid "Afrikaans"
 msgstr "Африканс"
 
-# am
+# "am"
 msgid "Amharic"
 msgstr "Амхарски"
 
-# an
+# "an"
 msgid "Aragonese"
 msgstr "Арагонски"
 
-# as
+# "as"
 msgid "Assamese"
 msgstr "Асамски"
 
-# av
+# "av"
 msgid "Avaric"
 msgstr "Аварски"
 
-# ba
+# "ba"
 msgid "Bashkir"
 msgstr "Башкирски"
 
-# be
+# "be"
 msgid "Belarusian"
 msgstr "Белоруски"
 
-# bg
+# "bg"
 msgid "Bulgarian"
 msgstr "Български"
 
-# bi
+# "bi"
 msgid "Bislama"
 msgstr "Бислама"
 
-# bm
+# "bm"
 msgid "Bambara"
 msgstr "Бамбара"
 
-# bn
+# "bn"
 # original msgid: "Bengali"
 msgid "Bangla"
 msgstr "Бенгалски"
 
-# bo
+# "bo"
 msgid "Tibetan"
 msgstr "Тибетски"
 
-# br
+# "br"
 msgid "Breton"
 msgstr "Бретонски"
 
-# bs
+# "bs"
 msgid "Bosnian"
 msgstr "Босненски"
 
-# ca
+# "ca"
 # original msgid: "Catalan; Valencian"
 msgid "Catalan"
 msgstr "Каталонски"
 
-# ce
+# "ce"
 msgid "Chechen"
 msgstr "Чеченски"
 
-# ch
+# "ch"
 msgid "Chamorro"
 msgstr "Чаморо"
 
-# co
+# "co"
 msgid "Corsican"
 msgstr "Корсикански"
 
-# cs
+# "cs"
 msgid "Czech"
 msgstr "Чешки"
 
-# cv
+# "cv"
 msgid "Chuvash"
 msgstr "Чувашки"
 
-# cy
+# "cy"
 msgid "Welsh"
 msgstr "Уелски"
 
-# da
+# "da"
 msgid "Danish"
 msgstr "Датски"
 
-# de
+# "de"
 msgid "German"
 msgstr "Германски"
 
-# dv
+# "dv"
 # original msgid: "Divehi; Dhivehi; Maldivian"
 msgid "Divehi"
 msgstr "Дхивехи"
 
-# dz
+# "dz"
 msgid "Dzongkha"
 msgstr "Дзонгкхански"
 
-# ee
+# "ee"
 msgid "Ewe"
 msgstr "Еве"
 
-# el
+# "el"
 # original msgid: "Greek, Modern (1453-)"
 msgid "Greek"
 msgstr "Гръцки (1453-)"
 
-# en
+# "en"
 msgid "English"
 msgstr "Английски"
 
-# es
+# "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr "Испански"
 
-# eu
+# "eu"
 msgid "Basque"
 msgstr "Баски"
 
-# fi
+# "fi"
 msgid "Finnish"
 msgstr "Фински"
 
-# fj
+# "fj"
 msgid "Fijian"
 msgstr "Фиджийски"
 
-# fo
+# "fo"
 msgid "Faroese"
 msgstr "Фарьорски"
 
-# fr
+# "fr"
 msgid "French"
 msgstr "Френски"
 
-# fy
+# "fy"
 msgid "Western Frisian"
 msgstr "Западно-фризски"
 
-# ga
+# "ga"
 msgid "Irish"
 msgstr "Ирландски"
 
-# gd
+# "gd"
 # original msgid: "Gaelic; Scottish Gaelic"
 msgid "Scottish Gaelic"
 msgstr "Гаелски; Шотландски гаелски"
 
-# gl
+# "gl"
 msgid "Galician"
 msgstr "Галисийски"
 
-# gu
+# "gu"
 msgid "Gujarati"
 msgstr "Гуджаратски"
 
-# gv
+# "gv"
 msgid "Manx"
 msgstr ""
 
-# ha
+# "ha"
 msgid "Hausa"
 msgstr ""
 
-# he
+# "he"
 msgid "Hebrew"
 msgstr "Иврит"
 
-# hi
+# "hi"
 msgid "Hindi"
 msgstr "Хинди"
 
-# ho
+# "ho"
 msgid "Hiri Motu"
 msgstr ""
 
-# hr
+# "hr"
 msgid "Croatian"
 msgstr "Хърватски"
 
-# ht
+# "ht"
 # original msgid: "Haitian; Haitian Creole"
 msgid "Haitian Creole"
 msgstr ""
 
-# hu
+# "hu"
 msgid "Hungarian"
 msgstr "Унгарски"
 
-# hy
+# "hy"
 msgid "Armenian"
 msgstr "Арменски"
 
-# hz
+# "hz"
 msgid "Herero"
 msgstr ""
 
-# id
+# "id"
 msgid "Indonesian"
 msgstr "Индонезийски"
 
-# ig
+# "ig"
 msgid "Igbo"
 msgstr ""
 
-# ii
+# "ii"
 # original msgid: "Sichuan Yi; Nuosu"
 msgid "Sichuan Yi"
 msgstr ""
 
-# is
+# "is"
 msgid "Icelandic"
 msgstr "Исландски"
 
-# it
+# "it"
 msgid "Italian"
 msgstr "Италиански"
 
-# ja
+# "ja"
 msgid "Japanese"
 msgstr "Японски"
 
-# jv
+# "jv"
 msgid "Javanese"
 msgstr "Явайски"
 
-# ka
+# "ka"
 msgid "Georgian"
 msgstr "Грузински"
 
-# ki
+# "ki"
 # original msgid: "Kikuyu; Gikuyu"
 msgid "Kikuyu"
 msgstr ""
 
-# kj
+# "kj"
 # original msgid: "Kuanyama; Kwanyama"
 msgid "Kuanyama"
 msgstr ""
 
-# kk
+# "kk"
 msgid "Kazakh"
 msgstr "Казахски"
 
-# kl
+# "kl"
 # original msgid: "Kalaallisut; Greenlandic"
 msgid "Kalaallisut"
 msgstr ""
 
-# km
+# "km"
 # original msgid: "Central Khmer"
 msgid "Khmer"
 msgstr "Кхмерски"
 
-# kn
+# "kn"
 msgid "Kannada"
 msgstr ""
 
-# ko
+# "ko"
 msgid "Korean"
 msgstr "Корейски"
 
-# ks
+# "ks"
 msgid "Kashmiri"
 msgstr ""
 
-# kw
+# "kw"
 msgid "Cornish"
 msgstr "Корнуелски"
 
-# ky
+# "ky"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr "Киргизки"
 
-# lb
+# "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
 msgid "Luxembourgish"
 msgstr "Люксембургски"
 
-# lg
+# "lg"
 msgid "Ganda"
 msgstr ""
 
-# li
+# "li"
 # original msgid: "Limburgan; Limburger; Limburgish"
 msgid "Limburgish"
 msgstr "Лимбургски"
 
-# ln
+# "ln"
 msgid "Lingala"
 msgstr ""
 
-# lo
+# "lo"
 msgid "Lao"
 msgstr "Лаоски"
 
-# lt
+# "lt"
 msgid "Lithuanian"
 msgstr "Литовски"
 
-# lu
+# "lu"
 msgid "Luba-Katanga"
 msgstr ""
 
-# mh
+# "mh"
 msgid "Marshallese"
 msgstr "Маршалски"
 
-# mi
+# "mi"
 msgid "Maori"
 msgstr "Маорски"
 
-# mk
+# "mk"
 msgid "Macedonian"
 msgstr "Македонски"
 
-# ml
+# "ml"
 msgid "Malayalam"
 msgstr ""
 
-# mr
+# "mr"
 msgid "Marathi"
 msgstr ""
 
-# mt
+# "mt"
 msgid "Maltese"
 msgstr "Малтийски"
 
-# my
+# "my"
 msgid "Burmese"
 msgstr "Бирмански"
 
-# na
+# "na"
 msgid "Nauru"
 msgstr "Науруански"
 
-# nb
+# "nb"
 # original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
 msgid "Norwegian Bokmål"
 msgstr "Букмол"
 
-# nd
+# "nd"
 # original msgid: "Ndebele, North; North Ndebele"
 msgid "North Ndebele"
 msgstr ""
 
-# ng
+# "ng"
 msgid "Ndonga"
 msgstr ""
 
-# nl
+# "nl"
 # original msgid: "Dutch; Flemish"
 msgid "Dutch"
 msgstr "Холандски"
 
-# nn
+# "nn"
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "Нинорск, Норвежки"
 
-# nr
+# "nr"
 # original msgid: "Ndebele, South; South Ndebele"
 msgid "South Ndebele"
 msgstr ""
 
-# nv
+# "nv"
 # original msgid: "Navajo; Navaho"
 msgid "Navajo"
 msgstr "Навахо"
 
-# ny
+# "ny"
 # original msgid: "Chichewa; Chewa; Nyanja"
 msgid "Nyanja"
 msgstr ""
 
-# oc
+# "oc"
 # original msgid: "Occitan (post 1500); Provençal"
 msgid "Occitan"
 msgstr "Окситански (след 1500)"
 
-# os
+# "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
 msgstr ""
 
-# pa
+# "pa"
 # original msgid: "Panjabi; Punjabi"
 msgid "Punjabi"
 msgstr ""
 
-# pl
+# "pl"
 msgid "Polish"
 msgstr "Полски"
 
-# pt
+# "pt"
 msgid "Portuguese"
 msgstr "Португалски"
 
-# rm
+# "rm"
 msgid "Romansh"
 msgstr "Романски"
 
-# rn
+# "rn"
 msgid "Rundi"
 msgstr ""
 
-# ro
+# "ro"
 # original msgid: "Romanian; Moldavian; Moldovan"
 msgid "Romanian"
 msgstr "Молдовски"
 
-# ru
+# "ru"
 msgid "Russian"
 msgstr "Руски"
 
-# rw
+# "rw"
 msgid "Kinyarwanda"
 msgstr ""
 
-# sd
+# "sd"
 msgid "Sindhi"
 msgstr "Синдхи"
 
-# se
+# "se"
 msgid "Northern Sami"
 msgstr "Северносаамски"
 
-# sg
+# "sg"
 msgid "Sango"
 msgstr ""
 
-# si
+# "si"
 # original msgid: "Sinhala; Sinhalese"
 msgid "Sinhala"
 msgstr "Синхалски"
 
-# sk
+# "sk"
 msgid "Slovak"
 msgstr "Словашки"
 
-# sl
+# "sl"
 msgid "Slovenian"
 msgstr "Словенски"
 
-# sm
+# "sm"
 msgid "Samoan"
 msgstr "Самоански"
 
-# sn
+# "sn"
 msgid "Shona"
 msgstr "Шона"
 
-# so
+# "so"
 msgid "Somali"
 msgstr "Сомалийски"
 
-# sr
+# "sr"
 msgid "Serbian"
 msgstr "Сръбски"
 
-# ss
+# "ss"
 msgid "Swati"
 msgstr ""
 
-# st
+# "st"
 # original msgid: "Sotho, Southern"
 msgid "Southern Sotho"
 msgstr ""
 
-# su
+# "su"
 msgid "Sundanese"
 msgstr ""
 
-# sv
+# "sv"
 msgid "Swedish"
 msgstr "Шведски"
 
-# ta
+# "ta"
 msgid "Tamil"
 msgstr "Тамилски"
 
-# te
+# "te"
 msgid "Telugu"
 msgstr ""
 
-# tg
+# "tg"
 msgid "Tajik"
 msgstr ""
 
-# th
+# "th"
 msgid "Thai"
 msgstr "Тайвански"
 
-# ti
+# "ti"
 msgid "Tigrinya"
 msgstr "Тигриня"
 
-# tk
+# "tk"
 msgid "Turkmen"
 msgstr "Туркменски"
 
-# tl
+# "tl"
 msgid "Tagalog"
 msgstr ""
 
-# tn
+# "tn"
 msgid "Tswana"
 msgstr ""
 
-# to
+# "to"
 # original msgid: "Tonga (Tonga Islands)"
 msgid "Tongan"
 msgstr ""
 
-# tr
+# "tr"
 msgid "Turkish"
 msgstr "Турски"
 
-# ts
+# "ts"
 msgid "Tsonga"
 msgstr ""
 
-# tt
+# "tt"
 msgid "Tatar"
 msgstr "Татарски"
 
-# tw
+# "tw"
 msgid "Twi"
 msgstr "Туи"
 
-# ty
+# "ty"
 msgid "Tahitian"
 msgstr ""
 
-# ug
+# "ug"
 # original msgid: "Uighur; Uyghur"
 msgid "Uyghur"
 msgstr "Уйгурски"
 
-# uk
+# "uk"
 msgid "Ukrainian"
 msgstr "Украински"
 
-# ur
+# "ur"
 msgid "Urdu"
 msgstr "Урду"
 
-# ve
+# "ve"
 msgid "Venda"
 msgstr "Венда"
 
-# vi
+# "vi"
 msgid "Vietnamese"
 msgstr "Виетнамски"
 
-# wa
+# "wa"
 msgid "Walloon"
 msgstr "Валонски"
 
-# wo
+# "wo"
 msgid "Wolof"
 msgstr ""
 
-# xh
+# "xh"
 msgid "Xhosa"
 msgstr ""
 
-# yo
+# "yo"
 msgid "Yoruba"
 msgstr ""
 
-# zu
+# "zu"
 msgid "Zulu"
 msgstr "Зулуски"

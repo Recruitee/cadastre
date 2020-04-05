@@ -34,10 +34,10 @@ defmodule AmbassadorDev do
     write_languages(languages_msgid_per_id, languages_override_per_lang_per_id)
 
     countries_msgid_per_id = countries_msgid_per_id_task |> await()
-    write_countries(countries_msgid_per_id, countries_override_per_lang_per_id)
+    country_ids = write_countries(countries_msgid_per_id, countries_override_per_lang_per_id)
 
     subdivisions_msgid_per_id =
-      subdivisions_msgid_per_id_task |> await() |> filter_by_countries(countries_msgid_per_id)
+      subdivisions_msgid_per_id_task |> await() |> filter_by_countries(country_ids)
 
     write_subdivisions(subdivisions_msgid_per_id, subdivisions_override_per_lang_per_id)
 
@@ -68,7 +68,10 @@ defmodule AmbassadorDev do
   end
 
   defp write_countries(msgid_per_id, override_per_lang_per_id) do
-    overrided_msg_id_per_id(msgid_per_id, override_per_lang_per_id) |> write_json("countries")
+    msg_id_per_id = overrided_msg_id_per_id(msgid_per_id, override_per_lang_per_id)
+    msg_id_per_id |> write_json("countries")
+
+    Map.keys(msg_id_per_id)
   end
 
   defp write_subdivisions(msgid_per_id, override_per_lang_per_id) do
@@ -81,9 +84,7 @@ defmodule AmbassadorDev do
     |> write_json("subdivisions")
   end
 
-  defp filter_by_countries(subdivisions_msgid_per_id, countries_msgid_per_id) do
-    country_ids = countries_msgid_per_id |> Map.keys()
-
+  defp filter_by_countries(subdivisions_msgid_per_id, country_ids) do
     subdivisions_msgid_per_id
     |> Enum.filter(fn {<<country_id::binary-size(2), "-", _::binary>>, _} ->
       country_id in country_ids
@@ -92,10 +93,16 @@ defmodule AmbassadorDev do
   end
 
   defp overrided_msg_id_per_id(msgid_per_id, override_per_lang_per_id) do
-    msgid_per_id
-    |> Enum.map(fn {id, msgid} ->
-      updated_msgid = override_per_lang_per_id |> Map.get(id, %{}) |> Map.get("en", msgid)
-      {id, updated_msgid}
+    [Map.keys(msgid_per_id) | Map.keys(override_per_lang_per_id)]
+    |> List.flatten()
+    |> Enum.uniq()
+    |> Enum.map(fn id ->
+      msgid =
+        override_per_lang_per_id
+        |> Map.get(id, %{})
+        |> Map.get_lazy("en", fn -> msgid_per_id |> Map.get(id) end)
+
+      {id, msgid}
     end)
     |> Enum.into(%{})
   end

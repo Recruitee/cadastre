@@ -1,590 +1,590 @@
-# aa
+# "aa"
 msgid "Afar"
 msgstr ""
 
-# ab
+# "ab"
 msgid "Abkhazian"
 msgstr "Isi-Azerbaijani"
 
-# af
+# "af"
 msgid "Afrikaans"
 msgstr "Isibhunu"
 
-# am
+# "am"
 msgid "Amharic"
 msgstr "isi-Arabhu"
 
-# an
+# "an"
 msgid "Aragonese"
 msgstr ""
 
-# as
+# "as"
 msgid "Assamese"
 msgstr ""
 
-# av
+# "av"
 msgid "Avaric"
 msgstr "isi-Arabhu"
 
-# ba
+# "ba"
 msgid "Bashkir"
 msgstr ""
 
-# be
+# "be"
 msgid "Belarusian"
 msgstr "Isi-Buligariyana"
 
-# bg
+# "bg"
 msgid "Bulgarian"
 msgstr "Isi-Buligariyana"
 
-# bi
+# "bi"
 msgid "Bislama"
 msgstr ""
 
-# bm
+# "bm"
 msgid "Bambara"
 msgstr ""
 
-# bn
+# "bn"
 # original msgid: "Bengali"
 msgid "Bangla"
 msgstr ""
 
-# bo
+# "bo"
 msgid "Tibetan"
 msgstr ""
 
-# br
+# "br"
 msgid "Breton"
 msgstr "Isi-Bretoni"
 
-# bs
+# "bs"
 msgid "Bosnian"
 msgstr "Isi-Romayinani"
 
-# ca
+# "ca"
 # original msgid: "Catalan; Valencian"
 msgid "Catalan"
 msgstr ""
 
-# ce
+# "ce"
 msgid "Chechen"
 msgstr "Isi Czechiya"
 
-# ch
+# "ch"
 msgid "Chamorro"
 msgstr ""
 
-# co
+# "co"
 msgid "Corsican"
 msgstr "Isi-Bosniyani"
 
-# cs
+# "cs"
 msgid "Czech"
 msgstr "Isi Czechiya"
 
-# cv
+# "cv"
 msgid "Chuvash"
 msgstr ""
 
-# cy
+# "cy"
 msgid "Welsh"
 msgstr "Isi Welsh"
 
-# da
+# "da"
 msgid "Danish"
 msgstr "Isi-Danishi"
 
-# de
+# "de"
 msgid "German"
 msgstr "isi-Jalimani"
 
-# dv
+# "dv"
 # original msgid: "Divehi; Dhivehi; Maldivian"
 msgid "Divehi"
 msgstr ""
 
-# dz
+# "dz"
 msgid "Dzongkha"
 msgstr ""
 
-# ee
+# "ee"
 msgid "Ewe"
 msgstr ""
 
-# el
+# "el"
 # original msgid: "Greek, Modern (1453-)"
 msgid "Greek"
 msgstr ""
 
-# en
+# "en"
 msgid "English"
 msgstr "Isi-Ngisi (UK)"
 
-# es
+# "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr ""
 
-# eu
+# "eu"
 msgid "Basque"
 msgstr "Isi-Basque"
 
-# fi
+# "fi"
 msgid "Finnish"
 msgstr "Isi-Finishi"
 
-# fj
+# "fj"
 msgid "Fijian"
 msgstr ""
 
-# fo
+# "fo"
 msgid "Faroese"
 msgstr ""
 
-# fr
+# "fr"
 msgid "French"
 msgstr "Isi-Frentshi"
 
-# fy
+# "fy"
 msgid "Western Frisian"
 msgstr "Isi-Ukraniyani"
 
-# ga
+# "ga"
 msgid "Irish"
 msgstr "Isi-Irishi"
 
-# gd
+# "gd"
 # original msgid: "Gaelic; Scottish Gaelic"
 msgid "Scottish Gaelic"
 msgstr ""
 
-# gl
+# "gl"
 msgid "Galician"
 msgstr "Isi-Galashiyani"
 
-# gu
+# "gu"
 msgid "Gujarati"
 msgstr ""
 
-# gv
+# "gv"
 msgid "Manx"
 msgstr ""
 
-# ha
+# "ha"
 msgid "Hausa"
 msgstr ""
 
-# he
+# "he"
 msgid "Hebrew"
 msgstr "Isi-Hebheru"
 
-# hi
+# "hi"
 msgid "Hindi"
 msgstr ""
 
-# ho
+# "ho"
 msgid "Hiri Motu"
 msgstr "Isi-Thekishi"
 
-# hr
+# "hr"
 msgid "Croatian"
 msgstr "Isi-Croshiyani"
 
-# ht
+# "ht"
 # original msgid: "Haitian; Haitian Creole"
 msgid "Haitian Creole"
 msgstr ""
 
-# hu
+# "hu"
 msgid "Hungarian"
 msgstr "Isi-Hangariyani"
 
-# hy
+# "hy"
 msgid "Armenian"
 msgstr "Isi-Romayinani"
 
-# hz
+# "hz"
 msgid "Herero"
 msgstr "Isi-Hebheru"
 
-# id
+# "id"
 msgid "Indonesian"
 msgstr "Indoneshiya"
 
-# ig
+# "ig"
 msgid "Igbo"
 msgstr ""
 
-# ii
+# "ii"
 # original msgid: "Sichuan Yi; Nuosu"
 msgid "Sichuan Yi"
 msgstr "Isi-Lithuwaniya"
 
-# is
+# "is"
 msgid "Icelandic"
 msgstr "isi-Icilendikhi"
 
-# it
+# "it"
 msgid "Italian"
 msgstr "Isi-Taliyane"
 
-# ja
+# "ja"
 msgid "Japanese"
 msgstr "Isi-Jaliphani"
 
-# jv
+# "jv"
 msgid "Javanese"
 msgstr "Isi-Jaliphani"
 
-# ka
+# "ka"
 msgid "Georgian"
 msgstr "isi-Jalimani"
 
-# ki
+# "ki"
 # original msgid: "Kikuyu; Gikuyu"
 msgid "Kikuyu"
 msgstr ""
 
-# kj
+# "kj"
 # original msgid: "Kuanyama; Kwanyama"
 msgid "Kuanyama"
 msgstr ""
 
-# kk
+# "kk"
 msgid "Kazakh"
 msgstr ""
 
-# kl
+# "kl"
 # original msgid: "Kalaallisut; Greenlandic"
 msgid "Kalaallisut"
 msgstr ""
 
-# km
+# "km"
 # original msgid: "Central Khmer"
 msgid "Khmer"
 msgstr ""
 
-# kn
+# "kn"
 msgid "Kannada"
 msgstr ""
 
-# ko
+# "ko"
 msgid "Korean"
 msgstr "Isi-Koreyani"
 
-# ks
+# "ks"
 msgid "Kashmiri"
 msgstr ""
 
-# kw
+# "kw"
 msgid "Cornish"
 msgstr "Isi-Irishi"
 
-# ky
+# "ky"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr ""
 
-# lb
+# "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
 msgid "Luxembourgish"
 msgstr ""
 
-# lg
+# "lg"
 msgid "Ganda"
 msgstr ""
 
-# li
+# "li"
 # original msgid: "Limburgan; Limburger; Limburgish"
 msgid "Limburgish"
 msgstr ""
 
-# ln
+# "ln"
 msgid "Lingala"
 msgstr ""
 
-# lo
+# "lo"
 msgid "Lao"
 msgstr ""
 
-# lt
+# "lt"
 msgid "Lithuanian"
 msgstr "Isi-Lithuwaniya"
 
-# lu
+# "lu"
 msgid "Luba-Katanga"
 msgstr ""
 
-# mh
+# "mh"
 msgid "Marshallese"
 msgstr "Isi-Malithalise"
 
-# mi
+# "mi"
 msgid "Maori"
 msgstr "Isi-Mawori"
 
-# mk
+# "mk"
 msgid "Macedonian"
 msgstr "Isi-Makhedoniya"
 
-# ml
+# "ml"
 msgid "Malayalam"
 msgstr ""
 
-# mr
+# "mr"
 msgid "Marathi"
 msgstr "Isi-Mawori"
 
-# mt
+# "mt"
 msgid "Maltese"
 msgstr "Isi-Malithalise"
 
-# my
+# "my"
 msgid "Burmese"
 msgstr ""
 
-# na
+# "na"
 msgid "Nauru"
 msgstr ""
 
-# nb
+# "nb"
 # original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
 msgid "Norwegian Bokmål"
 msgstr ""
 
-# nd
+# "nd"
 # original msgid: "Ndebele, North; North Ndebele"
 msgid "North Ndebele"
 msgstr ""
 
-# ng
+# "ng"
 msgid "Ndonga"
 msgstr "Isi-Bosniyani"
 
-# nl
+# "nl"
 # original msgid: "Dutch; Flemish"
 msgid "Dutch"
 msgstr ""
 
-# nn
+# "nn"
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "Isi-Nowejiyani (Nynorsk)"
 
-# nr
+# "nr"
 # original msgid: "Ndebele, South; South Ndebele"
 msgid "South Ndebele"
 msgstr ""
 
-# nv
+# "nv"
 # original msgid: "Navajo; Navaho"
 msgid "Navajo"
 msgstr ""
 
-# ny
+# "ny"
 # original msgid: "Chichewa; Chewa; Nyanja"
 msgid "Nyanja"
 msgstr ""
 
-# oc
+# "oc"
 # original msgid: "Occitan (post 1500); Provençal"
 msgid "Occitan"
 msgstr ""
 
-# os
+# "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
 msgstr "Isi-Rashiyani"
 
-# pa
+# "pa"
 # original msgid: "Panjabi; Punjabi"
 msgid "Punjabi"
 msgstr ""
 
-# pl
+# "pl"
 msgid "Polish"
 msgstr "Isi-Pholishi"
 
-# pt
+# "pt"
 msgid "Portuguese"
 msgstr "Isi-Phuthukesi"
 
-# rm
+# "rm"
 msgid "Romansh"
 msgstr "Isi-Romayinani"
 
-# rn
+# "rn"
 msgid "Rundi"
 msgstr ""
 
-# ro
+# "ro"
 # original msgid: "Romanian; Moldavian; Moldovan"
 msgid "Romanian"
 msgstr "Isi-Lavithiyani"
 
-# ru
+# "ru"
 msgid "Russian"
 msgstr "Isi-Rashiyani"
 
-# rw
+# "rw"
 msgid "Kinyarwanda"
 msgstr ""
 
-# sd
+# "sd"
 msgid "Sindhi"
 msgstr ""
 
-# se
+# "se"
 msgid "Northern Sami"
 msgstr ""
 
-# sg
+# "sg"
 msgid "Sango"
 msgstr ""
 
-# si
+# "si"
 # original msgid: "Sinhala; Sinhalese"
 msgid "Sinhala"
 msgstr "Isi-Vitheyinamise"
 
-# sk
+# "sk"
 msgid "Slovak"
 msgstr "Isi-Silovaki"
 
-# sl
+# "sl"
 msgid "Slovenian"
 msgstr "Isi-Siloveniyani"
 
-# sm
+# "sm"
 msgid "Samoan"
 msgstr ""
 
-# sn
+# "sn"
 msgid "Shona"
 msgstr "Isi-Xhosa"
 
-# so
+# "so"
 msgid "Somali"
 msgstr ""
 
-# sr
+# "sr"
 msgid "Serbian"
 msgstr "Isi-Sebhiyani"
 
-# ss
+# "ss"
 msgid "Swati"
 msgstr ""
 
-# st
+# "st"
 # original msgid: "Sotho, Southern"
 msgid "Southern Sotho"
 msgstr ""
 
-# su
+# "su"
 msgid "Sundanese"
 msgstr ""
 
-# sv
+# "sv"
 msgid "Swedish"
 msgstr "Isi-Swedishi"
 
-# ta
+# "ta"
 msgid "Tamil"
 msgstr "Isi-Thamili"
 
-# te
+# "te"
 msgid "Telugu"
 msgstr ""
 
-# tg
+# "tg"
 msgid "Tajik"
 msgstr "Isi-Thayi"
 
-# th
+# "th"
 msgid "Thai"
 msgstr "Isi-Thayi"
 
-# ti
+# "ti"
 msgid "Tigrinya"
 msgstr "Isi-Thekishi"
 
-# tk
+# "tk"
 msgid "Turkmen"
 msgstr ""
 
-# tl
+# "tl"
 msgid "Tagalog"
 msgstr ""
 
-# tn
+# "tn"
 msgid "Tswana"
 msgstr ""
 
-# to
+# "to"
 # original msgid: "Tonga (Tonga Islands)"
 msgid "Tongan"
 msgstr ""
 
-# tr
+# "tr"
 msgid "Turkish"
 msgstr "Isi-Thekishi"
 
-# ts
+# "ts"
 msgid "Tsonga"
 msgstr ""
 
-# tt
+# "tt"
 msgid "Tatar"
 msgstr ""
 
-# tw
+# "tw"
 msgid "Twi"
 msgstr ""
 
-# ty
+# "ty"
 msgid "Tahitian"
 msgstr "Isi-Lavithiyani"
 
-# ug
+# "ug"
 # original msgid: "Uighur; Uyghur"
 msgid "Uyghur"
 msgstr ""
 
-# uk
+# "uk"
 msgid "Ukrainian"
 msgstr "Isi-Ukraniyani"
 
-# ur
+# "ur"
 msgid "Urdu"
 msgstr ""
 
-# ve
+# "ve"
 msgid "Venda"
 msgstr ""
 
-# vi
+# "vi"
 msgid "Vietnamese"
 msgstr "Isi-Vitheyinamise"
 
-# wa
+# "wa"
 msgid "Walloon"
 msgstr "Isi-Waloni"
 
-# wo
+# "wo"
 msgid "Wolof"
 msgstr ""
 
-# xh
+# "xh"
 msgid "Xhosa"
 msgstr "Isi-Xhosa"
 
-# yo
+# "yo"
 msgid "Yoruba"
 msgstr ""
 
-# zu
+# "zu"
 # original msgstr: "Isi-Zulu"
 msgid "Zulu"
 msgstr "isiZulu"
