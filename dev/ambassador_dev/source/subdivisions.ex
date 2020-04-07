@@ -17,6 +17,7 @@ defmodule AmbassadorDev.Source.Subdivisions do
       %{"3166-2" => list} when is_list(list) ->
         list
         |> Enum.flat_map(fn
+          %{"parent" => _} -> []
           %{"code" => id, "name" => msgid} -> [{id, msgid}]
           _ -> []
         end)

@@ -222,149 +222,53 @@ msgstr "Барбуда"
 msgid "Redonda"
 msgstr "Редонда"
 
-# "AL-01", "AL-BR"
+# "AL-01"
 msgid "Berat"
 msgstr "Берат"
 
-# "AL-02", "AL-DR"
+# "AL-02"
 msgid "Durrës"
 msgstr "Драч"
 
-# "AL-03", "AL-EL"
+# "AL-03"
 msgid "Elbasan"
 msgstr "Албасан"
 
-# "AL-04", "AL-FR"
+# "AL-04"
 msgid "Fier"
 msgstr "Фјер"
 
-# "AL-05", "AL-GJ"
+# "AL-05"
 msgid "Gjirokastër"
 msgstr "Гјирокастар"
 
-# "AL-06", "AL-KO"
+# "AL-06"
 msgid "Korçë"
 msgstr "Корча"
 
-# "AL-07", "AL-KU"
+# "AL-07"
 msgid "Kukës"
 msgstr "Кукаш"
 
-# "AL-08", "AL-LE"
+# "AL-08"
 msgid "Lezhë"
 msgstr "Лежани"
 
-# "AL-09", "AL-DI"
+# "AL-09"
 msgid "Dibër"
 msgstr "Дибар"
 
-# "AL-10", "AL-SH"
+# "AL-10"
 msgid "Shkodër"
 msgstr "Скадар"
 
-# "AL-11", "AL-TR"
+# "AL-11"
 msgid "Tiranë"
 msgstr "Тирана"
 
-# "AL-12", "AL-VL"
+# "AL-12"
 msgid "Vlorë"
 msgstr "Влора"
-
-# "AL-BU"
-msgid "Bulqizë"
-msgstr "Булгиза"
-
-# "AL-DL"
-msgid "Delvinë"
-msgstr "Делвина"
-
-# "AL-DV"
-msgid "Devoll"
-msgstr "Девол"
-
-# "AL-ER"
-msgid "Kolonjë"
-msgstr "Колонја"
-
-# "AL-GR"
-msgid "Gramsh"
-msgstr "Грамш"
-
-# "AL-HA"
-msgid "Has"
-msgstr "Хас"
-
-# "AL-KA"
-msgid "Kavajë"
-msgstr "Каваја"
-
-# "AL-KB"
-msgid "Kurbin"
-msgstr "Курбин"
-
-# "AL-KC"
-msgid "Kuçovë"
-msgstr "Кучова"
-
-# "AL-KR"
-msgid "Krujë"
-msgstr "Круја"
-
-# "AL-LB"
-msgid "Librazhd"
-msgstr "Либражд"
-
-# "AL-LU"
-msgid "Lushnjë"
-msgstr "Лушња"
-
-# "AL-MK"
-msgid "Mallakastër"
-msgstr "Малакастар"
-
-# "AL-MM"
-msgid "Malësi e Madhe"
-msgstr "Малази и Маде"
-
-# "AL-MR"
-msgid "Mirditë"
-msgstr "Мирдита"
-
-# "AL-MT"
-msgid "Mat"
-msgstr "Мат"
-
-# "AL-PG"
-msgid "Pogradec"
-msgstr "Поградец"
-
-# "AL-PQ"
-msgid "Peqin"
-msgstr "Пекин"
-
-# "AL-PR"
-msgid "Përmet"
-msgstr "Пармат"
-
-# "AL-PU"
-msgid "Pukë"
-msgstr "Пука"
-
-# "AL-SK"
-msgid "Skrapar"
-msgstr "Скрапар"
-
-# "AL-SR"
-msgid "Sarandë"
-msgstr "Саранда"
-
-# "AL-TE"
-msgid "Tepelenë"
-msgstr "Тепелена"
-
-# "AL-TP"
-msgid "Tropojë"
-msgstr "Тропоја"
 
 # "AM-AG"
 msgid "Aragacotn"
@@ -570,7 +474,7 @@ msgstr "Кордова"
 msgid "Jujuy"
 msgstr "Џуџуј"
 
-# "AR-Z", "BO-S", "CV-CR"
+# "AR-Z", "BO-S"
 msgid "Santa Cruz"
 msgstr "Санта Круз"
 
@@ -674,10 +578,6 @@ msgstr "Астара"
 msgid "Bakı"
 msgstr "Баки"
 
-# "AZ-BAB"
-msgid "Babək"
-msgstr "Бабек"
-
 # "AZ-BAL"
 msgid "Balakən"
 msgstr "Балакан"
@@ -701,10 +601,6 @@ msgstr "Себрајил"
 # "AZ-CAL"
 msgid "Cəlilabab"
 msgstr "Селилабад"
-
-# "AZ-CUL"
-msgid "Culfa"
-msgstr "Кулфа"
 
 # "AZ-DAS"
 msgid "Daşkəsən"
@@ -750,10 +646,6 @@ msgstr "Исмајили"
 msgid "Kəlbəcər"
 msgstr "Келбесер"
 
-# "AZ-KAN"
-msgid "Kǝngǝrli"
-msgstr "Кенгерли"
-
 # "AZ-KUR"
 msgid "Kürdəmir"
 msgstr "Курдемир"
@@ -786,17 +678,13 @@ msgstr "Нафталан"
 msgid "Neftçala"
 msgstr "Нефчала"
 
-# "AZ-NV", "AZ-NX"
+# "AZ-NX"
 msgid "Naxçıvan"
 msgstr "Наксчиван"
 
 # "AZ-OGU"
 msgid "Oğuz"
 msgstr "Огуз"
-
-# "AZ-ORD"
-msgid "Ordubad"
-msgstr "Ордубад"
 
 # "AZ-QAB"
 msgid "Qəbələ"
@@ -834,21 +722,9 @@ msgstr "Шеки"
 msgid "Sabirabad"
 msgstr "Сабирабад"
 
-# "AZ-SAD"
-msgid "Sədərək"
-msgstr "Седерек"
-
-# "AZ-SAH"
-msgid "Şahbuz"
-msgstr "Шабуз"
-
 # "AZ-SAL"
 msgid "Salyan"
 msgstr "Салијан"
-
-# "AZ-SAR"
-msgid "Şərur"
-msgstr "Шерур"
 
 # "AZ-SAT"
 msgid "Saatlı"
@@ -938,46 +814,6 @@ msgstr "Закатала"
 msgid "Zərdab"
 msgstr "Зердаб"
 
-# "BA-01"
-msgid "Unsko-sanski kanton"
-msgstr "Унско-сански кантон"
-
-# "BA-02"
-msgid "Posavski kanton"
-msgstr "Посавски кантон"
-
-# "BA-03"
-msgid "Tuzlanski kanton"
-msgstr "Тузлански кантон"
-
-# "BA-04"
-msgid "Zeničko-dobojski kanton"
-msgstr "Зеничко-добојски кантон"
-
-# "BA-05"
-msgid "Bosansko-podrinjski kanton"
-msgstr "Босанско-подрињски кантон"
-
-# "BA-06"
-msgid "Srednjobosanski kanton"
-msgstr "Средњобосански кантон"
-
-# "BA-07"
-msgid "Hercegovačko-neretvanski kanton"
-msgstr "Херцеговачко-неретвански кантон"
-
-# "BA-08"
-msgid "Zapadnohercegovački kanton"
-msgstr "Западнохерцеговачки кантон"
-
-# "BA-09"
-msgid "Kanton Sarajevo"
-msgstr "Кантон Сарајева"
-
-# "BA-10"
-msgid "Kanton br. 10 (Livanjski kanton)"
-msgstr "Кантон бр. 10 (Ливањски кантон)"
-
 # "BA-BIH"
 msgid "Federacija Bosne i Hercegovine"
 msgstr "Федерација Босне и Херцеговине"
@@ -1018,313 +854,45 @@ msgstr "Свети Михајло"
 msgid "Saint Thomas"
 msgstr "Свети Тома"
 
-# "BD-01"
-msgid "Bandarban"
-msgstr "Бандарбан"
-
-# "BD-02"
-msgid "Barguna"
-msgstr "Баргуна"
-
-# "BD-03"
-msgid "Bogra"
-msgstr "Богра"
-
-# "BD-04"
-msgid "Brahmanbaria"
-msgstr "Браманбарја"
-
-# "BD-05"
-msgid "Bagerhat"
-msgstr "Багерат"
-
-# "BD-06", "BD-A"
+# "BD-A"
 msgid "Barisal"
 msgstr "Барисал"
 
-# "BD-07"
-msgid "Bhola"
-msgstr "Бола"
-
-# "BD-08"
-msgid "Comilla"
-msgstr "Комиља"
-
-# "BD-09"
-msgid "Chandpur"
-msgstr "Чандпур"
-
-# "BD-10", "BD-B"
+# "BD-B"
 msgid "Chittagong"
 msgstr "Читагонг"
 
-# "BD-11"
-msgid "Cox's Bazar"
-msgstr "Кокс Базар"
-
-# "BD-12"
-msgid "Chuadanga"
-msgstr "Чваданга"
-
-# "BD-13", "BD-C"
+# "BD-C"
 msgid "Dhaka"
 msgstr "Дака"
 
-# "BD-14"
-msgid "Dinajpur"
-msgstr "Динајпур"
-
-# "BD-15"
-msgid "Faridpur"
-msgstr "Фаридпур"
-
-# "BD-16"
-msgid "Feni"
-msgstr "Фени"
-
-# "BD-17"
-msgid "Gopalganj"
-msgstr "Гопалгањ"
-
-# "BD-18"
-msgid "Gazipur"
-msgstr "Газипур"
-
-# "BD-19"
-msgid "Gaibandha"
-msgstr "Гајбанда"
-
-# "BD-20"
-msgid "Habiganj"
-msgstr "Хабигањ"
-
-# "BD-21"
-msgid "Jamalpur"
-msgstr "Џамалпур"
-
-# "BD-22"
-msgid "Jessore"
-msgstr "Џесоре"
-
-# "BD-23"
-msgid "Jhenaidah"
-msgstr "Џенајда"
-
-# "BD-24"
-msgid "Jaipurhat"
-msgstr "Џајпурат"
-
-# "BD-25"
-msgid "Jhalakati"
-msgstr "Џалакати"
-
-# "BD-26"
-msgid "Kishorganj"
-msgstr "Кишоргањ"
-
-# "BD-27", "BD-D"
+# "BD-D"
 msgid "Khulna"
 msgstr "Кулна"
 
-# "BD-28"
-msgid "Kurigram"
-msgstr "Куриграм"
-
-# "BD-29"
-msgid "Khagrachari"
-msgstr "Карачи"
-
-# "BD-30"
-msgid "Kushtia"
-msgstr "Куштја"
-
-# "BD-31"
-msgid "Lakshmipur"
-msgstr "Лакшмипур"
-
-# "BD-32"
-msgid "Lalmonirhat"
-msgstr "Лалмонират"
-
-# "BD-33"
-msgid "Manikganj"
-msgstr "Маникгањ"
-
-# "BD-34"
-msgid "Mymensingh"
-msgstr "Мименсинг"
-
-# "BD-35"
-msgid "Munshiganj"
-msgstr "Муншигањ"
-
-# "BD-36"
-msgid "Madaripur"
-msgstr "Мадарипур"
-
-# "BD-37"
-msgid "Magura"
-msgstr "Магура"
-
-# "BD-38"
-msgid "Moulvibazar"
-msgstr "Мулвибазар"
-
-# "BD-39"
-msgid "Meherpur"
-msgstr "Мехерпур"
-
-# "BD-40"
-msgid "Narayanganj"
-msgstr "Нарајангањ"
-
-# "BD-41"
-msgid "Netrakona"
-msgstr "Нетракона"
-
-# "BD-42"
-msgid "Narsingdi"
-msgstr "Нарсинди"
-
-# "BD-43"
-msgid "Narail"
-msgstr "Нарај"
-
-# "BD-44"
-msgid "Natore"
-msgstr "Наторе"
-
-# "BD-45"
-msgid "Nawabganj"
-msgstr "Навабгањ"
-
-# "BD-46"
-msgid "Nilphamari"
-msgstr "Нилфамари"
-
-# "BD-47"
-msgid "Noakhali"
-msgstr "Ноакали"
-
-# "BD-48"
-msgid "Naogaon"
-msgstr "Наогаон"
-
-# "BD-49"
-msgid "Pabna"
-msgstr "Пабна"
-
-# "BD-50"
-msgid "Pirojpur"
-msgstr "Пироџпур"
-
-# "BD-51"
-msgid "Patuakhali"
-msgstr "Патуакали"
-
-# "BD-52"
-msgid "Panchagarh"
-msgstr "Панчагар"
-
-# "BD-53"
-msgid "Rajbari"
-msgstr "Раџбари"
-
-# "BD-54", "BD-E"
+# "BD-E"
 msgid "Rajshahi"
 msgstr "Раџшаи"
 
-# "BD-55", "BD-F"
+# "BD-F"
 msgid "Rangpur"
 msgstr "Рангпур"
 
-# "BD-56"
-msgid "Rangamati"
-msgstr "Рангамати"
-
-# "BD-57"
-msgid "Sherpur"
-msgstr "Серпур"
-
-# "BD-58"
-msgid "Satkhira"
-msgstr "Саткира"
-
-# "BD-59"
-msgid "Sirajganj"
-msgstr "Сирајгањ"
-
-# "BD-60", "BD-G"
+# "BD-G"
 msgid "Sylhet"
 msgstr "Силет"
-
-# "BD-61"
-msgid "Sunamganj"
-msgstr "Сунамгањ"
-
-# "BD-62"
-msgid "Shariatpur"
-msgstr "Шариатпур"
-
-# "BD-63"
-msgid "Tangail"
-msgstr "Тангаил"
-
-# "BD-64"
-msgid "Thakurgaon"
-msgstr "Такургаон"
 
 # "BE-BRU"
 msgid "Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest"
 msgstr "Област града Брисела"
 
-# "BE-VAN"
-msgid "Antwerpen"
-msgstr "Антверпен"
-
-# "BE-VBR"
-msgid "Vlaams-Brabant"
-msgstr "Вламс-Брабант"
-
 # "BE-VLG"
 msgid "Vlaams Gewest"
 msgstr "Фландријска област"
 
-# "BE-VLI", "NL-LI"
-msgid "Limburg"
-msgstr "Лимбург"
-
-# "BE-VOV"
-msgid "Oost-Vlaanderen"
-msgstr "Источна Фландрија"
-
-# "BE-VWV"
-msgid "West-Vlaanderen"
-msgstr "Западна Фландрија"
-
 # "BE-WAL"
 msgid "wallonne, Région"
 msgstr "Валонска област"
-
-# "BE-WBR"
-msgid "Brabant wallon"
-msgstr "Брабан валон"
-
-# "BE-WHT"
-msgid "Hainaut"
-msgstr "Хенот"
-
-# "BE-WLG"
-msgid "Liège"
-msgstr "Лиж"
-
-# "BE-WLX", "LU-L"
-msgid "Luxembourg"
-msgstr "Луксембург"
-
-# "BE-WNA"
-msgid "Namur"
-msgstr "Намур"
 
 # "BF-01"
 msgid "Boucle du Mouhoun"
@@ -1362,7 +930,7 @@ msgstr "Исток"
 msgid "Hauts-Bassins"
 msgstr "Горњи Басени"
 
-# "BF-10", "FR-59", "HT-ND", "RW-03"
+# "BF-10", "HT-ND", "RW-03"
 msgid "Nord"
 msgstr "Север"
 
@@ -1377,186 +945,6 @@ msgstr "Саел"
 # "BF-13"
 msgid "Sud-Ouest"
 msgstr "Југозапад"
-
-# "BF-BAL"
-msgid "Balé"
-msgstr "Бале"
-
-# "BF-BAM"
-msgid "Bam"
-msgstr "Бам"
-
-# "BF-BAN"
-msgid "Banwa"
-msgstr "Банва"
-
-# "BF-BAZ"
-msgid "Bazèga"
-msgstr "Базега"
-
-# "BF-BGR"
-msgid "Bougouriba"
-msgstr "Бугуриба"
-
-# "BF-BLG"
-msgid "Boulgou"
-msgstr "Булгу"
-
-# "BF-BLK"
-msgid "Boulkiemdé"
-msgstr "Булкјемде"
-
-# "BF-COM"
-msgid "Comoé"
-msgstr "Комое"
-
-# "BF-GAN"
-msgid "Ganzourgou"
-msgstr "Ганзургу"
-
-# "BF-GNA"
-msgid "Gnagna"
-msgstr "Њања"
-
-# "BF-GOU"
-msgid "Gourma"
-msgstr "Гурма"
-
-# "BF-HOU"
-msgid "Houet"
-msgstr "Уе"
-
-# "BF-IOB"
-msgid "Ioba"
-msgstr "Јоба"
-
-# "BF-KAD"
-msgid "Kadiogo"
-msgstr "Кадјого"
-
-# "BF-KEN"
-msgid "Kénédougou"
-msgstr "Кенедугу"
-
-# "BF-KMD"
-msgid "Komondjari"
-msgstr "Комондџари"
-
-# "BF-KMP"
-msgid "Kompienga"
-msgstr "Компјенга"
-
-# "BF-KOP"
-msgid "Koulpélogo"
-msgstr "Кулпелого"
-
-# "BF-KOS"
-msgid "Kossi"
-msgstr "Коси"
-
-# "BF-KOT"
-msgid "Kouritenga"
-msgstr "Куритенга"
-
-# "BF-KOW"
-msgid "Kourwéogo"
-msgstr "Курвеого"
-
-# "BF-LER"
-msgid "Léraba"
-msgstr "Лераба"
-
-# "BF-LOR"
-msgid "Loroum"
-msgstr "Лорум"
-
-# "BF-MOU"
-msgid "Mouhoun"
-msgstr "Муун"
-
-# "BF-NAM"
-msgid "Namentenga"
-msgstr "Наментенга"
-
-# "BF-NAO"
-msgid "Naouri"
-msgstr "Наури"
-
-# "BF-NAY"
-msgid "Nayala"
-msgstr "Најала"
-
-# "BF-NOU"
-msgid "Noumbiel"
-msgstr "Нумбјел"
-
-# "BF-OUB"
-msgid "Oubritenga"
-msgstr "Убритенга"
-
-# "BF-OUD"
-msgid "Oudalan"
-msgstr "Удалан"
-
-# "BF-PAS"
-msgid "Passoré"
-msgstr "Пасоре"
-
-# "BF-PON"
-msgid "Poni"
-msgstr "Пони"
-
-# "BF-SEN"
-msgid "Séno"
-msgstr "Сено"
-
-# "BF-SIS"
-msgid "Sissili"
-msgstr "Сисили"
-
-# "BF-SMT"
-msgid "Sanmatenga"
-msgstr "Санматенга"
-
-# "BF-SNG"
-msgid "Sanguié"
-msgstr "Сангје"
-
-# "BF-SOM"
-msgid "Soum"
-msgstr "Сум"
-
-# "BF-SOR"
-msgid "Sourou"
-msgstr "Суру"
-
-# "BF-TAP"
-msgid "Tapoa"
-msgstr "Тапоа"
-
-# "BF-TUI"
-msgid "Tui"
-msgstr "Туи"
-
-# "BF-YAG"
-msgid "Yagha"
-msgstr "Јага"
-
-# "BF-YAT"
-msgid "Yatenga"
-msgstr "Јатенга"
-
-# "BF-ZIR"
-msgid "Ziro"
-msgstr "Зиро"
-
-# "BF-ZON"
-msgid "Zondoma"
-msgstr "Зондома"
-
-# "BF-ZOU"
-msgid "Zoundwéogo"
-msgstr "Зундвеого"
 
 # "BG-01"
 msgid "Blagoevgrad"
@@ -1958,7 +1346,7 @@ msgstr "Рорајима"
 msgid "Rio Grande do Sul"
 msgstr "Рио Гранде до Сул"
 
-# "BR-SC", "CV-CA"
+# "BR-SC"
 msgid "Santa Catarina"
 msgstr "Санта Катарина"
 
@@ -2268,7 +1656,7 @@ msgstr "Оранж Вок"
 msgid "Stann Creek"
 msgstr "Стан Крик"
 
-# "BZ-TOL", "ES-TO"
+# "BZ-TOL"
 msgid "Toledo"
 msgstr "Толедо"
 
@@ -2516,7 +1904,7 @@ msgstr "Глорус"
 msgid "Graubünden"
 msgstr "Гројбинден"
 
-# "CH-JU", "FR-39"
+# "CH-JU"
 msgid "Jura"
 msgstr "Дјура"
 
@@ -2928,7 +2316,7 @@ msgstr "Цезар"
 msgid "Chocó"
 msgstr "Шоко"
 
-# "CO-COR", "ES-CO"
+# "CO-COR"
 msgid "Córdoba"
 msgstr "Кордоба"
 
@@ -3104,88 +2492,8 @@ msgstr "Острво Младости"
 msgid "Ilhas de Barlavento"
 msgstr ""
 
-# "CV-BR"
-msgid "Brava"
-msgstr "Брава"
-
-# "CV-BV"
-msgid "Boa Vista"
-msgstr "Боа Виста"
-
-# "CV-CF"
-msgid "Santa Catarina de Fogo"
-msgstr "Санта Катарина де Фого"
-
-# "CV-MA"
-msgid "Maio"
-msgstr "Мајо"
-
-# "CV-MO"
-msgid "Mosteiros"
-msgstr "Мостеирос"
-
-# "CV-PA"
-msgid "Paul"
-msgstr "Пол"
-
-# "CV-PN"
-msgid "Porto Novo"
-msgstr "Порто Ново"
-
-# "CV-PR"
-msgid "Praia"
-msgstr ""
-
-# "CV-RB"
-msgid "Ribeira Brava"
-msgstr ""
-
-# "CV-RG"
-msgid "Ribeira Grande"
-msgstr ""
-
-# "CV-RS"
-msgid "Ribeira Grande de Santiago"
-msgstr ""
-
 # "CV-S"
 msgid "Ilhas de Sotavento"
-msgstr ""
-
-# "CV-SD"
-msgid "São Domingos"
-msgstr "Санто Доминго"
-
-# "CV-SF"
-msgid "São Filipe"
-msgstr "Сао Филипе"
-
-# "CV-SL"
-msgid "Sal"
-msgstr "Сал"
-
-# "CV-SM"
-msgid "São Miguel"
-msgstr "Сао Мигел"
-
-# "CV-SO"
-msgid "São Lourenço dos Órgãos"
-msgstr ""
-
-# "CV-SS"
-msgid "São Salvador do Mundo"
-msgstr ""
-
-# "CV-SV"
-msgid "São Vicente"
-msgstr "Сао Висенте"
-
-# "CV-TA"
-msgid "Tarrafal"
-msgstr "Тарафал"
-
-# "CV-TS"
-msgid "Tarrafal de São Nicolau"
 msgstr ""
 
 # "CY-01"
@@ -3216,449 +2524,57 @@ msgstr "Керинеја"
 msgid "Praha, Hlavní mešto"
 msgstr "Праг, главно место"
 
-# "CZ-101"
-msgid "Praha 1"
-msgstr "Праг 1"
-
-# "CZ-102"
-msgid "Praha 2"
-msgstr "Праг 2"
-
-# "CZ-103"
-msgid "Praha 3"
-msgstr "Праг 3"
-
-# "CZ-104"
-msgid "Praha 4"
-msgstr "Праг 4"
-
-# "CZ-105"
-msgid "Praha 5"
-msgstr "Праг 5"
-
-# "CZ-106"
-msgid "Praha 6"
-msgstr "Праг 6"
-
-# "CZ-107"
-msgid "Praha 7"
-msgstr "Праг 7"
-
-# "CZ-108"
-msgid "Praha 8"
-msgstr "Праг 8"
-
-# "CZ-109"
-msgid "Praha 9"
-msgstr "Праг 9"
-
-# "CZ-110"
-msgid "Praha 10"
-msgstr "Праг 10"
-
-# "CZ-111"
-msgid "Praha 11"
-msgstr "Праг 11"
-
-# "CZ-112"
-msgid "Praha 12"
-msgstr "Праг 12"
-
-# "CZ-113"
-msgid "Praha 13"
-msgstr "Праг 13"
-
-# "CZ-114"
-msgid "Praha 14"
-msgstr "Праг 14"
-
-# "CZ-115"
-msgid "Praha 15"
-msgstr "Праг 15"
-
-# "CZ-116"
-msgid "Praha 16"
-msgstr "Праг 1"
-
-# "CZ-117"
-msgid "Praha 17"
-msgstr "Праг 1"
-
-# "CZ-118"
-msgid "Praha 18"
-msgstr "Праг 1"
-
-# "CZ-119"
-msgid "Praha 19"
-msgstr "Праг 1"
-
-# "CZ-120"
-msgid "Praha 20"
-msgstr "Праг 2"
-
-# "CZ-121"
-msgid "Praha 21"
-msgstr "Праг 2"
-
-# "CZ-122"
-msgid "Praha 22"
-msgstr "Праг 2"
-
 # "CZ-20"
 msgid "Středočeský kraj"
 msgstr ""
-
-# "CZ-201"
-msgid "Benešov"
-msgstr "Бенешов"
-
-# "CZ-202"
-msgid "Beroun"
-msgstr "Бероун"
-
-# "CZ-203"
-msgid "Kladno"
-msgstr "Кладно"
-
-# "CZ-204"
-msgid "Kolín"
-msgstr "Колин"
-
-# "CZ-205"
-msgid "Kutná Hora"
-msgstr "Кутна Хора"
-
-# "CZ-206"
-msgid "Mělník"
-msgstr "Мелник"
-
-# "CZ-207"
-msgid "Mladá Boleslav"
-msgstr "Млада Болеслав"
-
-# "CZ-208"
-msgid "Nymburk"
-msgstr ""
-
-# "CZ-209"
-msgid "Praha-východ"
-msgstr "Праг, исток"
-
-# "CZ-20A"
-msgid "Praha-západ"
-msgstr "Праг, запад"
-
-# "CZ-20B"
-msgid "Příbram"
-msgstr ""
-
-# "CZ-20C"
-msgid "Rakovník"
-msgstr "Раковник"
 
 # "CZ-31"
 msgid "Jihočeský kraj"
 msgstr ""
 
-# "CZ-311"
-msgid "České Budějovice"
-msgstr ""
-
-# "CZ-312"
-msgid "Český Krumlov"
-msgstr "Чешки Крумлов"
-
-# "CZ-313"
-msgid "Jindřichův Hradec"
-msgstr "Јиндуричев Храдец"
-
-# "CZ-314"
-msgid "Písek"
-msgstr "Пишек"
-
-# "CZ-315"
-msgid "Prachatice"
-msgstr ""
-
-# "CZ-316"
-msgid "Strakonice"
-msgstr ""
-
-# "CZ-317"
-msgid "Tábor"
-msgstr "Табор"
-
 # "CZ-32"
 msgid "Plzeňský kraj"
-msgstr ""
-
-# "CZ-321"
-msgid "Domažlice"
-msgstr "Домажлице"
-
-# "CZ-322"
-msgid "Klatovy"
-msgstr "Клатови"
-
-# "CZ-323"
-msgid "Plzeň-město"
-msgstr ""
-
-# "CZ-324"
-msgid "Plzeň-jih"
-msgstr ""
-
-# "CZ-325"
-msgid "Plzeň-sever"
-msgstr ""
-
-# "CZ-326"
-msgid "Rokycany"
-msgstr ""
-
-# "CZ-327"
-msgid "Tachov"
 msgstr ""
 
 # "CZ-41"
 msgid "Karlovarský kraj"
 msgstr "Карловарски крај"
 
-# "CZ-411"
-msgid "Cheb"
-msgstr "Чеб"
-
-# "CZ-412"
-msgid "Karlovy Vary"
-msgstr "Карлови Вари"
-
-# "CZ-413"
-msgid "Sokolov"
-msgstr "Соколов"
-
 # "CZ-42"
 msgid "Ústecký kraj"
 msgstr "Устечки крај"
-
-# "CZ-421"
-msgid "Děčín"
-msgstr "Дечин"
-
-# "CZ-422"
-msgid "Chomutov"
-msgstr "Чомутов"
-
-# "CZ-423"
-msgid "Litoměřice"
-msgstr "Литомерице"
-
-# "CZ-424"
-msgid "Louny"
-msgstr "Луни"
-
-# "CZ-425"
-msgid "Most"
-msgstr "Мост"
-
-# "CZ-426"
-msgid "Teplice"
-msgstr ""
-
-# "CZ-427"
-msgid "Ústí nad Labem"
-msgstr ""
 
 # "CZ-51"
 msgid "Liberecký kraj"
 msgstr "Либеречки крај"
 
-# "CZ-511"
-msgid "Česká Lípa"
-msgstr "Чешка Липа"
-
-# "CZ-512"
-msgid "Jablonec nad Nisou"
-msgstr "Јаблонец на Нисоу"
-
-# "CZ-513"
-msgid "Liberec"
-msgstr "Либерек"
-
-# "CZ-514"
-msgid "Semily"
-msgstr "Семили"
-
 # "CZ-52"
 msgid "Královéhradecký kraj"
 msgstr ""
-
-# "CZ-521"
-msgid "Hradec Králové"
-msgstr "Храдец Кралове"
-
-# "CZ-522"
-msgid "Jičín"
-msgstr "Јичин"
-
-# "CZ-523"
-msgid "Náchod"
-msgstr "Наход"
-
-# "CZ-524"
-msgid "Rychnov nad Kněžnou"
-msgstr ""
-
-# "CZ-525"
-msgid "Trutnov"
-msgstr "Трутнов"
 
 # "CZ-53"
 msgid "Pardubický kraj"
 msgstr "Пардубички крај"
 
-# "CZ-531"
-msgid "Chrudim"
-msgstr "Крудим"
-
-# "CZ-532"
-msgid "Pardubice"
-msgstr "Пардубице"
-
-# "CZ-533"
-msgid "Svitavy"
-msgstr ""
-
-# "CZ-534"
-msgid "Ústí nad Orlicí"
-msgstr ""
-
 # "CZ-63"
 msgid "Kraj Vysočina"
 msgstr "Височина"
-
-# "CZ-631"
-msgid "Havlíčkův Brod"
-msgstr "Хавличков Брод"
-
-# "CZ-632"
-msgid "Jihlava"
-msgstr "Јихлава"
-
-# "CZ-633"
-msgid "Pelhřimov"
-msgstr "Пелхримов"
-
-# "CZ-634"
-msgid "Třebíč"
-msgstr "Требич"
-
-# "CZ-635"
-msgid "Žďár nad Sázavou"
-msgstr ""
 
 # "CZ-64"
 msgid "Jihomoravský kraj"
 msgstr ""
 
-# "CZ-641"
-msgid "Blansko"
-msgstr "Бланско"
-
-# "CZ-642"
-msgid "Brno-město"
-msgstr "Брно-место"
-
-# "CZ-643"
-msgid "Brno-venkov"
-msgstr ""
-
-# "CZ-644"
-msgid "Břeclav"
-msgstr "Брецлав"
-
-# "CZ-645"
-msgid "Hodonín"
-msgstr "Ходонин"
-
-# "CZ-646"
-msgid "Vyškov"
-msgstr "Вишков"
-
-# "CZ-647"
-msgid "Znojmo"
-msgstr "Знојмо"
-
 # "CZ-71"
 msgid "Olomoucký kraj"
 msgstr "Оломучки крај"
-
-# "CZ-711"
-msgid "Jeseník"
-msgstr "Јесеник"
-
-# "CZ-712"
-msgid "Olomouc"
-msgstr "Оломук"
-
-# "CZ-713"
-msgid "Prostějov"
-msgstr ""
-
-# "CZ-714"
-msgid "Přerov"
-msgstr "Преров"
-
-# "CZ-715"
-msgid "Šumperk"
-msgstr "Шумперк"
 
 # "CZ-72"
 msgid "Zlínský kraj"
 msgstr ""
 
-# "CZ-721"
-msgid "Kroměříž"
-msgstr "Кромериж"
-
-# "CZ-722"
-msgid "Uherské Hradiště"
-msgstr ""
-
-# "CZ-723"
-msgid "Vsetín"
-msgstr ""
-
-# "CZ-724"
-msgid "Zlín"
-msgstr "Злин"
-
 # "CZ-80"
 msgid "Moravskoslezský kraj"
 msgstr ""
-
-# "CZ-801"
-msgid "Bruntál"
-msgstr "Брунтал"
-
-# "CZ-802"
-msgid "Frýdek Místek"
-msgstr "Фридек Мистек"
-
-# "CZ-803"
-msgid "Karviná"
-msgstr "Карвина"
-
-# "CZ-804"
-msgid "Nový Jičín"
-msgstr "Нови Јичин"
-
-# "CZ-805"
-msgid "Opava"
-msgstr "Опава"
-
-# "CZ-806"
-msgid "Ostrava-město"
-msgstr "Острава место"
 
 # "DE-BB"
 msgid "Brandenburg"
@@ -3724,7 +2640,7 @@ msgstr "Саксонија-Анхалт"
 msgid "Thüringen"
 msgstr ""
 
-# "DJ-AR", "GR-31"
+# "DJ-AR"
 msgid "Arta"
 msgstr "Арта"
 
@@ -4376,18 +3292,6 @@ msgstr "Ал Авсат"
 msgid "Shimālī al Baḩrī al Aḩmar"
 msgstr ""
 
-# "ES-A"
-msgid "Alicante"
-msgstr "Аликанте"
-
-# "ES-AB"
-msgid "Albacete"
-msgstr "Албасете"
-
-# "ES-AL"
-msgid "Almería"
-msgstr "Алмерија"
-
 # "ES-AN"
 msgid "Andalucía"
 msgstr "Андалузија"
@@ -4400,41 +3304,9 @@ msgstr "Арагон"
 msgid "Asturias, Principado de"
 msgstr "Астурија, Принципат"
 
-# "ES-AV"
-msgid "Ávila"
-msgstr ""
-
-# "ES-B"
-msgid "Barcelona"
-msgstr "Барселона"
-
-# "ES-BA"
-msgid "Badajoz"
-msgstr "Бадахоз"
-
-# "ES-BI"
-msgid "Bizkaia"
-msgstr ""
-
-# "ES-BU"
-msgid "Burgos"
-msgstr "Бургос"
-
-# "ES-C"
-msgid "A Coruña"
-msgstr "Коруња"
-
-# "ES-CA"
-msgid "Cádiz"
-msgstr "Кадиз"
-
-# "ES-CB", "ES-S"
+# "ES-CB"
 msgid "Cantabria"
 msgstr "Кантабриа"
-
-# "ES-CC"
-msgid "Cáceres"
-msgstr ""
 
 # "ES-CE"
 msgid "Ceuta"
@@ -4452,21 +3324,9 @@ msgstr "Кастиља-Ла Манка"
 msgid "Canarias"
 msgstr "Канари"
 
-# "ES-CR"
-msgid "Ciudad Real"
-msgstr "Сиудад Реал"
-
-# "ES-CS"
-msgid "Castellón"
-msgstr "Кастељон"
-
 # "ES-CT"
 msgid "Catalunya"
 msgstr "Каталонија"
-
-# "ES-CU"
-msgid "Cuenca"
-msgstr "Квенка"
 
 # "ES-EX"
 msgid "Extremadura"
@@ -4476,61 +3336,9 @@ msgstr "Екстремадура"
 msgid "Galicia"
 msgstr "Галиција"
 
-# "ES-GC"
-msgid "Las Palmas"
-msgstr "Лас Палмас"
-
-# "ES-GI"
-msgid "Girona"
-msgstr "Герона"
-
-# "ES-GR", "NI-GR"
-msgid "Granada"
-msgstr "Гренада"
-
-# "ES-GU"
-msgid "Guadalajara"
-msgstr "Гвадалахара"
-
-# "ES-H"
-msgid "Huelva"
-msgstr "Хуелва"
-
-# "ES-HU"
-msgid "Huesca"
-msgstr "Хуеска"
-
 # "ES-IB"
 msgid "Illes Balears"
 msgstr "Балнеарска острва"
-
-# "ES-J"
-msgid "Jaén"
-msgstr "Хаен"
-
-# "ES-L"
-msgid "Lleida"
-msgstr "Љејда"
-
-# "ES-LE", "NI-LE"
-msgid "León"
-msgstr "Леон"
-
-# "ES-LO", "ES-RI"
-msgid "La Rioja"
-msgstr "Ла Риоха"
-
-# "ES-LU"
-msgid "Lugo"
-msgstr "Луго"
-
-# "ES-M"
-msgid "Madrid"
-msgstr "Мадрид"
-
-# "ES-MA"
-msgid "Málaga"
-msgstr "Малага"
 
 # "ES-MC"
 msgid "Murcia, Región de"
@@ -4544,97 +3352,21 @@ msgstr ""
 msgid "Melilla"
 msgstr "Мелила"
 
-# "ES-MU"
-msgid "Murcia"
-msgstr "Мурсија"
-
-# "ES-NA"
-msgid "Navarra / Nafarroa"
-msgstr ""
-
 # "ES-NC"
 msgid "Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea"
 msgstr ""
-
-# "ES-O"
-msgid "Asturias"
-msgstr "Астурија"
-
-# "ES-OR"
-msgid "Ourense"
-msgstr "Оренсе"
-
-# "ES-P"
-msgid "Palencia"
-msgstr "Паленсија"
-
-# "ES-PM"
-msgid "Balears"
-msgstr "Балеари"
-
-# "ES-PO"
-msgid "Pontevedra"
-msgstr "Понтеведра"
 
 # "ES-PV"
 msgid "País Vasco / Euskal Herria"
 msgstr ""
 
-# "ES-SA"
-msgid "Salamanca"
-msgstr "Саламанка"
-
-# "ES-SE"
-msgid "Sevilla"
-msgstr "Севиља"
-
-# "ES-SG"
-msgid "Segovia"
-msgstr "Сеговија"
-
-# "ES-SO"
-msgid "Soria"
-msgstr "Сорија"
-
-# "ES-SS"
-msgid "Gipuzkoa"
-msgstr ""
-
-# "ES-T"
-msgid "Tarragona"
-msgstr "Тарагона"
-
-# "ES-TE"
-msgid "Teruel"
-msgstr ""
-
-# "ES-TF"
-msgid "Santa Cruz de Tenerife"
-msgstr "Санта Круз де Тенерифе"
-
-# "ES-V"
-msgid "Valencia / València"
-msgstr "Валенсија"
-
-# "ES-VA"
-msgid "Valladolid"
-msgstr "Ваљадолид"
+# "ES-RI"
+msgid "La Rioja"
+msgstr "Ла Риоха"
 
 # "ES-VC"
 msgid "Valenciana, Comunidad / Valenciana, Comunitat"
 msgstr ""
-
-# "ES-VI"
-msgid "Álava"
-msgstr "Алава"
-
-# "ES-Z"
-msgid "Zaragoza"
-msgstr "Сарагоса"
-
-# "ES-ZA"
-msgid "Zamora"
-msgstr "Замора"
 
 # "ET-AA"
 msgid "Ādīs Ābeba"
@@ -4788,382 +3520,6 @@ msgstr "Чуук"
 msgid "Yap"
 msgstr "Јап"
 
-# "FR-01"
-msgid "Ain"
-msgstr "Ајн"
-
-# "FR-02"
-msgid "Aisne"
-msgstr "Аисн"
-
-# "FR-03"
-msgid "Allier"
-msgstr "Алјер"
-
-# "FR-04"
-msgid "Alpes-de-Haute-Provence"
-msgstr ""
-
-# "FR-05"
-msgid "Hautes-Alpes"
-msgstr "Горњи Алпи"
-
-# "FR-06"
-msgid "Alpes-Maritimes"
-msgstr "Приморски Алпи"
-
-# "FR-07"
-msgid "Ardèche"
-msgstr "Ардеш"
-
-# "FR-08"
-msgid "Ardennes"
-msgstr "Арден"
-
-# "FR-09"
-msgid "Ariège"
-msgstr "Арјеж"
-
-# "FR-10"
-msgid "Aube"
-msgstr "Аубе"
-
-# "FR-11"
-msgid "Aude"
-msgstr "Ауде"
-
-# "FR-12"
-msgid "Aveyron"
-msgstr "Авејрон"
-
-# "FR-13"
-msgid "Bouches-du-Rhône"
-msgstr "Буш-ди-Рон"
-
-# "FR-14"
-msgid "Calvados"
-msgstr "Калвадо"
-
-# "FR-15"
-msgid "Cantal"
-msgstr "Кантал"
-
-# "FR-16"
-msgid "Charente"
-msgstr "Шарант"
-
-# "FR-17"
-msgid "Charente-Maritime"
-msgstr "Приморски Шарант"
-
-# "FR-18"
-msgid "Cher"
-msgstr "Шер"
-
-# "FR-19"
-msgid "Corrèze"
-msgstr "Кореце"
-
-# "FR-21"
-msgid "Côte-d'Or"
-msgstr "Кот-д'Ор"
-
-# "FR-22"
-msgid "Côtes-d'Armor"
-msgstr "Кот-д'Армор"
-
-# "FR-23"
-msgid "Creuse"
-msgstr "Крез"
-
-# "FR-24"
-msgid "Dordogne"
-msgstr "Дордоњ"
-
-# "FR-25"
-msgid "Doubs"
-msgstr "Дубс"
-
-# "FR-26"
-msgid "Drôme"
-msgstr "Дром"
-
-# "FR-27"
-msgid "Eure"
-msgstr "Ер"
-
-# "FR-28"
-msgid "Eure-et-Loir"
-msgstr "Ер-е-Луар"
-
-# "FR-29"
-msgid "Finistère"
-msgstr "Финистер"
-
-# "FR-2A"
-msgid "Corse-du-Sud"
-msgstr "Јужна Корзика"
-
-# "FR-2B"
-msgid "Haute-Corse"
-msgstr "Горња Корзика"
-
-# "FR-30"
-msgid "Gard"
-msgstr "Гард"
-
-# "FR-31"
-msgid "Haute-Garonne"
-msgstr "Горња Гарона"
-
-# "FR-32"
-msgid "Gers"
-msgstr "Жер"
-
-# "FR-33"
-msgid "Gironde"
-msgstr "Жирон"
-
-# "FR-34"
-msgid "Hérault"
-msgstr "Херот"
-
-# "FR-35"
-msgid "Ille-et-Vilaine"
-msgstr "Ил-е-Вилен"
-
-# "FR-36"
-msgid "Indre"
-msgstr "Андр"
-
-# "FR-37"
-msgid "Indre-et-Loire"
-msgstr "Андр и Лоара"
-
-# "FR-38"
-msgid "Isère"
-msgstr "Изер"
-
-# "FR-40"
-msgid "Landes"
-msgstr "Ланд"
-
-# "FR-41"
-msgid "Loir-et-Cher"
-msgstr "Луар-е-шер"
-
-# "FR-42"
-msgid "Loire"
-msgstr "Луара"
-
-# "FR-43"
-msgid "Haute-Loire"
-msgstr "Горња Луара"
-
-# "FR-44"
-msgid "Loire-Atlantique"
-msgstr "Атлантичка Луара"
-
-# "FR-45"
-msgid "Loiret"
-msgstr "Луар"
-
-# "FR-46"
-msgid "Lot"
-msgstr "Лот"
-
-# "FR-47"
-msgid "Lot-et-Garonne"
-msgstr "Лот-е-Гарон"
-
-# "FR-48"
-msgid "Lozère"
-msgstr "Лозер"
-
-# "FR-49"
-msgid "Maine-et-Loire"
-msgstr "Мен-е-Луар"
-
-# "FR-50"
-msgid "Manche"
-msgstr "Манш"
-
-# "FR-51"
-msgid "Marne"
-msgstr "Марн"
-
-# "FR-52"
-msgid "Haute-Marne"
-msgstr "Горња Марна"
-
-# "FR-53"
-msgid "Mayenne"
-msgstr "Мајен"
-
-# "FR-54"
-msgid "Meurthe-et-Moselle"
-msgstr "Мерт-е-Мозел"
-
-# "FR-55"
-msgid "Meuse"
-msgstr "Мез"
-
-# "FR-56"
-msgid "Morbihan"
-msgstr "Морбиан"
-
-# "FR-57"
-msgid "Moselle"
-msgstr "Мозел"
-
-# "FR-58"
-msgid "Nièvre"
-msgstr "Нјевр"
-
-# "FR-60"
-msgid "Oise"
-msgstr "Уаз"
-
-# "FR-61"
-msgid "Orne"
-msgstr "Орне"
-
-# "FR-62"
-msgid "Pas-de-Calais"
-msgstr "Па-д-Кале"
-
-# "FR-63"
-msgid "Puy-de-Dôme"
-msgstr "Пиј-д-Дом"
-
-# "FR-64"
-msgid "Pyrénées-Atlantiques"
-msgstr "Атлантски Пиринеји"
-
-# "FR-65"
-msgid "Hautes-Pyrénées"
-msgstr "Горњи Пиринеји"
-
-# "FR-66"
-msgid "Pyrénées-Orientales"
-msgstr "Источни Пиринеји"
-
-# "FR-67"
-msgid "Bas-Rhin"
-msgstr "Доњи Рин"
-
-# "FR-68"
-msgid "Haut-Rhin"
-msgstr "Горња Рајна"
-
-# "FR-69"
-msgid "Rhône"
-msgstr "Рон"
-
-# "FR-70"
-msgid "Haute-Saône"
-msgstr "Горња Савона"
-
-# "FR-71"
-msgid "Saône-et-Loire"
-msgstr "Саон-е-Луар"
-
-# "FR-72"
-msgid "Sarthe"
-msgstr "Сарте"
-
-# "FR-73"
-msgid "Savoie"
-msgstr "Савоја"
-
-# "FR-74"
-msgid "Haute-Savoie"
-msgstr "Горња Савоја"
-
-# "FR-75"
-msgid "Paris"
-msgstr "Париз"
-
-# "FR-76"
-msgid "Seine-Maritime"
-msgstr ""
-
-# "FR-77"
-msgid "Seine-et-Marne"
-msgstr "Сена и Марна"
-
-# "FR-78"
-msgid "Yvelines"
-msgstr "Ивелин"
-
-# "FR-79"
-msgid "Deux-Sèvres"
-msgstr "Два-Севра"
-
-# "FR-80"
-msgid "Somme"
-msgstr "Соме"
-
-# "FR-81"
-msgid "Tarn"
-msgstr "Тарн"
-
-# "FR-82"
-msgid "Tarn-et-Garonne"
-msgstr ""
-
-# "FR-83"
-msgid "Var"
-msgstr "Вар"
-
-# "FR-84"
-msgid "Vaucluse"
-msgstr "Воклиз"
-
-# "FR-85"
-msgid "Vendée"
-msgstr "Ванде"
-
-# "FR-86"
-msgid "Vienne"
-msgstr "Вјен"
-
-# "FR-87"
-msgid "Haute-Vienne"
-msgstr "Горња Вјена"
-
-# "FR-88"
-msgid "Vosges"
-msgstr "Восг"
-
-# "FR-89"
-msgid "Yonne"
-msgstr "Јоне"
-
-# "FR-90"
-msgid "Territoire de Belfort"
-msgstr "Белфортска територија"
-
-# "FR-91"
-msgid "Essonne"
-msgstr "Есон"
-
-# "FR-92"
-msgid "Hauts-de-Seine"
-msgstr "Горња Сена"
-
-# "FR-93"
-msgid "Seine-Saint-Denis"
-msgstr ""
-
-# "FR-94"
-msgid "Val-de-Marne"
-msgstr "Вал-д-Марн"
-
-# "FR-95"
-msgid "Val-d'Oise"
-msgstr "Вал д'Уаз"
-
 # "FR-ARA"
 msgid "Auvergne-Rhône-Alpes"
 msgstr ""
@@ -5200,7 +3556,7 @@ msgstr "Североисток"
 msgid "Guyane (française)"
 msgstr "Француска Полинезија"
 
-# "FR-GP", "FR-GUA"
+# "FR-GUA"
 msgid "Guadeloupe"
 msgstr "Гвадалуп"
 
@@ -5212,11 +3568,11 @@ msgstr "Горња Сена"
 msgid "Île-de-France"
 msgstr "Ил де Франс"
 
-# "FR-LRE", "FR-RE"
+# "FR-LRE"
 msgid "La Réunion"
 msgstr "Реунион"
 
-# "FR-MAY", "FR-YT"
+# "FR-MAY"
 msgid "Mayotte"
 msgstr "Мајот"
 
@@ -5304,901 +3660,33 @@ msgstr ""
 msgid "Woleu-Ntem"
 msgstr ""
 
-# "GB-ABC"
-msgid "Armagh, Banbridge and Craigavon"
-msgstr ""
-
-# "GB-ABD"
-msgid "Aberdeenshire"
-msgstr "Абердиншајр"
-
-# "GB-ABE"
-msgid "Aberdeen City"
-msgstr "Абердин"
-
-# "GB-AGB"
-msgid "Argyll and Bute"
-msgstr "Арџил и Бјут"
-
-# "GB-AGY"
-msgid "Isle of Anglesey; Sir Ynys Môn"
-msgstr ""
-
-# "GB-AND"
-msgid "Ards and North Down"
-msgstr ""
-
-# "GB-ANN"
-msgid "Antrim and Newtownabbey"
-msgstr "Њутаунбеј"
-
-# "GB-ANS"
-msgid "Angus"
-msgstr "Ангус"
-
-# "GB-BAS"
-msgid "Bath and North East Somerset"
-msgstr "Бат и североисточни Сомерсет"
-
-# "GB-BBD"
-msgid "Blackburn with Darwen"
-msgstr "Блекбурн са Дарвеном"
-
-# "GB-BDF"
-msgid "Bedford"
-msgstr "Бедфорд"
-
-# "GB-BDG"
-msgid "Barking and Dagenham"
-msgstr "Беркин и Дагенам"
-
-# "GB-BEN"
-msgid "Brent"
-msgstr "Брент"
-
-# "GB-BEX"
-msgid "Bexley"
-msgstr "Бекслеј"
-
-# "GB-BFS"
-msgid "Belfast"
-msgstr "Белфаст"
-
-# "GB-BGE"
-msgid "Bridgend; Pen-y-bont ar Ogwr"
-msgstr "Бриџенд;Пен-и-бон ар Огур"
-
-# "GB-BGW"
-msgid "Blaenau Gwent"
-msgstr "Бланогван"
-
-# "GB-BIR"
-msgid "Birmingham"
-msgstr "Бирмингем"
-
-# "GB-BKM"
-msgid "Buckinghamshire"
-msgstr "Бакингемшајр"
-
-# "GB-BMH"
-msgid "Bournemouth"
-msgstr "Борнмаут"
-
-# "GB-BNE"
-msgid "Barnet"
-msgstr "Барнет"
-
-# "GB-BNH"
-msgid "Brighton and Hove"
-msgstr "Брајтон и Хув"
-
-# "GB-BNS"
-msgid "Barnsley"
-msgstr "Барнсли"
-
-# "GB-BOL"
-msgid "Bolton"
-msgstr "Болтон"
-
-# "GB-BPL"
-msgid "Blackpool"
-msgstr "Блекпул"
-
-# "GB-BRC"
-msgid "Bracknell Forest"
-msgstr "Брекнел Форест"
-
-# "GB-BRD"
-msgid "Bradford"
-msgstr "Бредфорд"
-
-# "GB-BRY"
-msgid "Bromley"
-msgstr "Бромли"
-
-# "GB-BST"
-msgid "Bristol, City of"
-msgstr "Бристол, Град"
-
-# "GB-BUR"
-msgid "Bury"
-msgstr "Бури"
-
-# "GB-CAM"
-msgid "Cambridgeshire"
-msgstr "Кембриџшајр"
-
-# "GB-CAY"
-msgid "Caerphilly; Caerffili"
-msgstr "Кирфил"
-
-# "GB-CBF"
-msgid "Central Bedfordshire"
-msgstr "Централни Бедфордшајр"
-
-# "GB-CCG"
-msgid "Causeway Coast and Glens"
-msgstr ""
-
-# "GB-CGN"
-msgid "Ceredigion; Sir Ceredigion"
-msgstr ""
-
-# "GB-CHE"
-msgid "Cheshire East"
-msgstr "Источни Чешајр"
-
-# "GB-CHW"
-msgid "Cheshire West and Chester"
-msgstr "Западни Чешајр и Честер"
-
-# "GB-CLD"
-msgid "Calderdale"
-msgstr "Калдердејл"
-
-# "GB-CLK"
-msgid "Clackmannanshire"
-msgstr "Клекменаншајр"
-
-# "GB-CMA"
-msgid "Cumbria"
-msgstr "Камбриа"
-
-# "GB-CMD"
-msgid "Camden"
-msgstr "Камден"
-
-# "GB-CMN"
-msgid "Carmarthenshire; Sir Gaerfyrddin"
-msgstr "Кармартеншајр"
-
-# "GB-CON"
-msgid "Cornwall"
-msgstr "Корнвол"
-
-# "GB-COV"
-msgid "Coventry"
-msgstr "Ковентри"
-
-# "GB-CRF"
-msgid "Cardiff; Caerdydd"
-msgstr "Кардиф"
-
-# "GB-CRY"
-msgid "Croydon"
-msgstr "Кројдон"
-
-# "GB-CWY"
-msgid "Conwy"
-msgstr "Конви"
-
-# "GB-DAL"
-msgid "Darlington"
-msgstr "Дарлинтон"
-
-# "GB-DBY"
-msgid "Derbyshire"
-msgstr "Дербишајр"
-
-# "GB-DEN"
-msgid "Denbighshire; Sir Ddinbych"
-msgstr "Данбигшајр"
-
-# "GB-DER"
-msgid "Derby"
-msgstr "Дерби"
-
-# "GB-DEV"
-msgid "Devon"
-msgstr "Девон"
-
-# "GB-DGY"
-msgid "Dumfries and Galloway"
-msgstr "Дамфриз и Геловеј"
-
-# "GB-DNC"
-msgid "Doncaster"
-msgstr "Донкастер"
-
-# "GB-DND"
-msgid "Dundee City"
-msgstr "Данди Сити"
-
-# "GB-DOR"
-msgid "Dorset"
-msgstr "Дорсет"
-
-# "GB-DRS"
-msgid "Derry and Strabane"
-msgstr "Њури и Мурн"
-
-# "GB-DUD"
-msgid "Dudley"
-msgstr "Дадли"
-
-# "GB-DUR"
-msgid "Durham County"
-msgstr ""
-
-# "GB-EAL"
-msgid "Ealing"
-msgstr "Илинг"
-
 # "GB-EAW"
 msgid "England and Wales"
 msgstr "Енглеска и Велс"
-
-# "GB-EAY"
-msgid "East Ayrshire"
-msgstr "Источни Ејршајр"
-
-# "GB-EDH"
-msgid "Edinburgh, City of"
-msgstr "Единбург, Град"
-
-# "GB-EDU"
-msgid "East Dunbartonshire"
-msgstr "Источни Данбартоншајр"
-
-# "GB-ELN"
-msgid "East Lothian"
-msgstr "Источни Лотјан"
-
-# "GB-ELS"
-msgid "Eilean Siar"
-msgstr "Ајлин Сјар"
-
-# "GB-ENF"
-msgid "Enfield"
-msgstr "Енфилд"
 
 # "GB-ENG"
 msgid "England"
 msgstr "Енглеска"
 
-# "GB-ERW"
-msgid "East Renfrewshire"
-msgstr "Источни Ренфревшајр"
-
-# "GB-ERY"
-msgid "East Riding of Yorkshire"
-msgstr "Источни Рајдинг ов Јоркшајр"
-
-# "GB-ESS"
-msgid "Essex"
-msgstr "Есекс"
-
-# "GB-ESX"
-msgid "East Sussex"
-msgstr "Источни Сасекс"
-
-# "GB-FAL"
-msgid "Falkirk"
-msgstr "Фелкирк"
-
-# "GB-FIF"
-msgid "Fife"
-msgstr "Фајф"
-
-# "GB-FLN"
-msgid "Flintshire; Sir y Fflint"
-msgstr "Флинтшајр"
-
-# "GB-FMO"
-msgid "Fermanagh and Omagh"
-msgstr "Ферманаг"
-
-# "GB-GAT"
-msgid "Gateshead"
-msgstr "Гејтшид"
-
 # "GB-GBN"
 msgid "Great Britain"
 msgstr "Велика Британија"
-
-# "GB-GLG"
-msgid "Glasgow City"
-msgstr "Глазгов"
-
-# "GB-GLS"
-msgid "Gloucestershire"
-msgstr "Глаучестершајр"
-
-# "GB-GRE"
-msgid "Greenwich"
-msgstr "Гринвич"
-
-# "GB-GWN"
-msgid "Gwynedd"
-msgstr ""
-
-# "GB-HAL"
-msgid "Halton"
-msgstr "Халтон"
-
-# "GB-HAM"
-msgid "Hampshire"
-msgstr "Хемпшир"
-
-# "GB-HAV"
-msgid "Havering"
-msgstr "Хејверинг"
-
-# "GB-HCK"
-msgid "Hackney"
-msgstr "Хејкни"
-
-# "GB-HEF"
-msgid "Herefordshire"
-msgstr "Херефордшајр"
-
-# "GB-HIL"
-msgid "Hillingdon"
-msgstr "Хилингдон"
-
-# "GB-HLD"
-msgid "Highland"
-msgstr "Хајланд"
-
-# "GB-HMF"
-msgid "Hammersmith and Fulham"
-msgstr "Хамерсмит и Фулам"
-
-# "GB-HNS"
-msgid "Hounslow"
-msgstr "Хоунслоу"
-
-# "GB-HPL"
-msgid "Hartlepool"
-msgstr "Хартлпул"
-
-# "GB-HRT"
-msgid "Hertfordshire"
-msgstr "Хартфордшајр"
-
-# "GB-HRW"
-msgid "Harrow"
-msgstr "Хароу"
-
-# "GB-HRY"
-msgid "Haringey"
-msgstr "Харингеј"
-
-# "GB-IOS"
-msgid "Isles of Scilly"
-msgstr "Острво Вајт"
-
-# "GB-IOW"
-msgid "Isle of Wight"
-msgstr "Острво Вајт"
-
-# "GB-ISL"
-msgid "Islington"
-msgstr "Ислингтон"
-
-# "GB-IVC"
-msgid "Inverclyde"
-msgstr "Инверклајд"
-
-# "GB-KEC"
-msgid "Kensington and Chelsea"
-msgstr "Кенсингтон и Челзи"
-
-# "GB-KEN"
-msgid "Kent"
-msgstr "Кент"
-
-# "GB-KHL"
-msgid "Kingston upon Hull"
-msgstr ""
-
-# "GB-KIR"
-msgid "Kirklees"
-msgstr "Кирклес"
-
-# "GB-KTT"
-msgid "Kingston upon Thames"
-msgstr "Кингстон на Темзи"
-
-# "GB-KWL"
-msgid "Knowsley"
-msgstr "Ноусли"
-
-# "GB-LAN"
-msgid "Lancashire"
-msgstr "Ланкашајр"
-
-# "GB-LBC"
-msgid "Lisburn and Castlereagh"
-msgstr "Кастлриг"
-
-# "GB-LBH"
-msgid "Lambeth"
-msgstr "Ламбет"
-
-# "GB-LCE"
-msgid "Leicester"
-msgstr "Лајчестер"
-
-# "GB-LDS"
-msgid "Leeds"
-msgstr "Лидс"
-
-# "GB-LEC"
-msgid "Leicestershire"
-msgstr ""
-
-# "GB-LEW"
-msgid "Lewisham"
-msgstr "Луишам"
-
-# "GB-LIN"
-msgid "Lincolnshire"
-msgstr "Линколншајр"
-
-# "GB-LIV"
-msgid "Liverpool"
-msgstr "Ливерпул"
-
-# "GB-LND"
-msgid "London, City of"
-msgstr "Лондон"
-
-# "GB-LUT"
-msgid "Luton"
-msgstr "Лутон"
-
-# "GB-MAN", "JM-12"
-msgid "Manchester"
-msgstr "Манчестер"
-
-# "GB-MDB"
-msgid "Middlesbrough"
-msgstr "Мидлсбруг"
-
-# "GB-MDW"
-msgid "Medway"
-msgstr "Медвеј"
-
-# "GB-MEA"
-msgid "Mid and East Antrim"
-msgstr ""
-
-# "GB-MIK"
-msgid "Milton Keynes"
-msgstr "Милтон Кијниз"
-
-# "GB-MLN"
-msgid "Midlothian"
-msgstr "Мидлотијан"
-
-# "GB-MON"
-msgid "Monmouthshire; Sir Fynwy"
-msgstr "Монмаутшајр"
-
-# "GB-MRT"
-msgid "Merton"
-msgstr "Мертон"
-
-# "GB-MRY"
-msgid "Moray"
-msgstr "Морај"
-
-# "GB-MTY"
-msgid "Merthyr Tydfil; Merthyr Tudful"
-msgstr ""
-
-# "GB-MUL"
-msgid "Mid Ulster"
-msgstr ""
-
-# "GB-NAY"
-msgid "North Ayrshire"
-msgstr "Северни Ејршајр"
-
-# "GB-NBL"
-msgid "Northumberland"
-msgstr ""
-
-# "GB-NEL"
-msgid "North East Lincolnshire"
-msgstr "Североисточни Линколншајр"
-
-# "GB-NET"
-msgid "Newcastle upon Tyne"
-msgstr "Њукастл над Тином"
-
-# "GB-NFK"
-msgid "Norfolk"
-msgstr "Норфолк"
-
-# "GB-NGM"
-msgid "Nottingham"
-msgstr "Нотингем"
 
 # "GB-NIR"
 msgid "Northern Ireland"
 msgstr "Северна Ирска"
 
-# "GB-NLK"
-msgid "North Lanarkshire"
-msgstr "Северни Ланаркшајр"
-
-# "GB-NLN"
-msgid "North Lincolnshire"
-msgstr "Северни Линколншајр"
-
-# "GB-NMD"
-msgid "Newry, Mourne and Down"
-msgstr "Њури и Мурн"
-
-# "GB-NSM"
-msgid "North Somerset"
-msgstr "Северни Сомерсет"
-
-# "GB-NTH"
-msgid "Northamptonshire"
-msgstr "Нордамптоншајр"
-
-# "GB-NTL"
-msgid "Neath Port Talbot; Castell-nedd Port Talbot"
-msgstr ""
-
-# "GB-NTT"
-msgid "Nottinghamshire"
-msgstr "Нотингемшајр"
-
-# "GB-NTY"
-msgid "North Tyneside"
-msgstr ""
-
-# "GB-NWM"
-msgid "Newham"
-msgstr "Њуам"
-
-# "GB-NWP"
-msgid "Newport; Casnewydd"
-msgstr "Њупорт"
-
-# "GB-NYK"
-msgid "North Yorkshire"
-msgstr "Северни Јоркшир"
-
-# "GB-OLD"
-msgid "Oldham"
-msgstr "Олдам"
-
-# "GB-ORK"
-msgid "Orkney Islands"
-msgstr ""
-
-# "GB-OXF"
-msgid "Oxfordshire"
-msgstr "Оксфордшајр"
-
-# "GB-PEM"
-msgid "Pembrokeshire; Sir Benfro"
-msgstr ""
-
-# "GB-PKN"
-msgid "Perth and Kinross"
-msgstr "Перт и Кинрос"
-
-# "GB-PLY"
-msgid "Plymouth"
-msgstr "Плимут"
-
-# "GB-POL"
-msgid "Poole"
-msgstr ""
-
-# "GB-POR"
-msgid "Portsmouth"
-msgstr "Портсмаут"
-
-# "GB-POW"
-msgid "Powys"
-msgstr ""
-
-# "GB-PTE"
-msgid "Peterborough"
-msgstr "Питербороу"
-
-# "GB-RCC"
-msgid "Redcar and Cleveland"
-msgstr "Редкар и Кливленд"
-
-# "GB-RCH"
-msgid "Rochdale"
-msgstr "Рочдејл"
-
-# "GB-RCT"
-msgid "Rhondda, Cynon, Taff; Rhondda, Cynon, Taf"
-msgstr ""
-
-# "GB-RDB"
-msgid "Redbridge"
-msgstr "Редбриџ"
-
-# "GB-RDG"
-msgid "Reading"
-msgstr "Ридин"
-
-# "GB-RFW"
-msgid "Renfrewshire"
-msgstr "Ренфревшајр"
-
-# "GB-RIC"
-msgid "Richmond upon Thames"
-msgstr "Ричмонд на Темзи"
-
-# "GB-ROT"
-msgid "Rotherham"
-msgstr ""
-
-# "GB-RUT"
-msgid "Rutland"
-msgstr "Ратленд"
-
-# "GB-SAW"
-msgid "Sandwell"
-msgstr ""
-
-# "GB-SAY"
-msgid "South Ayrshire"
-msgstr "Јужни Ејршајр"
-
-# "GB-SCB"
-msgid "Scottish Borders, The"
-msgstr "Шкотске Границе"
-
 # "GB-SCT"
 msgid "Scotland"
 msgstr "Шкотска"
-
-# "GB-SFK"
-msgid "Suffolk"
-msgstr "Сафолк"
-
-# "GB-SFT"
-msgid "Sefton"
-msgstr "Сефтон"
-
-# "GB-SGC"
-msgid "South Gloucestershire"
-msgstr ""
-
-# "GB-SHF"
-msgid "Sheffield"
-msgstr "Шефилд"
-
-# "GB-SHN"
-msgid "St. Helens"
-msgstr ""
-
-# "GB-SHR"
-msgid "Shropshire"
-msgstr ""
-
-# "GB-SKP"
-msgid "Stockport"
-msgstr "Стокпорт"
-
-# "GB-SLF"
-msgid "Salford"
-msgstr "Салфорд"
-
-# "GB-SLG"
-msgid "Slough"
-msgstr ""
-
-# "GB-SLK"
-msgid "South Lanarkshire"
-msgstr "Јужни Ланаркшајр"
-
-# "GB-SND"
-msgid "Sunderland"
-msgstr "Сандерленд"
-
-# "GB-SOL"
-msgid "Solihull"
-msgstr ""
-
-# "GB-SOM"
-msgid "Somerset"
-msgstr "Сомерсет"
-
-# "GB-SOS"
-msgid "Southend-on-Sea"
-msgstr ""
-
-# "GB-SRY"
-msgid "Surrey"
-msgstr ""
-
-# "GB-STE"
-msgid "Stoke-on-Trent"
-msgstr "Сток-он-Трент"
-
-# "GB-STG"
-msgid "Stirling"
-msgstr "Стирлинг"
-
-# "GB-STH"
-msgid "Southampton"
-msgstr "Саутамптон"
-
-# "GB-STN"
-msgid "Sutton"
-msgstr "Сатон"
-
-# "GB-STS"
-msgid "Staffordshire"
-msgstr "Стафордшајр"
-
-# "GB-STT"
-msgid "Stockton-on-Tees"
-msgstr "Стоктон-он-Тис"
-
-# "GB-STY"
-msgid "South Tyneside"
-msgstr ""
-
-# "GB-SWA"
-msgid "Swansea; Abertawe"
-msgstr ""
-
-# "GB-SWD"
-msgid "Swindon"
-msgstr ""
-
-# "GB-SWK"
-msgid "Southwark"
-msgstr "Саутварк"
-
-# "GB-TAM"
-msgid "Tameside"
-msgstr "Тамесиде"
-
-# "GB-TFW"
-msgid "Telford and Wrekin"
-msgstr ""
-
-# "GB-THR"
-msgid "Thurrock"
-msgstr ""
-
-# "GB-TOB"
-msgid "Torbay"
-msgstr "Торбај"
-
-# "GB-TOF"
-msgid "Torfaen; Tor-faen"
-msgstr ""
-
-# "GB-TRF"
-msgid "Trafford"
-msgstr "Трафорд"
-
-# "GB-TWH"
-msgid "Tower Hamlets"
-msgstr ""
 
 # "GB-UKM"
 msgid "United Kingdom"
 msgstr "Велика Британија"
 
-# "GB-VGL"
-msgid "Vale of Glamorgan, The; Bro Morgannwg"
-msgstr ""
-
-# "GB-WAR"
-msgid "Warwickshire"
-msgstr "Ворвикшајр"
-
-# "GB-WBK"
-msgid "West Berkshire"
-msgstr "Западни Беркшајр"
-
-# "GB-WDU"
-msgid "West Dunbartonshire"
-msgstr "Западни Данбартоншајр"
-
-# "GB-WFT"
-msgid "Waltham Forest"
-msgstr "Валтам Форест"
-
-# "GB-WGN"
-msgid "Wigan"
-msgstr "Виган"
-
-# "GB-WIL"
-msgid "Wiltshire"
-msgstr "Линколншајр"
-
-# "GB-WKF"
-msgid "Wakefield"
-msgstr "Вејкфилд"
-
-# "GB-WLL"
-msgid "Walsall"
-msgstr "Валсал"
-
-# "GB-WLN"
-msgid "West Lothian"
-msgstr "Западни Лотјан"
-
 # "GB-WLS"
 msgid "Wales; Cymru"
 msgstr ""
-
-# "GB-WLV"
-msgid "Wolverhampton"
-msgstr ""
-
-# "GB-WND"
-msgid "Wandsworth"
-msgstr ""
-
-# "GB-WNM"
-msgid "Windsor and Maidenhead"
-msgstr "Виндзор и Мајднхед"
-
-# "GB-WOK"
-msgid "Wokingham"
-msgstr "Вокингем"
-
-# "GB-WOR"
-msgid "Worcestershire"
-msgstr "Ворчестершајр"
-
-# "GB-WRL"
-msgid "Wirral"
-msgstr "Вирал"
-
-# "GB-WRT"
-msgid "Warrington"
-msgstr "Варингтон"
-
-# "GB-WRX"
-msgid "Wrexham; Wrecsam"
-msgstr ""
-
-# "GB-WSM"
-msgid "Westminster"
-msgstr "Вестминстер"
-
-# "GB-WSX"
-msgid "West Sussex"
-msgstr "Западни Сасекс"
-
-# "GB-YOR"
-msgid "York"
-msgstr "Јорк"
-
-# "GB-ZET"
-msgid "Shetland Islands"
-msgstr "Шетландска острва"
 
 # "GD-10"
 msgid "Southern Grenadine Islands"
@@ -6312,385 +3800,53 @@ msgstr "Норд Банк"
 msgid "Upper River"
 msgstr ""
 
-# "GN-B", "GN-BK"
+# "GN-B"
 msgid "Boké"
 msgstr "Боке"
-
-# "GN-BE"
-msgid "Beyla"
-msgstr "Бејла"
-
-# "GN-BF"
-msgid "Boffa"
-msgstr "Бофа"
 
 # "GN-C"
 msgid "Conakry"
 msgstr "Конакри"
 
-# "GN-CO"
-msgid "Coyah"
-msgstr "Којах"
-
-# "GN-D", "GN-KD"
+# "GN-D"
 msgid "Kindia"
 msgstr "Киндија"
 
-# "GN-DB"
-msgid "Dabola"
-msgstr "Дабола"
-
-# "GN-DI"
-msgid "Dinguiraye"
-msgstr ""
-
-# "GN-DL"
-msgid "Dalaba"
-msgstr "Далаба"
-
-# "GN-DU"
-msgid "Dubréka"
-msgstr "Дубрека"
-
-# "GN-F", "GN-FA"
+# "GN-F"
 msgid "Faranah"
 msgstr "Фарана"
 
-# "GN-FO"
-msgid "Forécariah"
-msgstr "Форекарја"
-
-# "GN-FR"
-msgid "Fria"
-msgstr "Фриа"
-
-# "GN-GA"
-msgid "Gaoual"
-msgstr "Гауал"
-
-# "GN-GU"
-msgid "Guékédou"
-msgstr "Гвекедоу"
-
-# "GN-K", "GN-KA"
+# "GN-K"
 msgid "Kankan"
 msgstr "Канкан"
 
-# "GN-KB"
-msgid "Koubia"
-msgstr "Кубја"
-
-# "GN-KE"
-msgid "Kérouané"
-msgstr "Керуане"
-
-# "GN-KN"
-msgid "Koundara"
-msgstr "Кундара"
-
-# "GN-KO"
-msgid "Kouroussa"
-msgstr "Куруса"
-
-# "GN-KS"
-msgid "Kissidougou"
-msgstr "Кисидугу"
-
-# "GN-L", "GN-LA"
+# "GN-L"
 msgid "Labé"
 msgstr "Лабе"
 
-# "GN-LE"
-msgid "Lélouma"
-msgstr "Лелума"
-
-# "GN-LO"
-msgid "Lola"
-msgstr "Лола"
-
-# "GN-M", "GN-MM"
+# "GN-M"
 msgid "Mamou"
 msgstr "Маму"
 
-# "GN-MC"
-msgid "Macenta"
-msgstr ""
-
-# "GN-MD"
-msgid "Mandiana"
-msgstr "Мандјана"
-
-# "GN-ML"
-msgid "Mali"
-msgstr "Мали"
-
-# "GN-N", "GN-NZ"
+# "GN-N"
 msgid "Nzérékoré"
 msgstr ""
 
-# "GN-PI"
-msgid "Pita"
-msgstr "Пита"
-
-# "GN-SI"
-msgid "Siguiri"
-msgstr ""
-
-# "GN-TE"
-msgid "Télimélé"
-msgstr ""
-
-# "GN-TO"
-msgid "Tougué"
-msgstr ""
-
-# "GN-YO"
-msgid "Yomou"
-msgstr "Јому"
-
-# "GQ-AN"
-msgid "Annobón"
-msgstr ""
-
-# "GQ-BN"
-msgid "Bioko Norte"
-msgstr "Бјоко Норте"
-
-# "GQ-BS"
-msgid "Bioko Sur"
-msgstr "Бјоко Сур"
-
 # "GQ-C"
 msgid "Región Continental"
-msgstr ""
-
-# "GQ-CS"
-msgid "Centro Sur"
 msgstr ""
 
 # "GQ-I"
 msgid "Región Insular"
 msgstr ""
 
-# "GQ-KN"
-msgid "Kié-Ntem"
-msgstr ""
-
-# "GQ-LI"
-msgid "Litoral"
-msgstr "Литорал"
-
-# "GQ-WN"
-msgid "Wele-Nzas"
-msgstr ""
-
-# "GR-01"
-msgid "Aitolia kai Akarnania"
-msgstr "Ајтолија кај Акарнанја"
-
-# "GR-03"
-msgid "Voiotia"
-msgstr "Војотја"
-
-# "GR-04"
-msgid "Evvoias"
-msgstr "Евојас"
-
-# "GR-05"
-msgid "Evrytania"
-msgstr "Евританија"
-
-# "GR-06"
-msgid "Fthiotida"
-msgstr "Фтјотида"
-
-# "GR-07"
-msgid "Fokida"
-msgstr "Фокида"
-
-# "GR-11"
-msgid "Argolida"
-msgstr "Арголида"
-
-# "GR-12"
-msgid "Arkadia"
-msgstr "Аркадија"
-
-# "GR-13"
-msgid "Achaïa"
-msgstr "Акаја"
-
-# "GR-14"
-msgid "Ileia"
-msgstr "Илеја"
-
-# "GR-15"
-msgid "Korinthia"
-msgstr "Коринтија"
-
-# "GR-16"
-msgid "Lakonia"
-msgstr "Лаконија"
-
-# "GR-17"
-msgid "Messinia"
-msgstr "Месинија"
-
-# "GR-21"
-msgid "Zakynthos"
-msgstr "Закинтос"
-
-# "GR-22"
-msgid "Kerkyra"
-msgstr "Керкира"
-
-# "GR-23"
-msgid "Kefallonia"
-msgstr "Кефалонија"
-
-# "GR-24"
-msgid "Lefkada"
-msgstr "Лефкада"
-
-# "GR-32"
-msgid "Thesprotia"
-msgstr ""
-
-# "GR-33"
-msgid "Ioannina"
-msgstr "Јоанина"
-
-# "GR-34"
-msgid "Preveza"
-msgstr ""
-
-# "GR-41"
-msgid "Karditsa"
-msgstr "Кардица"
-
-# "GR-42"
-msgid "Larisa"
-msgstr "Лариса"
-
-# "GR-43"
-msgid "Magnisia"
-msgstr ""
-
-# "GR-44"
-msgid "Trikala"
-msgstr "Тикала"
-
-# "GR-51"
-msgid "Grevena"
-msgstr "Гревена"
-
-# "GR-52"
-msgid "Drama"
-msgstr "Драма"
-
-# "GR-53"
-msgid "Imathia"
-msgstr "Иматија"
-
-# "GR-54"
-msgid "Thessaloniki"
-msgstr "Солун"
-
-# "GR-55"
-msgid "Kavala"
-msgstr "Кавала"
-
-# "GR-56"
-msgid "Kastoria"
-msgstr "Касторија"
-
-# "GR-57"
-msgid "Kilkis"
-msgstr "Килкис"
-
-# "GR-58"
-msgid "Kozani"
-msgstr "Коцани"
-
-# "GR-59"
-msgid "Pella"
-msgstr "Пела"
-
-# "GR-61"
-msgid "Pieria"
-msgstr "Пјерија"
-
-# "GR-62"
-msgid "Serres"
-msgstr ""
-
-# "GR-63"
-msgid "Florina"
-msgstr "Флорина"
-
-# "GR-64"
-msgid "Chalkidiki"
-msgstr "Халкидики"
-
 # "GR-69"
 msgid "Agio Oros"
 msgstr "Агио Орос"
 
-# "GR-71"
-msgid "Evros"
-msgstr "Еврос"
-
-# "GR-72"
-msgid "Xanthi"
-msgstr ""
-
-# "GR-73"
-msgid "Rodopi"
-msgstr ""
-
-# "GR-81"
-msgid "Dodekanisos"
-msgstr "Додеканисос"
-
-# "GR-82"
-msgid "Kyklades"
-msgstr ""
-
-# "GR-83"
-msgid "Lesvos"
-msgstr "Лезбос"
-
-# "GR-84"
-msgid "Samos"
-msgstr "Самос"
-
-# "GR-85"
-msgid "Chios"
-msgstr "Киос"
-
-# "GR-91"
-msgid "Irakleio"
-msgstr "Хераклион"
-
-# "GR-92"
-msgid "Lasithi"
-msgstr "Ласити"
-
-# "GR-93"
-msgid "Rethymno"
-msgstr ""
-
-# "GR-94"
-msgid "Chania"
-msgstr "Ханија"
-
 # "GR-A"
 msgid "Anatoliki Makedonia kai Thraki"
 msgstr ""
-
-# "GR-A1", "GR-I"
-msgid "Attiki"
-msgstr "Атики"
 
 # "GR-B"
 msgid "Kentriki Makedonia"
@@ -6719,6 +3875,10 @@ msgstr ""
 # "GR-H"
 msgid "Sterea Ellada"
 msgstr ""
+
+# "GR-I"
+msgid "Attiki"
+msgstr "Атики"
 
 # "GR-J"
 msgid "Peloponnisos"
@@ -6824,29 +3984,9 @@ msgstr ""
 msgid "Zacapa"
 msgstr "Закапа"
 
-# "GW-BA"
-msgid "Bafatá"
-msgstr "Бафата"
-
-# "GW-BL"
-msgid "Bolama"
-msgstr "Болама"
-
-# "GW-BM"
-msgid "Biombo"
-msgstr "Бјомбо"
-
 # "GW-BS"
 msgid "Bissau"
 msgstr "Бисау"
-
-# "GW-CA"
-msgid "Cacheu"
-msgstr "Кашо"
-
-# "GW-GA"
-msgid "Gabú"
-msgstr "Габу"
 
 # "GW-L"
 msgid "Leste"
@@ -6856,21 +3996,9 @@ msgstr "Лесте"
 msgid "Norte"
 msgstr "Норте"
 
-# "GW-OI"
-msgid "Oio"
-msgstr "Ојо"
-
-# "GW-QU"
-msgid "Quinara"
-msgstr ""
-
 # "GW-S"
 msgid "Sul"
 msgstr "Сул"
-
-# "GW-TO"
-msgid "Tombali"
-msgstr "Томбали"
 
 # "GY-BA"
 msgid "Barima-Waini"
@@ -7264,53 +4392,9 @@ msgstr "Зала"
 msgid "Zalaegerszeg"
 msgstr "Залаегершег"
 
-# "ID-AC"
-msgid "Aceh"
-msgstr "Акех"
-
-# "ID-BA"
-msgid "Bali"
-msgstr "Бали"
-
-# "ID-BB"
-msgid "Bangka Belitung"
-msgstr "Банга Белитунг"
-
-# "ID-BE"
-msgid "Bengkulu"
-msgstr "Бенгкулу"
-
-# "ID-BT"
-msgid "Banten"
-msgstr "Бантен"
-
-# "ID-GO"
-msgid "Gorontalo"
-msgstr "Горонтало"
-
-# "ID-IJ", "ID-PA"
+# "ID-IJ"
 msgid "Papua"
 msgstr "Папуа"
-
-# "ID-JA"
-msgid "Jambi"
-msgstr "Џамби"
-
-# "ID-JB"
-msgid "Jawa Barat"
-msgstr "Јава Барат"
-
-# "ID-JI"
-msgid "Jawa Timur"
-msgstr "Јава Тимор"
-
-# "ID-JK"
-msgid "Jakarta Raya"
-msgstr "Џакарта Раја"
-
-# "ID-JT"
-msgid "Jawa Tengah"
-msgstr "Јава Тенга"
 
 # "ID-JW"
 msgid "Jawa"
@@ -7320,69 +4404,13 @@ msgstr "Јава"
 msgid "Kalimantan"
 msgstr "Калимантан"
 
-# "ID-KB"
-msgid "Kalimantan Barat"
-msgstr "Калимантан Барат"
-
-# "ID-KI"
-msgid "Kalimantan Timur"
-msgstr "Калимантан Тимур"
-
-# "ID-KR"
-msgid "Kepulauan Riau"
-msgstr ""
-
-# "ID-KS"
-msgid "Kalimantan Selatan"
-msgstr "Калимантан Селатан"
-
-# "ID-KT"
-msgid "Kalimantan Tengah"
-msgstr "Калимантан Тенга"
-
-# "ID-LA"
-msgid "Lampung"
-msgstr "Лампанг"
-
-# "ID-MA", "ID-ML"
+# "ID-ML"
 msgid "Maluku"
 msgstr "Малуку"
-
-# "ID-MU"
-msgid "Maluku Utara"
-msgstr "Малуку Утара"
-
-# "ID-NB"
-msgid "Nusa Tenggara Barat"
-msgstr "Нуса Тенгара Барат"
-
-# "ID-NT"
-msgid "Nusa Tenggara Timur"
-msgstr "Нуса Тенгара Тимур"
 
 # "ID-NU"
 msgid "Nusa Tenggara"
 msgstr "Нуса Тенгара"
-
-# "ID-PB"
-msgid "Papua Barat"
-msgstr "Папуа Барат"
-
-# "ID-RI"
-msgid "Riau"
-msgstr ""
-
-# "ID-SA"
-msgid "Sulawesi Utara"
-msgstr ""
-
-# "ID-SB"
-msgid "Sumatra Barat"
-msgstr "Суматра Барат"
-
-# "ID-SG"
-msgid "Sulawesi Tenggara"
-msgstr ""
 
 # "ID-SL"
 msgid "Sulawesi"
@@ -7392,149 +4420,21 @@ msgstr "Сулавези"
 msgid "Sumatera"
 msgstr "Суматера"
 
-# "ID-SN"
-msgid "Sulawesi Selatan"
-msgstr "Сулавези Селатан"
-
-# "ID-SR"
-msgid "Sulawesi Barat"
-msgstr "Сулавези Барат"
-
-# "ID-SS"
-msgid "Sumatra Selatan"
-msgstr "Суматра Селатан"
-
-# "ID-ST"
-msgid "Sulawesi Tengah"
-msgstr ""
-
-# "ID-SU"
-msgid "Sumatera Utara"
-msgstr "Суматера Утара"
-
-# "ID-YO"
-msgid "Yogyakarta"
-msgstr ""
-
 # "IE-C"
 msgid "Connacht"
 msgstr "Конакт"
-
-# "IE-CE"
-msgid "Clare"
-msgstr "Клејр"
-
-# "IE-CN"
-msgid "Cavan"
-msgstr "Каван"
-
-# "IE-CO"
-msgid "Cork"
-msgstr "Корк"
-
-# "IE-CW"
-msgid "Carlow"
-msgstr "Карлов"
-
-# "IE-D"
-msgid "Dublin"
-msgstr "Даблин"
-
-# "IE-DL"
-msgid "Donegal"
-msgstr "Донегал"
-
-# "IE-G"
-msgid "Galway"
-msgstr "Гејлвеј"
-
-# "IE-KE"
-msgid "Kildare"
-msgstr "Килдаре"
-
-# "IE-KK"
-msgid "Kilkenny"
-msgstr "Килкени"
-
-# "IE-KY"
-msgid "Kerry"
-msgstr "Кери"
 
 # "IE-L"
 msgid "Leinster"
 msgstr "Лајнстер"
 
-# "IE-LD"
-msgid "Longford"
-msgstr "Лонгфорд"
-
-# "IE-LH"
-msgid "Louth"
-msgstr "Лут"
-
-# "IE-LK"
-msgid "Limerick"
-msgstr "Лимерик"
-
-# "IE-LM"
-msgid "Leitrim"
-msgstr "Лејтрим"
-
-# "IE-LS"
-msgid "Laois"
-msgstr ""
-
 # "IE-M"
 msgid "Munster"
 msgstr "Минстер"
 
-# "IE-MH"
-msgid "Meath"
-msgstr "Мид"
-
-# "IE-MN"
-msgid "Monaghan"
-msgstr "Монаган"
-
-# "IE-MO"
-msgid "Mayo"
-msgstr "Мејо"
-
-# "IE-OY"
-msgid "Offaly"
-msgstr ""
-
-# "IE-RN"
-msgid "Roscommon"
-msgstr "Роскомон"
-
-# "IE-SO"
-msgid "Sligo"
-msgstr "Слиго"
-
-# "IE-TA"
-msgid "Tipperary"
-msgstr ""
-
 # "IE-U"
 msgid "Ulster"
 msgstr ""
-
-# "IE-WD"
-msgid "Waterford"
-msgstr "Вотерфорд"
-
-# "IE-WH"
-msgid "Westmeath"
-msgstr "Вестмит"
-
-# "IE-WW"
-msgid "Wicklow"
-msgstr "Виклоу"
-
-# "IE-WX"
-msgid "Wexford"
-msgstr "Вексфорд"
 
 # "IL-D"
 msgid "HaDarom"
@@ -8012,446 +4912,6 @@ msgstr "Сицилија"
 msgid "Sardegna"
 msgstr "Сардинија"
 
-# "IT-AG"
-msgid "Agrigento"
-msgstr "Агриђенто"
-
-# "IT-AL"
-msgid "Alessandria"
-msgstr "Александрија"
-
-# "IT-AN"
-msgid "Ancona"
-msgstr "Анкона"
-
-# "IT-AO"
-msgid "Aosta"
-msgstr "Аоста"
-
-# "IT-AP"
-msgid "Ascoli Piceno"
-msgstr "Асколи Пићено"
-
-# "IT-AQ"
-msgid "L'Aquila"
-msgstr "Л'Аквила"
-
-# "IT-AR"
-msgid "Arezzo"
-msgstr "Арецо"
-
-# "IT-AT"
-msgid "Asti"
-msgstr "Асти"
-
-# "IT-AV"
-msgid "Avellino"
-msgstr "Авелино"
-
-# "IT-BA", "SO-BR"
-msgid "Bari"
-msgstr "Бари"
-
-# "IT-BG"
-msgid "Bergamo"
-msgstr "Бергамо"
-
-# "IT-BI"
-msgid "Biella"
-msgstr "Бјела"
-
-# "IT-BL"
-msgid "Belluno"
-msgstr "Белуно"
-
-# "IT-BN"
-msgid "Benevento"
-msgstr "Беневенто"
-
-# "IT-BO"
-msgid "Bologna"
-msgstr "Болоња"
-
-# "IT-BR"
-msgid "Brindisi"
-msgstr "Бриндизи"
-
-# "IT-BS"
-msgid "Brescia"
-msgstr "Бреша"
-
-# "IT-BT"
-msgid "Barletta-Andria-Trani"
-msgstr "Барлета-Андриа-Трани"
-
-# "IT-BZ"
-msgid "Bolzano"
-msgstr "Болцано"
-
-# "IT-CA"
-msgid "Cagliari"
-msgstr "Каљари"
-
-# "IT-CB"
-msgid "Campobasso"
-msgstr "Кампобасо"
-
-# "IT-CE"
-msgid "Caserta"
-msgstr "Казерта"
-
-# "IT-CH"
-msgid "Chieti"
-msgstr "Кјети"
-
-# "IT-CI"
-msgid "Carbonia-Iglesias"
-msgstr "Карбониа-Иглесиас"
-
-# "IT-CL"
-msgid "Caltanissetta"
-msgstr "Калтанисета"
-
-# "IT-CN"
-msgid "Cuneo"
-msgstr "Кунео"
-
-# "IT-CO"
-msgid "Como"
-msgstr "Комо"
-
-# "IT-CR"
-msgid "Cremona"
-msgstr "Кремона"
-
-# "IT-CS"
-msgid "Cosenza"
-msgstr "Козенца"
-
-# "IT-CT"
-msgid "Catania"
-msgstr "Катанија"
-
-# "IT-CZ"
-msgid "Catanzaro"
-msgstr "Катанцаро"
-
-# "IT-EN"
-msgid "Enna"
-msgstr "Ена"
-
-# "IT-FC"
-msgid "Forlì-Cesena"
-msgstr "Форли-Ћезена"
-
-# "IT-FE"
-msgid "Ferrara"
-msgstr "Ферара"
-
-# "IT-FG"
-msgid "Foggia"
-msgstr "Фођа"
-
-# "IT-FI"
-msgid "Firenze"
-msgstr "Фиренца"
-
-# "IT-FM"
-msgid "Fermo"
-msgstr "Фермо"
-
-# "IT-FR"
-msgid "Frosinone"
-msgstr "Фрозиноне"
-
-# "IT-GE"
-msgid "Genova"
-msgstr "Ђенова"
-
-# "IT-GO"
-msgid "Gorizia"
-msgstr "Гориција"
-
-# "IT-GR"
-msgid "Grosseto"
-msgstr "Гросето"
-
-# "IT-IM"
-msgid "Imperia"
-msgstr "Империја"
-
-# "IT-IS"
-msgid "Isernia"
-msgstr "Изернија"
-
-# "IT-KR"
-msgid "Crotone"
-msgstr "Кротоне"
-
-# "IT-LC"
-msgid "Lecco"
-msgstr "Леко"
-
-# "IT-LE"
-msgid "Lecce"
-msgstr "Леће"
-
-# "IT-LI"
-msgid "Livorno"
-msgstr "Ливорно"
-
-# "IT-LO"
-msgid "Lodi"
-msgstr "Лоди"
-
-# "IT-LT"
-msgid "Latina"
-msgstr "Латина"
-
-# "IT-LU"
-msgid "Lucca"
-msgstr "Лука"
-
-# "IT-MB"
-msgid "Monza e Brianza"
-msgstr "Монца и Брианца"
-
-# "IT-MC"
-msgid "Macerata"
-msgstr "Маћерата"
-
-# "IT-ME"
-msgid "Messina"
-msgstr "Месина"
-
-# "IT-MI"
-msgid "Milano"
-msgstr "Милано"
-
-# "IT-MN"
-msgid "Mantova"
-msgstr "Мантова"
-
-# "IT-MO"
-msgid "Modena"
-msgstr "Модена"
-
-# "IT-MS"
-msgid "Massa-Carrara"
-msgstr "Маса-Карара"
-
-# "IT-MT"
-msgid "Matera"
-msgstr "Матера"
-
-# "IT-NA"
-msgid "Napoli"
-msgstr "Напуљ"
-
-# "IT-NO"
-msgid "Novara"
-msgstr "Новара"
-
-# "IT-NU"
-msgid "Nuoro"
-msgstr "Нуоро"
-
-# "IT-OG"
-msgid "Ogliastra"
-msgstr "Ољастра"
-
-# "IT-OR"
-msgid "Oristano"
-msgstr "Ористано"
-
-# "IT-OT"
-msgid "Olbia-Tempio"
-msgstr "Олбја-Темпио"
-
-# "IT-PA"
-msgid "Palermo"
-msgstr "Палермо"
-
-# "IT-PC"
-msgid "Piacenza"
-msgstr "Пјаћенца"
-
-# "IT-PD"
-msgid "Padova"
-msgstr "Падова"
-
-# "IT-PE"
-msgid "Pescara"
-msgstr "Пескара"
-
-# "IT-PG"
-msgid "Perugia"
-msgstr "Перуђа"
-
-# "IT-PI"
-msgid "Pisa"
-msgstr "Пиза"
-
-# "IT-PN"
-msgid "Pordenone"
-msgstr "Порденоне"
-
-# "IT-PO"
-msgid "Prato"
-msgstr "Прато"
-
-# "IT-PR"
-msgid "Parma"
-msgstr "Парма"
-
-# "IT-PT"
-msgid "Pistoia"
-msgstr "Пистоја"
-
-# "IT-PU"
-msgid "Pesaro e Urbino"
-msgstr "Пезаро и Урбино"
-
-# "IT-PV"
-msgid "Pavia"
-msgstr "Павија"
-
-# "IT-PZ"
-msgid "Potenza"
-msgstr "Потенца"
-
-# "IT-RA"
-msgid "Ravenna"
-msgstr "Равена"
-
-# "IT-RC"
-msgid "Reggio Calabria"
-msgstr "Ређо Калабрија"
-
-# "IT-RE"
-msgid "Reggio Emilia"
-msgstr "Ређо Емилија"
-
-# "IT-RG"
-msgid "Ragusa"
-msgstr "Рагуза"
-
-# "IT-RI"
-msgid "Rieti"
-msgstr "Риети"
-
-# "IT-RM"
-msgid "Roma"
-msgstr "Рим"
-
-# "IT-RN"
-msgid "Rimini"
-msgstr "Римини"
-
-# "IT-RO"
-msgid "Rovigo"
-msgstr "Ровиго"
-
-# "IT-SA"
-msgid "Salerno"
-msgstr "Салерно"
-
-# "IT-SI"
-msgid "Siena"
-msgstr "Сјена"
-
-# "IT-SO"
-msgid "Sondrio"
-msgstr "Сондрио"
-
-# "IT-SP"
-msgid "La Spezia"
-msgstr "Ла Специја"
-
-# "IT-SR"
-msgid "Siracusa"
-msgstr "Сиракуза"
-
-# "IT-SS"
-msgid "Sassari"
-msgstr "Сасари"
-
-# "IT-SV"
-msgid "Savona"
-msgstr "Савона"
-
-# "IT-TA"
-msgid "Taranto"
-msgstr "Таранто"
-
-# "IT-TE"
-msgid "Teramo"
-msgstr "Терамо"
-
-# "IT-TN"
-msgid "Trento"
-msgstr "Тренто"
-
-# "IT-TO"
-msgid "Torino"
-msgstr "Торино"
-
-# "IT-TP"
-msgid "Trapani"
-msgstr "Трапани"
-
-# "IT-TR"
-msgid "Terni"
-msgstr "Терни"
-
-# "IT-TS"
-msgid "Trieste"
-msgstr "Трст"
-
-# "IT-TV"
-msgid "Treviso"
-msgstr "Тревизо"
-
-# "IT-UD"
-msgid "Udine"
-msgstr "Удине"
-
-# "IT-VA"
-msgid "Varese"
-msgstr "Варезе"
-
-# "IT-VB"
-msgid "Verbano-Cusio-Ossola"
-msgstr "Вербано-Кузјо-Осола"
-
-# "IT-VC"
-msgid "Vercelli"
-msgstr "Верћели"
-
-# "IT-VE"
-msgid "Venezia"
-msgstr "Венеција"
-
-# "IT-VI"
-msgid "Vicenza"
-msgstr "Вићенца"
-
-# "IT-VR"
-msgid "Verona"
-msgstr "Верона"
-
-# "IT-VS"
-msgid "Medio Campidano"
-msgstr "Медио Кампидано"
-
-# "IT-VT"
-msgid "Viterbo"
-msgstr "Витербо"
-
-# "IT-VV"
-msgid "Vibo Valentia"
-msgstr "Вибо Валентија"
-
 # "JM-01"
 msgid "Kingston"
 msgstr "Кингстон"
@@ -8479,6 +4939,10 @@ msgstr "Вестмореланд"
 # "JM-11"
 msgid "Saint Elizabeth"
 msgstr "Сент Елизабет"
+
+# "JM-12"
+msgid "Manchester"
+msgstr "Манчестер"
 
 # "JM-13"
 msgid "Clarendon"
@@ -8736,7 +5200,7 @@ msgstr ""
 msgid "Bungoma"
 msgstr "Кунгота"
 
-# "KE-04", "UG-202"
+# "KE-04"
 msgid "Busia"
 msgstr "Бусја"
 
@@ -9062,62 +5526,6 @@ msgstr ""
 
 # "KM-M"
 msgid "Moûhîlî (Mūhīlī)"
-msgstr ""
-
-# "KN-01"
-msgid "Christ Church Nichola Town"
-msgstr ""
-
-# "KN-02"
-msgid "Saint Anne Sandy Point"
-msgstr ""
-
-# "KN-03"
-msgid "Saint George Basseterre"
-msgstr ""
-
-# "KN-04"
-msgid "Saint George Gingerland"
-msgstr ""
-
-# "KN-05"
-msgid "Saint James Windward"
-msgstr ""
-
-# "KN-06"
-msgid "Saint John Capisterre"
-msgstr "Сент Џон Капистер"
-
-# "KN-07"
-msgid "Saint John Figtree"
-msgstr "Сент Џон Фигтри"
-
-# "KN-08"
-msgid "Saint Mary Cayon"
-msgstr ""
-
-# "KN-09"
-msgid "Saint Paul Capisterre"
-msgstr ""
-
-# "KN-10"
-msgid "Saint Paul Charlestown"
-msgstr ""
-
-# "KN-11"
-msgid "Saint Peter Basseterre"
-msgstr ""
-
-# "KN-12"
-msgid "Saint Thomas Lowland"
-msgstr ""
-
-# "KN-13"
-msgid "Saint Thomas Middle Island"
-msgstr ""
-
-# "KN-15"
-msgid "Trinity Palmetto Point"
 msgstr ""
 
 # "KN-K"
@@ -9472,137 +5880,37 @@ msgstr "Вадуз"
 msgid "Basnāhira paḷāta"
 msgstr ""
 
-# "LK-11"
-msgid "Kŏḷamba"
-msgstr ""
-
-# "LK-12"
-msgid "Gampaha"
-msgstr "Гампаха"
-
-# "LK-13"
-msgid "Kaḷutara"
-msgstr ""
-
 # "LK-2"
 msgid "Madhyama paḷāta"
 msgstr ""
-
-# "LK-21"
-msgid "Mahanuvara"
-msgstr "Маханувара"
-
-# "LK-22"
-msgid "Mātale"
-msgstr "Матале"
-
-# "LK-23"
-msgid "Nuvara Ĕliya"
-msgstr "Нувара Елија"
 
 # "LK-3"
 msgid "Dakuṇu paḷāta"
 msgstr "Дакуну палата"
 
-# "LK-31"
-msgid "Gālla"
-msgstr "Гала"
-
-# "LK-32"
-msgid "Mātara"
-msgstr "Матара"
-
-# "LK-33"
-msgid "Hambantŏṭa"
-msgstr "Хамбантота"
-
 # "LK-4"
 msgid "Uturu paḷāta"
 msgstr "Утуру палата"
 
-# "LK-41"
-msgid "Yāpanaya"
-msgstr "Јапанаја"
-
-# "LK-42"
-msgid "Kilinŏchchi"
-msgstr ""
-
-# "LK-43"
-msgid "Mannārama"
-msgstr "Манарама"
-
-# "LK-44"
-msgid "Vavuniyāva"
-msgstr ""
-
-# "LK-45"
-msgid "Mulativ"
-msgstr "Мулатив"
-
 # "LK-5"
 msgid "Næ̆gĕnahira paḷāta"
-msgstr ""
-
-# "LK-51"
-msgid "Maḍakalapuva"
-msgstr "Мадакалапува"
-
-# "LK-52"
-msgid "Ampāara"
-msgstr "Ампара"
-
-# "LK-53"
-msgid "Trikuṇāmalaya"
 msgstr ""
 
 # "LK-6"
 msgid "Vayamba paḷāta"
 msgstr ""
 
-# "LK-61"
-msgid "Kuruṇægala"
-msgstr ""
-
-# "LK-62"
-msgid "Puttalama"
-msgstr ""
-
 # "LK-7"
 msgid "Uturumæ̆da paḷāta"
-msgstr ""
-
-# "LK-71"
-msgid "Anurādhapura"
-msgstr "Анурадапура"
-
-# "LK-72"
-msgid "Pŏḷŏnnaruva"
 msgstr ""
 
 # "LK-8"
 msgid "Ūva paḷāta"
 msgstr "Ува палата"
 
-# "LK-81"
-msgid "Badulla"
-msgstr "Бадула"
-
-# "LK-82"
-msgid "Mŏṇarāgala"
-msgstr ""
-
 # "LK-9"
 msgid "Sabaragamuva paḷāta"
 msgstr ""
-
-# "LK-91"
-msgid "Ratnapura"
-msgstr "Ратнапура"
-
-# "LK-92"
-msgid "Kægalla"
-msgstr "Келала"
 
 # "LR-BG"
 msgid "Bong"
@@ -9743,6 +6051,10 @@ msgstr ""
 # "LU-G"
 msgid "Grevenmacher"
 msgstr "Гревенмачер"
+
+# "LU-L"
+msgid "Luxembourg"
+msgstr "Луксембург"
 
 # "LV-001"
 msgid "Aglonas novads"
@@ -10360,306 +6672,6 @@ msgstr ""
 msgid "Dakhla-Oued Ed-Dahab (EH)"
 msgstr ""
 
-# "MA-AGD"
-msgid "Agadir-Ida-Ou-Tanane"
-msgstr "Агадир-Ида-Утанане"
-
-# "MA-AOU"
-msgid "Aousserd (EH)"
-msgstr "Аусер"
-
-# "MA-ASZ"
-msgid "Assa-Zag (EH-partial)"
-msgstr ""
-
-# "MA-AZI"
-msgid "Azilal"
-msgstr "Азилал"
-
-# "MA-BEM"
-msgid "Béni Mellal"
-msgstr "Бени Мелал"
-
-# "MA-BER"
-msgid "Berkane"
-msgstr "Беркане"
-
-# "MA-BES"
-msgid "Benslimane"
-msgstr "Бен Слимане"
-
-# "MA-BOD"
-msgid "Boujdour (EH)"
-msgstr "Буждур (ЕХ)"
-
-# "MA-BOM"
-msgid "Boulemane"
-msgstr "Булман"
-
-# "MA-BRR"
-msgid "Berrechid"
-msgstr "Еракидија"
-
-# "MA-CAS"
-msgid "Casablanca"
-msgstr "Гренд Казабланка"
-
-# "MA-CHE"
-msgid "Chefchaouen"
-msgstr "Чефчаун"
-
-# "MA-CHI"
-msgid "Chichaoua"
-msgstr "Чичава"
-
-# "MA-CHT"
-msgid "Chtouka-Ait Baha"
-msgstr ""
-
-# "MA-DRI"
-msgid "Driouch"
-msgstr ""
-
-# "MA-ERR"
-msgid "Errachidia"
-msgstr "Еракидија"
-
-# "MA-ESI"
-msgid "Essaouira"
-msgstr ""
-
-# "MA-ESM"
-msgid "Es-Semara (EH-partial)"
-msgstr ""
-
-# "MA-FAH"
-msgid "Fahs-Anjra"
-msgstr ""
-
-# "MA-FES"
-msgid "Fès"
-msgstr "Габес"
-
-# "MA-FIG"
-msgid "Figuig"
-msgstr "Фигујг"
-
-# "MA-FQH"
-msgid "Fquih Ben Salah"
-msgstr ""
-
-# "MA-GUE"
-msgid "Guelmim"
-msgstr "Гвелмим"
-
-# "MA-GUF"
-msgid "Guercif"
-msgstr ""
-
-# "MA-HAJ"
-msgid "El Hajeb"
-msgstr ""
-
-# "MA-HAO"
-msgid "Al Haouz"
-msgstr ""
-
-# "MA-HOC"
-msgid "Al Hoceïma"
-msgstr "Ал Хокејма"
-
-# "MA-IFR"
-msgid "Ifrane"
-msgstr "Ифран"
-
-# "MA-INE"
-msgid "Inezgane-Ait Melloul"
-msgstr ""
-
-# "MA-JDI"
-msgid "El Jadida"
-msgstr ""
-
-# "MA-JRA"
-msgid "Jerada"
-msgstr "Жрада"
-
-# "MA-KEN"
-msgid "Kénitra"
-msgstr "Кенитра"
-
-# "MA-KES"
-msgid "El Kelâa des Sraghna"
-msgstr ""
-
-# "MA-KHE"
-msgid "Khemisset"
-msgstr ""
-
-# "MA-KHN"
-msgid "Khenifra"
-msgstr ""
-
-# "MA-KHO"
-msgid "Khouribga"
-msgstr ""
-
-# "MA-LAA"
-msgid "Laâyoune (EH)"
-msgstr ""
-
-# "MA-LAR"
-msgid "Larache"
-msgstr "Лараш"
-
-# "MA-MAR"
-msgid "Marrakech"
-msgstr "Маракеш-Медина"
-
-# "MA-MDF"
-msgid "M’diq-Fnideq"
-msgstr ""
-
-# "MA-MED"
-msgid "Médiouna"
-msgstr "Медиуна"
-
-# "MA-MEK"
-msgid "Meknès"
-msgstr "Мекнес"
-
-# "MA-MID"
-msgid "Midelt"
-msgstr ""
-
-# "MA-MOH"
-msgid "Mohammadia"
-msgstr "Мохамадија"
-
-# "MA-MOU"
-msgid "Moulay Yacoub"
-msgstr "Мула Јакоб"
-
-# "MA-NAD"
-msgid "Nador"
-msgstr "Надор"
-
-# "MA-NOU"
-msgid "Nouaceur"
-msgstr "Нуасер"
-
-# "MA-OUA"
-msgid "Ouarzazate"
-msgstr "Уарзазате"
-
-# "MA-OUD"
-msgid "Oued Ed-Dahab (EH)"
-msgstr ""
-
-# "MA-OUJ"
-msgid "Oujda-Angad"
-msgstr "Уџда-Ангад"
-
-# "MA-OUZ"
-msgid "Ouezzane"
-msgstr ""
-
-# "MA-RAB"
-msgid "Rabat"
-msgstr "Рабат"
-
-# "MA-REH"
-msgid "Rehamna"
-msgstr ""
-
-# "MA-SAF", "MT-47"
-msgid "Safi"
-msgstr ""
-
-# "MA-SAL"
-msgid "Salé"
-msgstr "Сале"
-
-# "MA-SEF"
-msgid "Sefrou"
-msgstr ""
-
-# "MA-SET"
-msgid "Settat"
-msgstr "Сетат"
-
-# "MA-SIB"
-msgid "Sidi Bennour"
-msgstr ""
-
-# "MA-SIF"
-msgid "Sidi Ifni"
-msgstr ""
-
-# "MA-SIK"
-msgid "Sidi Kacem"
-msgstr ""
-
-# "MA-SIL"
-msgid "Sidi Slimane"
-msgstr "Бен Слимане"
-
-# "MA-SKH"
-msgid "Skhirate-Témara"
-msgstr ""
-
-# "MA-TAF"
-msgid "Tarfaya (EH-partial)"
-msgstr ""
-
-# "MA-TAI"
-msgid "Taourirt"
-msgstr ""
-
-# "MA-TAO"
-msgid "Taounate"
-msgstr ""
-
-# "MA-TAR"
-msgid "Taroudant"
-msgstr ""
-
-# "MA-TAT"
-msgid "Tata"
-msgstr "Тата"
-
-# "MA-TAZ"
-msgid "Taza"
-msgstr ""
-
-# "MA-TET"
-msgid "Tétouan"
-msgstr "Тетуан"
-
-# "MA-TIN"
-msgid "Tinghir"
-msgstr ""
-
-# "MA-TIZ"
-msgid "Tiznit"
-msgstr ""
-
-# "MA-TNG"
-msgid "Tanger-Assilah"
-msgstr ""
-
-# "MA-TNT"
-msgid "Tan-Tan (EH-partial)"
-msgstr ""
-
-# "MA-YUS"
-msgid "Youssoufia"
-msgstr ""
-
-# "MA-ZAG"
-msgid "Zagora"
-msgstr "Загора"
-
 # "MC-CL"
 msgid "La Colle"
 msgstr "Ла Коле"
@@ -10984,109 +6996,13 @@ msgstr "Антананариво"
 msgid "Toliara"
 msgstr ""
 
-# "MH-ALK"
-msgid "Ailuk"
-msgstr "Ајлук"
-
-# "MH-ALL"
-msgid "Ailinglaplap"
-msgstr "Ајлинглаплап"
-
-# "MH-ARN"
-msgid "Arno"
-msgstr "Арно"
-
-# "MH-AUR"
-msgid "Aur"
-msgstr "Аур"
-
-# "MH-EBO"
-msgid "Ebon"
-msgstr "Ебон"
-
-# "MH-ENI"
-msgid "Enewetak"
-msgstr "Еневетак"
-
-# "MH-JAB"
-msgid "Jabat"
-msgstr "Џабат"
-
-# "MH-JAL"
-msgid "Jaluit"
-msgstr ""
-
-# "MH-KIL"
-msgid "Kili"
-msgstr "Кили"
-
-# "MH-KWA"
-msgid "Kwajalein"
-msgstr "Квајалајн"
-
 # "MH-L"
 msgid "Ralik chain"
-msgstr ""
-
-# "MH-LAE"
-msgid "Lae"
-msgstr ""
-
-# "MH-LIB"
-msgid "Lib"
-msgstr "Либ"
-
-# "MH-LIK"
-msgid "Likiep"
-msgstr "Ликјеп"
-
-# "MH-MAJ"
-msgid "Majuro"
-msgstr "Мажуро"
-
-# "MH-MAL"
-msgid "Maloelap"
-msgstr "Малоелап"
-
-# "MH-MEJ"
-msgid "Mejit"
-msgstr ""
-
-# "MH-MIL"
-msgid "Mili"
-msgstr "Мили"
-
-# "MH-NMK"
-msgid "Namdrik"
-msgstr "Намдрик"
-
-# "MH-NMU"
-msgid "Namu"
-msgstr "Наму"
-
-# "MH-RON"
-msgid "Rongelap"
 msgstr ""
 
 # "MH-T"
 msgid "Ratak chain"
 msgstr ""
-
-# "MH-UJA"
-msgid "Ujae"
-msgstr ""
-
-# "MH-UTI"
-msgid "Utirik"
-msgstr "Утирик"
-
-# "MH-WTJ"
-msgid "Wotje"
-msgstr "Вотје"
-
-# "MH-WTN"
-msgid "Wotho"
-msgstr "Вото"
 
 # "MK-01"
 msgid "Aerodrom"
@@ -11836,6 +7752,10 @@ msgstr ""
 msgid "Rabat Malta"
 msgstr "Рабат Малта"
 
+# "MT-47"
+msgid "Safi"
+msgstr ""
+
 # "MT-48"
 msgid "San Ġiljan"
 msgstr ""
@@ -11984,86 +7904,6 @@ msgstr "Саване"
 msgid "Vacoas-Phoenix"
 msgstr "Вакоас Феникс"
 
-# "MV-00"
-msgid "Alifu Dhaalu"
-msgstr "Алифу Далу"
-
-# "MV-01"
-msgid "Seenu"
-msgstr ""
-
-# "MV-02"
-msgid "Alifu Alifu"
-msgstr "Алифу Алифу"
-
-# "MV-03"
-msgid "Lhaviyani"
-msgstr "Лавијани"
-
-# "MV-04"
-msgid "Vaavu"
-msgstr "Ваву"
-
-# "MV-05"
-msgid "Laamu"
-msgstr "Ламу"
-
-# "MV-07"
-msgid "Haa Alifu"
-msgstr ""
-
-# "MV-08"
-msgid "Thaa"
-msgstr "Таа"
-
-# "MV-12"
-msgid "Meemu"
-msgstr ""
-
-# "MV-13"
-msgid "Raa"
-msgstr "Раа"
-
-# "MV-14"
-msgid "Faafu"
-msgstr "Фафу"
-
-# "MV-17"
-msgid "Dhaalu"
-msgstr "Далу"
-
-# "MV-20"
-msgid "Baa"
-msgstr "Баа"
-
-# "MV-23"
-msgid "Haa Dhaalu"
-msgstr ""
-
-# "MV-24"
-msgid "Shaviyani"
-msgstr "Шавијани"
-
-# "MV-25"
-msgid "Noonu"
-msgstr "Нуну"
-
-# "MV-26"
-msgid "Kaafu"
-msgstr ""
-
-# "MV-27"
-msgid "Gaafu Alifu"
-msgstr "Гафу Алифу"
-
-# "MV-28"
-msgid "Gaafu Dhaalu"
-msgstr "Гафу Далу"
-
-# "MV-29"
-msgid "Gnaviyani"
-msgstr "Њавијани"
-
 # "MV-MLE"
 msgid "Male"
 msgstr "Мале"
@@ -12084,129 +7924,17 @@ msgstr ""
 msgid "Upper South"
 msgstr ""
 
-# "MW-BA"
-msgid "Balaka"
-msgstr "Балака"
-
-# "MW-BL"
-msgid "Blantyre"
-msgstr "Блантир"
-
 # "MW-C"
 msgid "Central Region"
 msgstr ""
-
-# "MW-CK"
-msgid "Chikwawa"
-msgstr "Чиквава"
-
-# "MW-CR"
-msgid "Chiradzulu"
-msgstr "Ширадзулу"
-
-# "MW-CT"
-msgid "Chitipa"
-msgstr "Читипа"
-
-# "MW-DE"
-msgid "Dedza"
-msgstr "Дедза"
-
-# "MW-DO"
-msgid "Dowa"
-msgstr "Дова"
-
-# "MW-KR"
-msgid "Karonga"
-msgstr ""
-
-# "MW-KS"
-msgid "Kasungu"
-msgstr "Касунгу"
-
-# "MW-LI"
-msgid "Lilongwe"
-msgstr "Лилонгве"
-
-# "MW-LK"
-msgid "Likoma"
-msgstr "Ликома"
-
-# "MW-MC"
-msgid "Mchinji"
-msgstr ""
-
-# "MW-MG"
-msgid "Mangochi"
-msgstr "Мангочи"
-
-# "MW-MH"
-msgid "Machinga"
-msgstr "Мачинга"
-
-# "MW-MU"
-msgid "Mulanje"
-msgstr "Мулање"
-
-# "MW-MW", "TZ-18"
-msgid "Mwanza"
-msgstr "Мванца"
-
-# "MW-MZ"
-msgid "Mzimba"
-msgstr "Мцимба"
 
 # "MW-N"
 msgid "Northern Region"
 msgstr "Северна Област"
 
-# "MW-NB"
-msgid "Nkhata Bay"
-msgstr "Нката Беј"
-
-# "MW-NE"
-msgid "Neno"
-msgstr "Нено"
-
-# "MW-NI"
-msgid "Ntchisi"
-msgstr ""
-
-# "MW-NK"
-msgid "Nkhotakota"
-msgstr "Нкотакота"
-
-# "MW-NS"
-msgid "Nsanje"
-msgstr "Нсанје"
-
-# "MW-NU"
-msgid "Ntcheu"
-msgstr ""
-
-# "MW-PH"
-msgid "Phalombe"
-msgstr "Палома"
-
-# "MW-RU"
-msgid "Rumphi"
-msgstr ""
-
 # "MW-S"
 msgid "Southern Region"
 msgstr ""
-
-# "MW-SA"
-msgid "Salima"
-msgstr "Салима"
-
-# "MW-TH"
-msgid "Thyolo"
-msgstr ""
-
-# "MW-ZO"
-msgid "Zomba"
-msgstr "Зомба"
 
 # "MX-AGU"
 msgid "Aguascalientes"
@@ -12700,9 +8428,17 @@ msgstr "Шонтал"
 msgid "Estelí"
 msgstr "Естели"
 
+# "NI-GR"
+msgid "Granada"
+msgstr "Гренада"
+
 # "NI-JI"
 msgid "Jinotega"
 msgstr "Џинотега"
+
+# "NI-LE"
+msgid "León"
+msgstr "Леон"
 
 # "NI-MD"
 msgid "Madriz"
@@ -12759,6 +8495,10 @@ msgstr "Гелдерланд"
 # "NL-GR"
 msgid "Groningen"
 msgstr "Гронинген"
+
+# "NL-LI"
+msgid "Limburg"
+msgstr "Лимбург"
 
 # "NL-NB"
 msgid "Noord-Brabant"
@@ -12892,62 +8632,6 @@ msgstr "Парванчал"
 msgid "Sudur Pashchimanchal"
 msgstr ""
 
-# "NP-BA"
-msgid "Bagmati"
-msgstr "Багмати"
-
-# "NP-BH"
-msgid "Bheri"
-msgstr "Бери"
-
-# "NP-DH"
-msgid "Dhawalagiri"
-msgstr "Давалагири"
-
-# "NP-GA"
-msgid "Gandaki"
-msgstr "Гандаки"
-
-# "NP-JA"
-msgid "Janakpur"
-msgstr "Џанакпур"
-
-# "NP-KA"
-msgid "Karnali"
-msgstr "Карнали"
-
-# "NP-KO"
-msgid "Kosi"
-msgstr "Коси"
-
-# "NP-LU"
-msgid "Lumbini"
-msgstr "Лумбини"
-
-# "NP-MA"
-msgid "Mahakali"
-msgstr "Махакали"
-
-# "NP-ME"
-msgid "Mechi"
-msgstr "Меки"
-
-# "NP-NA"
-msgid "Narayani"
-msgstr "Нарајани"
-
-# "NP-RA"
-msgid "Rapti"
-msgstr "Рапти"
-
-# "NP-SA"
-msgid "Sagarmatha"
-msgstr ""
-
-# "NP-SE"
-msgid "Seti"
-msgstr "Сети"
-
 # "NR-01"
 msgid "Aiwo"
 msgstr "Ајво"
@@ -13004,81 +8688,17 @@ msgstr ""
 msgid "Yaren"
 msgstr "Јарен"
 
-# "NZ-AUK"
-msgid "Auckland"
-msgstr "Окланд"
-
-# "NZ-BOP"
-msgid "Bay of Plenty"
-msgstr ""
-
-# "NZ-CAN"
-msgid "Canterbury"
-msgstr "Кантербури"
-
 # "NZ-CIT"
 msgid "Chatham Islands Territory"
 msgstr "Територија Чатам острва"
-
-# "NZ-GIS"
-msgid "Gisborne District"
-msgstr ""
-
-# "NZ-HKB"
-msgid "Hawke's Bay"
-msgstr "Ховкиз Беј"
-
-# "NZ-MBH"
-msgid "Marlborough District"
-msgstr "Марлборо"
-
-# "NZ-MWT"
-msgid "Manawatu-Wanganui"
-msgstr "Манавату-Вангануи"
 
 # "NZ-N"
 msgid "North Island"
 msgstr "Северни Исланд"
 
-# "NZ-NSN"
-msgid "Nelson City"
-msgstr "Нелсон Сити"
-
-# "NZ-NTL"
-msgid "Northland"
-msgstr "Нордланд"
-
-# "NZ-OTA"
-msgid "Otago"
-msgstr "Отаго"
-
 # "NZ-S"
 msgid "South Island"
 msgstr "Јужно острво"
-
-# "NZ-STL"
-msgid "Southland"
-msgstr "Саутленд"
-
-# "NZ-TAS"
-msgid "Tasman District"
-msgstr ""
-
-# "NZ-TKI"
-msgid "Taranaki"
-msgstr ""
-
-# "NZ-WGN"
-msgid "Wellington"
-msgstr "Велингтон"
-
-# "NZ-WKO"
-msgid "Waikato"
-msgstr ""
-
-# "NZ-WTC"
-msgid "West Coast"
-msgstr "Западна Обала"
 
 # "OM-BA"
 msgid "Al Bāţinah"
@@ -13386,326 +9006,6 @@ msgstr ""
 
 # "PH-41"
 msgid "MIMAROPA (Region IV-B)"
-msgstr ""
-
-# "PH-ABR"
-msgid "Abra"
-msgstr "Абра"
-
-# "PH-AGN"
-msgid "Agusan del Norte"
-msgstr "Северни Агусан"
-
-# "PH-AGS"
-msgid "Agusan del Sur"
-msgstr "Јужни Агусан"
-
-# "PH-AKL"
-msgid "Aklan"
-msgstr "Аклан"
-
-# "PH-ALB"
-msgid "Albay"
-msgstr "Албај"
-
-# "PH-ANT"
-msgid "Antique"
-msgstr "Старо"
-
-# "PH-APA"
-msgid "Apayao"
-msgstr "Апајао"
-
-# "PH-AUR"
-msgid "Aurora"
-msgstr "Аурора"
-
-# "PH-BAN"
-msgid "Batasn"
-msgstr "Батасн"
-
-# "PH-BAS"
-msgid "Basilan"
-msgstr "Базилан"
-
-# "PH-BEN"
-msgid "Benguet"
-msgstr "Бенгует"
-
-# "PH-BIL"
-msgid "Biliran"
-msgstr "Билиран"
-
-# "PH-BOH"
-msgid "Bohol"
-msgstr "Бохол"
-
-# "PH-BTG"
-msgid "Batangas"
-msgstr "Батангас"
-
-# "PH-BTN"
-msgid "Batanes"
-msgstr "Батанс"
-
-# "PH-BUK"
-msgid "Bukidnon"
-msgstr "Букиднон"
-
-# "PH-BUL"
-msgid "Bulacan"
-msgstr "Булакан"
-
-# "PH-CAG"
-msgid "Cagayan"
-msgstr "Кагајан"
-
-# "PH-CAM"
-msgid "Camiguin"
-msgstr "Камигуин"
-
-# "PH-CAN"
-msgid "Camarines Norte"
-msgstr "Камаринес Норте"
-
-# "PH-CAP"
-msgid "Capiz"
-msgstr "Капиз"
-
-# "PH-CAS"
-msgid "Camarines Sur"
-msgstr "Камаринес Сур"
-
-# "PH-CAT"
-msgid "Catanduanes"
-msgstr "Катандуанес"
-
-# "PH-CAV"
-msgid "Cavite"
-msgstr "Кавите"
-
-# "PH-CEB"
-msgid "Cebu"
-msgstr ""
-
-# "PH-COM"
-msgid "Compostela Valley"
-msgstr "Компостела Валеј"
-
-# "PH-DAO"
-msgid "Davao Oriental"
-msgstr "Давао источни"
-
-# "PH-DAS"
-msgid "Davao del Sur"
-msgstr "Давао јужни"
-
-# "PH-DAV"
-msgid "Davao del Norte"
-msgstr "Давао северни"
-
-# "PH-DIN"
-msgid "Dinagat Islands"
-msgstr "Динагат острва"
-
-# "PH-EAS"
-msgid "Eastern Samar"
-msgstr "Источни Самар"
-
-# "PH-GUI"
-msgid "Guimaras"
-msgstr "Гвимарас"
-
-# "PH-IFU"
-msgid "Ifugao"
-msgstr "Ифугао"
-
-# "PH-ILI"
-msgid "Iloilo"
-msgstr "Илојло"
-
-# "PH-ILN"
-msgid "Ilocos Norte"
-msgstr "Северни Илокос"
-
-# "PH-ILS"
-msgid "Ilocos Sur"
-msgstr "Јужни Илокос"
-
-# "PH-ISA"
-msgid "Isabela"
-msgstr "Изабела"
-
-# "PH-KAL"
-msgid "Kalinga-Apayso"
-msgstr ""
-
-# "PH-LAG"
-msgid "Laguna"
-msgstr "Лагуна"
-
-# "PH-LAN"
-msgid "Lanao del Norte"
-msgstr ""
-
-# "PH-LAS"
-msgid "Lanao del Sur"
-msgstr ""
-
-# "PH-LEY"
-msgid "Leyte"
-msgstr "Лејте"
-
-# "PH-LUN"
-msgid "La Union"
-msgstr "Ла Унјон"
-
-# "PH-MAD"
-msgid "Marinduque"
-msgstr ""
-
-# "PH-MAG"
-msgid "Maguindanao"
-msgstr "Магвинданао"
-
-# "PH-MAS"
-msgid "Masbate"
-msgstr "Мазбате"
-
-# "PH-MDC"
-msgid "Mindoro Occidental"
-msgstr ""
-
-# "PH-MDR"
-msgid "Mindoro Oriental"
-msgstr ""
-
-# "PH-MOU"
-msgid "Mountain Province"
-msgstr ""
-
-# "PH-MSC"
-msgid "Misamis Occidental"
-msgstr ""
-
-# "PH-MSR"
-msgid "Misamis Oriental"
-msgstr ""
-
-# "PH-NCO"
-msgid "North Cotabato"
-msgstr "Северни Котабато"
-
-# "PH-NEC"
-msgid "Negros Occidental"
-msgstr "Источни Касаи"
-
-# "PH-NER"
-msgid "Negros Oriental"
-msgstr ""
-
-# "PH-NSA"
-msgid "Northern Samar"
-msgstr "Северни Самар"
-
-# "PH-NUE"
-msgid "Nueva Ecija"
-msgstr ""
-
-# "PH-NUV"
-msgid "Nueva Vizcaya"
-msgstr ""
-
-# "PH-PAM"
-msgid "Pampanga"
-msgstr "Пампанга"
-
-# "PH-PAN"
-msgid "Pangasinan"
-msgstr "Пангасинан"
-
-# "PH-PLW"
-msgid "Palawan"
-msgstr "Палаван"
-
-# "PH-QUE"
-msgid "Quezon"
-msgstr "Квецон"
-
-# "PH-QUI"
-msgid "Quirino"
-msgstr "Квирино"
-
-# "PH-RIZ"
-msgid "Rizal"
-msgstr "Ризал"
-
-# "PH-ROM"
-msgid "Romblon"
-msgstr "Ромблон"
-
-# "PH-SAR"
-msgid "Sarangani"
-msgstr "Сарангани"
-
-# "PH-SCO"
-msgid "South Cotabato"
-msgstr "Јужна Котабато"
-
-# "PH-SIG"
-msgid "Siquijor"
-msgstr ""
-
-# "PH-SLE"
-msgid "Southern Leyte"
-msgstr ""
-
-# "PH-SLU"
-msgid "Sulu"
-msgstr "Сулу"
-
-# "PH-SOR"
-msgid "Sorsogon"
-msgstr "Сорсогон"
-
-# "PH-SUK"
-msgid "Sultan Kudarat"
-msgstr "Султан Кудара"
-
-# "PH-SUN"
-msgid "Surigao del Norte"
-msgstr ""
-
-# "PH-SUR"
-msgid "Surigao del Sur"
-msgstr ""
-
-# "PH-TAR"
-msgid "Tarlac"
-msgstr ""
-
-# "PH-TAW"
-msgid "Tawi-Tawi"
-msgstr ""
-
-# "PH-WSA"
-msgid "Western Samar"
-msgstr "Западни Самар"
-
-# "PH-ZAN"
-msgid "Zamboanga del Norte"
-msgstr ""
-
-# "PH-ZAS"
-msgid "Zamboanga del Sur"
-msgstr ""
-
-# "PH-ZMB"
-msgid "Zambales"
-msgstr "Замбалес"
-
-# "PH-ZSI"
-msgid "Zamboanga Sibugay"
 msgstr ""
 
 # "PK-BA"
@@ -14264,34 +9564,6 @@ msgstr ""
 msgid "Beograd"
 msgstr "Београд"
 
-# "RS-01"
-msgid "Severnobački okrug"
-msgstr "Севернобачки округ"
-
-# "RS-02"
-msgid "Srednjebanatski okrug"
-msgstr "Средњебанатски округ"
-
-# "RS-03"
-msgid "Severnobanatski okrug"
-msgstr "Севернобанатски округ"
-
-# "RS-04"
-msgid "Južnobanatski okrug"
-msgstr "Јужнобанатски округ"
-
-# "RS-05"
-msgid "Zapadnobački okrug"
-msgstr "Западнобачки округ"
-
-# "RS-06"
-msgid "Južnobački okrug"
-msgstr "Јужнобачки округ"
-
-# "RS-07"
-msgid "Sremski okrug"
-msgstr "Сремски округ"
-
 # "RS-08"
 msgid "Mačvanski okrug"
 msgstr "Мачвански округ"
@@ -14359,26 +9631,6 @@ msgstr "Јабланички округ"
 # "RS-24"
 msgid "Pčinjski okrug"
 msgstr "Пчињски округ"
-
-# "RS-25"
-msgid "Kosovski okrug"
-msgstr "Косовски округ"
-
-# "RS-26"
-msgid "Pećki okrug"
-msgstr "Пећки округ"
-
-# "RS-27"
-msgid "Prizrenski okrug"
-msgstr "Призренски округ"
-
-# "RS-28"
-msgid "Kosovsko-Mitrovački okrug"
-msgstr "Косовско-Митровачки округ"
-
-# "RS-29"
-msgid "Kosovsko-Pomoravski okrug"
-msgstr "Косовско-поморавски округ"
 
 # "RS-KM"
 msgid "Kosovo-Metohija"
@@ -16068,6 +11320,10 @@ msgstr "Бакул"
 msgid "Banaadir"
 msgstr "Банадир"
 
+# "SO-BR"
+msgid "Bari"
+msgstr "Бари"
+
 # "SO-BY"
 msgid "Bay"
 msgstr "Беј"
@@ -17528,6 +12784,10 @@ msgstr "Морогоро"
 msgid "Mtwara"
 msgstr "Метвара"
 
+# "TZ-18"
+msgid "Mwanza"
+msgstr "Мванца"
+
 # "TZ-19"
 msgid "Pwani"
 msgstr "Пвани"
@@ -17693,322 +12953,6 @@ msgstr "Чернихивска област"
 # original msgid: "Chernivets'ka Oblast'"
 msgid "Chernivetska oblast"
 msgstr "Черниветска област"
-
-# "UG-101"
-msgid "Kalangala"
-msgstr "Калангала"
-
-# "UG-102"
-msgid "Kampala"
-msgstr "Кампала"
-
-# "UG-103"
-msgid "Kiboga"
-msgstr "Кибога"
-
-# "UG-104"
-msgid "Luwero"
-msgstr "Луверо"
-
-# "UG-105"
-msgid "Masaka"
-msgstr "Масака"
-
-# "UG-106"
-msgid "Mpigi"
-msgstr ""
-
-# "UG-107"
-msgid "Mubende"
-msgstr "Мубенде"
-
-# "UG-108"
-msgid "Mukono"
-msgstr "Муконо"
-
-# "UG-109"
-msgid "Nakasongola"
-msgstr "Накасонгола"
-
-# "UG-110"
-msgid "Rakai"
-msgstr "Ракаи"
-
-# "UG-111"
-msgid "Sembabule"
-msgstr "Сембабуле"
-
-# "UG-112"
-msgid "Kayunga"
-msgstr "Кајунга"
-
-# "UG-113"
-msgid "Wakiso"
-msgstr "Вакизо"
-
-# "UG-114"
-msgid "Mityana"
-msgstr "Митјана"
-
-# "UG-115"
-msgid "Nakaseke"
-msgstr "Накасеке"
-
-# "UG-116"
-msgid "Lyantonde"
-msgstr "Лиантонде"
-
-# "UG-201"
-msgid "Bugiri"
-msgstr "Бугири"
-
-# "UG-203"
-msgid "Iganga"
-msgstr "Иганга"
-
-# "UG-204"
-msgid "Jinja"
-msgstr "Џинџа"
-
-# "UG-205"
-msgid "Kamuli"
-msgstr ""
-
-# "UG-206"
-msgid "Kapchorwa"
-msgstr "Капчорва"
-
-# "UG-207"
-msgid "Katakwi"
-msgstr "Катакви"
-
-# "UG-208"
-msgid "Kumi"
-msgstr "Куми"
-
-# "UG-209"
-msgid "Mbale"
-msgstr "Мбале"
-
-# "UG-210"
-msgid "Pallisa"
-msgstr "Пализа"
-
-# "UG-211"
-msgid "Soroti"
-msgstr "Сороти"
-
-# "UG-212"
-msgid "Tororo"
-msgstr "Тороро"
-
-# "UG-213"
-msgid "Kaberamaido"
-msgstr "Каберамаидо"
-
-# "UG-214"
-msgid "Mayuge"
-msgstr "Мајиг"
-
-# "UG-215"
-msgid "Sironko"
-msgstr ""
-
-# "UG-216"
-msgid "Amuria"
-msgstr "Амурја"
-
-# "UG-217"
-msgid "Budaka"
-msgstr "Будака"
-
-# "UG-218"
-msgid "Bukwa"
-msgstr "Буква"
-
-# "UG-219"
-msgid "Butaleja"
-msgstr "Буталеја"
-
-# "UG-220"
-msgid "Kaliro"
-msgstr "Калиро"
-
-# "UG-221"
-msgid "Manafwa"
-msgstr "Манафа"
-
-# "UG-222"
-msgid "Namutumba"
-msgstr "Намутумба"
-
-# "UG-223"
-msgid "Bududa"
-msgstr "Будуда"
-
-# "UG-224"
-msgid "Bukedea"
-msgstr "Букудеа"
-
-# "UG-301"
-msgid "Adjumani"
-msgstr "Аџумани"
-
-# "UG-302"
-msgid "Apac"
-msgstr "Апак"
-
-# "UG-303"
-msgid "Arua"
-msgstr "Аруа"
-
-# "UG-304"
-msgid "Gulu"
-msgstr "Гулу"
-
-# "UG-305"
-msgid "Kitgum"
-msgstr "Кигум"
-
-# "UG-306"
-msgid "Kotido"
-msgstr "Котидо"
-
-# "UG-307"
-msgid "Lira"
-msgstr "Лира"
-
-# "UG-308"
-msgid "Moroto"
-msgstr "Морото"
-
-# "UG-309"
-msgid "Moyo"
-msgstr "Мојо"
-
-# "UG-310"
-msgid "Nebbi"
-msgstr "Неби"
-
-# "UG-311"
-msgid "Nakapiripirit"
-msgstr "Накапирипирит"
-
-# "UG-312"
-msgid "Pader"
-msgstr "Падер"
-
-# "UG-313"
-msgid "Yumbe"
-msgstr "Јумбе"
-
-# "UG-314"
-msgid "Amolatar"
-msgstr "Амолатар"
-
-# "UG-315"
-msgid "Kaabong"
-msgstr "Кабонг"
-
-# "UG-316"
-msgid "Koboko"
-msgstr "Кобоко"
-
-# "UG-317"
-msgid "Abim"
-msgstr "Абим"
-
-# "UG-318"
-msgid "Dokolo"
-msgstr "Доколо"
-
-# "UG-319"
-msgid "Amuru"
-msgstr "Амуру"
-
-# "UG-320"
-msgid "Maracha"
-msgstr "Марача"
-
-# "UG-321"
-msgid "Oyam"
-msgstr "Ојам"
-
-# "UG-401"
-msgid "Bundibugyo"
-msgstr "Бундибугио"
-
-# "UG-402"
-msgid "Bushenyi"
-msgstr "Бушениј"
-
-# "UG-403"
-msgid "Hoima"
-msgstr "Хојма"
-
-# "UG-404"
-msgid "Kabale"
-msgstr "Кабале"
-
-# "UG-405"
-msgid "Kabarole"
-msgstr "Кабароле"
-
-# "UG-406"
-msgid "Kasese"
-msgstr "Касесе"
-
-# "UG-407"
-msgid "Kibaale"
-msgstr "Кибали"
-
-# "UG-408"
-msgid "Kisoro"
-msgstr "Кисоро"
-
-# "UG-409"
-msgid "Masindi"
-msgstr "Масинди"
-
-# "UG-410"
-msgid "Mbarara"
-msgstr "Мбарара"
-
-# "UG-411"
-msgid "Ntungamo"
-msgstr "Нтунгамо"
-
-# "UG-412"
-msgid "Rukungiri"
-msgstr ""
-
-# "UG-413"
-msgid "Kamwenge"
-msgstr ""
-
-# "UG-414"
-msgid "Kanungu"
-msgstr "Канунгу"
-
-# "UG-415"
-msgid "Kyenjojo"
-msgstr ""
-
-# "UG-416"
-msgid "Ibanda"
-msgstr "Ибанда"
-
-# "UG-417"
-msgid "Isingiro"
-msgstr "Изингиро"
-
-# "UG-418"
-msgid "Kiruhura"
-msgstr "Кирухура"
-
-# "UG-419"
-msgid "Buliisa"
-msgstr "Булиса"
 
 # "UM-67"
 msgid "Johnston Atoll"
