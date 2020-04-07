@@ -20,8 +20,8 @@ end
 ```ex
 alias Ambassador.Language
 
-Language.all() #=> [Language{id: "aa", name: "Afar"}, ...]
-Language.new("ca") #=> Language{id: "ca", name: "Catalan"}
+Language.all() #=> [%Language{id: "aa", name: "Afar"}, ...]
+Language.new("ca") #=> %Language{id: "ca", name: "Catalan"}
 Language.new("ca") |> Language.native_name() #=> "català"
 Language.new("ca") |> Language.name("de") #=> "Katalanisch"
 
@@ -33,9 +33,15 @@ Country.new("NL") |> Country.name("be") #=> "Нідэрланды"
 
 alias Ambassador.Subdivision
 
-Country.new("SK") |> Subdivision.all() #=> [Subdivision{country_id: "SK", id: "BC", name: "Banskobystrický kraj"}, ...]
-Country.new("SK") |> Subdivision.new("KI") #=> Subdivision{country_id: "SK", id: "KI", name: "Košický kraj"}
-Subdivision.new("SK", "KI") #=> Subdivision{country_id: "SK", id: "KI", name: "Košický kraj"}
+Country.new("SK") |> Subdivision.all() #=> [%Subdivision{country_id: "SK", id: "BC", name: "Banskobystrický kraj"}, ...]
+Country.new("SK") |> Subdivision.new("KI") #=> %Subdivision{country_id: "SK", id: "KI", name: "Košický kraj"}
+Subdivision.new("SK", "KI") #=> %Subdivision{country_id: "SK", id: "KI", name: "Košický kraj"}
 Subdivision.new("SK", "KI") |> Subdivision.name("be") #=> "Кошыцкі край"
 Subdivision.new("SK", "KI") |> Subdivision.name("de") #=> "Kaschauer Landschaftsverband"
 ```
+
+## Development
+
+The `lib` directory is compiled to the library, the `dev` directory is only for development (downloading data and creating *.json and *.po files).
+
+Run `mix update_data` to download updated ISO data.
