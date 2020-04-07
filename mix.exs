@@ -24,7 +24,7 @@ defmodule Ambassador.MixProject do
   defp elixirc_paths(_), do: ["lib"]
 
   defp extra_applications(:dev), do: [:inets | extra_applications(:prod)]
-  defp extra_applications(_), do: [:logger]
+  defp extra_applications(_), do: [:gettext, :logger]
 
   # Run "mix help deps" to learn about dependencies.
   defp deps do

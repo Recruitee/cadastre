@@ -1,18 +1,9 @@
 defmodule Ambassador do
   @moduledoc """
-  Documentation for `Ambassador`.
+  A repository of languages, countries and country subdivisions
   """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Ambassador.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
+  @type msgid :: String.t()
+  @type msgstr :: String.t()
+  @type locale :: <<_::16>>
 end
