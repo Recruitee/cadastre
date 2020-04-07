@@ -146,9 +146,8 @@ msgid "Faroese"
 msgstr "féroïen"
 
 # "fr"
-# original msgstr: "français"
 msgid "French"
-msgstr "Français"
+msgstr "français"
 
 # "fy"
 msgid "Western Frisian"
