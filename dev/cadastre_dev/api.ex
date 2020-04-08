@@ -1,8 +1,5 @@
 defmodule CadastreDev.API do
-  @moduledoc """
-  API for downloading ISO data
-  """
-
+  @moduledoc false
   @endpoint "https://salsa.debian.org/api/v4/projects/2957"
 
   def download_po(path) do

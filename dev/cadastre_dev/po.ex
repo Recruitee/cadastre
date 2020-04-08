@@ -1,7 +1,5 @@
 defmodule CadastreDev.PO do
-  @moduledoc """
-  The module is responsible for writing downloaded data to Gettext PO files.
-  """
+  @moduledoc false
 
   alias CadastreDev.Source
 

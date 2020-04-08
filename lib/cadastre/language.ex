@@ -14,7 +14,7 @@ defmodule Cadastre.Language do
   Returns all languages
 
   ## Examples
-
+  ```
   iex> Cadastre.Language.all() |> Enum.take(3)
   [
     %Cadastre.Language{id: "aa", name: "Afar"},
@@ -24,6 +24,7 @@ defmodule Cadastre.Language do
 
   iex> Cadastre.Language.all() |> Enum.count()
   140
+  ```
   """
   @spec all :: [t]
   def all, do: Backend.languages()
@@ -32,19 +33,20 @@ defmodule Cadastre.Language do
   Return all ids (ISO_639-2)
 
   ## Examples
-
+  ```
   iex> Cadastre.Language.ids() |> Enum.take(10)
   ["aa", "ab", "af", "am", "an", "as", "av", "ba", "be", "bg"]
+  ```
   """
   @spec ids :: [id]
   def ids, do: Backend.language_ids()
 
   @doc """
-  Returns %Cadastre.Language{} for valid `id`.
+  Returns `%Cadastre.Language{}` for valid `id`.
   Returns `nil` for invalid `id`.
 
   ## Examples
-
+  ```
   iex> Cadastre.Language.new("nl")
   %Cadastre.Language{id: "nl", name: "Dutch"}
 
@@ -53,6 +55,7 @@ defmodule Cadastre.Language do
 
   iex> Cadastre.Language.new("xx")
   nil
+  ```
   """
   @spec new(id | any) :: t | nil
   def new(id), do: Backend.language(id)
@@ -61,7 +64,7 @@ defmodule Cadastre.Language do
   Returns language name translation for `locale`
 
   ## Examples
-
+  ```
   iex> Cadastre.Language.new("nl") |> Cadastre.Language.name("be")
   "галандская"
 
@@ -70,8 +73,10 @@ defmodule Cadastre.Language do
 
   iex> Cadastre.Language.name("something wrong", "be")
   nil
+  ```
   """
   @spec name(t, id) :: String.t()
+  def name(language, locale)
   def name(%__MODULE__{name: name}, locale), do: name |> Backend.translate("languages", locale)
   def name(_, _), do: nil
 
@@ -79,12 +84,13 @@ defmodule Cadastre.Language do
   Returns language native name
 
   ## Examples
-
+  ```
   iex> Cadastre.Language.new("nl") |> Cadastre.Language.native_name()
   "Nederlands"
 
   iex> Cadastre.Language.native_name("something wrong")
   nil
+  ```
   """
   @spec native_name(t) :: String.t()
   def native_name(%__MODULE__{id: id} = language), do: name(language, id)

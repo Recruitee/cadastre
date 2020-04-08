@@ -1,14 +1,24 @@
 defmodule Cadastre.MixProject do
   use Mix.Project
 
+  @version "0.1.0"
+  @description "A repository of languages, countries and country subdivisions"
+  @source_url "https://github.com/Recruitee/cadastre"
+
   def project do
     [
+      name: "Cadastre",
       app: :cadastre,
       version: "0.1.0",
+      version: @version,
       elixir: "~> 1.8",
+      description: @description,
+      source_url: @source_url,
       elixirc_paths: elixirc_paths(Mix.env()),
       start_permanent: Mix.env() == :prod,
       deps: deps(),
+      docs: docs(),
+      package: package(),
       dialyzer: [plt_add_apps: [:mix]]
     ]
   end
@@ -37,7 +47,24 @@ defmodule Cadastre.MixProject do
 
       # Dev tools
       {:dialyxir, "~> 1.0", only: :dev, runtime: false},
-      {:credo, "~> 1.1", only: :dev, runtime: false}
+      {:credo, "~> 1.1", only: :dev, runtime: false},
+      {:ex_doc, "~> 0.21", only: :dev, runtime: false}
+    ]
+  end
+
+  def docs do
+    [
+      main: "readme",
+      extras: ["README.md"]
+    ]
+  end
+
+  defp package do
+    [
+      # These are the default files included in the package
+      files: ["lib", "priv/gettext", "priv/*.json", ".formatter.exs", "mix.exs", "README.md"],
+      links: %{"GitHub" => @source_url},
+      licenses: ["MIT"]
     ]
   end
 end

@@ -1,7 +1,5 @@
 defmodule CadastreDev.Source.Languages do
-  @moduledoc """
-  The module is responsible for downloading languages data
-  """
+  @moduledoc false
 
   alias CadastreDev.API
   alias CadastreDev.CSV

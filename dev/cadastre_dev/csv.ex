@@ -1,7 +1,5 @@
 defmodule CadastreDev.CSV do
-  @moduledoc """
-  Loads CSV files
-  """
+  @moduledoc false
 
   @spec load(Path.t()) :: Enumerable.t()
   def load(path) do

@@ -1,7 +1,5 @@
 defmodule CadastreDev.Source.Subdivisions do
-  @moduledoc """
-  The module is responsible for downloading subdivisions data
-  """
+  @moduledoc false
 
   alias CadastreDev.API
   alias CadastreDev.Source

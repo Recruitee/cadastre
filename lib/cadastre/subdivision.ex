@@ -17,7 +17,7 @@ defmodule Cadastre.Subdivision do
   Returns empty list for invalid argument.
 
   ## Examples
-
+  ```
   iex> Cadastre.Subdivision.all("SL")
   [
     %Cadastre.Subdivision{country_id: "SL", id: "E", name: "Eastern"},
@@ -39,6 +39,7 @@ defmodule Cadastre.Subdivision do
 
   iex> Cadastre.Subdivision.all(nil)
   []
+  ```
   """
   @spec all(Country.t() | Country.id() | any) :: [t]
   def all(country_or_country_id) do
@@ -46,11 +47,11 @@ defmodule Cadastre.Subdivision do
   end
 
   @doc """
-  Returns subdivision ids for country.
+  Returns all subdivision ids (ISO_3166-2) for country.
   Returns empty list for invalid argument.
 
   ## Examples
-
+  ```
   iex> Cadastre.Subdivision.ids("SL")
   ["E", "N", "S", "W"]
 
@@ -62,6 +63,7 @@ defmodule Cadastre.Subdivision do
 
   iex> Cadastre.Subdivision.ids(nil)
   []
+  ```
   """
   @spec ids(Country.t() | Country.id() | any) :: [id]
   def ids(country_or_country_id) do
@@ -73,7 +75,7 @@ defmodule Cadastre.Subdivision do
   Returns `nil` for invalid country/country_id and id.
 
   ## Examples
-
+  ```
   iex> Cadastre.Subdivision.new("SL", "W")
   %Cadastre.Subdivision{country_id: "SL", id: "W", name: "Western Area (Freetown)"}
 
@@ -88,6 +90,7 @@ defmodule Cadastre.Subdivision do
 
   iex> Cadastre.Subdivision.new(nil, nil)
   nil
+  ```
   """
   @spec new(Country.t() | Country.id() | any, id | any) :: t | nil
   def new(country_or_country_id, id) do
@@ -98,7 +101,7 @@ defmodule Cadastre.Subdivision do
   Returns subdivision name translation for `locale`
 
   ## Examples
-
+  ```
   iex> Cadastre.Subdivision.new("SL", "W") |> Cadastre.Subdivision.name("be")
   "Заходняя вобласць"
 
@@ -107,8 +110,10 @@ defmodule Cadastre.Subdivision do
 
   iex> Cadastre.Subdivision.name("something wrong", "be")
   nil
+  ```
   """
   @spec name(t, Language.id()) :: String.t()
+  def name(subdivision, locale)
   def name(%__MODULE__{name: name}, locale), do: name |> Backend.translate("subdivisions", locale)
   def name(_, _), do: nil
 

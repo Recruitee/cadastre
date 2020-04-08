@@ -1,7 +1,5 @@
 defmodule CadastreDev.Source.Countries do
-  @moduledoc """
-  The module is responsible for downloading countries data
-  """
+  @moduledoc false
 
   alias CadastreDev.API
   alias CadastreDev.Source

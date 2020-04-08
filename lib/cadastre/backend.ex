@@ -1,7 +1,5 @@
 defmodule Cadastre.Backend do
-  @moduledoc """
-  Backend for keys
-  """
+  @moduledoc false
 
   alias Cadastre.Country
   alias Cadastre.I18n

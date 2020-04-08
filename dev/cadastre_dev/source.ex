@@ -1,7 +1,5 @@
 defmodule CadastreDev.Source do
-  @moduledoc """
-  Behaviour for downloading data from different sources
-  """
+  @moduledoc false
 
   alias CadastreDev.API
   alias CadastreDev.CSV
