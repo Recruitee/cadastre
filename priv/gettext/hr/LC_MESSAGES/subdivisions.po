@@ -8474,7 +8474,7 @@ msgstr "Aruba"
 
 # "NL-CW"
 msgid "Curaçao"
-msgstr "Kurasao"
+msgstr "Curaçao"
 
 # "NL-DR"
 msgid "Drenthe"
@@ -13176,7 +13176,7 @@ msgstr ""
 
 # "US-UM"
 msgid "United States Minor Outlying Islands"
-msgstr "Mali udaljeni otoci SAD-a"
+msgstr "Američki mali izvanjski otoci"
 
 # "US-UT"
 msgid "Utah"

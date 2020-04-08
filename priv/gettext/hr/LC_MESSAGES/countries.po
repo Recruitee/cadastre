@@ -12,11 +12,11 @@ msgstr "Afganistan"
 
 # "AG"
 msgid "Antigua and Barbuda"
-msgstr "Antigva i Barbuda"
+msgstr "Antigua i Barbuda"
 
 # "AI"
 msgid "Anguilla"
-msgstr "Angvila"
+msgstr "Anguila"
 
 # "AL"
 msgid "Albania"
@@ -60,7 +60,7 @@ msgstr "Alandski otoci"
 
 # "AZ"
 msgid "Azerbaijan"
-msgstr "Azerbejdžan"
+msgstr "Azerbajdžan"
 
 # "BA"
 msgid "Bosnia and Herzegovina"
@@ -112,7 +112,7 @@ msgstr "Brunej Darussalam"
 
 # "BO"
 msgid "Bolivia, Plurinational State of"
-msgstr "Bolivija, Plurinacionalna Država"
+msgstr "Bolivija"
 
 # "BQ"
 msgid "Bonaire, Sint Eustatius and Saba"
@@ -152,7 +152,7 @@ msgstr "Kanada"
 
 # "CC"
 msgid "Cocos (Keeling) Islands"
-msgstr "Kokosovi (Keeling) otoci"
+msgstr "Cocos (Keeling) otoci"
 
 # "CD"
 msgid "Congo, The Democratic Republic of the"
@@ -208,11 +208,11 @@ msgstr "Zelenortski otoci"
 
 # "CW"
 msgid "Curaçao"
-msgstr "Kurasao"
+msgstr "Curaçao"
 
 # "CX"
 msgid "Christmas Island"
-msgstr "Božićni otok"
+msgstr "Božićni Otok"
 
 # "CY"
 msgid "Cyprus"
@@ -284,7 +284,7 @@ msgstr "Fidži"
 
 # "FK"
 msgid "Falkland Islands (Malvinas)"
-msgstr "Falklandski (Malvinski) otoci"
+msgstr "Falklandski otoci"
 
 # "FM"
 msgid "Micronesia, Federated States of"
@@ -292,7 +292,7 @@ msgstr "Mikronezija"
 
 # "FO"
 msgid "Faroe Islands"
-msgstr "Ovčji (Faroe) otoci"
+msgstr "Farski otoci"
 
 # "FR"
 msgid "France"
@@ -316,7 +316,7 @@ msgstr "Gruzija"
 
 # "GF"
 msgid "French Guiana"
-msgstr "Francuska Gvajana"
+msgstr "Francuska Gijana"
 
 # "GG"
 msgid "Guernsey"
@@ -348,7 +348,7 @@ msgstr "Gvadalupa"
 
 # "GQ"
 msgid "Equatorial Guinea"
-msgstr "Ekvatorska Gvineja"
+msgstr "Ekvatorijalna Gvineja"
 
 # "GR"
 msgid "Greece"
@@ -380,7 +380,7 @@ msgstr "Hong Kong"
 
 # "HM"
 msgid "Heard Island and McDonald Islands"
-msgstr "Otok Heard i McDonaldovi otoci"
+msgstr "Otok Heard i otočje McDonald"
 
 # "HN"
 msgid "Honduras"
@@ -480,11 +480,11 @@ msgstr "Sveti Kristofor i Nevis"
 
 # "KP"
 msgid "Korea, Democratic People's Republic of"
-msgstr "Sjeverna Koreja"
+msgstr "Koreja, Demokratska Narodna Republika"
 
 # "KR"
 msgid "Korea, Republic of"
-msgstr "Južna Koreja, Republika Koreja"
+msgstr "Južna Koreja"
 
 # "KW"
 msgid "Kuwait"
@@ -500,7 +500,7 @@ msgstr "Kazahstan"
 
 # "LA"
 msgid "Lao People's Democratic Republic"
-msgstr "Laos"
+msgstr "Laoska Narodna Demokratska Republika"
 
 # "LB"
 msgid "Lebanon"
@@ -552,7 +552,7 @@ msgstr "Monako"
 
 # "MD"
 msgid "Moldova, Republic of"
-msgstr "Republika Moldova"
+msgstr "Moldova"
 
 # "ME"
 msgid "Montenegro"
@@ -568,7 +568,7 @@ msgstr "Madagaskar"
 
 # "MH"
 msgid "Marshall Islands"
-msgstr "Maršalovi Otoci"
+msgstr "Maršalovi otoci"
 
 # "MK"
 msgid "North Macedonia"
@@ -720,7 +720,7 @@ msgstr "Sveti Petar i Mikelon"
 
 # "PN"
 msgid "Pitcairn"
-msgstr "Pitcairn"
+msgstr "Pitcairnovo Otočje"
 
 # "PR"
 msgid "Puerto Rico"
@@ -761,7 +761,7 @@ msgstr "Srbija"
 # "RU"
 # original msgid: "Russian Federation"
 msgid "Russia"
-msgstr "Rusija"
+msgstr "Ruska Federacija"
 
 # "RW"
 msgid "Rwanda"
@@ -773,7 +773,7 @@ msgstr "Saudijska Arabija"
 
 # "SB"
 msgid "Solomon Islands"
-msgstr "Solomonski otoci"
+msgstr "Salomonski Otoci"
 
 # "SC"
 msgid "Seychelles"
@@ -845,7 +845,7 @@ msgstr "Sveti Martin (nizozemski dio)"
 
 # "SY"
 msgid "Syrian Arab Republic"
-msgstr "Sirija"
+msgstr "Sirijska Arapska Republika"
 
 # "SZ"
 # original msgid: "Eswatini"
@@ -882,7 +882,7 @@ msgstr "Tokelau"
 
 # "TL"
 msgid "Timor-Leste"
-msgstr "Timor-Leste"
+msgstr "Istočni Timor"
 
 # "TM"
 msgid "Turkmenistan"
@@ -911,7 +911,7 @@ msgstr "Tuvalu"
 # "TW"
 # original msgid: "Taiwan, Province of China"
 msgid "Taiwan"
-msgstr "Tajvan, Kineska pokrajina"
+msgstr "Tajvan (provincija, NR Kina)"
 
 # "TZ"
 msgid "Tanzania, United Republic of"
@@ -927,7 +927,7 @@ msgstr "Uganda"
 
 # "UM"
 msgid "United States Minor Outlying Islands"
-msgstr "Mali udaljeni otoci SAD-a"
+msgstr "Američki Djevičanski otoci"
 
 # "US"
 msgid "United States"
@@ -943,7 +943,7 @@ msgstr "Uzbekistan"
 
 # "VA"
 msgid "Holy See (Vatican City State)"
-msgstr "Vatikan (Sveta Stolica)"
+msgstr "Vatikan (Država Vatikanskoga Grada)"
 
 # "VC"
 msgid "Saint Vincent and the Grenadines"
@@ -988,7 +988,7 @@ msgstr "Mayotte"
 
 # "ZA"
 msgid "South Africa"
-msgstr "Južna Afrika"
+msgstr "Južnoafrička Republika"
 
 # "ZM"
 msgid "Zambia"
