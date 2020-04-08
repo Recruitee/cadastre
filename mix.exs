@@ -2,14 +2,13 @@ defmodule Cadastre.MixProject do
   use Mix.Project
 
   @version "0.1.0"
-  @description "A repository of languages, countries and country subdivisions"
+  @description "A repository of languages, countries and country subdivisions from the iso-codes Debian package."
   @source_url "https://github.com/Recruitee/cadastre"
 
   def project do
     [
       name: "Cadastre",
       app: :cadastre,
-      version: "0.1.0",
       version: @version,
       elixir: "~> 1.8",
       description: @description,
