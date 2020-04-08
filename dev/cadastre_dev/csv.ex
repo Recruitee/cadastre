@@ -1,4 +1,4 @@
-defmodule AmbassadorDev.CSV do
+defmodule CadastreDev.CSV do
   @moduledoc """
   Loads CSV files
   """

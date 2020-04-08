@@ -1,4 +1,4 @@
-defmodule Ambassador.SubdivisionTest do
+defmodule Cadastre.SubdivisionTest do
   use ExUnit.Case, async: true
-  doctest Ambassador.Subdivision
+  doctest Cadastre.Subdivision
 end

@@ -1,10 +1,10 @@
-defmodule AmbassadorDev.Source.Countries do
+defmodule CadastreDev.Source.Countries do
   @moduledoc """
   The module is responsible for downloading countries data
   """
 
-  alias AmbassadorDev.API
-  alias AmbassadorDev.Source
+  alias CadastreDev.API
+  alias CadastreDev.Source
 
   @behaviour Source
 

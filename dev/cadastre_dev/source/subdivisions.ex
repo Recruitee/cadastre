@@ -1,10 +1,10 @@
-defmodule AmbassadorDev.Source.Subdivisions do
+defmodule CadastreDev.Source.Subdivisions do
   @moduledoc """
   The module is responsible for downloading subdivisions data
   """
 
-  alias AmbassadorDev.API
-  alias AmbassadorDev.Source
+  alias CadastreDev.API
+  alias CadastreDev.Source
 
   @behaviour Source
 

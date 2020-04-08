@@ -1,4 +1,4 @@
-defmodule Ambassador.LanguageTest do
+defmodule Cadastre.LanguageTest do
   use ExUnit.Case, async: true
-  doctest Ambassador.Language
+  doctest Cadastre.Language
 end

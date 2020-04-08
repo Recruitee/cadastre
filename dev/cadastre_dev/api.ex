@@ -1,4 +1,4 @@
-defmodule AmbassadorDev.API do
+defmodule CadastreDev.API do
   @moduledoc """
   API for downloading ISO data
   """

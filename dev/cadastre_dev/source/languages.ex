@@ -1,11 +1,11 @@
-defmodule AmbassadorDev.Source.Languages do
+defmodule CadastreDev.Source.Languages do
   @moduledoc """
   The module is responsible for downloading languages data
   """
 
-  alias AmbassadorDev.API
-  alias AmbassadorDev.CSV
-  alias AmbassadorDev.Source
+  alias CadastreDev.API
+  alias CadastreDev.CSV
+  alias CadastreDev.Source
 
   @behaviour Source
 

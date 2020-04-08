@@ -1,4 +1,4 @@
 defmodule AmbassadorTest do
   use ExUnit.Case
-  doctest Ambassador
+  doctest Cadastre
 end

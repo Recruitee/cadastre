@@ -1,4 +1,4 @@
-defmodule AmbassadorDev do
+defmodule CadastreDev do
   @moduledoc """
   The module is not compiled to the library.
   It's used for downloading ISO data:
@@ -7,10 +7,10 @@ defmodule AmbassadorDev do
   - ISO_3166-2 (subdivisions).
   """
 
-  alias AmbassadorDev.PO
-  alias AmbassadorDev.Source.Countries
-  alias AmbassadorDev.Source.Languages
-  alias AmbassadorDev.Source.Subdivisions
+  alias CadastreDev.PO
+  alias CadastreDev.Source.Countries
+  alias CadastreDev.Source.Languages
+  alias CadastreDev.Source.Subdivisions
 
   def update_data do
     subdivisions_msgstr_per_msgid_per_lang_task =

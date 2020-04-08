@@ -1,28 +1,28 @@
-defmodule Ambassador.Language do
+defmodule Cadastre.Language do
   @moduledoc """
   Language implementation
   """
-  alias Ambassador.Backend
+  alias Cadastre.Backend
 
   @enforce_keys [:id, :name]
   defstruct [:id, :name]
 
   @type id :: <<_::16>>
-  @type t :: %__MODULE__{id: id, name: Ambassador.msgid()}
+  @type t :: %__MODULE__{id: id, name: Cadastre.msgid()}
 
   @doc """
   Returns all languages
 
   ## Examples
 
-  iex> Ambassador.Language.all() |> Enum.take(3)
+  iex> Cadastre.Language.all() |> Enum.take(3)
   [
-    %Ambassador.Language{id: "aa", name: "Afar"},
-    %Ambassador.Language{id: "ab", name: "Abkhazian"},
-    %Ambassador.Language{id: "af", name: "Afrikaans"}
+    %Cadastre.Language{id: "aa", name: "Afar"},
+    %Cadastre.Language{id: "ab", name: "Abkhazian"},
+    %Cadastre.Language{id: "af", name: "Afrikaans"}
   ]
 
-  iex> Ambassador.Language.all() |> Enum.count()
+  iex> Cadastre.Language.all() |> Enum.count()
   140
   """
   @spec all :: [t]
@@ -33,25 +33,25 @@ defmodule Ambassador.Language do
 
   ## Examples
 
-  iex> Ambassador.Language.ids() |> Enum.take(10)
+  iex> Cadastre.Language.ids() |> Enum.take(10)
   ["aa", "ab", "af", "am", "an", "as", "av", "ba", "be", "bg"]
   """
   @spec ids :: [id]
   def ids, do: Backend.language_ids()
 
   @doc """
-  Returns %Ambassador.Language{} for valid `id`.
+  Returns %Cadastre.Language{} for valid `id`.
   Returns `nil` for invalid `id`.
 
   ## Examples
 
-  iex> Ambassador.Language.new("nl")
-  %Ambassador.Language{id: "nl", name: "Dutch"}
+  iex> Cadastre.Language.new("nl")
+  %Cadastre.Language{id: "nl", name: "Dutch"}
 
-  iex> Ambassador.Language.new("NL")
-  %Ambassador.Language{id: "nl", name: "Dutch"}
+  iex> Cadastre.Language.new("NL")
+  %Cadastre.Language{id: "nl", name: "Dutch"}
 
-  iex> Ambassador.Language.new("xx")
+  iex> Cadastre.Language.new("xx")
   nil
   """
   @spec new(id | any) :: t | nil
@@ -62,13 +62,13 @@ defmodule Ambassador.Language do
 
   ## Examples
 
-  iex> Ambassador.Language.new("nl") |> Ambassador.Language.name("be")
+  iex> Cadastre.Language.new("nl") |> Cadastre.Language.name("be")
   "галандская"
 
-  iex> Ambassador.Language.new("nl") |> Ambassador.Language.name(":)")
+  iex> Cadastre.Language.new("nl") |> Cadastre.Language.name(":)")
   "Dutch"
 
-  iex> Ambassador.Language.name("something wrong", "be")
+  iex> Cadastre.Language.name("something wrong", "be")
   nil
   """
   @spec name(t, id) :: String.t()
@@ -80,10 +80,10 @@ defmodule Ambassador.Language do
 
   ## Examples
 
-  iex> Ambassador.Language.new("nl") |> Ambassador.Language.native_name()
+  iex> Cadastre.Language.new("nl") |> Cadastre.Language.native_name()
   "Nederlands"
 
-  iex> Ambassador.Language.native_name("something wrong")
+  iex> Cadastre.Language.native_name("something wrong")
   nil
   """
   @spec native_name(t) :: String.t()

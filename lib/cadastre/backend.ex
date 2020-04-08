@@ -1,12 +1,12 @@
-defmodule Ambassador.Backend do
+defmodule Cadastre.Backend do
   @moduledoc """
   Backend for keys
   """
 
-  alias Ambassador.Country
-  alias Ambassador.I18n
-  alias Ambassador.Language
-  alias Ambassador.Subdivision
+  alias Cadastre.Country
+  alias Cadastre.I18n
+  alias Cadastre.Language
+  alias Cadastre.Subdivision
 
   languages_data =
     "priv/languages.json"

@@ -1,4 +1,4 @@
-defmodule Ambassador do
+defmodule Cadastre do
   @moduledoc """
   A repository of languages, countries and country subdivisions
   """

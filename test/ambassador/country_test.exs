@@ -1,4 +1,4 @@
-defmodule Ambassador.CountryTest do
+defmodule Cadastre.CountryTest do
   use ExUnit.Case, async: true
-  doctest Ambassador.Country
+  doctest Cadastre.Country
 end

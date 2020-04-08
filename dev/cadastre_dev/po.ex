@@ -1,9 +1,9 @@
-defmodule AmbassadorDev.PO do
+defmodule CadastreDev.PO do
   @moduledoc """
   The module is responsible for writing downloaded data to Gettext PO files.
   """
 
-  alias AmbassadorDev.Source
+  alias CadastreDev.Source
 
   @gettext_dir "priv/gettext"
 

@@ -1,10 +1,10 @@
-defmodule AmbassadorDev.Source do
+defmodule CadastreDev.Source do
   @moduledoc """
   Behaviour for downloading data from different sources
   """
 
-  alias AmbassadorDev.API
-  alias AmbassadorDev.CSV
+  alias CadastreDev.API
+  alias CadastreDev.CSV
 
   @type lang :: <<_::16>>
   @type id :: binary
