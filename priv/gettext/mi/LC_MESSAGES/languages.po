@@ -585,6 +585,10 @@ msgstr "Rakau"
 msgid "Yoruba"
 msgstr ""
 
+# "zh"
+msgid "Chinese"
+msgstr "Reo Hāina"
+
 # "zu"
 msgid "Zulu"
 msgstr "Purukeria"

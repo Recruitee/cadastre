@@ -584,6 +584,10 @@ msgstr "Tiếng X-hô-xa"
 msgid "Yoruba"
 msgstr "Tiếng Yo-ru-ba"
 
+# "zh"
+msgid "Chinese"
+msgstr "Tiếng Trung Quốc"
+
 # "zu"
 msgid "Zulu"
 msgstr "Tiếng Xu-lu"

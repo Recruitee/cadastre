@@ -584,6 +584,10 @@ msgstr "xhosza"
 msgid "Yoruba"
 msgstr "joruba"
 
+# "zh"
+msgid "Chinese"
+msgstr "kínai"
+
 # "zu"
 msgid "Zulu"
 msgstr "zulu"

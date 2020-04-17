@@ -584,6 +584,10 @@ msgstr "ಸೋಸಾ"
 msgid "Yoruba"
 msgstr "ಯೊರುಬ"
 
+# "zh"
+msgid "Chinese"
+msgstr "ಚೈನೀಸ್"
+
 # "zu"
 msgid "Zulu"
 msgstr "ಝುಲು"

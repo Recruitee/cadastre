@@ -584,6 +584,10 @@ msgstr "Cóisis"
 msgid "Yoruba"
 msgstr "Iarúibis"
 
+# "zh"
+msgid "Chinese"
+msgstr "Sínis"
+
 # "zu"
 msgid "Zulu"
 msgstr "Súlúis"

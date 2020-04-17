@@ -585,6 +585,10 @@ msgstr "koščina"
 msgid "Yoruba"
 msgstr "jorubščina"
 
+# "zh"
+msgid "Chinese"
+msgstr "kitajščina"
+
 # "zu"
 msgid "Zulu"
 msgstr "zulujščina"

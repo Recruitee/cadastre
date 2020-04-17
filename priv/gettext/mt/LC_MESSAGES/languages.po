@@ -584,6 +584,10 @@ msgstr "XChat"
 msgid "Yoruba"
 msgstr "Joruba"
 
+# "zh"
+msgid "Chinese"
+msgstr "Ċiniż"
+
 # "zu"
 msgid "Zulu"
 msgstr "Ġulja"

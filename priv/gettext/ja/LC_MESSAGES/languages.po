@@ -584,6 +584,10 @@ msgstr "ホサ語"
 msgid "Yoruba"
 msgstr "ヨルバ語"
 
+# "zh"
+msgid "Chinese"
+msgstr "中国語"
+
 # "zu"
 msgid "Zulu"
 msgstr "ズールー語"

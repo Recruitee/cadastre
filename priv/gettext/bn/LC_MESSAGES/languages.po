@@ -584,6 +584,10 @@ msgstr "জোসা"
 msgid "Yoruba"
 msgstr "ইওরুবা"
 
+# "zh"
+msgid "Chinese"
+msgstr "চিনা"
+
 # "zu"
 msgid "Zulu"
 msgstr "জুলু"

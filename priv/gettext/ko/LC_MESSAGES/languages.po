@@ -584,6 +584,10 @@ msgstr "코사어"
 msgid "Yoruba"
 msgstr "요루바어"
 
+# "zh"
+msgid "Chinese"
+msgstr "중국어"
+
 # "zu"
 msgid "Zulu"
 msgstr "줄루어"

@@ -584,6 +584,10 @@ msgstr "क्स्होसा"
 msgid "Yoruba"
 msgstr "योरूबा"
 
+# "zh"
+msgid "Chinese"
+msgstr "चायनीज"
+
 # "zu"
 msgid "Zulu"
 msgstr "झुलू"

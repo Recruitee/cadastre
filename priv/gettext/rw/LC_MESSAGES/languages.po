@@ -584,6 +584,10 @@ msgstr "Ikigisosa"
 msgid "Yoruba"
 msgstr "Ikiyoruba"
 
+# "zh"
+msgid "Chinese"
+msgstr "Igishinwa"
+
 # "zu"
 msgid "Zulu"
 msgstr "Ikizulu"

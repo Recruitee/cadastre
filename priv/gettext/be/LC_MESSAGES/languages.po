@@ -585,6 +585,10 @@ msgstr "кшоса"
 msgid "Yoruba"
 msgstr "іоруба"
 
+# "zh"
+msgid "Chinese"
+msgstr "кітайская"
+
 # "zu"
 msgid "Zulu"
 msgstr "зулу"

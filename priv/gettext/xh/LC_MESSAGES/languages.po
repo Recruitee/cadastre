@@ -584,6 +584,10 @@ msgstr "isiXhosa"
 msgid "Yoruba"
 msgstr ""
 
+# "zh"
+msgid "Chinese"
+msgstr "isiTshayina"
+
 # "zu"
 msgid "Zulu"
 msgstr "isiZulu"

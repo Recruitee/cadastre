@@ -584,6 +584,10 @@ msgstr "קוזה"
 msgid "Yoruba"
 msgstr ""
 
+# "zh"
+msgid "Chinese"
+msgstr "סינית"
+
 # "zu"
 msgid "Zulu"
 msgstr "זולו"

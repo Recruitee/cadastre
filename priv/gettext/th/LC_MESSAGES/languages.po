@@ -584,6 +584,10 @@ msgstr "คอซา"
 msgid "Yoruba"
 msgstr "โยรูบา"
 
+# "zh"
+msgid "Chinese"
+msgstr "จีน"
+
 # "zu"
 msgid "Zulu"
 msgstr "ซูลู"

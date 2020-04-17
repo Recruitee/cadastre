@@ -585,6 +585,10 @@ msgstr "Kosų"
 msgid "Yoruba"
 msgstr "Jorubų"
 
+# "zh"
+msgid "Chinese"
+msgstr "Kinų"
+
 # "zu"
 msgid "Zulu"
 msgstr "Zulų (zulusų)"

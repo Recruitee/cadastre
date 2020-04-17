@@ -584,6 +584,10 @@ msgstr "科萨语"
 msgid "Yoruba"
 msgstr "约鲁巴语"
 
+# "zh"
+msgid "Chinese"
+msgstr "汉语"
+
 # "zu"
 msgid "Zulu"
 msgstr "祖鲁语"

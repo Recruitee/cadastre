@@ -584,6 +584,10 @@ msgstr "ஹோசா"
 msgid "Yoruba"
 msgstr "யோருபா"
 
+# "zh"
+msgid "Chinese"
+msgstr "சைனீஸ்"
+
 # "zu"
 msgid "Zulu"
 msgstr "Zulu"

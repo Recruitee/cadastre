@@ -584,6 +584,10 @@ msgstr "ਐਕਸਹੋਸਾ"
 msgid "Yoruba"
 msgstr "ਯੁਰੂਬਾ"
 
+# "zh"
+msgid "Chinese"
+msgstr "ਚੀਨੀ"
+
 # "zu"
 msgid "Zulu"
 msgstr "ਜ਼ੁਲੂ"

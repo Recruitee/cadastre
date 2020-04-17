@@ -584,6 +584,10 @@ msgstr "ዞሳኛ"
 msgid "Yoruba"
 msgstr "ዮሩባዊኛ"
 
+# "zh"
+msgid "Chinese"
+msgstr "ቻይንኛ"
+
 # "zu"
 msgid "Zulu"
 msgstr "ዙሉኛ"
