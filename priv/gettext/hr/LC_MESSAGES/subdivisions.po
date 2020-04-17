@@ -4086,7 +4086,7 @@ msgstr ""
 
 # "HN-LE"
 msgid "Lempira"
-msgstr "Lempira"
+msgstr "Honduraška lempira"
 
 # "HN-OC"
 msgid "Ocotepeque"

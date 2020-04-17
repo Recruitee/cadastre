@@ -112,7 +112,7 @@ msgstr "Brunej Darussalam"
 
 # "BO"
 msgid "Bolivia, Plurinational State of"
-msgstr "Bolivija"
+msgstr "Bolivija, Plurinacionalna država"
 
 # "BQ"
 msgid "Bonaire, Sint Eustatius and Saba"
@@ -156,7 +156,7 @@ msgstr "Cocos (Keeling) otoci"
 
 # "CD"
 msgid "Congo, The Democratic Republic of the"
-msgstr "Demokratska Republika Kongo"
+msgstr "Kongo, Demokratska Repubilika"
 
 # "CF"
 msgid "Central African Republic"
@@ -288,7 +288,7 @@ msgstr "Falklandski otoci"
 
 # "FM"
 msgid "Micronesia, Federated States of"
-msgstr "Mikronezija"
+msgstr "Mikronezija, Savezne Države"
 
 # "FO"
 msgid "Faroe Islands"
@@ -428,7 +428,7 @@ msgstr "Irak"
 
 # "IR"
 msgid "Iran, Islamic Republic of"
-msgstr "Iran"
+msgstr "Iran, Islamska Republika"
 
 # "IS"
 msgid "Iceland"
@@ -484,7 +484,7 @@ msgstr "Koreja, Demokratska Narodna Republika"
 
 # "KR"
 msgid "Korea, Republic of"
-msgstr "Južna Koreja"
+msgstr "Koreja, Republika"
 
 # "KW"
 msgid "Kuwait"
@@ -552,7 +552,7 @@ msgstr "Monako"
 
 # "MD"
 msgid "Moldova, Republic of"
-msgstr "Moldova"
+msgstr "Moldavija, Republika"
 
 # "ME"
 msgid "Montenegro"
@@ -927,7 +927,7 @@ msgstr "Uganda"
 
 # "UM"
 msgid "United States Minor Outlying Islands"
-msgstr "Američki Djevičanski otoci"
+msgstr "Američki Djevičanski Otoci"
 
 # "US"
 msgid "United States"
@@ -955,11 +955,11 @@ msgstr "Venezuela, Bolivarska Republika"
 
 # "VG"
 msgid "Virgin Islands, British"
-msgstr "Djevičanski otoci, britanski"
+msgstr "Djevičanski Otoci, Britanski"
 
 # "VI"
 msgid "Virgin Islands, U.S."
-msgstr "Američki Djevičanski otoci"
+msgstr "Djevičanski Otoci, SAD"
 
 # "VN"
 # original msgid: "Viet Nam"

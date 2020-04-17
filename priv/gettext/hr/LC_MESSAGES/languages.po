@@ -280,7 +280,7 @@ msgstr "Kašmirski"
 
 # "kw"
 msgid "Cornish"
-msgstr ""
+msgstr "Kornijski"
 
 # "ky"
 # original msgid: "Kirghiz; Kyrgyz"
