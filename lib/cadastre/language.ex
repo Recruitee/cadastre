@@ -23,7 +23,7 @@ defmodule Cadastre.Language do
   ]
 
   iex> Cadastre.Language.all() |> Enum.count()
-  140
+  141
   ```
   """
   @spec all :: [t]

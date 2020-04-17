@@ -24,8 +24,8 @@ defmodule Cadastre.Country do
     %Cadastre.Country{id: "AF", name: "Afghanistan"}
   ]
 
-  iex> Cadastre.Language.all() |> Enum.count()
-  140
+  iex> Cadastre.Country.all() |> Enum.count()
+  249
   ```
   """
   @spec all :: [t]
