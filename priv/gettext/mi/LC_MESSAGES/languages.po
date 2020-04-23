@@ -6,9 +6,17 @@ msgstr ""
 msgid "Abkhazian"
 msgstr "Reo Koroātia"
 
+# "ae"
+msgid "Avestan"
+msgstr ""
+
 # "af"
 msgid "Afrikaans"
 msgstr "Reo Āwherika Tatimana"
+
+# "ak"
+msgid "Akan"
+msgstr "Reo Koroātia"
 
 # "am"
 msgid "Amharic"
@@ -18,6 +26,10 @@ msgstr "Reo Arapia"
 msgid "Aragonese"
 msgstr ""
 
+# "ar"
+msgid "Arabic"
+msgstr "Reo Arapia"
+
 # "as"
 msgid "Assamese"
 msgstr ""
@@ -25,6 +37,14 @@ msgstr ""
 # "av"
 msgid "Avaric"
 msgstr "Reo Arapia"
+
+# "ay"
+msgid "Aymara"
+msgstr ""
+
+# "az"
+msgid "Azerbaijani"
+msgstr "Reo Koroātia"
 
 # "ba"
 msgid "Bashkir"
@@ -80,6 +100,10 @@ msgstr ""
 msgid "Corsican"
 msgstr "Reo Etonia"
 
+# "cr"
+msgid "Cree"
+msgstr "Reo Kariki"
+
 # "cs"
 msgid "Czech"
 msgstr "Reo Parani"
@@ -122,14 +146,30 @@ msgstr ""
 msgid "English"
 msgstr "Reo Pākehā - Ingarangi"
 
+# "eo"
+msgid "Esperanto"
+msgstr "Reo Tiamana"
+
 # "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr ""
 
+# "et"
+msgid "Estonian"
+msgstr "Reo Etonia"
+
 # "eu"
 msgid "Basque"
 msgstr "Tūparu"
+
+# "fa"
+msgid "Persian"
+msgstr "Reo Koroātia"
+
+# "ff"
+msgid "Fulah"
+msgstr ""
 
 # "fi"
 msgid "Finnish"
@@ -163,6 +203,10 @@ msgstr ""
 # "gl"
 msgid "Galician"
 msgstr "Reo Itari"
+
+# "gn"
+msgid "Guarani"
+msgstr "Reo Purukeria"
 
 # "gu"
 msgid "Gujarati"
@@ -209,6 +253,11 @@ msgstr "Reo Romeinia"
 msgid "Herero"
 msgstr "Reo Hūrai"
 
+# "ia"
+# original msgid: "Interlingua (International Auxiliary Language Association)"
+msgid "Interlingua"
+msgstr ""
+
 # "id"
 msgid "Indonesian"
 msgstr "Reo Etonia"
@@ -222,6 +271,10 @@ msgstr ""
 msgid "Sichuan Yi"
 msgstr "Reo Ītariana"
 
+# "ik"
+msgid "Inupiaq"
+msgstr ""
+
 # "is"
 msgid "Icelandic"
 msgstr "Reo Tiorangi"
@@ -229,6 +282,10 @@ msgstr "Reo Tiorangi"
 # "it"
 msgid "Italian"
 msgstr "Reo Itari"
+
+# "iu"
+msgid "Inuktitut"
+msgstr ""
 
 # "ja"
 msgid "Japanese"
@@ -241,6 +298,10 @@ msgstr "Reo Hapana"
 # "ka"
 msgid "Georgian"
 msgstr "Reo Tiamana"
+
+# "kg"
+msgid "Kongo"
+msgstr ""
 
 # "ki"
 # original msgid: "Kikuyu; Gikuyu"
@@ -274,8 +335,20 @@ msgstr ""
 msgid "Korean"
 msgstr "Kaupapa"
 
+# "kr"
+msgid "Kanuri"
+msgstr "Reo Airana"
+
 # "ks"
 msgid "Kashmiri"
+msgstr ""
+
+# "ku"
+msgid "Kurdish"
+msgstr "Reo Airana"
+
+# "kv"
+msgid "Komi"
 msgstr ""
 
 # "kw"
@@ -286,6 +359,10 @@ msgstr "Reo Airana"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr ""
+
+# "la"
+msgid "Latin"
+msgstr "Reo Koroātia"
 
 # "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
@@ -317,6 +394,14 @@ msgstr "Reo Ītariana"
 msgid "Luba-Katanga"
 msgstr ""
 
+# "lv"
+msgid "Latvian"
+msgstr "Reo Koroātia"
+
+# "mg"
+msgid "Malagasy"
+msgstr ""
+
 # "mh"
 msgid "Marshallese"
 msgstr "Kaupapa"
@@ -334,9 +419,17 @@ msgstr "Reo Makerōnia"
 msgid "Malayalam"
 msgstr ""
 
+# "mn"
+msgid "Mongolian"
+msgstr "Reo Makerōnia"
+
 # "mr"
 msgid "Marathi"
 msgstr "Reo Māori"
+
+# "ms"
+msgid "Malay"
+msgstr ""
 
 # "mt"
 msgid "Maltese"
@@ -360,6 +453,10 @@ msgstr ""
 msgid "North Ndebele"
 msgstr ""
 
+# "ne"
+msgid "Nepali"
+msgstr ""
+
 # "ng"
 msgid "Ndonga"
 msgstr "Reo Etonia"
@@ -373,6 +470,10 @@ msgstr ""
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "Reo Nōwei (Nynorsk)"
+
+# "no"
+msgid "Norwegian"
+msgstr "Kaupapa"
 
 # "nr"
 # original msgid: "Ndebele, South; South Ndebele"
@@ -394,6 +495,19 @@ msgstr ""
 msgid "Occitan"
 msgstr ""
 
+# "oj"
+msgid "Ojibwa"
+msgstr ""
+
+# "om"
+msgid "Oromo"
+msgstr ""
+
+# "or"
+# original msgid: "Oriya"
+msgid "Odia"
+msgstr ""
+
 # "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
@@ -408,9 +522,18 @@ msgstr ""
 msgid "Polish"
 msgstr "Reo Pōrana"
 
+# "ps"
+# original msgid: "Pushto; Pashto"
+msgid "Pashto"
+msgstr ""
+
 # "pt"
 msgid "Portuguese"
 msgstr "Reo Pōtikī"
+
+# "qu"
+msgid "Quechua"
+msgstr ""
 
 # "rm"
 msgid "Romansh"
@@ -432,6 +555,14 @@ msgstr "Reo Ruhia"
 # "rw"
 msgid "Kinyarwanda"
 msgstr ""
+
+# "sa"
+msgid "Sanskrit"
+msgstr ""
+
+# "sc"
+msgid "Sardinian"
+msgstr "Reo Makerōnia"
 
 # "sd"
 msgid "Sindhi"
@@ -470,6 +601,10 @@ msgstr "Rakau"
 msgid "Somali"
 msgstr ""
 
+# "sq"
+msgid "Albanian"
+msgstr "Reo Koroātia"
+
 # "sr"
 msgid "Serbian"
 msgstr "Reo Koroātia"
@@ -490,6 +625,10 @@ msgstr ""
 # "sv"
 msgid "Swedish"
 msgstr "Reo Wītana"
+
+# "sw"
+msgid "Swahili"
+msgstr ""
 
 # "ta"
 msgid "Tamil"
@@ -561,6 +700,10 @@ msgstr "Parani"
 msgid "Urdu"
 msgstr ""
 
+# "uz"
+msgid "Uzbek"
+msgstr ""
+
 # "ve"
 msgid "Venda"
 msgstr ""
@@ -581,8 +724,17 @@ msgstr ""
 msgid "Xhosa"
 msgstr "Rakau"
 
+# "yi"
+msgid "Yiddish"
+msgstr ""
+
 # "yo"
 msgid "Yoruba"
+msgstr ""
+
+# "za"
+# original msgid: "Zhuang; Chuang"
+msgid "Zhuang"
 msgstr ""
 
 # "zh"

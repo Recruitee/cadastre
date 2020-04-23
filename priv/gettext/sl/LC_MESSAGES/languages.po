@@ -6,9 +6,17 @@ msgstr "afarščina"
 msgid "Abkhazian"
 msgstr "abhaščina"
 
+# "ae"
+msgid "Avestan"
+msgstr "avestščina"
+
 # "af"
 msgid "Afrikaans"
 msgstr "afrikanščina"
+
+# "ak"
+msgid "Akan"
+msgstr "akanščina"
 
 # "am"
 msgid "Amharic"
@@ -18,6 +26,10 @@ msgstr "amharščina"
 msgid "Aragonese"
 msgstr "aragonščina"
 
+# "ar"
+msgid "Arabic"
+msgstr "arabščina"
+
 # "as"
 msgid "Assamese"
 msgstr "asamščina"
@@ -25,6 +37,14 @@ msgstr "asamščina"
 # "av"
 msgid "Avaric"
 msgstr "avarščina"
+
+# "ay"
+msgid "Aymara"
+msgstr "ajmarščina"
+
+# "az"
+msgid "Azerbaijani"
+msgstr "azerbajdžanščina,azerščina"
 
 # "ba"
 msgid "Bashkir"
@@ -80,6 +100,10 @@ msgstr "čamorščina"
 msgid "Corsican"
 msgstr "korzijščina"
 
+# "cr"
+msgid "Cree"
+msgstr "krijščina"
+
 # "cs"
 msgid "Czech"
 msgstr "češčina"
@@ -122,14 +146,30 @@ msgstr "grščina (1453-)"
 msgid "English"
 msgstr "angleščina"
 
+# "eo"
+msgid "Esperanto"
+msgstr "esperanto"
+
 # "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr "španščina; kastiljščina"
 
+# "et"
+msgid "Estonian"
+msgstr "estonščina"
+
 # "eu"
 msgid "Basque"
 msgstr "baskovščina"
+
+# "fa"
+msgid "Persian"
+msgstr "perzijščina"
+
+# "ff"
+msgid "Fulah"
+msgstr "fulščina"
 
 # "fi"
 msgid "Finnish"
@@ -163,6 +203,10 @@ msgstr "gelščina, škotska gelščina"
 # "gl"
 msgid "Galician"
 msgstr "galicijščina"
+
+# "gn"
+msgid "Guarani"
+msgstr "gvaranijščina"
 
 # "gu"
 msgid "Gujarati"
@@ -209,6 +253,11 @@ msgstr "armenščina"
 msgid "Herero"
 msgstr "herero"
 
+# "ia"
+# original msgid: "Interlingua (International Auxiliary Language Association)"
+msgid "Interlingua"
+msgstr "interlingva (Mednarodna zveza za pomožne jezike)"
+
 # "id"
 msgid "Indonesian"
 msgstr "indonezijščina"
@@ -222,6 +271,10 @@ msgstr "igboščina"
 msgid "Sichuan Yi"
 msgstr "sečuanski ji"
 
+# "ik"
+msgid "Inupiaq"
+msgstr "inupiaščina"
+
 # "is"
 msgid "Icelandic"
 msgstr "islandščina"
@@ -229,6 +282,10 @@ msgstr "islandščina"
 # "it"
 msgid "Italian"
 msgstr "italijanščina"
+
+# "iu"
+msgid "Inuktitut"
+msgstr "inuktituščina"
 
 # "ja"
 msgid "Japanese"
@@ -241,6 +298,10 @@ msgstr "javanščina"
 # "ka"
 msgid "Georgian"
 msgstr "gruzinščina"
+
+# "kg"
+msgid "Kongo"
+msgstr "kongovščina"
 
 # "ki"
 # original msgid: "Kikuyu; Gikuyu"
@@ -274,9 +335,21 @@ msgstr "kanareščina"
 msgid "Korean"
 msgstr "korejščina"
 
+# "kr"
+msgid "Kanuri"
+msgstr "kanurščina"
+
 # "ks"
 msgid "Kashmiri"
 msgstr "kašmirščina"
+
+# "ku"
+msgid "Kurdish"
+msgstr "kurdščina"
+
+# "kv"
+msgid "Komi"
+msgstr "komijščina"
 
 # "kw"
 msgid "Cornish"
@@ -286,6 +359,10 @@ msgstr "kornijščina"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr "kirgiščina"
+
+# "la"
+msgid "Latin"
+msgstr "latinščina"
 
 # "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
@@ -317,6 +394,14 @@ msgstr "litovščina"
 msgid "Luba-Katanga"
 msgstr "lubakatangščina"
 
+# "lv"
+msgid "Latvian"
+msgstr "latvijščina"
+
+# "mg"
+msgid "Malagasy"
+msgstr "malgaščina"
+
 # "mh"
 msgid "Marshallese"
 msgstr "maršalščina"
@@ -333,9 +418,17 @@ msgstr "makedonščina"
 msgid "Malayalam"
 msgstr "malajalščina"
 
+# "mn"
+msgid "Mongolian"
+msgstr "mongolščina"
+
 # "mr"
 msgid "Marathi"
 msgstr "maratščina"
+
+# "ms"
+msgid "Malay"
+msgstr "malajščina"
 
 # "mt"
 msgid "Maltese"
@@ -359,6 +452,10 @@ msgstr "knjižna norveščina"
 msgid "North Ndebele"
 msgstr "severna ndebelščina"
 
+# "ne"
+msgid "Nepali"
+msgstr "nepalščina"
+
 # "ng"
 msgid "Ndonga"
 msgstr "ndongščina"
@@ -372,6 +469,10 @@ msgstr "nizozemščina; flamščina"
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "novonorveščina"
+
+# "no"
+msgid "Norwegian"
+msgstr "norveščina"
 
 # "nr"
 # original msgid: "Ndebele, South; South Ndebele"
@@ -393,6 +494,19 @@ msgstr "čevščina; njanščina"
 msgid "Occitan"
 msgstr "okcitanščina (1500-)"
 
+# "oj"
+msgid "Ojibwa"
+msgstr "anašinabščina"
+
+# "om"
+msgid "Oromo"
+msgstr "oromščina"
+
+# "or"
+# original msgid: "Oriya"
+msgid "Odia"
+msgstr "orijščina"
+
 # "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
@@ -407,9 +521,18 @@ msgstr "pandžabščina"
 msgid "Polish"
 msgstr "poljščina"
 
+# "ps"
+# original msgid: "Pushto; Pashto"
+msgid "Pashto"
+msgstr "paštunščina"
+
 # "pt"
 msgid "Portuguese"
 msgstr "portugalščina"
+
+# "qu"
+msgid "Quechua"
+msgstr "kečvanščina"
 
 # "rm"
 msgid "Romansh"
@@ -431,6 +554,14 @@ msgstr "ruščina"
 # "rw"
 msgid "Kinyarwanda"
 msgstr "ruandščina"
+
+# "sa"
+msgid "Sanskrit"
+msgstr "sanskrt"
+
+# "sc"
+msgid "Sardinian"
+msgstr "sardinščina"
 
 # "sd"
 msgid "Sindhi"
@@ -470,6 +601,10 @@ msgstr "šonščina"
 msgid "Somali"
 msgstr "somalijščina"
 
+# "sq"
+msgid "Albanian"
+msgstr "albanščina"
+
 # "sr"
 msgid "Serbian"
 msgstr "srbščina"
@@ -490,6 +625,10 @@ msgstr "sundščina"
 # "sv"
 msgid "Swedish"
 msgstr "švedščina"
+
+# "sw"
+msgid "Swahili"
+msgstr "svahilščina"
 
 # "ta"
 msgid "Tamil"
@@ -561,6 +700,10 @@ msgstr "ukrajinščina"
 msgid "Urdu"
 msgstr "urdu"
 
+# "uz"
+msgid "Uzbek"
+msgstr "uzbeščina"
+
 # "ve"
 msgid "Venda"
 msgstr "vendščina"
@@ -581,9 +724,18 @@ msgstr "volofščina"
 msgid "Xhosa"
 msgstr "koščina"
 
+# "yi"
+msgid "Yiddish"
+msgstr "jidiš"
+
 # "yo"
 msgid "Yoruba"
 msgstr "jorubščina"
+
+# "za"
+# original msgid: "Zhuang; Chuang"
+msgid "Zhuang"
+msgstr "džuanščina"
 
 # "zh"
 msgid "Chinese"

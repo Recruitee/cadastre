@@ -6,9 +6,17 @@ msgstr "Tiếng A-pha"
 msgid "Abkhazian"
 msgstr "Tiếng Ap-kha-xi-a"
 
+# "ae"
+msgid "Avestan"
+msgstr "Tiếng A-ve-x-tanh"
+
 # "af"
 msgid "Afrikaans"
 msgstr "Tiếng Hoà Lan Nam Phi"
+
+# "ak"
+msgid "Akan"
+msgstr "Tiếng A-can"
 
 # "am"
 msgid "Amharic"
@@ -18,6 +26,10 @@ msgstr "Tiếng Am-ha-ri"
 msgid "Aragonese"
 msgstr "Tiếng A-ra-gon"
 
+# "ar"
+msgid "Arabic"
+msgstr "Tiếng A Rập"
+
 # "as"
 msgid "Assamese"
 msgstr "Tiếng A-xam"
@@ -25,6 +37,14 @@ msgstr "Tiếng A-xam"
 # "av"
 msgid "Avaric"
 msgstr "Tiếng A-va-ric"
+
+# "ay"
+msgid "Aymara"
+msgstr "Tiếng Ai-ma-ra"
+
+# "az"
+msgid "Azerbaijani"
+msgstr "Tiếng A-xợ-bai-gianh"
 
 # "ba"
 msgid "Bashkir"
@@ -80,6 +100,10 @@ msgstr "Tiếng Cha-mo-ro"
 msgid "Corsican"
 msgstr "Tiếng Coa-si-ca"
 
+# "cr"
+msgid "Cree"
+msgstr "Tiếng Cợ-ri"
+
 # "cs"
 msgid "Czech"
 msgstr "Tiếng Séc"
@@ -122,14 +146,30 @@ msgstr "Tiếng Hy Lạp, Cận Đại (từ năm 1453)"
 msgid "English"
 msgstr "Tiếng Anh"
 
+# "eo"
+msgid "Esperanto"
+msgstr "Tiếng E-x-pê-ran-tô"
+
 # "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr "Tiếng Tây Ban Nhà kiểu Cax-ti-le"
 
+# "et"
+msgid "Estonian"
+msgstr "Tiếng E-x-tô-ni-a"
+
 # "eu"
 msgid "Basque"
 msgstr "Tiếng Baxcơ"
+
+# "fa"
+msgid "Persian"
+msgstr "Tiếng Ba Tư"
+
+# "ff"
+msgid "Fulah"
+msgstr "Tiếng Phu-la"
 
 # "fi"
 msgid "Finnish"
@@ -163,6 +203,10 @@ msgstr "Tiếng Xen-tơ, Ê-cốt"
 # "gl"
 msgid "Galician"
 msgstr "Tiếng Ga-li-xi"
+
+# "gn"
+msgid "Guarani"
+msgstr "Tiếng Gua-ra-ni"
 
 # "gu"
 msgid "Gujarati"
@@ -209,6 +253,11 @@ msgstr "Tiếng Ác-mê-ni"
 msgid "Herero"
 msgstr "Tiếng He-re-rô"
 
+# "ia"
+# original msgid: "Interlingua (International Auxiliary Language Association)"
+msgid "Interlingua"
+msgstr "Ngôn ngữ lẫn nhau In-tơ-lin-gua (Liên Hiệp Ngôn Ngữ Bổ Trợ Quốc Tế)"
+
 # "id"
 msgid "Indonesian"
 msgstr "Tiếng Nam Dương"
@@ -222,6 +271,10 @@ msgstr "Tiếng Ic-bô"
 msgid "Sichuan Yi"
 msgstr "Sichuan Yi; Nuosu"
 
+# "ik"
+msgid "Inupiaq"
+msgstr "Tiếng In-u-pi-ac"
+
 # "is"
 msgid "Icelandic"
 msgstr "Tiếng Băng Đảo"
@@ -229,6 +282,10 @@ msgstr "Tiếng Băng Đảo"
 # "it"
 msgid "Italian"
 msgstr "Tiếng Ý"
+
+# "iu"
+msgid "Inuktitut"
+msgstr "Tiếng I-nuc-ti-tuc"
 
 # "ja"
 msgid "Japanese"
@@ -241,6 +298,10 @@ msgstr "Tiếng Gia-va"
 # "ka"
 msgid "Georgian"
 msgstr "Tiếng Gi-oa-gi-a"
+
+# "kg"
+msgid "Kongo"
+msgstr "Tiếng Kon-gô"
 
 # "ki"
 # original msgid: "Kikuyu; Gikuyu"
@@ -274,9 +335,21 @@ msgstr "Tiếng Kan-na-đa"
 msgid "Korean"
 msgstr "Tiếng Hàn"
 
+# "kr"
+msgid "Kanuri"
+msgstr "Tiếng Ca-nu-ri"
+
 # "ks"
 msgid "Kashmiri"
 msgstr "Tiếng Ca-s-mi-ri"
+
+# "ku"
+msgid "Kurdish"
+msgstr "Tiếng Kurd"
+
+# "kv"
+msgid "Komi"
+msgstr "Tiếng Kô-mi"
 
 # "kw"
 msgid "Cornish"
@@ -286,6 +359,10 @@ msgstr "Tiếng Khoanh-uoănh"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr "Tiếng Khia-ki-xơ"
+
+# "la"
+msgid "Latin"
+msgstr "Tiếng La-tinh"
 
 # "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
@@ -317,6 +394,14 @@ msgstr "Tiếng Li-tu-a-ni"
 msgid "Luba-Katanga"
 msgstr "Tiếng Lu-ba-Ka-tan-ga"
 
+# "lv"
+msgid "Latvian"
+msgstr "Tiếng Lát-vi-a"
+
+# "mg"
+msgid "Malagasy"
+msgstr "Tiếng Ma-la-ga-si"
+
 # "mh"
 msgid "Marshallese"
 msgstr "Tiếng Ma-san"
@@ -333,9 +418,17 @@ msgstr "Tiếng Ma-xê-đô-ni"
 msgid "Malayalam"
 msgstr "Tiếng Ma-lay-am"
 
+# "mn"
+msgid "Mongolian"
+msgstr "Tiếng Mông Cổ"
+
 # "mr"
 msgid "Marathi"
 msgstr "Tiếng Ma-ra-ti"
+
+# "ms"
+msgid "Malay"
+msgstr "Tiếng Mã lai"
 
 # "mt"
 msgid "Maltese"
@@ -359,6 +452,10 @@ msgstr "Na Uy (Bóc-man)"
 msgid "North Ndebele"
 msgstr "Tiếng Bắc N-đe-be-lê"
 
+# "ne"
+msgid "Nepali"
+msgstr "Tiếng Nê-pan"
+
 # "ng"
 msgid "Ndonga"
 msgstr "Tiếng N-đon-ga"
@@ -372,6 +469,10 @@ msgstr "Tiếng Hoà Lan; Tiếng Ph-le-mi"
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "Tiếng Na Uy (Ni-noa-x-kh)"
+
+# "no"
+msgid "Norwegian"
+msgstr "Tiếng Na Uy"
 
 # "nr"
 # original msgid: "Ndebele, South; South Ndebele"
@@ -393,6 +494,19 @@ msgstr "Tiếng Chi-che-oua"
 msgid "Occitan"
 msgstr "Tiếng Oc-xi-tan (từ năm 1500)"
 
+# "oj"
+msgid "Ojibwa"
+msgstr "Tiếng O-gip-oua"
+
+# "om"
+msgid "Oromo"
+msgstr "Tiếng O-ro-mô"
+
+# "or"
+# original msgid: "Oriya"
+msgid "Odia"
+msgstr "Tiếng O-ri-a"
+
 # "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
@@ -407,9 +521,18 @@ msgstr "Tiếng Pun-gia-bi"
 msgid "Polish"
 msgstr "Tiếng Ba Lan"
 
+# "ps"
+# original msgid: "Pushto; Pashto"
+msgid "Pashto"
+msgstr "Tiếng Pu-s-tô"
+
 # "pt"
 msgid "Portuguese"
 msgstr "Tiếng Bồ Đào Nha"
+
+# "qu"
+msgid "Quechua"
+msgstr "Tiếng Cue-chu-a"
 
 # "rm"
 msgid "Romansh"
@@ -431,6 +554,14 @@ msgstr "Tiếng Nga"
 # "rw"
 msgid "Kinyarwanda"
 msgstr "Tiếng Kin-ia-ouanh-đa"
+
+# "sa"
+msgid "Sanskrit"
+msgstr "Tiếng Phạn"
+
+# "sc"
+msgid "Sardinian"
+msgstr "Tiếng Xă-đi-ni-a"
 
 # "sd"
 msgid "Sindhi"
@@ -469,6 +600,10 @@ msgstr "Tiếng Sô-na"
 msgid "Somali"
 msgstr "Tiếng Xô-ma-li"
 
+# "sq"
+msgid "Albanian"
+msgstr "Tiếng An-ba-ni"
+
 # "sr"
 msgid "Serbian"
 msgstr "Tiếng Xéc bi"
@@ -489,6 +624,10 @@ msgstr "Tiếng Xunh-đan"
 # "sv"
 msgid "Swedish"
 msgstr "Tiếng Thuỵ Điển"
+
+# "sw"
+msgid "Swahili"
+msgstr "Tiếng Xoua-hi-li"
 
 # "ta"
 msgid "Tamil"
@@ -560,6 +699,10 @@ msgstr "Tiếng U-cợ-rainh"
 msgid "Urdu"
 msgstr "Tiếng Ua-đu"
 
+# "uz"
+msgid "Uzbek"
+msgstr "Tiếng U-x-bếkh"
+
 # "ve"
 msgid "Venda"
 msgstr "Tiếng Ven-đa"
@@ -580,9 +723,18 @@ msgstr "Tiếng Ou-o-lo-v"
 msgid "Xhosa"
 msgstr "Tiếng X-hô-xa"
 
+# "yi"
+msgid "Yiddish"
+msgstr "Tiếng Y-đit"
+
 # "yo"
 msgid "Yoruba"
 msgstr "Tiếng Yo-ru-ba"
+
+# "za"
+# original msgid: "Zhuang; Chuang"
+msgid "Zhuang"
+msgstr "Tiếng Xuang; Tiếng Chuang"
 
 # "zh"
 msgid "Chinese"

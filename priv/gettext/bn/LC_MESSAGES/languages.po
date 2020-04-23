@@ -6,9 +6,17 @@ msgstr "আফার"
 msgid "Abkhazian"
 msgstr "আভকাজিয়ান"
 
+# "ae"
+msgid "Avestan"
+msgstr "আভেস্তান"
+
 # "af"
 msgid "Afrikaans"
 msgstr "আফ্রিকান্স"
+
+# "ak"
+msgid "Akan"
+msgstr "আকান"
 
 # "am"
 msgid "Amharic"
@@ -18,6 +26,10 @@ msgstr "আমহারিক"
 msgid "Aragonese"
 msgstr "অ্যারাগোনিস"
 
+# "ar"
+msgid "Arabic"
+msgstr "আরবি"
+
 # "as"
 msgid "Assamese"
 msgstr "অসমীয়া"
@@ -25,6 +37,14 @@ msgstr "অসমীয়া"
 # "av"
 msgid "Avaric"
 msgstr "আভারিক"
+
+# "ay"
+msgid "Aymara"
+msgstr "আয়মারা"
+
+# "az"
+msgid "Azerbaijani"
+msgstr "আজারবাইজানি"
 
 # "ba"
 msgid "Bashkir"
@@ -80,6 +100,10 @@ msgstr "চামোরো"
 msgid "Corsican"
 msgstr "কোর্সিকান"
 
+# "cr"
+msgid "Cree"
+msgstr "ক্রি"
+
 # "cs"
 msgid "Czech"
 msgstr "চেক"
@@ -122,14 +146,30 @@ msgstr "গ্রিক, নবীন (১৪৫৩ থেকে আরম্ভ
 msgid "English"
 msgstr "ইংরেজি"
 
+# "eo"
+msgid "Esperanto"
+msgstr "এসপারান্তো"
+
 # "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr "স্প্যানিশ; ক্যাস্টিলিয়ান"
 
+# "et"
+msgid "Estonian"
+msgstr "এস্তোনিয়ান"
+
 # "eu"
 msgid "Basque"
 msgstr "বাস্ক"
+
+# "fa"
+msgid "Persian"
+msgstr "ফার্সি"
+
+# "ff"
+msgid "Fulah"
+msgstr "ফুলা"
 
 # "fi"
 msgid "Finnish"
@@ -163,6 +203,10 @@ msgstr "গেলিক; স্কটিশ গেলিক"
 # "gl"
 msgid "Galician"
 msgstr "গ্যালিশিয়ান"
+
+# "gn"
+msgid "Guarani"
+msgstr "গুয়ারানি"
 
 # "gu"
 msgid "Gujarati"
@@ -209,6 +253,11 @@ msgstr "আর্মেনিয়ান"
 msgid "Herero"
 msgstr "হেরেরো"
 
+# "ia"
+# original msgid: "Interlingua (International Auxiliary Language Association)"
+msgid "Interlingua"
+msgstr "ইন্টারলিঙ্গুয়া (আন্তর্জাতিক সহায়ক ভাষার সমিতি)"
+
 # "id"
 msgid "Indonesian"
 msgstr "ইন্দোনেশিয়ান"
@@ -222,6 +271,10 @@ msgstr "ইগবো"
 msgid "Sichuan Yi"
 msgstr "সিচুয়াল ই; নুওসু"
 
+# "ik"
+msgid "Inupiaq"
+msgstr "ইনুপিয়াক"
+
 # "is"
 msgid "Icelandic"
 msgstr "আইসল্যান্ডিক"
@@ -229,6 +282,10 @@ msgstr "আইসল্যান্ডিক"
 # "it"
 msgid "Italian"
 msgstr "ইটালিয়ান"
+
+# "iu"
+msgid "Inuktitut"
+msgstr "ইনুকটিটুট"
 
 # "ja"
 msgid "Japanese"
@@ -241,6 +298,10 @@ msgstr "জাভানিস"
 # "ka"
 msgid "Georgian"
 msgstr "জর্জিয়ান"
+
+# "kg"
+msgid "Kongo"
+msgstr "কোঙ্গো"
 
 # "ki"
 # original msgid: "Kikuyu; Gikuyu"
@@ -274,9 +335,21 @@ msgstr "কন্নড়"
 msgid "Korean"
 msgstr "কোরিয়ান"
 
+# "kr"
+msgid "Kanuri"
+msgstr "কানুরি"
+
 # "ks"
 msgid "Kashmiri"
 msgstr "কাশমিরী"
+
+# "ku"
+msgid "Kurdish"
+msgstr "কুর্ডিশ"
+
+# "kv"
+msgid "Komi"
+msgstr "কোমি"
 
 # "kw"
 msgid "Cornish"
@@ -286,6 +359,10 @@ msgstr "কর্নিশ"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr "কির্গিজ"
+
+# "la"
+msgid "Latin"
+msgstr "লাতিন"
 
 # "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
@@ -317,6 +394,14 @@ msgstr "লিথুয়েনিয়ান"
 msgid "Luba-Katanga"
 msgstr "লুবা-কাটাঙ্গা"
 
+# "lv"
+msgid "Latvian"
+msgstr "লাটভিয়ান"
+
+# "mg"
+msgid "Malagasy"
+msgstr "মালাগাসি"
+
 # "mh"
 msgid "Marshallese"
 msgstr "মার্শালিস"
@@ -333,9 +418,17 @@ msgstr "মেসিডোনিয়ান"
 msgid "Malayalam"
 msgstr "মালায়ালম"
 
+# "mn"
+msgid "Mongolian"
+msgstr "মঙ্গোলিয়ান"
+
 # "mr"
 msgid "Marathi"
 msgstr "মারাঠি"
+
+# "ms"
+msgid "Malay"
+msgstr "মালায়"
 
 # "mt"
 msgid "Maltese"
@@ -359,6 +452,10 @@ msgstr "বোকমাল, নরওয়েজিয়ান; নরওয়েজ�
 msgid "North Ndebele"
 msgstr "এন্ডেবিলি, উত্তর; উত্তর এন্ডেবিলি"
 
+# "ne"
+msgid "Nepali"
+msgstr "নেপালি"
+
 # "ng"
 msgid "Ndonga"
 msgstr "এনডোঙ্গা"
@@ -372,6 +469,10 @@ msgstr "ডাচ; ফ্লেমিশ"
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "নরওয়েজিয়ান নিনোরস্ক; নিনোরস্ক, নরওয়েজিয়ান"
+
+# "no"
+msgid "Norwegian"
+msgstr "নরওয়েজিয়ান"
 
 # "nr"
 # original msgid: "Ndebele, South; South Ndebele"
@@ -393,6 +494,19 @@ msgstr "চিচেওয়া; চেওয়া; নিয়ানজা"
 msgid "Occitan"
 msgstr "অকসিটান (১৫০০ উত্তোর)"
 
+# "oj"
+msgid "Ojibwa"
+msgstr "ওজিবওয়ে"
+
+# "om"
+msgid "Oromo"
+msgstr "ওরোমো"
+
+# "or"
+# original msgid: "Oriya"
+msgid "Odia"
+msgstr "ওড়িয়া"
+
 # "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
@@ -407,9 +521,18 @@ msgstr "পাঞ্জাবি"
 msgid "Polish"
 msgstr "পোলিশ"
 
+# "ps"
+# original msgid: "Pushto; Pashto"
+msgid "Pashto"
+msgstr "পুস্তু; পাস্তো"
+
 # "pt"
 msgid "Portuguese"
 msgstr "পোর্তুগিস"
+
+# "qu"
+msgid "Quechua"
+msgstr "কেচুওয়া"
 
 # "rm"
 msgid "Romansh"
@@ -431,6 +554,14 @@ msgstr "রুশি"
 # "rw"
 msgid "Kinyarwanda"
 msgstr "কিনয়ারুয়ান্ডা"
+
+# "sa"
+msgid "Sanskrit"
+msgstr "সংস্কৃত"
+
+# "sc"
+msgid "Sardinian"
+msgstr "সার্ডিনিয়ান"
 
 # "sd"
 msgid "Sindhi"
@@ -469,6 +600,10 @@ msgstr "শোনা"
 msgid "Somali"
 msgstr "সোমালী"
 
+# "sq"
+msgid "Albanian"
+msgstr "আলবেনিয়ান"
+
 # "sr"
 msgid "Serbian"
 msgstr "সার্বিয়ান"
@@ -489,6 +624,10 @@ msgstr "সুডানিজ"
 # "sv"
 msgid "Swedish"
 msgstr "সুইডিশ"
+
+# "sw"
+msgid "Swahili"
+msgstr "সোয়াহিলি"
 
 # "ta"
 msgid "Tamil"
@@ -560,6 +699,10 @@ msgstr "ইউক্রেনিয়ান"
 msgid "Urdu"
 msgstr "উর্দু"
 
+# "uz"
+msgid "Uzbek"
+msgstr "উজবেক"
+
 # "ve"
 msgid "Venda"
 msgstr "ভেন্ডা"
@@ -580,9 +723,18 @@ msgstr "ওলুফ"
 msgid "Xhosa"
 msgstr "জোসা"
 
+# "yi"
+msgid "Yiddish"
+msgstr "ইড্ডিশ"
+
 # "yo"
 msgid "Yoruba"
 msgstr "ইওরুবা"
+
+# "za"
+# original msgid: "Zhuang; Chuang"
+msgid "Zhuang"
+msgstr "জুয়াং; চুয়াং"
 
 # "zh"
 msgid "Chinese"

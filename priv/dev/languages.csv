@@ -1,11 +1,16 @@
 id,name,native_name
 aa,Afar,Afaraf
 ab,Abkhazian,аҧсуа бызшәа
+ae,Avestan,avesta
 af,Afrikaans,Afrikaans
+ak,Akan,Akan
 am,Amharic,አማርኛ
 an,Aragonese,aragonés
+ar,Arabic,اللغة العربية
 as,Assamese,অসমীয়া
 av,Avaric,авар мацӀ
+ay,Aymara,aymar aru
+az,Azerbaijani,azərbaycan dili
 ba,Bashkir,башҡорт теле
 be,Belarusian,Беларуская
 bg,Bulgarian,Български
@@ -19,6 +24,7 @@ ca,Catalan,català
 ce,Chechen,нохчийн мотт
 ch,Chamorro,Chamoru
 co,Corsican,corsu
+cr,Cree,ᓀᐦᐃᔭᐍᐏᐣ
 cs,Czech,Čeština
 cv,Chuvash,чӑваш чӗлхи
 cy,Welsh,Cymraeg
@@ -29,8 +35,12 @@ dz,Dzongkha,རྫོང་ཁ
 ee,Ewe,Eʋegbe
 el,Greek,ελληνικά
 en,English,English
+eo,Esperanto,Esperanto
 es,Spanish,Español
+et,Estonian,eesti
 eu,Basque,euskara
+fa,Persian,فارسی
+ff,Fulah,Fulfulde
 fi,Finnish,suomi
 fj,Fijian,Vakaviti
 fo,Faroese,føroyskt
@@ -39,6 +49,7 @@ fy,Western Frisian,Frysk
 ga,Irish,Gaeilge
 gd,Scottish Gaelic,Gàidhlig
 gl,Galician,galego
+gn,Guarani,Avañe'ẽ
 gu,Gujarati,ગુજરાતી
 gv,Manx,Gaelg
 ha,Hausa,هَوُسَ
@@ -50,14 +61,18 @@ ht,Haitian Creole,Kreyòl ayisyen
 hu,Hungarian,magyar
 hy,Armenian,Հայերեն
 hz,Herero,Otjiherero
+ia,Interlingua,Interlingua
 id,Indonesian,Indonesian
 ig,Igbo,Asụsụ Igbo
 ii,Sichuan Yi,ꆈꌠ꒿ Nuosuhxop
+ik,Inupiaq,Iñupiaq
 is,Icelandic,Íslenska
 it,Italian,Italiano
+iu,Inuktitut,ᐃᓄᒃᑎᑐᑦ
 ja,Japanese,日本語
 jv,Javanese,basa Jawa
 ka,Georgian,ქართული
+kg,Kongo,Kikongo
 ki,Kikuyu,Gĩkũyũ
 kj,Kuanyama,Kuanyama
 kk,Kazakh,қазақ тілі
@@ -65,9 +80,13 @@ kl,Kalaallisut,kalaallisut
 km,Khmer,ខេមរភាសា
 kn,Kannada,ಕನ್ನಡ
 ko,Korean,한국어
+kr,Kanuri,Kanuri
 ks,Kashmiri,कश्मीरी
+ku,Kurdish,Kurdî
+kv,Komi,коми кыв
 kw,Cornish,Kernewek
 ky,Kyrgyz,Кыргызча
+la,Latin,latine
 lb,Luxembourgish,Lëtzebuergesch
 lg,Ganda,Luganda
 li,Limburgish,Limburgs
@@ -75,32 +94,45 @@ ln,Lingala,Lingála
 lo,Lao,ພາສາ
 lt,Lithuanian,lietuvių kalba
 lu,Luba-Katanga,Tshiluba
+lv,Latvian,latviešu valoda
+mg,Malagasy,fiteny malagasy
 mh,Marshallese,Kajin M̧ajeļ
 mi,Maori,te reo Māori
 mk,Macedonian,Македонски
 ml,Malayalam,മലയാളം
+mn,Mongolian,Монгол хэл
 mr,Marathi,मराठी
+ms,Malay,هاس ملايو‎
 mt,Maltese,Malti
 my,Burmese,ဗမာစာ
 na,Nauru,Ekakairũ Naoero
 nb,Norwegian Bokmål,Norsk bokmål
 nd,North Ndebele,isiNdebele
+ne,Nepali,नेपाली
 ng,Ndonga,Owambo
 nl,Dutch,Nederlands
 nn,Norwegian Nynorsk,Norsk nynorsk
+no,Norwegian,Norsk
 nr,South Ndebele,isiNdebele
 nv,Navajo,Diné bizaad
 ny,Nyanja,chiCheŵa
 oc,Occitan,occitan
+oj,Ojibwa,ᐊᓂᔑᓈᐯᒧᐎᓐ
+om,Oromo,Afaan Oromoo
+or,Odia,ଓଡ଼ିଆ
 os,Ossetic,ирон æвзаг
 pa,Punjabi,ਪੰਜਾਬੀ
 pl,Polish,Polski
+ps,Pashto,پښتو
 pt,Portuguese,Português
+qu,Quechua,Runa Simi
 rm,Romansh,rumantsch grischun
 rn,Rundi,Ikirundi
 ro,Romanian,limba română
 ru,Russian,Русский
 rw,Kinyarwanda,Ikinyarwanda
+sa,Sanskrit,संस्कृतम्
+sc,Sardinian,sardu
 sd,Sindhi,सिन्धी
 se,Northern Sami,Davvisámegiella
 sg,Sango,yângâ tî sängö
@@ -110,11 +142,13 @@ sl,Slovenian,Slovenščina
 sm,Samoan,gagana fa'a Samoa
 sn,Shona,chiShona
 so,Somali,Soomaaliga
+sq,Albanian,Shqip
 sr,Serbian,Српски
 ss,Swati,SiSwati
 st,Southern Sotho,Sesotho
 su,Sundanese,Basa Sunda
 sv,Swedish,svenska
+sw,Swahili,Kiswahili
 ta,Tamil,தமிழ்
 te,Telugu,తెలుగు
 tg,Tajik,тоҷикӣ
@@ -132,11 +166,14 @@ ty,Tahitian,Reo Tahiti
 ug,Uyghur,ئۇيغۇرچە‎
 uk,Ukrainian,Українська
 ur,Urdu,اردو
+uz,Uzbek,Ўзбек
 ve,Venda,Tshivenḓa
 vi,Vietnamese,Tiếng Việt
 wa,Walloon,walon
 wo,Wolof,Wollof
 xh,Xhosa,isiXhosa
+yi,Yiddish,ייִדיש
 yo,Yoruba,Yorùbá
+za,Zhuang,Saɯ cueŋƅ
 zh,Chinese,汉语
 zu,Zulu,isiZulu

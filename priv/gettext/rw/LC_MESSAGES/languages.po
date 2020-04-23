@@ -6,9 +6,17 @@ msgstr "Ikinyafari"
 msgid "Abkhazian"
 msgstr "Abukaziyani"
 
+# "ae"
+msgid "Avestan"
+msgstr "Ikinyavesitani"
+
 # "af"
 msgid "Afrikaans"
 msgstr "Ikinyafurikansi"
+
+# "ak"
+msgid "Akan"
+msgstr "Ikinyakani"
 
 # "am"
 msgid "Amharic"
@@ -18,6 +26,10 @@ msgstr "Ikinyamarike"
 msgid "Aragonese"
 msgstr "Icyaragoneze"
 
+# "ar"
+msgid "Arabic"
+msgstr "Icyarabu"
+
 # "as"
 msgid "Assamese"
 msgstr "Ikinyasamese"
@@ -25,6 +37,14 @@ msgstr "Ikinyasamese"
 # "av"
 msgid "Avaric"
 msgstr "Ikinyavarika"
+
+# "ay"
+msgid "Aymara"
+msgstr "Ikinyayimara"
+
+# "az"
+msgid "Azerbaijani"
+msgstr "Ikinyazeribayijani"
 
 # "ba"
 msgid "Bashkir"
@@ -80,6 +100,10 @@ msgstr "Igishamoro"
 msgid "Corsican"
 msgstr "Igikoruse"
 
+# "cr"
+msgid "Cree"
+msgstr "Igikiri"
+
 # "cs"
 msgid "Czech"
 msgstr "Ikinyaceke"
@@ -122,14 +146,30 @@ msgstr "Ikigereki, Gishya (1453-)"
 msgid "English"
 msgstr "Icyongereza"
 
+# "eo"
+msgid "Esperanto"
+msgstr "Icyesiperanto"
+
 # "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr ""
 
+# "et"
+msgid "Estonian"
+msgstr "Icyesitoniya"
+
 # "eu"
 msgid "Basque"
 msgstr "Ikibasike"
+
+# "fa"
+msgid "Persian"
+msgstr "Ikinyaperisi"
+
+# "ff"
+msgid "Fulah"
+msgstr "Igifurahe"
 
 # "fi"
 msgid "Finnish"
@@ -163,6 +203,10 @@ msgstr "Ikigalike; Ikinyasikotilande"
 # "gl"
 msgid "Galician"
 msgstr "Ikigalegani"
+
+# "gn"
+msgid "Guarani"
+msgstr "Ikigwarani"
 
 # "gu"
 msgid "Gujarati"
@@ -209,6 +253,11 @@ msgstr "Icyarumeniya"
 msgid "Herero"
 msgstr "Igiherero"
 
+# "ia"
+# original msgid: "Interlingua (International Auxiliary Language Association)"
+msgid "Interlingua"
+msgstr ""
+
 # "id"
 msgid "Indonesian"
 msgstr "Ikinyendonisiya"
@@ -222,6 +271,10 @@ msgstr "Ikigibo"
 msgid "Sichuan Yi"
 msgstr "Igisicuwanayi"
 
+# "ik"
+msgid "Inupiaq"
+msgstr "Ikinupiyake"
+
 # "is"
 msgid "Icelandic"
 msgstr "Ikinyisilande"
@@ -229,6 +282,10 @@ msgstr "Ikinyisilande"
 # "it"
 msgid "Italian"
 msgstr "Igitaliyani"
+
+# "iu"
+msgid "Inuktitut"
+msgstr "Ikinukititutu"
 
 # "ja"
 msgid "Japanese"
@@ -241,6 +298,10 @@ msgstr "Ikijavani"
 # "ka"
 msgid "Georgian"
 msgstr "Ikinyageworugiya"
+
+# "kg"
+msgid "Kongo"
+msgstr "Ikinyakongo"
 
 # "ki"
 # original msgid: "Kikuyu; Gikuyu"
@@ -274,9 +335,21 @@ msgstr "Iginyakanada"
 msgid "Korean"
 msgstr "Igikoreya"
 
+# "kr"
+msgid "Kanuri"
+msgstr "Igikanuri"
+
 # "ks"
 msgid "Kashmiri"
 msgstr "Igikashimiri"
+
+# "ku"
+msgid "Kurdish"
+msgstr "Igikurudishi"
+
+# "kv"
+msgid "Komi"
+msgstr "Igikomi"
 
 # "kw"
 msgid "Cornish"
@@ -286,6 +359,10 @@ msgstr "Igikorunishe"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr "Ikirigizi"
+
+# "la"
+msgid "Latin"
+msgstr "Ikilatini"
 
 # "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
@@ -317,6 +394,14 @@ msgstr "Ikinyalitwani"
 msgid "Luba-Katanga"
 msgstr "Ikiluba-Katanga"
 
+# "lv"
+msgid "Latvian"
+msgstr "Ikilativiya"
+
+# "mg"
+msgid "Malagasy"
+msgstr "Ikimaragasi"
+
 # "mh"
 msgid "Marshallese"
 msgstr "Ikimarishali"
@@ -333,9 +418,17 @@ msgstr "Ikinyamacedoniya"
 msgid "Malayalam"
 msgstr "Ikimalayalamu"
 
+# "mn"
+msgid "Mongolian"
+msgstr "Ikinyamongoliya"
+
 # "mr"
 msgid "Marathi"
 msgstr "Ikimarati"
+
+# "ms"
+msgid "Malay"
+msgstr "Ikimalayi"
 
 # "mt"
 msgid "Maltese"
@@ -359,6 +452,10 @@ msgstr ""
 msgid "North Ndebele"
 msgstr "Ikindebele, amajyaruguru"
 
+# "ne"
+msgid "Nepali"
+msgstr "Ikinyanepale"
+
 # "ng"
 msgid "Ndonga"
 msgstr "Ikindonga"
@@ -372,6 +469,10 @@ msgstr ""
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "Ikinyanoruveji nayinorusiki"
+
+# "no"
+msgid "Norwegian"
+msgstr "Ikinyanoruveji"
 
 # "nr"
 # original msgid: "Ndebele, South; South Ndebele"
@@ -393,6 +494,19 @@ msgstr "Igicewa; Igicicewa; Ikinyanja"
 msgid "Occitan"
 msgstr "Icyogisitani (nyuma 1500)"
 
+# "oj"
+msgid "Ojibwa"
+msgstr "Icyojibwa"
+
+# "om"
+msgid "Oromo"
+msgstr "Icyoromo"
+
+# "or"
+# original msgid: "Oriya"
+msgid "Odia"
+msgstr "Icyoriya"
+
 # "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
@@ -407,9 +521,18 @@ msgstr "Igipanjabi"
 msgid "Polish"
 msgstr "Ikinyapolonye"
 
+# "ps"
+# original msgid: "Pushto; Pashto"
+msgid "Pashto"
+msgstr "Igipushito"
+
 # "pt"
 msgid "Portuguese"
 msgstr "Igiporutigali"
+
+# "qu"
+msgid "Quechua"
+msgstr "Igikwecuwa"
 
 # "rm"
 msgid "Romansh"
@@ -431,6 +554,14 @@ msgstr "Ikirusiya"
 # "rw"
 msgid "Kinyarwanda"
 msgstr "Ikinyarwanda"
+
+# "sa"
+msgid "Sanskrit"
+msgstr "Igisansikiriti"
+
+# "sc"
+msgid "Sardinian"
+msgstr "Ikinyasaridini"
 
 # "sd"
 msgid "Sindhi"
@@ -469,6 +600,10 @@ msgstr "Igishona"
 msgid "Somali"
 msgstr "Igisomali"
 
+# "sq"
+msgid "Albanian"
+msgstr "Ikinyalubaniya"
+
 # "sr"
 msgid "Serbian"
 msgstr "Ikinyaseribiya"
@@ -489,6 +624,10 @@ msgstr "Ikinyasundani"
 # "sv"
 msgid "Swedish"
 msgstr "Ikinyasuwede"
+
+# "sw"
+msgid "Swahili"
+msgstr "Igiswayili"
 
 # "ta"
 msgid "Tamil"
@@ -560,6 +699,10 @@ msgstr "Ikinya-ikarayini"
 msgid "Urdu"
 msgstr "Icyuridu"
 
+# "uz"
+msgid "Uzbek"
+msgstr "Icyuzubeka"
+
 # "ve"
 msgid "Venda"
 msgstr "Ikivenda"
@@ -580,9 +723,18 @@ msgstr "Ikiwolofu"
 msgid "Xhosa"
 msgstr "Ikigisosa"
 
+# "yi"
+msgid "Yiddish"
+msgstr "Ikiyidishi"
+
 # "yo"
 msgid "Yoruba"
 msgstr "Ikiyoruba"
+
+# "za"
+# original msgid: "Zhuang; Chuang"
+msgid "Zhuang"
+msgstr "Igicuwange; Ikizwange"
 
 # "zh"
 msgid "Chinese"

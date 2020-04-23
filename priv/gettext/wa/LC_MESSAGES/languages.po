@@ -6,9 +6,17 @@ msgstr "Afar"
 msgid "Abkhazian"
 msgstr "Abxhaze"
 
+# "ae"
+msgid "Avestan"
+msgstr "Avestan"
+
 # "af"
 msgid "Afrikaans"
 msgstr "Afrikaans"
+
+# "ak"
+msgid "Akan"
+msgstr "Acanyin"
 
 # "am"
 msgid "Amharic"
@@ -18,6 +26,10 @@ msgstr "Amarike"
 msgid "Aragonese"
 msgstr "Aragonès"
 
+# "ar"
+msgid "Arabic"
+msgstr "Arabe"
+
 # "as"
 msgid "Assamese"
 msgstr "Assamès"
@@ -25,6 +37,14 @@ msgstr "Assamès"
 # "av"
 msgid "Avaric"
 msgstr "Avarike"
+
+# "ay"
+msgid "Aymara"
+msgstr "Aymara"
+
+# "az"
+msgid "Azerbaijani"
+msgstr "Azeri"
 
 # "ba"
 msgid "Bashkir"
@@ -80,6 +100,10 @@ msgstr "Tchamoro"
 msgid "Corsican"
 msgstr "Corse"
 
+# "cr"
+msgid "Cree"
+msgstr "Cri"
+
 # "cs"
 msgid "Czech"
 msgstr "Tcheke"
@@ -122,14 +146,30 @@ msgstr "Grek, Modiene (dispoy 1453)"
 msgid "English"
 msgstr "Inglès"
 
+# "eo"
+msgid "Esperanto"
+msgstr "Esperanto"
+
 # "es"
 # original msgid: "Spanish; Castilian"
 msgid "Spanish"
 msgstr "Castiyan; Espagnol"
 
+# "et"
+msgid "Estonian"
+msgstr "Estonyin"
+
 # "eu"
 msgid "Basque"
 msgstr "Basse"
+
+# "fa"
+msgid "Persian"
+msgstr "Farsi"
+
+# "ff"
+msgid "Fulah"
+msgstr "Foula"
 
 # "fi"
 msgid "Finnish"
@@ -163,6 +203,10 @@ msgstr "Gayel escôsswès"
 # "gl"
 msgid "Galician"
 msgstr "Galicyin"
+
+# "gn"
+msgid "Guarani"
+msgstr "Gwarani"
 
 # "gu"
 msgid "Gujarati"
@@ -209,6 +253,11 @@ msgstr "Årmenyin"
 msgid "Herero"
 msgstr "Herero"
 
+# "ia"
+# original msgid: "Interlingua (International Auxiliary Language Association)"
+msgid "Interlingua"
+msgstr "Interlingua"
+
 # "id"
 msgid "Indonesian"
 msgstr "Indonezyin"
@@ -222,6 +271,10 @@ msgstr "Igbo"
 msgid "Sichuan Yi"
 msgstr "Yi do Sichuan; Nuosu"
 
+# "ik"
+msgid "Inupiaq"
+msgstr "Inyupiak"
+
 # "is"
 msgid "Icelandic"
 msgstr "Izlandès"
@@ -229,6 +282,10 @@ msgstr "Izlandès"
 # "it"
 msgid "Italian"
 msgstr "Itålyin"
+
+# "iu"
+msgid "Inuktitut"
+msgstr "Inuktitut"
 
 # "ja"
 msgid "Japanese"
@@ -241,6 +298,10 @@ msgstr "Djavanès"
 # "ka"
 msgid "Georgian"
 msgstr "Djeyordjyin"
+
+# "kg"
+msgid "Kongo"
+msgstr "Kicongo"
 
 # "ki"
 # original msgid: "Kikuyu; Gikuyu"
@@ -274,9 +335,21 @@ msgstr "Kannada"
 msgid "Korean"
 msgstr "Corêyin"
 
+# "kr"
+msgid "Kanuri"
+msgstr "Kanouri"
+
 # "ks"
 msgid "Kashmiri"
 msgstr "Kashmiri"
+
+# "ku"
+msgid "Kurdish"
+msgstr "Kurde"
+
+# "kv"
+msgid "Komi"
+msgstr "Komi"
 
 # "kw"
 msgid "Cornish"
@@ -286,6 +359,10 @@ msgstr "Cornike"
 # original msgid: "Kirghiz; Kyrgyz"
 msgid "Kyrgyz"
 msgstr "Kirguize"
+
+# "la"
+msgid "Latin"
+msgstr "Latén"
 
 # "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
@@ -317,6 +394,14 @@ msgstr "Litwanyin"
 msgid "Luba-Katanga"
 msgstr "Louba-Katanga"
 
+# "lv"
+msgid "Latvian"
+msgstr "Letonyin"
+
+# "mg"
+msgid "Malagasy"
+msgstr "Malgache"
+
 # "mh"
 msgid "Marshallese"
 msgstr "Marshalès"
@@ -333,9 +418,17 @@ msgstr "Macedonyin"
 msgid "Malayalam"
 msgstr "Malayalam"
 
+# "mn"
+msgid "Mongolian"
+msgstr "Mongol"
+
 # "mr"
 msgid "Marathi"
 msgstr "Marati"
+
+# "ms"
+msgid "Malay"
+msgstr "Malay"
 
 # "mt"
 msgid "Maltese"
@@ -359,6 +452,10 @@ msgstr "Norvedjin bokmål"
 msgid "North Ndebele"
 msgstr "Ndebele bijhrece"
 
+# "ne"
+msgid "Nepali"
+msgstr "Nepalès"
+
 # "ng"
 msgid "Ndonga"
 msgstr "Ndonga"
@@ -372,6 +469,10 @@ msgstr "Neyerlandès"
 # original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
 msgid "Norwegian Nynorsk"
 msgstr "Norvedjin nynorsk; Noû norvedjin"
+
+# "no"
+msgid "Norwegian"
+msgstr "Norvedjin"
 
 # "nr"
 # original msgid: "Ndebele, South; South Ndebele"
@@ -393,6 +494,19 @@ msgstr "Tchitchewa; Nyanja"
 msgid "Occitan"
 msgstr "Occitan (après 1500)"
 
+# "oj"
+msgid "Ojibwa"
+msgstr "Ojibwa"
+
+# "om"
+msgid "Oromo"
+msgstr "Oromo"
+
+# "or"
+# original msgid: "Oriya"
+msgid "Odia"
+msgstr "Oriya"
+
 # "os"
 # original msgid: "Ossetian; Ossetic"
 msgid "Ossetic"
@@ -407,9 +521,18 @@ msgstr "Pundjabi"
 msgid "Polish"
 msgstr "Polonès"
 
+# "ps"
+# original msgid: "Pushto; Pashto"
+msgid "Pashto"
+msgstr "Pashto"
+
 # "pt"
 msgid "Portuguese"
 msgstr "Portuguès"
+
+# "qu"
+msgid "Quechua"
+msgstr "Ketchwa"
 
 # "rm"
 msgid "Romansh"
@@ -431,6 +554,14 @@ msgstr "Rûsse"
 # "rw"
 msgid "Kinyarwanda"
 msgstr "Kinyarwanda"
+
+# "sa"
+msgid "Sanskrit"
+msgstr "Sanskrit"
+
+# "sc"
+msgid "Sardinian"
+msgstr "Sardegnyin"
 
 # "sd"
 msgid "Sindhi"
@@ -469,6 +600,10 @@ msgstr "Shona"
 msgid "Somali"
 msgstr "Somalyin"
 
+# "sq"
+msgid "Albanian"
+msgstr "Albanès"
+
 # "sr"
 msgid "Serbian"
 msgstr "Serbe"
@@ -489,6 +624,10 @@ msgstr "Sundanès"
 # "sv"
 msgid "Swedish"
 msgstr "Suwedwès"
+
+# "sw"
+msgid "Swahili"
+msgstr "Suwahili"
 
 # "ta"
 msgid "Tamil"
@@ -560,6 +699,10 @@ msgstr "Oucrinnyin"
 msgid "Urdu"
 msgstr "Ourdou"
 
+# "uz"
+msgid "Uzbek"
+msgstr "Ouzbeke"
+
 # "ve"
 msgid "Venda"
 msgstr "Venda"
@@ -581,9 +724,18 @@ msgstr "Wolof"
 msgid "Xhosa"
 msgstr "Xhossa"
 
+# "yi"
+msgid "Yiddish"
+msgstr "Yidish"
+
 # "yo"
 msgid "Yoruba"
 msgstr "Yorouba"
+
+# "za"
+# original msgid: "Zhuang; Chuang"
+msgid "Zhuang"
+msgstr "Zhuang"
 
 # "zh"
 msgid "Chinese"

@@ -1,0 +1,746 @@
+# "aa"
+msgid "Afar"
+msgstr "Afāru"
+
+# "ab"
+msgid "Abkhazian"
+msgstr "Abhāzu"
+
+# "ae"
+msgid "Avestan"
+msgstr "Avesta"
+
+# "af"
+msgid "Afrikaans"
+msgstr "Afrikandu"
+
+# "ak"
+msgid "Akan"
+msgstr "Akanu"
+
+# "am"
+msgid "Amharic"
+msgstr "Amharu"
+
+# "an"
+msgid "Aragonese"
+msgstr "Aragoniešu"
+
+# "ar"
+msgid "Arabic"
+msgstr "Arābu"
+
+# "as"
+msgid "Assamese"
+msgstr "Asamiešu"
+
+# "av"
+msgid "Avaric"
+msgstr "Avāru"
+
+# "ay"
+msgid "Aymara"
+msgstr "Aimaru"
+
+# "az"
+msgid "Azerbaijani"
+msgstr "Azerbaidžāņu"
+
+# "ba"
+msgid "Bashkir"
+msgstr "Baškīru"
+
+# "be"
+msgid "Belarusian"
+msgstr "Baltkrievu"
+
+# "bg"
+msgid "Bulgarian"
+msgstr "Bulgāru"
+
+# "bi"
+msgid "Bislama"
+msgstr "Bišlamā"
+
+# "bm"
+msgid "Bambara"
+msgstr "Bambaru"
+
+# "bn"
+# original msgid: "Bengali"
+msgid "Bangla"
+msgstr "Bengāļu"
+
+# "bo"
+msgid "Tibetan"
+msgstr "Tibetiešu"
+
+# "br"
+msgid "Breton"
+msgstr "Bretoņu"
+
+# "bs"
+msgid "Bosnian"
+msgstr "Bosniešu"
+
+# "ca"
+# original msgid: "Catalan; Valencian"
+msgid "Catalan"
+msgstr "Katalāņu"
+
+# "ce"
+msgid "Chechen"
+msgstr "Čečenu"
+
+# "ch"
+msgid "Chamorro"
+msgstr "Čamorru"
+
+# "co"
+msgid "Corsican"
+msgstr "Korsikāņu"
+
+# "cr"
+msgid "Cree"
+msgstr "Krī"
+
+# "cs"
+msgid "Czech"
+msgstr "Čehu"
+
+# "cv"
+msgid "Chuvash"
+msgstr "Čuvašu"
+
+# "cy"
+msgid "Welsh"
+msgstr "Velsiešu"
+
+# "da"
+msgid "Danish"
+msgstr "Dāņu"
+
+# "de"
+msgid "German"
+msgstr "Vācu"
+
+# "dv"
+# original msgid: "Divehi; Dhivehi; Maldivian"
+msgid "Divehi"
+msgstr "Maldīviešu"
+
+# "dz"
+msgid "Dzongkha"
+msgstr "Dzongke"
+
+# "ee"
+msgid "Ewe"
+msgstr "Evu"
+
+# "el"
+# original msgid: "Greek, Modern (1453-)"
+msgid "Greek"
+msgstr "Grieķu (1453-)"
+
+# "en"
+msgid "English"
+msgstr "Angļu"
+
+# "eo"
+msgid "Esperanto"
+msgstr "Esperanto"
+
+# "es"
+# original msgid: "Spanish; Castilian"
+msgid "Spanish"
+msgstr "Spāņu"
+
+# "et"
+msgid "Estonian"
+msgstr "Igauņu"
+
+# "eu"
+msgid "Basque"
+msgstr "Basku"
+
+# "fa"
+msgid "Persian"
+msgstr "Persiešu"
+
+# "ff"
+msgid "Fulah"
+msgstr "Fulu"
+
+# "fi"
+msgid "Finnish"
+msgstr "Somu"
+
+# "fj"
+msgid "Fijian"
+msgstr "Fidžiešu"
+
+# "fo"
+msgid "Faroese"
+msgstr "Fēru"
+
+# "fr"
+msgid "French"
+msgstr "Franču"
+
+# "fy"
+msgid "Western Frisian"
+msgstr "Rietumfrīzu"
+
+# "ga"
+msgid "Irish"
+msgstr "Īru"
+
+# "gd"
+# original msgid: "Gaelic; Scottish Gaelic"
+msgid "Scottish Gaelic"
+msgstr "Gēlu"
+
+# "gl"
+msgid "Galician"
+msgstr "Galisiešu"
+
+# "gn"
+msgid "Guarani"
+msgstr "Gvaranu"
+
+# "gu"
+msgid "Gujarati"
+msgstr "Gudžaratu"
+
+# "gv"
+msgid "Manx"
+msgstr "Meniešu"
+
+# "ha"
+msgid "Hausa"
+msgstr "Hausu"
+
+# "he"
+msgid "Hebrew"
+msgstr "Ivrits"
+
+# "hi"
+msgid "Hindi"
+msgstr "Hindi"
+
+# "ho"
+msgid "Hiri Motu"
+msgstr "Hirimotu"
+
+# "hr"
+msgid "Croatian"
+msgstr "Horvātu"
+
+# "ht"
+# original msgid: "Haitian; Haitian Creole"
+msgid "Haitian Creole"
+msgstr "Haitiešu"
+
+# "hu"
+msgid "Hungarian"
+msgstr "Ungāru"
+
+# "hy"
+msgid "Armenian"
+msgstr "Armēņu"
+
+# "hz"
+msgid "Herero"
+msgstr "Hereru"
+
+# "ia"
+# original msgid: "Interlingua (International Auxiliary Language Association)"
+msgid "Interlingua"
+msgstr "Interlingva"
+
+# "id"
+msgid "Indonesian"
+msgstr "Indonēziešu"
+
+# "ig"
+msgid "Igbo"
+msgstr "Igbo"
+
+# "ii"
+# original msgid: "Sichuan Yi; Nuosu"
+msgid "Sichuan Yi"
+msgstr "Sičuaņas ji"
+
+# "ik"
+msgid "Inupiaq"
+msgstr "Inupiaku"
+
+# "is"
+msgid "Icelandic"
+msgstr "Islandiešu"
+
+# "it"
+msgid "Italian"
+msgstr "Itāliešu"
+
+# "iu"
+msgid "Inuktitut"
+msgstr "Inuītu"
+
+# "ja"
+msgid "Japanese"
+msgstr "Japāņu"
+
+# "jv"
+msgid "Javanese"
+msgstr "Javiešu"
+
+# "ka"
+msgid "Georgian"
+msgstr "Gruzīnu"
+
+# "kg"
+msgid "Kongo"
+msgstr "Kongu"
+
+# "ki"
+# original msgid: "Kikuyu; Gikuyu"
+msgid "Kikuyu"
+msgstr "Kikuju"
+
+# "kj"
+# original msgid: "Kuanyama; Kwanyama"
+msgid "Kuanyama"
+msgstr "Kvaņamu"
+
+# "kk"
+msgid "Kazakh"
+msgstr "Kazahu"
+
+# "kl"
+# original msgid: "Kalaallisut; Greenlandic"
+msgid "Kalaallisut"
+msgstr "Grenlandiešu"
+
+# "km"
+# original msgid: "Central Khmer"
+msgid "Khmer"
+msgstr "Khmeru"
+
+# "kn"
+msgid "Kannada"
+msgstr "Kannadu"
+
+# "ko"
+msgid "Korean"
+msgstr "Korejiešu"
+
+# "kr"
+msgid "Kanuri"
+msgstr "Kanuru"
+
+# "ks"
+msgid "Kashmiri"
+msgstr "Kašmiriešu"
+
+# "ku"
+msgid "Kurdish"
+msgstr "Kurdu"
+
+# "kv"
+msgid "Komi"
+msgstr "Komiešu"
+
+# "kw"
+msgid "Cornish"
+msgstr "Korniešu"
+
+# "ky"
+# original msgid: "Kirghiz; Kyrgyz"
+msgid "Kyrgyz"
+msgstr "Kirgīzu"
+
+# "la"
+msgid "Latin"
+msgstr "Latīņu"
+
+# "lb"
+# original msgid: "Luxembourgish; Letzeburgesch"
+msgid "Luxembourgish"
+msgstr "Luksemburgiešu"
+
+# "lg"
+msgid "Ganda"
+msgstr "Gandu"
+
+# "li"
+# original msgid: "Limburgan; Limburger; Limburgish"
+msgid "Limburgish"
+msgstr "Limburgiešu"
+
+# "ln"
+msgid "Lingala"
+msgstr "Lingala"
+
+# "lo"
+msgid "Lao"
+msgstr "Laosiešu"
+
+# "lt"
+msgid "Lithuanian"
+msgstr "Lietuviešu"
+
+# "lu"
+msgid "Luba-Katanga"
+msgstr "Lubakatanga"
+
+# "lv"
+# original msgstr: "Latviešu"
+msgid "Latvian"
+msgstr "latviešu valoda"
+
+# "mg"
+msgid "Malagasy"
+msgstr "Malagasu"
+
+# "mh"
+msgid "Marshallese"
+msgstr "Māršaliešu"
+
+# "mi"
+msgid "Maori"
+msgstr "Maoru"
+
+# "mk"
+msgid "Macedonian"
+msgstr "Maķedoniešu"
+
+# "ml"
+msgid "Malayalam"
+msgstr "Malajalu"
+
+# "mn"
+msgid "Mongolian"
+msgstr "Mongoļu"
+
+# "mr"
+msgid "Marathi"
+msgstr "Maratu"
+
+# "ms"
+msgid "Malay"
+msgstr "Malajiešu"
+
+# "mt"
+msgid "Maltese"
+msgstr "Maltiešu"
+
+# "my"
+msgid "Burmese"
+msgstr "Birmiešu"
+
+# "na"
+msgid "Nauru"
+msgstr "Nauruiešu"
+
+# "nb"
+# original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
+msgid "Norwegian Bokmål"
+msgstr "Norvēģu bukmols"
+
+# "nd"
+# original msgid: "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
+msgstr "Ziemeļndebelu"
+
+# "ne"
+msgid "Nepali"
+msgstr "Nepāliešu"
+
+# "ng"
+msgid "Ndonga"
+msgstr "Ndongu"
+
+# "nl"
+# original msgid: "Dutch; Flemish"
+msgid "Dutch"
+msgstr "Holandiešu"
+
+# "nn"
+# original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Jaunnorvēģu"
+
+# "no"
+msgid "Norwegian"
+msgstr "Norvēģu"
+
+# "nr"
+# original msgid: "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
+msgstr "Dienvidndebelu"
+
+# "nv"
+# original msgid: "Navajo; Navaho"
+msgid "Navajo"
+msgstr "Navahu"
+
+# "ny"
+# original msgid: "Chichewa; Chewa; Nyanja"
+msgid "Nyanja"
+msgstr "Čičeva"
+
+# "oc"
+# original msgid: "Occitan (post 1500); Provençal"
+msgid "Occitan"
+msgstr "Oksitāņu"
+
+# "oj"
+msgid "Ojibwa"
+msgstr "Odžibvu"
+
+# "om"
+msgid "Oromo"
+msgstr "Oromu"
+
+# "or"
+# original msgid: "Oriya"
+msgid "Odia"
+msgstr "Oriju"
+
+# "os"
+# original msgid: "Ossetian; Ossetic"
+msgid "Ossetic"
+msgstr "Osetīnu"
+
+# "pa"
+# original msgid: "Panjabi; Punjabi"
+msgid "Punjabi"
+msgstr "Pandžabu"
+
+# "pl"
+msgid "Polish"
+msgstr "Poļu"
+
+# "ps"
+# original msgid: "Pushto; Pashto"
+msgid "Pashto"
+msgstr "Puštu"
+
+# "pt"
+msgid "Portuguese"
+msgstr "Portugāļu"
+
+# "qu"
+msgid "Quechua"
+msgstr "Kečvu"
+
+# "rm"
+msgid "Romansh"
+msgstr "Retoromāņu"
+
+# "rn"
+msgid "Rundi"
+msgstr "Rundu"
+
+# "ro"
+# original msgid: "Romanian; Moldavian; Moldovan"
+msgid "Romanian"
+msgstr "Moldāvu"
+
+# "ru"
+msgid "Russian"
+msgstr "Krievu"
+
+# "rw"
+msgid "Kinyarwanda"
+msgstr "Kiņaruanda"
+
+# "sa"
+msgid "Sanskrit"
+msgstr "Sanskrits"
+
+# "sc"
+msgid "Sardinian"
+msgstr "Sardīniešu"
+
+# "sd"
+msgid "Sindhi"
+msgstr "Sindhu"
+
+# "se"
+msgid "Northern Sami"
+msgstr "Ziemeļsāmu"
+
+# "sg"
+msgid "Sango"
+msgstr "Sangu"
+
+# "si"
+# original msgid: "Sinhala; Sinhalese"
+msgid "Sinhala"
+msgstr "Singāļu"
+
+# "sk"
+msgid "Slovak"
+msgstr "Slovāku"
+
+# "sl"
+msgid "Slovenian"
+msgstr "Slovēņu"
+
+# "sm"
+msgid "Samoan"
+msgstr "Samoāņu"
+
+# "sn"
+msgid "Shona"
+msgstr "Šonu"
+
+# "so"
+msgid "Somali"
+msgstr "Somāļu"
+
+# "sq"
+msgid "Albanian"
+msgstr "Albāņu"
+
+# "sr"
+msgid "Serbian"
+msgstr "Serbu"
+
+# "ss"
+msgid "Swati"
+msgstr "Svatu"
+
+# "st"
+# original msgid: "Sotho, Southern"
+msgid "Southern Sotho"
+msgstr "Sesoto"
+
+# "su"
+msgid "Sundanese"
+msgstr "Sundaniešu"
+
+# "sv"
+msgid "Swedish"
+msgstr "Zviedru"
+
+# "sw"
+msgid "Swahili"
+msgstr "Svahili"
+
+# "ta"
+msgid "Tamil"
+msgstr "Tamilu"
+
+# "te"
+msgid "Telugu"
+msgstr "Telugu"
+
+# "tg"
+msgid "Tajik"
+msgstr "Tadžiku"
+
+# "th"
+msgid "Thai"
+msgstr "Taju"
+
+# "ti"
+msgid "Tigrinya"
+msgstr "Tigrinja"
+
+# "tk"
+msgid "Turkmen"
+msgstr "Turkmēņu"
+
+# "tl"
+msgid "Tagalog"
+msgstr "Tagalu"
+
+# "tn"
+msgid "Tswana"
+msgstr "Cvanu"
+
+# "to"
+# original msgid: "Tonga (Tonga Islands)"
+msgid "Tongan"
+msgstr "Tongu"
+
+# "tr"
+msgid "Turkish"
+msgstr "Turku"
+
+# "ts"
+msgid "Tsonga"
+msgstr "Congu"
+
+# "tt"
+msgid "Tatar"
+msgstr "Tatāru"
+
+# "tw"
+msgid "Twi"
+msgstr "Tvī"
+
+# "ty"
+msgid "Tahitian"
+msgstr "Taitiešu"
+
+# "ug"
+# original msgid: "Uighur; Uyghur"
+msgid "Uyghur"
+msgstr "Uiguru"
+
+# "uk"
+msgid "Ukrainian"
+msgstr "Ukraiņu"
+
+# "ur"
+msgid "Urdu"
+msgstr "Urdu"
+
+# "uz"
+msgid "Uzbek"
+msgstr "Uzbeku"
+
+# "ve"
+msgid "Venda"
+msgstr "Vendu"
+
+# "vi"
+msgid "Vietnamese"
+msgstr "Vjetnamiešu"
+
+# "wa"
+msgid "Walloon"
+msgstr "Valoņu"
+
+# "wo"
+msgid "Wolof"
+msgstr "Volofu"
+
+# "xh"
+msgid "Xhosa"
+msgstr "Khosu"
+
+# "yi"
+msgid "Yiddish"
+msgstr "Jidišs"
+
+# "yo"
+msgid "Yoruba"
+msgstr "Jorubu"
+
+# "za"
+# original msgid: "Zhuang; Chuang"
+msgid "Zhuang"
+msgstr "Džuanu"
+
+# "zh"
+msgid "Chinese"
+msgstr "Ķīniešu"
+
+# "zu"
+msgid "Zulu"
+msgstr "Zulu"

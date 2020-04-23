@@ -19,11 +19,11 @@ defmodule Cadastre.Language do
   [
     %Cadastre.Language{id: "aa", name: "Afar"},
     %Cadastre.Language{id: "ab", name: "Abkhazian"},
-    %Cadastre.Language{id: "af", name: "Afrikaans"}
+    %Cadastre.Language{id: "ae", name: "Avestan"}
   ]
 
   iex> Cadastre.Language.all() |> Enum.count()
-  141
+  178
   ```
   """
   @spec all :: [t]
@@ -35,7 +35,7 @@ defmodule Cadastre.Language do
   ## Examples
   ```
   iex> Cadastre.Language.ids() |> Enum.take(10)
-  ["aa", "ab", "af", "am", "an", "as", "av", "ba", "be", "bg"]
+  ["aa", "ab", "ae", "af", "ak", "am", "an", "ar", "as", "av"]
   ```
   """
   @spec ids :: [id]

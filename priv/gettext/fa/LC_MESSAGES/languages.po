@@ -1,0 +1,745 @@
+# "aa"
+msgid "Afar"
+msgstr "آفاری"
+
+# "ab"
+msgid "Abkhazian"
+msgstr "آبخازی"
+
+# "ae"
+msgid "Avestan"
+msgstr "اوستایی"
+
+# "af"
+msgid "Afrikaans"
+msgstr "آفریکانس"
+
+# "ak"
+msgid "Akan"
+msgstr ""
+
+# "am"
+msgid "Amharic"
+msgstr "امهری"
+
+# "an"
+msgid "Aragonese"
+msgstr ""
+
+# "ar"
+msgid "Arabic"
+msgstr "عربی"
+
+# "as"
+msgid "Assamese"
+msgstr "آسامی"
+
+# "av"
+msgid "Avaric"
+msgstr "آواری"
+
+# "ay"
+msgid "Aymara"
+msgstr "آیمارایی"
+
+# "az"
+msgid "Azerbaijani"
+msgstr "آذربایجانی"
+
+# "ba"
+msgid "Bashkir"
+msgstr "باشغیری"
+
+# "be"
+msgid "Belarusian"
+msgstr "بلوروسی"
+
+# "bg"
+msgid "Bulgarian"
+msgstr "بلغاری"
+
+# "bi"
+msgid "Bislama"
+msgstr "بیسلاما"
+
+# "bm"
+msgid "Bambara"
+msgstr "بامبارایی"
+
+# "bn"
+# original msgid: "Bengali"
+msgid "Bangla"
+msgstr "بنگالی"
+
+# "bo"
+msgid "Tibetan"
+msgstr "تبتی"
+
+# "br"
+msgid "Breton"
+msgstr "برتانیایی"
+
+# "bs"
+msgid "Bosnian"
+msgstr "بوسنیایی"
+
+# "ca"
+# original msgid: "Catalan; Valencian"
+msgid "Catalan"
+msgstr ""
+
+# "ce"
+msgid "Chechen"
+msgstr "چچنی"
+
+# "ch"
+msgid "Chamorro"
+msgstr "چامورویی"
+
+# "co"
+msgid "Corsican"
+msgstr ""
+
+# "cr"
+msgid "Cree"
+msgstr "کریایی"
+
+# "cs"
+msgid "Czech"
+msgstr "چکی"
+
+# "cv"
+msgid "Chuvash"
+msgstr "چوواشی"
+
+# "cy"
+msgid "Welsh"
+msgstr "ویلزی"
+
+# "da"
+msgid "Danish"
+msgstr "دانمارکی"
+
+# "de"
+msgid "German"
+msgstr "آلمانی"
+
+# "dv"
+# original msgid: "Divehi; Dhivehi; Maldivian"
+msgid "Divehi"
+msgstr ""
+
+# "dz"
+msgid "Dzongkha"
+msgstr "بوتانی"
+
+# "ee"
+msgid "Ewe"
+msgstr "اوه‌ای"
+
+# "el"
+# original msgid: "Greek, Modern (1453-)"
+msgid "Greek"
+msgstr "یونانی امروزی (۱۴۵۳ م. به بعد)"
+
+# "en"
+msgid "English"
+msgstr "انگلیسی"
+
+# "eo"
+msgid "Esperanto"
+msgstr "اسپرانتو"
+
+# "es"
+# original msgid: "Spanish; Castilian"
+msgid "Spanish"
+msgstr ""
+
+# "et"
+msgid "Estonian"
+msgstr "استونیایی"
+
+# "eu"
+msgid "Basque"
+msgstr "باسکی"
+
+# "fa"
+msgid "Persian"
+msgstr "فارسی"
+
+# "ff"
+msgid "Fulah"
+msgstr "فولایی"
+
+# "fi"
+msgid "Finnish"
+msgstr "فنلاندی"
+
+# "fj"
+msgid "Fijian"
+msgstr "فیجیایی"
+
+# "fo"
+msgid "Faroese"
+msgstr "فارویی"
+
+# "fr"
+msgid "French"
+msgstr "فرانسوی"
+
+# "fy"
+msgid "Western Frisian"
+msgstr "فریزی"
+
+# "ga"
+msgid "Irish"
+msgstr "ایرلندی"
+
+# "gd"
+# original msgid: "Gaelic; Scottish Gaelic"
+msgid "Scottish Gaelic"
+msgstr "گیلی؛ اسکاتلندی"
+
+# "gl"
+msgid "Galician"
+msgstr ""
+
+# "gn"
+msgid "Guarani"
+msgstr "گوارانی"
+
+# "gu"
+msgid "Gujarati"
+msgstr "گجراتی"
+
+# "gv"
+msgid "Manx"
+msgstr "مانی"
+
+# "ha"
+msgid "Hausa"
+msgstr "هوسیایی"
+
+# "he"
+msgid "Hebrew"
+msgstr "عبری"
+
+# "hi"
+msgid "Hindi"
+msgstr "هندی"
+
+# "ho"
+msgid "Hiri Motu"
+msgstr ""
+
+# "hr"
+msgid "Croatian"
+msgstr "کرواتی"
+
+# "ht"
+# original msgid: "Haitian; Haitian Creole"
+msgid "Haitian Creole"
+msgstr "هاییتیایی؛ کریولی هاییتیایی"
+
+# "hu"
+msgid "Hungarian"
+msgstr "مجاری"
+
+# "hy"
+msgid "Armenian"
+msgstr "ارمنی"
+
+# "hz"
+msgid "Herero"
+msgstr "هریرویی"
+
+# "ia"
+# original msgid: "Interlingua (International Auxiliary Language Association)"
+msgid "Interlingua"
+msgstr ""
+
+# "id"
+msgid "Indonesian"
+msgstr "اندونزیایی"
+
+# "ig"
+msgid "Igbo"
+msgstr "ایگبویی"
+
+# "ii"
+# original msgid: "Sichuan Yi; Nuosu"
+msgid "Sichuan Yi"
+msgstr "یی سیچوان"
+
+# "ik"
+msgid "Inupiaq"
+msgstr "اینوپیک"
+
+# "is"
+msgid "Icelandic"
+msgstr "ایسلندی"
+
+# "it"
+msgid "Italian"
+msgstr "ایتالیایی"
+
+# "iu"
+msgid "Inuktitut"
+msgstr "اینوکیتوت"
+
+# "ja"
+msgid "Japanese"
+msgstr "ژاپنی"
+
+# "jv"
+msgid "Javanese"
+msgstr "جاوه‌ای"
+
+# "ka"
+msgid "Georgian"
+msgstr "گرجی"
+
+# "kg"
+msgid "Kongo"
+msgstr "کنگویی"
+
+# "ki"
+# original msgid: "Kikuyu; Gikuyu"
+msgid "Kikuyu"
+msgstr "کیکویویی"
+
+# "kj"
+# original msgid: "Kuanyama; Kwanyama"
+msgid "Kuanyama"
+msgstr ""
+
+# "kk"
+msgid "Kazakh"
+msgstr "قزاقی"
+
+# "kl"
+# original msgid: "Kalaallisut; Greenlandic"
+msgid "Kalaallisut"
+msgstr ""
+
+# "km"
+# original msgid: "Central Khmer"
+msgid "Khmer"
+msgstr ""
+
+# "kn"
+msgid "Kannada"
+msgstr "کاناده‌ای"
+
+# "ko"
+msgid "Korean"
+msgstr "کره‌ای"
+
+# "kr"
+msgid "Kanuri"
+msgstr "کانوریایی"
+
+# "ks"
+msgid "Kashmiri"
+msgstr "کشمیری"
+
+# "ku"
+msgid "Kurdish"
+msgstr "کردی"
+
+# "kv"
+msgid "Komi"
+msgstr "کومیایی"
+
+# "kw"
+msgid "Cornish"
+msgstr "کرنوالی"
+
+# "ky"
+# original msgid: "Kirghiz; Kyrgyz"
+msgid "Kyrgyz"
+msgstr "قرقیزی"
+
+# "la"
+msgid "Latin"
+msgstr "لاتینی"
+
+# "lb"
+# original msgid: "Luxembourgish; Letzeburgesch"
+msgid "Luxembourgish"
+msgstr "لوکزامبورگی"
+
+# "lg"
+msgid "Ganda"
+msgstr "گاندایی"
+
+# "li"
+# original msgid: "Limburgan; Limburger; Limburgish"
+msgid "Limburgish"
+msgstr ""
+
+# "ln"
+msgid "Lingala"
+msgstr "لینگالا"
+
+# "lo"
+msgid "Lao"
+msgstr "لائوسی"
+
+# "lt"
+msgid "Lithuanian"
+msgstr "لیتوانیایی"
+
+# "lu"
+msgid "Luba-Katanga"
+msgstr "لوبایی-کاتانگا"
+
+# "lv"
+msgid "Latvian"
+msgstr "لتونیایی"
+
+# "mg"
+msgid "Malagasy"
+msgstr "مالاگاسیایی"
+
+# "mh"
+msgid "Marshallese"
+msgstr "مارشالی"
+
+# "mi"
+msgid "Maori"
+msgstr "مائوریایی"
+
+# "mk"
+msgid "Macedonian"
+msgstr "مقدونی"
+
+# "ml"
+msgid "Malayalam"
+msgstr "مالایالامی"
+
+# "mn"
+msgid "Mongolian"
+msgstr "مغولی"
+
+# "mr"
+msgid "Marathi"
+msgstr "مراتی"
+
+# "ms"
+msgid "Malay"
+msgstr "مالزیایی"
+
+# "mt"
+msgid "Maltese"
+msgstr "مالتی"
+
+# "my"
+msgid "Burmese"
+msgstr "برمه‌ای"
+
+# "na"
+msgid "Nauru"
+msgstr "نائورو"
+
+# "nb"
+# original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
+msgid "Norwegian Bokmål"
+msgstr ""
+
+# "nd"
+# original msgid: "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
+msgstr "انده‌بله‌ای شمالی"
+
+# "ne"
+msgid "Nepali"
+msgstr "نپالی"
+
+# "ng"
+msgid "Ndonga"
+msgstr "ندونگایی"
+
+# "nl"
+# original msgid: "Dutch; Flemish"
+msgid "Dutch"
+msgstr ""
+
+# "nn"
+# original msgid: "Norwegian Nynorsk; Nynorsk, Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "نورسک جدید نروژی"
+
+# "no"
+msgid "Norwegian"
+msgstr "نروژی"
+
+# "nr"
+# original msgid: "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
+msgstr "انده‌بله‌ای جنوبی"
+
+# "nv"
+# original msgid: "Navajo; Navaho"
+msgid "Navajo"
+msgstr "ناواهویی"
+
+# "ny"
+# original msgid: "Chichewa; Chewa; Nyanja"
+msgid "Nyanja"
+msgstr "چوایی؛ نیانجایی"
+
+# "oc"
+# original msgid: "Occitan (post 1500); Provençal"
+msgid "Occitan"
+msgstr ""
+
+# "oj"
+msgid "Ojibwa"
+msgstr "اوجیبوایی"
+
+# "om"
+msgid "Oromo"
+msgstr ""
+
+# "or"
+# original msgid: "Oriya"
+msgid "Odia"
+msgstr "اوریه‌ای"
+
+# "os"
+# original msgid: "Ossetian; Ossetic"
+msgid "Ossetic"
+msgstr "آسی"
+
+# "pa"
+# original msgid: "Panjabi; Punjabi"
+msgid "Punjabi"
+msgstr "پنجابی"
+
+# "pl"
+msgid "Polish"
+msgstr "لهستانی"
+
+# "ps"
+# original msgid: "Pushto; Pashto"
+msgid "Pashto"
+msgstr "پشتو"
+
+# "pt"
+msgid "Portuguese"
+msgstr "پرتغالی"
+
+# "qu"
+msgid "Quechua"
+msgstr "کچوایی"
+
+# "rm"
+msgid "Romansh"
+msgstr "رومانویی"
+
+# "rn"
+msgid "Rundi"
+msgstr "روندیایی"
+
+# "ro"
+# original msgid: "Romanian; Moldavian; Moldovan"
+msgid "Romanian"
+msgstr "مولداویایی"
+
+# "ru"
+msgid "Russian"
+msgstr "روسی"
+
+# "rw"
+msgid "Kinyarwanda"
+msgstr "کینیارواندایی"
+
+# "sa"
+msgid "Sanskrit"
+msgstr "سنسکریت"
+
+# "sc"
+msgid "Sardinian"
+msgstr "ساردینیایی"
+
+# "sd"
+msgid "Sindhi"
+msgstr "سندی"
+
+# "se"
+msgid "Northern Sami"
+msgstr ""
+
+# "sg"
+msgid "Sango"
+msgstr "سانگویی"
+
+# "si"
+# original msgid: "Sinhala; Sinhalese"
+msgid "Sinhala"
+msgstr "سینهالی"
+
+# "sk"
+msgid "Slovak"
+msgstr "اسلواکی"
+
+# "sl"
+msgid "Slovenian"
+msgstr "اسلووینیایی"
+
+# "sm"
+msgid "Samoan"
+msgstr "ساموآیی"
+
+# "sn"
+msgid "Shona"
+msgstr "شونایی"
+
+# "so"
+msgid "Somali"
+msgstr "سومالیایی"
+
+# "sq"
+msgid "Albanian"
+msgstr "آلبانیایی"
+
+# "sr"
+msgid "Serbian"
+msgstr "صربی"
+
+# "ss"
+msgid "Swati"
+msgstr ""
+
+# "st"
+# original msgid: "Sotho, Southern"
+msgid "Southern Sotho"
+msgstr "سوتویی جنوبی"
+
+# "su"
+msgid "Sundanese"
+msgstr "سوندایی"
+
+# "sv"
+msgid "Swedish"
+msgstr "سوئدی"
+
+# "sw"
+msgid "Swahili"
+msgstr "سواحلی"
+
+# "ta"
+msgid "Tamil"
+msgstr "تامیلی"
+
+# "te"
+msgid "Telugu"
+msgstr "تلوگویی"
+
+# "tg"
+msgid "Tajik"
+msgstr "تاجیکی"
+
+# "th"
+msgid "Thai"
+msgstr "تایلندی"
+
+# "ti"
+msgid "Tigrinya"
+msgstr "تیگرینیایی"
+
+# "tk"
+msgid "Turkmen"
+msgstr "ترکمنی"
+
+# "tl"
+msgid "Tagalog"
+msgstr "تاگالوگی"
+
+# "tn"
+msgid "Tswana"
+msgstr "تسوانایی"
+
+# "to"
+# original msgid: "Tonga (Tonga Islands)"
+msgid "Tongan"
+msgstr "تونگایی (جزایر تونگا)"
+
+# "tr"
+msgid "Turkish"
+msgstr "ترکی"
+
+# "ts"
+msgid "Tsonga"
+msgstr "تسونگایی"
+
+# "tt"
+msgid "Tatar"
+msgstr "تاتاری"
+
+# "tw"
+msgid "Twi"
+msgstr "توی‌یایی"
+
+# "ty"
+msgid "Tahitian"
+msgstr "تاهیتیایی"
+
+# "ug"
+# original msgid: "Uighur; Uyghur"
+msgid "Uyghur"
+msgstr "اویغوری"
+
+# "uk"
+msgid "Ukrainian"
+msgstr "اوکراینی"
+
+# "ur"
+msgid "Urdu"
+msgstr "اردو"
+
+# "uz"
+msgid "Uzbek"
+msgstr "ازبکی"
+
+# "ve"
+msgid "Venda"
+msgstr "وندایی"
+
+# "vi"
+msgid "Vietnamese"
+msgstr "ویتنامی"
+
+# "wa"
+msgid "Walloon"
+msgstr "والونی"
+
+# "wo"
+msgid "Wolof"
+msgstr "ولوفی"
+
+# "xh"
+msgid "Xhosa"
+msgstr "خوسایی"
+
+# "yi"
+msgid "Yiddish"
+msgstr "یدی"
+
+# "yo"
+msgid "Yoruba"
+msgstr "یوروبایی"
+
+# "za"
+# original msgid: "Zhuang; Chuang"
+msgid "Zhuang"
+msgstr "چوانگی؛ ژوانگی"
+
+# "zh"
+msgid "Chinese"
+msgstr "چینی"
+
+# "zu"
+msgid "Zulu"
+msgstr "زولویی"

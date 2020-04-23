@@ -5190,15 +5190,15 @@ msgstr "Okinawa"
 
 # "KE-01"
 msgid "Baringo"
-msgstr "Bari"
+msgstr "Baringo"
 
 # "KE-02"
 msgid "Bomet"
-msgstr ""
+msgstr "Bomet"
 
 # "KE-03"
 msgid "Bungoma"
-msgstr "Kungota"
+msgstr "Bungoma"
 
 # "KE-04"
 msgid "Busia"
@@ -5206,175 +5206,175 @@ msgstr "Busia"
 
 # "KE-05"
 msgid "Elgeyo/Marakwet"
-msgstr ""
+msgstr "Elgeyo-Marakwet"
 
 # "KE-06"
 msgid "Embu"
-msgstr ""
+msgstr "Embu"
 
 # "KE-07"
 msgid "Garissa"
-msgstr "Larisa"
+msgstr "Garissa"
 
 # "KE-08"
 msgid "Homa Bay"
-msgstr "Hawke's Bay"
+msgstr "Homa Bay"
 
 # "KE-09"
 msgid "Isiolo"
-msgstr ""
+msgstr "Isiolo"
 
 # "KE-10"
 msgid "Kajiado"
-msgstr ""
+msgstr "Kajiado"
 
 # "KE-11"
 msgid "Kakamega"
-msgstr "Makamba"
+msgstr "Kakamega"
 
 # "KE-12"
 msgid "Kericho"
-msgstr ""
+msgstr "Kericho"
 
 # "KE-13"
 msgid "Kiambu"
-msgstr "Hamburg"
+msgstr "Kiambu"
 
 # "KE-14"
 msgid "Kilifi"
-msgstr "Kili"
+msgstr "Kilifi"
 
 # "KE-15"
 msgid "Kirinyaga"
-msgstr "Shinyanga"
+msgstr "Kirinyaga"
 
 # "KE-16"
 msgid "Kisii"
-msgstr ""
+msgstr "Kisii"
 
 # "KE-17"
 msgid "Kisumu"
-msgstr ""
+msgstr "Kisumu"
 
 # "KE-18"
 msgid "Kitui"
-msgstr ""
+msgstr "Kitui"
 
 # "KE-19"
 msgid "Kwale"
-msgstr ""
+msgstr "Kwale"
 
 # "KE-20"
 msgid "Laikipia"
-msgstr ""
+msgstr "Laikipia"
 
 # "KE-21"
 msgid "Lamu"
-msgstr ""
+msgstr "Lamu"
 
 # "KE-22"
 msgid "Machakos"
-msgstr "Maracha"
+msgstr "Machakos"
 
 # "KE-23"
 msgid "Makueni"
-msgstr ""
+msgstr "Makueni"
 
 # "KE-24"
 msgid "Mandera"
-msgstr "Mandiana"
+msgstr "Mandera"
 
 # "KE-25"
 msgid "Marsabit"
-msgstr "Marsa"
+msgstr "Marsabit"
 
 # "KE-26"
 msgid "Meru"
-msgstr ""
+msgstr "Meru"
 
 # "KE-27"
 msgid "Migori"
-msgstr ""
+msgstr "Migori"
 
 # "KE-28"
 msgid "Mombasa"
-msgstr "Zomba"
+msgstr "Mombasa"
 
 # "KE-29"
 msgid "Murang'a"
-msgstr "Durango"
+msgstr "Murang'a"
 
 # "KE-30"
 msgid "Nairobi City"
-msgstr "Tajpej"
+msgstr "Nairobi"
 
 # "KE-31"
 msgid "Nakuru"
-msgstr ""
+msgstr "Nakuru"
 
 # "KE-32"
 msgid "Nandi"
-msgstr "Normandia"
+msgstr "Nandi"
 
 # "KE-33"
 msgid "Narok"
-msgstr ""
+msgstr "Narok"
 
 # "KE-34"
 msgid "Nyamira"
-msgstr ""
+msgstr "Nyamira"
 
 # "KE-35"
 msgid "Nyandarua"
-msgstr "Bandarban"
+msgstr "Nyandarua"
 
 # "KE-36"
 msgid "Nyeri"
-msgstr ""
+msgstr "Nyeri"
 
 # "KE-37"
 msgid "Samburu"
-msgstr "Hamburg"
+msgstr "Samburu"
 
 # "KE-38"
 msgid "Siaya"
-msgstr ""
+msgstr "Siaya"
 
 # "KE-39"
 msgid "Taita/Taveta"
-msgstr ""
+msgstr "Taita-Taveta"
 
 # "KE-40"
 msgid "Tana River"
-msgstr "Central River"
+msgstr "Tana River"
 
 # "KE-41"
 msgid "Tharaka-Nithi"
-msgstr ""
+msgstr "Tharaka-Nithi"
 
 # "KE-42"
 msgid "Trans Nzoia"
-msgstr ""
+msgstr "Trans Nzoia"
 
 # "KE-43"
 msgid "Turkana"
-msgstr "Arkansas"
+msgstr "Turkana"
 
 # "KE-44"
 msgid "Uasin Gishu"
-msgstr ""
+msgstr "Uasin Gishu"
 
 # "KE-45"
 msgid "Vihiga"
-msgstr "Shiga"
+msgstr "Vihiga"
 
 # "KE-46"
 msgid "Wajir"
-msgstr ""
+msgstr "Wajir"
 
 # "KE-47"
 msgid "West Pokot"
-msgstr "West Coast"
+msgstr "West Pokot"
 
 # "KG-B"
 msgid "Batken"

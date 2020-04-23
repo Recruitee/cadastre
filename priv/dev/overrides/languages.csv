@@ -26,10 +26,16 @@ ht,de,Haiti-Kreolisch
 ht,fr,créole haïtien
 ht,nl,Haïtiaans Creools
 hz,fr,héréro
+ia,de,Interlingua
+ia,fr,interlingua
+ia,nl,Interlingua
 ig,de,Igbo
 ii,de,Yi
 ii,fr,yi du Sichuan
 ii,nl,Yi
+ik,de,Inupiak
+kg,de,Kongolesisch
+kg,fr,kikongo
 ki,nl,Gikuyu
 kj,nl,Kuanyama
 kl,de,Grönländisch
@@ -48,8 +54,8 @@ lg,nl,Luganda
 lo,fr,lao
 lo,nl,Laotiaans
 lu,fr,luba-katanga (kiluba)
+mg,de,Madagassisch
 mk,de,Mazedonisch
-mr,fr,marathi
 my,de,Birmanisch
 my,nl,Birmaans
 na,fr,nauruan
@@ -58,6 +64,7 @@ nb,de,Norwegisch Bokmål
 nb,fr,norvégien bokmål
 nb,nl,Noors - Bokmål
 nd,nl,Noord-Ndebele
+ne,de,Nepalesisch
 nl,de,Niederländisch
 nn,de,Norwegisch Nynorsk
 nn,nl,Noors - Nynorsk
@@ -70,6 +77,8 @@ ny,nl,Nyanja
 oc,de,Okzitanisch
 oc,fr,occitan
 oc,nl,Occitaans
+or,fr,odia
+or,nl,Odia
 os,nl,Ossetisch
 pa,de,Punjabi
 pa,nl,Punjabi
@@ -93,6 +102,7 @@ ss,nl,Swazi
 st,de,Süd-Sotho
 st,nl,Zuid-Sotho
 su,fr,soundanais
+sw,de,Suaheli
 ta,de,Tamil
 th,de,Thailändisch
 th,nl,Thai
@@ -105,3 +115,4 @@ ty,nl,Tahitiaans
 ug,fr,ouïghour
 ug,nl,Oeigoers
 yo,de,Yoruba
+za,nl,Zhuang
