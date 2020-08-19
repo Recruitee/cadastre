@@ -38,7 +38,7 @@ defmodule CadastreDev.API do
   end
 
   defp download_file(path) do
-    case call_api("repository/files/#{URI.encode_www_form(path)}", ref: "master") do
+    case call_api("repository/files/#{URI.encode_www_form(path)}", ref: "main") do
       %{"content" => base64} -> Base.decode64!(base64)
       response -> raise "Can't download #{path}. Response:\n#{inspect(response)}"
     end
