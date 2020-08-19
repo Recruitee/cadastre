@@ -440,7 +440,7 @@ msgstr "버마어"
 
 # "na"
 msgid "Nauru"
-msgstr "나우루어"
+msgstr "나우루"
 
 # "nb"
 # original msgid: "Bokmål, Norwegian; Norwegian Bokmål"

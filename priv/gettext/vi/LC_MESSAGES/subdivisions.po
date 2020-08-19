@@ -1603,7 +1603,6 @@ msgid "Southern"
 msgstr "Nam Phương"
 
 # "BY-BR"
-# original msgid: "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr "Brèsckaja voblasc'"
 
@@ -1612,27 +1611,22 @@ msgid "Horad Minsk"
 msgstr "Minxcơva (Minsk)"
 
 # "BY-HO"
-# original msgid: "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr "Homel'skaja voblasc'"
 
 # "BY-HR"
-# original msgid: "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
 msgstr "Hrodzenskaja voblasc'"
 
 # "BY-MA"
-# original msgid: "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
 msgstr "Mahilëuskaja voblasc'"
 
 # "BY-MI"
-# original msgid: "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr "Minskaja voblasc'"
 
 # "BY-VI"
-# original msgid: "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
 msgstr "Vicebskaja voblasc'"
 
@@ -8584,14 +8578,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Møre og Romsdal"
 
-# "NO-16"
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-# "NO-17"
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 # "NO-18"
 msgid "Nordland"
 msgstr "Nordland"
@@ -8611,6 +8597,10 @@ msgstr ""
 # "NO-22"
 msgid "Jan Mayen (Arctic Region)"
 msgstr ""
+
+# "NO-50"
+msgid "Trøndelag"
+msgstr "Sør-Trøndelag"
 
 # "NP-1"
 msgid "Madhyamanchal"

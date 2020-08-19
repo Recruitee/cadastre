@@ -8,7 +8,7 @@ msgstr "Iаьрбийн Цхьаьнакхетта Эмираташ"
 
 # "AF"
 msgid "Afghanistan"
-msgstr "АфгIанистан"
+msgstr "Афганистан"
 
 # "AG"
 msgid "Antigua and Barbuda"
@@ -64,7 +64,7 @@ msgstr "Азербайджан"
 
 # "BA"
 msgid "Bosnia and Herzegovina"
-msgstr "Босни а Герцеговина"
+msgstr "Боснипа Герцеговина"
 
 # "BB"
 msgid "Barbados"

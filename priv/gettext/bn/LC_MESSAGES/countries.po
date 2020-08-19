@@ -204,7 +204,7 @@ msgstr "কিউবা"
 
 # "CV"
 msgid "Cabo Verde"
-msgstr "কেপ ভার্ডি"
+msgstr "কেবো ভার্ডে"
 
 # "CW"
 msgid "Curaçao"
@@ -220,7 +220,7 @@ msgstr "সাইপ্রাস"
 
 # "CZ"
 msgid "Czechia"
-msgstr ""
+msgstr "চেকিয়া"
 
 # "DE"
 msgid "Germany"
@@ -572,7 +572,7 @@ msgstr "মার্শাল দ্বীপপুঞ্জ"
 
 # "MK"
 msgid "North Macedonia"
-msgstr "নিউ ক্যালেডোনিয়া"
+msgstr "উত্তর ম্যাসেডোনিয়া"
 
 # "ML"
 msgid "Mali"
@@ -850,7 +850,7 @@ msgstr "সিরিয়ান আরব প্রজাতন্ত্র"
 # "SZ"
 # original msgid: "Eswatini"
 msgid "Swaziland"
-msgstr ""
+msgstr "এসওয়াতিনি"
 
 # "TC"
 msgid "Turks and Caicos Islands"

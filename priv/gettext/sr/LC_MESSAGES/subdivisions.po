@@ -232,7 +232,7 @@ msgstr "Драч"
 
 # "AL-03"
 msgid "Elbasan"
-msgstr "Албасан"
+msgstr "елбасанско писмо"
 
 # "AL-04"
 msgid "Fier"
@@ -1603,7 +1603,6 @@ msgid "Southern"
 msgstr "Саутерн"
 
 # "BY-BR"
-# original msgid: "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr "Бреска област"
 
@@ -1612,27 +1611,22 @@ msgid "Horad Minsk"
 msgstr "Хорад Минск"
 
 # "BY-HO"
-# original msgid: "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr "Хомелска област"
 
 # "BY-HR"
-# original msgid: "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
 msgstr "Хроџенска област"
 
 # "BY-MA"
-# original msgid: "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
 msgstr "Махилевска област"
 
 # "BY-MI"
-# original msgid: "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr "Минска област"
 
 # "BY-VI"
-# original msgid: "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
 msgstr "Вицебска област"
 
@@ -1742,7 +1736,7 @@ msgstr "Источни Касаи"
 
 # "CD-MA"
 msgid "Maniema"
-msgstr "Манјема"
+msgstr "Мањема"
 
 # "CD-NK"
 msgid "Nord-Kivu"
@@ -2726,7 +2720,7 @@ msgstr "Дварте"
 
 # "DO-07"
 msgid "La Estrelleta [Elías Piña]"
-msgstr "Ла Естрељета [Елјас Пиња]"
+msgstr "Ла Естрељета [Ељас Пиња]"
 
 # "DO-08"
 msgid "El Seybo [El Seibo]"
@@ -8278,7 +8272,7 @@ msgstr "Боши"
 
 # "NG-BE"
 msgid "Benue"
-msgstr "Бенју"
+msgstr "Бењу"
 
 # "NG-BO"
 msgid "Borno"
@@ -8584,14 +8578,6 @@ msgstr ""
 msgid "Møre og Romsdal"
 msgstr "Мор ог Ромсдал"
 
-# "NO-16"
-msgid "Sør-Trøndelag"
-msgstr "Сор Тронделаг"
-
-# "NO-17"
-msgid "Nord-Trøndelag"
-msgstr "Норд Тронделаг"
-
 # "NO-18"
 msgid "Nordland"
 msgstr "Нордланд"
@@ -8611,6 +8597,10 @@ msgstr "Свалбард (Артичка област)"
 # "NO-22"
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Јан Мајен (Арктичка област)"
+
+# "NO-50"
+msgid "Trøndelag"
+msgstr "Сор Тронделаг"
 
 # "NP-1"
 msgid "Madhyamanchal"
@@ -10030,7 +10020,7 @@ msgstr "Шуазел"
 
 # "SB-CT"
 msgid "Capital Territory (Honiara)"
-msgstr "Главна територија (Хонјара)"
+msgstr "Главна територија (Хоњара)"
 
 # "SB-GU"
 msgid "Guadalcanal"
@@ -11506,7 +11496,7 @@ msgstr ""
 
 # "SV-UN"
 msgid "La Unión"
-msgstr "Ла Унјион"
+msgstr "Ла Уњион"
 
 # "SV-US"
 msgid "Usulután"
@@ -12818,7 +12808,7 @@ msgstr "Танга"
 
 # "TZ-26"
 msgid "Manyara"
-msgstr "Манјара"
+msgstr "Мањара"
 
 # "UA-05"
 # original msgid: "Vinnyts'ka Oblast'"
@@ -13600,7 +13590,7 @@ msgstr "Бак Гјанг"
 
 # "VN-55"
 msgid "Bạc Liêu"
-msgstr "Бак Лје"
+msgstr "Бак Ље"
 
 # "VN-56"
 msgid "Bắc Ninh"

@@ -460,7 +460,7 @@ msgstr "Birmanisch"
 
 # "na"
 msgid "Nauru"
-msgstr "Nauruisch"
+msgstr "Nauru"
 
 # "nb"
 # original msgid: "Bokmål, Norwegian; Norwegian Bokmål"
@@ -531,7 +531,7 @@ msgstr "Oromo"
 # "or"
 # original msgid: "Oriya"
 msgid "Odia"
-msgstr "Orija"
+msgstr "Oriya"
 
 # "os"
 # original msgid: "Ossetian; Ossetic"

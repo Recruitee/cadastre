@@ -959,7 +959,7 @@ msgstr "İngiliz Virgin Adaları"
 
 # "VI"
 msgid "Virgin Islands, U.S."
-msgstr "Amerikan Virgin Adaları"
+msgstr "Virgin Adaları, A.B.D."
 
 # "VN"
 # original msgid: "Viet Nam"

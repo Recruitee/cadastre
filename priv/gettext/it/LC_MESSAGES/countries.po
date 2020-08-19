@@ -132,7 +132,7 @@ msgstr "Bhutan"
 
 # "BV"
 msgid "Bouvet Island"
-msgstr "Isola di Bouvet"
+msgstr "Isola Bouvet"
 
 # "BW"
 msgid "Botswana"
@@ -356,7 +356,7 @@ msgstr "Grecia"
 
 # "GS"
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "Georgia del Sud e Isole Sandwich australi"
+msgstr "Georgia del Sud e Isole Sandwich Australi"
 
 # "GT"
 msgid "Guatemala"
@@ -580,7 +580,7 @@ msgstr "Mali"
 
 # "MM"
 msgid "Myanmar"
-msgstr "Myanmar"
+msgstr "Birmania"
 
 # "MN"
 msgid "Mongolia"
@@ -592,7 +592,7 @@ msgstr "Macao"
 
 # "MP"
 msgid "Northern Mariana Islands"
-msgstr "Marianne settentrionali"
+msgstr "Isole Marianne Settentrionali"
 
 # "MQ"
 msgid "Martinique"
@@ -724,7 +724,7 @@ msgstr "Pitcairn"
 
 # "PR"
 msgid "Puerto Rico"
-msgstr "Puerto Rico"
+msgstr "Portorico"
 
 # "PS"
 msgid "Palestine, State of"
@@ -777,7 +777,7 @@ msgstr "Isole Salomone"
 
 # "SC"
 msgid "Seychelles"
-msgstr "Seicelle"
+msgstr "Seychelles"
 
 # "SD"
 msgid "Sudan"

@@ -78,7 +78,7 @@ msgstr "тыбецкая"
 
 # "br"
 msgid "Breton"
-msgstr "брэтанская"
+msgstr "брэтонская"
 
 # "bs"
 msgid "Bosnian"
@@ -441,7 +441,7 @@ msgstr "бірманская"
 
 # "na"
 msgid "Nauru"
-msgstr "науру"
+msgstr "Науру"
 
 # "nb"
 # original msgid: "Bokmål, Norwegian; Norwegian Bokmål"

@@ -100,7 +100,7 @@ msgstr "베냉"
 
 # "BL"
 msgid "Saint Barthélemy"
-msgstr "쌩 바르텔레미"
+msgstr "생바르텔레미"
 
 # "BM"
 msgid "Bermuda"
@@ -172,7 +172,7 @@ msgstr "스위스"
 
 # "CI"
 msgid "Côte d'Ivoire"
-msgstr "코트 디브와르"
+msgstr "코트디부아르"
 
 # "CK"
 msgid "Cook Islands"
@@ -204,7 +204,7 @@ msgstr "쿠바"
 
 # "CV"
 msgid "Cabo Verde"
-msgstr "카보 베르데"
+msgstr "카보베르데"
 
 # "CW"
 msgid "Curaçao"
@@ -220,7 +220,7 @@ msgstr "키프로스"
 
 # "CZ"
 msgid "Czechia"
-msgstr "체키아"
+msgstr "체코"
 
 # "DE"
 msgid "Germany"
@@ -336,7 +336,7 @@ msgstr "그린란드"
 
 # "GM"
 msgid "Gambia"
-msgstr "잠비아"
+msgstr "감비아"
 
 # "GN"
 msgid "Guinea"
@@ -560,7 +560,7 @@ msgstr "몬테네그로"
 
 # "MF"
 msgid "Saint Martin (French part)"
-msgstr "쌩 마르텡 (프랑스령)"
+msgstr "생마르탱 (프랑스령)"
 
 # "MG"
 msgid "Madagascar"
@@ -568,7 +568,7 @@ msgstr "마다가스카르"
 
 # "MH"
 msgid "Marshall Islands"
-msgstr "마샬 제도"
+msgstr "마셜 제도"
 
 # "MK"
 msgid "North Macedonia"
@@ -576,7 +576,7 @@ msgstr "북마케도니아"
 
 # "ML"
 msgid "Mali"
-msgstr "말리어"
+msgstr "말리"
 
 # "MM"
 msgid "Myanmar"
@@ -672,7 +672,7 @@ msgstr "네팔"
 
 # "NR"
 msgid "Nauru"
-msgstr "나우루어"
+msgstr "나우루"
 
 # "NU"
 msgid "Niue"
@@ -720,7 +720,7 @@ msgstr "생피에르 미클롱"
 
 # "PN"
 msgid "Pitcairn"
-msgstr "피트케언"
+msgstr "핏케언 제도"
 
 # "PR"
 msgid "Puerto Rico"
@@ -906,7 +906,7 @@ msgstr "트리니다드 토바고"
 
 # "TV"
 msgid "Tuvalu"
-msgstr "투발루어"
+msgstr "투발루"
 
 # "TW"
 # original msgid: "Taiwan, Province of China"
@@ -951,7 +951,7 @@ msgstr "세인트빈센트 그레나딘"
 
 # "VE"
 msgid "Venezuela, Bolivarian Republic of"
-msgstr "베네수엘라 볼리베리안 공화국"
+msgstr "베네수엘라 볼리바르 공화국"
 
 # "VG"
 msgid "Virgin Islands, British"

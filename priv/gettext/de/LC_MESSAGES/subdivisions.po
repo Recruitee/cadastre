@@ -1603,7 +1603,6 @@ msgid "Southern"
 msgstr "Süd"
 
 # "BY-BR"
-# original msgid: "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr "Brest"
 
@@ -1612,29 +1611,24 @@ msgid "Horad Minsk"
 msgstr "Stadt Minsk"
 
 # "BY-HO"
-# original msgid: "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr "Homel"
 
 # "BY-HR"
-# original msgid: "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
 msgstr "Hrodna"
 
 # "BY-MA"
-# original msgid: "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
-msgstr "Majiljou"
+msgstr "Mahiliou"
 
 # "BY-MI"
-# original msgid: "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr "Minsk"
 
 # "BY-VI"
-# original msgid: "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
-msgstr "Wizebsk"
+msgstr "Brest"
 
 # "BZ-BZ"
 msgid "Belize"
@@ -8584,14 +8578,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Møre og Romsdal"
 
-# "NO-16"
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-# "NO-17"
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 # "NO-18"
 msgid "Nordland"
 msgstr "Nordland"
@@ -8611,6 +8597,10 @@ msgstr "Svalbard (Arktische Region)"
 # "NO-22"
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (Arktische Region)"
+
+# "NO-50"
+msgid "Trøndelag"
+msgstr "Sør-Trøndelag"
 
 # "NP-1"
 msgid "Madhyamanchal"
@@ -13036,7 +13026,7 @@ msgstr "Florida"
 
 # "US-GA"
 msgid "Georgia"
-msgstr "Georgia"
+msgstr "Georgien"
 
 # "US-GU"
 msgid "Guam"

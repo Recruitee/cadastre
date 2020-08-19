@@ -1204,7 +1204,7 @@ msgstr ""
 
 # "BN-TU"
 msgid "Tutong"
-msgstr ""
+msgstr "Tutong"
 
 # "BO-B"
 msgid "El Beni"
@@ -1603,7 +1603,6 @@ msgid "Southern"
 msgstr "Suður"
 
 # "BY-BR"
-# original msgid: "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr ""
 
@@ -1612,27 +1611,22 @@ msgid "Horad Minsk"
 msgstr ""
 
 # "BY-HO"
-# original msgid: "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr ""
 
 # "BY-HR"
-# original msgid: "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 # "BY-MA"
-# original msgid: "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 # "BY-MI"
-# original msgid: "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr ""
 
 # "BY-VI"
-# original msgid: "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
 msgstr ""
 
@@ -3642,7 +3636,7 @@ msgstr ""
 
 # "GA-5"
 msgid "Nyanga"
-msgstr ""
+msgstr "Nyanga"
 
 # "GA-6"
 msgid "Ogooué-Ivindo"
@@ -5114,7 +5108,7 @@ msgstr ""
 
 # "JP-29"
 msgid "Nara"
-msgstr ""
+msgstr "Nara"
 
 # "JP-30"
 msgid "Wakayama"
@@ -5210,7 +5204,7 @@ msgstr ""
 
 # "KE-06"
 msgid "Embu"
-msgstr ""
+msgstr "Embu"
 
 # "KE-07"
 msgid "Garissa"
@@ -5270,7 +5264,7 @@ msgstr ""
 
 # "KE-21"
 msgid "Lamu"
-msgstr ""
+msgstr "Lamu"
 
 # "KE-22"
 msgid "Machakos"
@@ -5314,7 +5308,7 @@ msgstr ""
 
 # "KE-32"
 msgid "Nandi"
-msgstr ""
+msgstr "Nandí"
 
 # "KE-33"
 msgid "Narok"
@@ -5358,7 +5352,7 @@ msgstr ""
 
 # "KE-43"
 msgid "Turkana"
-msgstr ""
+msgstr "Turkana"
 
 # "KE-44"
 msgid "Uasin Gishu"
@@ -8186,7 +8180,7 @@ msgstr ""
 
 # "NA-KA"
 msgid "Karas"
-msgstr ""
+msgstr "Karas"
 
 # "NA-KH"
 msgid "Khomas"
@@ -8454,7 +8448,7 @@ msgstr ""
 
 # "NI-MT"
 msgid "Matagalpa"
-msgstr ""
+msgstr "Matagalpa"
 
 # "NI-NS"
 msgid "Nueva Segovia"
@@ -8584,14 +8578,6 @@ msgstr "Sogn og Firðirnir"
 msgid "Møre og Romsdal"
 msgstr "Mæri og Romsdal"
 
-# "NO-16"
-msgid "Sør-Trøndelag"
-msgstr "Suður-Þrændalög"
-
-# "NO-17"
-msgid "Nord-Trøndelag"
-msgstr "Norður-Þrændalög"
-
 # "NO-18"
 msgid "Nordland"
 msgstr "Norðurland"
@@ -8611,6 +8597,10 @@ msgstr "Svalbarði (heimsskautasvæði)"
 # "NO-22"
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (heimsskautasvæði)"
+
+# "NO-50"
+msgid "Trøndelag"
+msgstr "Suður-Þrændalög"
 
 # "NP-1"
 msgid "Madhyamanchal"
@@ -12766,7 +12756,7 @@ msgstr ""
 
 # "TZ-13"
 msgid "Mara"
-msgstr ""
+msgstr "Mara"
 
 # "TZ-14"
 msgid "Mbeya"

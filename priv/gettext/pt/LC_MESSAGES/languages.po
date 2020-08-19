@@ -28,7 +28,7 @@ msgstr "Faroês"
 
 # "ar"
 msgid "Arabic"
-msgstr "Arábico"
+msgstr "Árabe"
 
 # "as"
 msgid "Assamese"

@@ -672,7 +672,7 @@ msgstr "Непал"
 
 # "NR"
 msgid "Nauru"
-msgstr "науру"
+msgstr "Науру"
 
 # "NU"
 msgid "Niue"
@@ -878,7 +878,7 @@ msgstr "Таджыкістан"
 
 # "TK"
 msgid "Tokelau"
-msgstr "такелау"
+msgstr "Такелаў"
 
 # "TL"
 msgid "Timor-Leste"
@@ -906,7 +906,7 @@ msgstr "Трынідад і Табага"
 
 # "TV"
 msgid "Tuvalu"
-msgstr "тувалу"
+msgstr "Тувалу"
 
 # "TW"
 # original msgid: "Taiwan, Province of China"

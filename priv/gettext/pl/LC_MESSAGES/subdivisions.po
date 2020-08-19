@@ -1388,7 +1388,7 @@ msgstr "Cat Island"
 
 # "BS-CK"
 msgid "Crooked Island and Long Cay"
-msgstr ""
+msgstr "Crooked Island i Long Cay"
 
 # "BS-CO"
 msgid "Central Abaco"
@@ -1603,7 +1603,6 @@ msgid "Southern"
 msgstr "Południowy"
 
 # "BY-BR"
-# original msgid: "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr "obwód brzeski"
 
@@ -1612,27 +1611,22 @@ msgid "Horad Minsk"
 msgstr "Miasto Mińsk"
 
 # "BY-HO"
-# original msgid: "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr "obwód homelski"
 
 # "BY-HR"
-# original msgid: "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
 msgstr "obwód grodzieński"
 
 # "BY-MA"
-# original msgid: "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
 msgstr "obwód mohylewski"
 
 # "BY-MI"
-# original msgid: "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr "obwód miński"
 
 # "BY-VI"
-# original msgid: "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
 msgstr "obwód witebski"
 
@@ -7910,19 +7904,19 @@ msgstr "Malé"
 
 # "MV-NC"
 msgid "North Central"
-msgstr ""
+msgstr "Północno-centralny"
 
 # "MV-SC"
 msgid "South Central"
-msgstr ""
+msgstr "Południowo-centralny"
 
 # "MV-UN"
 msgid "Upper North"
-msgstr ""
+msgstr "Górnopółnocny"
 
 # "MV-US"
 msgid "Upper South"
-msgstr ""
+msgstr "Górnopołudniowy"
 
 # "MW-C"
 msgid "Central Region"
@@ -8584,14 +8578,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Møre og Romsdal"
 
-# "NO-16"
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-# "NO-17"
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 # "NO-18"
 msgid "Nordland"
 msgstr "Nordland"
@@ -8611,6 +8597,10 @@ msgstr "Svalbard (terytorium arktyczne)"
 # "NO-22"
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (terytorium arktyczne)"
+
+# "NO-50"
+msgid "Trøndelag"
+msgstr "Trøndelag"
 
 # "NP-1"
 msgid "Madhyamanchal"

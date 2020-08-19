@@ -1603,7 +1603,6 @@ msgid "Southern"
 msgstr "ภาคใต้"
 
 # "BY-BR"
-# original msgid: "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr "เขตเบรสต์"
 
@@ -1612,27 +1611,22 @@ msgid "Horad Minsk"
 msgstr "มินสค์"
 
 # "BY-HO"
-# original msgid: "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr "เขตฮอเมียล"
 
 # "BY-HR"
-# original msgid: "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
 msgstr "เขตฮรอดนา"
 
 # "BY-MA"
-# original msgid: "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
 msgstr "เขตมากียอฟ"
 
 # "BY-MI"
-# original msgid: "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr "เขตมินสค์"
 
 # "BY-VI"
-# original msgid: "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
 msgstr "เขตวีตเซียบสค์"
 
@@ -8584,14 +8578,6 @@ msgstr ""
 msgid "Møre og Romsdal"
 msgstr ""
 
-# "NO-16"
-msgid "Sør-Trøndelag"
-msgstr ""
-
-# "NO-17"
-msgid "Nord-Trøndelag"
-msgstr ""
-
 # "NO-18"
 msgid "Nordland"
 msgstr ""
@@ -8610,6 +8596,10 @@ msgstr ""
 
 # "NO-22"
 msgid "Jan Mayen (Arctic Region)"
+msgstr ""
+
+# "NO-50"
+msgid "Trøndelag"
 msgstr ""
 
 # "NP-1"

@@ -1603,7 +1603,6 @@ msgid "Southern"
 msgstr "Паўднёвая акруга"
 
 # "BY-BR"
-# original msgid: "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr "Брэсцкая вобласць"
 
@@ -1612,27 +1611,22 @@ msgid "Horad Minsk"
 msgstr "Горад Мінск"
 
 # "BY-HO"
-# original msgid: "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr "Гомельская вобласць"
 
 # "BY-HR"
-# original msgid: "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
 msgstr "Гродзенская вобласць"
 
 # "BY-MA"
-# original msgid: "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
 msgstr "Магілёўская вобласць"
 
 # "BY-MI"
-# original msgid: "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr "Мінская вобласць"
 
 # "BY-VI"
-# original msgid: "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
 msgstr "Віцебская вобласць"
 
@@ -5194,11 +5188,11 @@ msgstr "Бары"
 
 # "KE-02"
 msgid "Bomet"
-msgstr ""
+msgstr "Бомет"
 
 # "KE-03"
 msgid "Bungoma"
-msgstr "Кунгота"
+msgstr "Бунгома"
 
 # "KE-04"
 msgid "Busia"
@@ -5214,11 +5208,11 @@ msgstr ""
 
 # "KE-07"
 msgid "Garissa"
-msgstr "Ларыса"
+msgstr "Гарыса"
 
 # "KE-08"
 msgid "Homa Bay"
-msgstr "Хокс-Бей"
+msgstr "Гома-Бей"
 
 # "KE-09"
 msgid "Isiolo"
@@ -5230,7 +5224,7 @@ msgstr ""
 
 # "KE-11"
 msgid "Kakamega"
-msgstr "Макамба"
+msgstr "Какамега"
 
 # "KE-12"
 msgid "Kericho"
@@ -8584,14 +8578,6 @@ msgstr "Согн-ог-Ф’юране"
 msgid "Møre og Romsdal"
 msgstr "Мёрэ-ог-Румсдал"
 
-# "NO-16"
-msgid "Sør-Trøndelag"
-msgstr "Сёр-Трондэлаг"
-
-# "NO-17"
-msgid "Nord-Trøndelag"
-msgstr "Нур-Трондэлаг"
-
 # "NO-18"
 msgid "Nordland"
 msgstr "Нурлан"
@@ -8611,6 +8597,10 @@ msgstr "Свальбард (арктычны рэгіён)"
 # "NO-22"
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Ян-Маен (арктычны рэгіён)"
+
+# "NO-50"
+msgid "Trøndelag"
+msgstr "Сёр-Трондэлаг"
 
 # "NP-1"
 msgid "Madhyamanchal"

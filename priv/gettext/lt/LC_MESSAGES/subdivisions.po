@@ -1603,7 +1603,6 @@ msgid "Southern"
 msgstr "Pietūs"
 
 # "BY-BR"
-# original msgid: "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr "Bresto sritis"
 
@@ -1612,27 +1611,22 @@ msgid "Horad Minsk"
 msgstr ""
 
 # "BY-HO"
-# original msgid: "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr "Gomelio sritis"
 
 # "BY-HR"
-# original msgid: "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
 msgstr "Gardino sritis"
 
 # "BY-MA"
-# original msgid: "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
 msgstr "Mogiliavo sritis"
 
 # "BY-MI"
-# original msgid: "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr "Minsko sritis"
 
 # "BY-VI"
-# original msgid: "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
 msgstr "Vitebsko sritis"
 
@@ -8584,14 +8578,6 @@ msgstr "Sognas ir Fjordanė"
 msgid "Møre og Romsdal"
 msgstr "Merė ir Romsdalis"
 
-# "NO-16"
-msgid "Sør-Trøndelag"
-msgstr "Pietų Trendelagas"
-
-# "NO-17"
-msgid "Nord-Trøndelag"
-msgstr "Šiaurės Trendelagas"
-
 # "NO-18"
 msgid "Nordland"
 msgstr "Nordlandas"
@@ -8611,6 +8597,10 @@ msgstr ""
 # "NO-22"
 msgid "Jan Mayen (Arctic Region)"
 msgstr ""
+
+# "NO-50"
+msgid "Trøndelag"
+msgstr "Pietų Trendelagas"
 
 # "NP-1"
 msgid "Madhyamanchal"

@@ -8,7 +8,7 @@ msgstr "абкаски"
 
 # "ae"
 msgid "Avestan"
-msgstr "авестански"
+msgstr "авестанско писмо"
 
 # "af"
 msgid "Afrikaans"
@@ -210,7 +210,7 @@ msgstr "гварански"
 
 # "gu"
 msgid "Gujarati"
-msgstr "гујаратски"
+msgstr "гуђаратско писмо"
 
 # "gv"
 msgid "Manx"
@@ -311,7 +311,7 @@ msgstr "кикујски; гикујски"
 # "kj"
 # original msgid: "Kuanyama; Kwanyama"
 msgid "Kuanyama"
-msgstr "куанјамски; кванјамски"
+msgstr "куањамски; квањамски"
 
 # "kk"
 msgid "Kazakh"
@@ -329,7 +329,7 @@ msgstr "средишњи кмерски"
 
 # "kn"
 msgid "Kannada"
-msgstr "кндешки"
+msgstr "каннада писмо"
 
 # "ko"
 msgid "Korean"
@@ -384,7 +384,7 @@ msgstr "лингалски"
 
 # "lo"
 msgid "Lao"
-msgstr "лаоски"
+msgstr "лаоско писмо"
 
 # "lt"
 msgid "Lithuanian"
@@ -416,7 +416,7 @@ msgstr "македонски"
 
 # "ml"
 msgid "Malayalam"
-msgstr "малајалски"
+msgstr "малајаламско писмо"
 
 # "mn"
 msgid "Mongolian"
@@ -487,7 +487,7 @@ msgstr "навашански"
 # "ny"
 # original msgid: "Chichewa; Chewa; Nyanja"
 msgid "Nyanja"
-msgstr "чевски; чичевски; нјанџиски"
+msgstr "чевски; чичевски; њанџиски"
 
 # "oc"
 # original msgid: "Occitan (post 1500); Provençal"
@@ -553,7 +553,7 @@ msgstr "руски"
 
 # "rw"
 msgid "Kinyarwanda"
-msgstr "кинјарвандски"
+msgstr "кињарвандски"
 
 # "sa"
 msgid "Sanskrit"
@@ -620,7 +620,7 @@ msgstr "сотски, јужни"
 
 # "su"
 msgid "Sundanese"
-msgstr "сунданешки"
+msgstr "сунданско писмо"
 
 # "sv"
 msgid "Swedish"
@@ -632,11 +632,11 @@ msgstr "свахилски"
 
 # "ta"
 msgid "Tamil"
-msgstr "тамилски"
+msgstr "тамилско писмо"
 
 # "te"
 msgid "Telugu"
-msgstr "телушки"
+msgstr "телугу писмо"
 
 # "tg"
 msgid "Tajik"

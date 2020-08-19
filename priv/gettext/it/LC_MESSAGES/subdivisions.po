@@ -892,7 +892,7 @@ msgstr "Fiandre"
 
 # "BE-WAL"
 msgid "wallonne, Région"
-msgstr "Regione della Vallonia"
+msgstr "Vallonia, regione"
 
 # "BF-01"
 msgid "Boucle du Mouhoun"
@@ -1603,7 +1603,6 @@ msgid "Southern"
 msgstr "Meridionale (Botswana)"
 
 # "BY-BR"
-# original msgid: "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr "Regione di Brest"
 
@@ -1612,27 +1611,22 @@ msgid "Horad Minsk"
 msgstr "Horad Minsk"
 
 # "BY-HO"
-# original msgid: "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr "Regione di Homiel'"
 
 # "BY-HR"
-# original msgid: "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
 msgstr "Regione di Hronda"
 
 # "BY-MA"
-# original msgid: "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
 msgstr "Regione di Mahilou"
 
 # "BY-MI"
-# original msgid: "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr "Regione di Minsk"
 
 # "BY-VI"
-# original msgid: "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
 msgstr "Regione di Vitebsk"
 
@@ -3298,7 +3292,7 @@ msgstr "Andalusia"
 
 # "ES-AR"
 msgid "Aragón"
-msgstr "Aragogna"
+msgstr "Aragona"
 
 # "ES-AS"
 msgid "Asturias, Principado de"
@@ -3338,7 +3332,7 @@ msgstr "Galizia"
 
 # "ES-IB"
 msgid "Illes Balears"
-msgstr "Baleari"
+msgstr "Isole Baleari"
 
 # "ES-MC"
 msgid "Murcia, Región de"
@@ -3358,7 +3352,7 @@ msgstr "Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea"
 
 # "ES-PV"
 msgid "País Vasco / Euskal Herria"
-msgstr "País Vasco / Euskal Herria"
+msgstr "Paesi Baschi / Euskal Herria"
 
 # "ES-RI"
 msgid "La Rioja"
@@ -3450,7 +3444,7 @@ msgstr "Kymenlaakso"
 
 # "FI-10"
 msgid "Lappi"
-msgstr "Regione della Lapponia"
+msgstr "Lapponia"
 
 # "FI-11"
 msgid "Pirkanmaa"
@@ -8584,14 +8578,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Møre og Romsdal"
 
-# "NO-16"
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-# "NO-17"
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 # "NO-18"
 msgid "Nordland"
 msgstr "Nordland"
@@ -8611,6 +8597,10 @@ msgstr "Svalbard (regione artica)"
 # "NO-22"
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (regione artica)"
+
+# "NO-50"
+msgid "Trøndelag"
+msgstr "Sør-Trøndelag"
 
 # "NP-1"
 msgid "Madhyamanchal"
@@ -13096,7 +13086,7 @@ msgstr "Missouri"
 
 # "US-MP"
 msgid "Northern Mariana Islands"
-msgstr "Isole Mariana settentrionali"
+msgstr "Isole Marianne Settentrionali"
 
 # "US-MS"
 msgid "Mississippi"
@@ -13104,11 +13094,11 @@ msgstr "Mississippi"
 
 # "US-NC"
 msgid "North Carolina"
-msgstr "North Carolina"
+msgstr "Carolina del Nord"
 
 # "US-ND"
 msgid "North Dakota"
-msgstr "North Dakota"
+msgstr "Dakota del Nord"
 
 # "US-NE"
 msgid "Nebraska"
@@ -13152,7 +13142,7 @@ msgstr "Pennsylvania"
 
 # "US-PR"
 msgid "Puerto Rico"
-msgstr "Puerto Rico"
+msgstr "Portorico"
 
 # "US-RI"
 msgid "Rhode Island"
@@ -13160,11 +13150,11 @@ msgstr "Rhode Island"
 
 # "US-SC"
 msgid "South Carolina"
-msgstr "South Carolina"
+msgstr "Carolina del Sud"
 
 # "US-SD"
 msgid "South Dakota"
-msgstr "South Dakota"
+msgstr "Dakota del Sud"
 
 # "US-TN"
 msgid "Tennessee"
@@ -13176,7 +13166,7 @@ msgstr "Texas"
 
 # "US-UM"
 msgid "United States Minor Outlying Islands"
-msgstr "Isole minori esterne degli Stati Uniti"
+msgstr "Isole minori esterne degli Stati Uniti d'America"
 
 # "US-UT"
 msgid "Utah"
@@ -13204,7 +13194,7 @@ msgstr "Wisconsin"
 
 # "US-WV"
 msgid "West Virginia"
-msgstr "West Virginia"
+msgstr "Virginia Occidentale"
 
 # "US-WY"
 msgid "Wyoming"
@@ -13676,7 +13666,7 @@ msgstr "Hai Phong"
 
 # "VN-SG"
 msgid "Hồ Chí Minh [Sài Gòn]"
-msgstr "Ho Chi Minh [Saigon]"
+msgstr "Ho Chi Minh (Saigon)"
 
 # "VU-MAP"
 msgid "Malampa"
@@ -13852,7 +13842,7 @@ msgstr "Kwazulu-Natal"
 
 # "ZA-NW"
 msgid "North-West (South Africa)"
-msgstr "Nord-Ovest (Sud Africa)"
+msgstr "Nord-Ovest (Sudafrica)"
 
 # "ZA-WC"
 msgid "Western Cape"

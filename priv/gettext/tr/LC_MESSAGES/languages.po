@@ -256,7 +256,7 @@ msgstr "Herero"
 # "ia"
 # original msgid: "Interlingua (International Auxiliary Language Association)"
 msgid "Interlingua"
-msgstr "Interlingua (International Auxiliary Language Association)"
+msgstr "Interlingua (Uluslararası Yapay Dil Derneği)"
 
 # "id"
 msgid "Indonesian"
