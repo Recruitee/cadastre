@@ -460,7 +460,7 @@ msgstr "Кения"
 
 # "KG"
 msgid "Kyrgyzstan"
-msgstr "Кыргызстан"
+msgstr "Киргизия"
 
 # "KH"
 msgid "Cambodia"
@@ -472,7 +472,7 @@ msgstr "Кирибати"
 
 # "KM"
 msgid "Comoros"
-msgstr "Коморские острова"
+msgstr "Коморы"
 
 # "KN"
 msgid "Saint Kitts and Nevis"
@@ -588,7 +588,7 @@ msgstr "Монголия"
 
 # "MO"
 msgid "Macao"
-msgstr "Аомынь"
+msgstr "Макао"
 
 # "MP"
 msgid "Northern Mariana Islands"
@@ -604,7 +604,7 @@ msgstr "Мавритания"
 
 # "MS"
 msgid "Montserrat"
-msgstr "Монсеррат"
+msgstr "Монтсеррат"
 
 # "MT"
 msgid "Malta"
@@ -777,7 +777,7 @@ msgstr "Соломоновы Острова"
 
 # "SC"
 msgid "Seychelles"
-msgstr "Сейшельские Острова"
+msgstr "Сейшелы"
 
 # "SD"
 msgid "Sudan"

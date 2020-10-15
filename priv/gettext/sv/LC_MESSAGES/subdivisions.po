@@ -1604,7 +1604,7 @@ msgstr "Southern"
 
 # "BY-BR"
 msgid "Bresckaja voblasć"
-msgstr "Brest Voblast"
+msgstr "Brests voblasts"
 
 # "BY-HM"
 msgid "Horad Minsk"
@@ -1612,11 +1612,11 @@ msgstr "Horad Minsk"
 
 # "BY-HO"
 msgid "Homieĺskaja voblasć"
-msgstr "Homyel Voblasc"
+msgstr "Homyels voblasts"
 
 # "BY-HR"
 msgid "Hrodzienskaja voblasć"
-msgstr "Hrodna voblast"
+msgstr "Hrodnas voblasts"
 
 # "BY-MA"
 msgid "Mahilioŭskaja voblasć"
@@ -2132,7 +2132,7 @@ msgstr "Sydvästra"
 
 # "CN-AH"
 msgid "Anhui Sheng"
-msgstr "Anhui"
+msgstr "Anhui Sheng"
 
 # "CN-BJ"
 msgid "Beijing Shi"
@@ -2140,43 +2140,43 @@ msgstr "Peking"
 
 # "CN-CQ"
 msgid "Chongqing Shi"
-msgstr "Chongqing"
+msgstr "Chongqing Shi"
 
 # "CN-FJ"
 msgid "Fujian Sheng"
-msgstr "Fujian"
+msgstr "Fujian Sheng"
 
 # "CN-GD"
 msgid "Guangdong Sheng"
-msgstr "Guangdong"
+msgstr "Guangdong Sheng"
 
 # "CN-GS"
 msgid "Gansu Sheng"
-msgstr "Gansu"
+msgstr "Gansu Sheng"
 
 # "CN-GX"
 msgid "Guangxi Zhuangzu Zizhiqu"
-msgstr ""
+msgstr "Guangxi"
 
 # "CN-GZ"
 msgid "Guizhou Sheng"
-msgstr "Guizhou"
+msgstr "Guizhou Sheng"
 
 # "CN-HA"
 msgid "Henan Sheng"
-msgstr "Henan"
+msgstr "Henan Sheng"
 
 # "CN-HB"
 msgid "Hubei Sheng"
-msgstr "Hubei"
+msgstr "Hubei Sheng"
 
 # "CN-HE"
 msgid "Hebei Sheng"
-msgstr "Hebei"
+msgstr "Hebei Sheng"
 
 # "CN-HI"
 msgid "Hainan Sheng"
-msgstr "Hainan"
+msgstr "Hainan Sheng"
 
 # "CN-HK"
 msgid "Hong Kong SAR (see also separate country code entry under HK)"
@@ -2184,27 +2184,27 @@ msgstr ""
 
 # "CN-HL"
 msgid "Heilongjiang Sheng"
-msgstr "Heilongjiang"
+msgstr "Heilongjiang Sheng"
 
 # "CN-HN"
 msgid "Hunan Sheng"
-msgstr "Hunan"
+msgstr "Hunan Sheng"
 
 # "CN-JL"
 msgid "Jilin Sheng"
-msgstr "Jilin"
+msgstr "Jilin Sheng"
 
 # "CN-JS"
 msgid "Jiangsu Sheng"
-msgstr "Jiangsu"
+msgstr "Jiangsu Sheng"
 
 # "CN-JX"
 msgid "Jiangxi Sheng"
-msgstr "Jiangxi"
+msgstr "Jiangxi Sheng"
 
 # "CN-LN"
 msgid "Liaoning Sheng"
-msgstr "Liaoning"
+msgstr "Liaoning Sheng"
 
 # "CN-MO"
 msgid "Macao SAR (see also separate country code entry under MO)"
@@ -2212,39 +2212,39 @@ msgstr ""
 
 # "CN-NM"
 msgid "Nei Mongol Zizhiqu"
-msgstr "Nei Mongol"
+msgstr "Nei Mongol Zizhiqu"
 
 # "CN-NX"
 msgid "Ningxia Huizi Zizhiqu"
-msgstr ""
+msgstr "Ningxia Huizi Zizhiqu"
 
 # "CN-QH"
 msgid "Qinghai Sheng"
-msgstr "Qinghai"
+msgstr "Qinghai Sheng"
 
 # "CN-SC"
 msgid "Sichuan Sheng"
-msgstr "Sichuan"
+msgstr "Sichuan Sheng"
 
 # "CN-SD"
 msgid "Shandong Sheng"
-msgstr "Shandong"
+msgstr "Shandong Sheng"
 
 # "CN-SH"
 msgid "Shanghai Shi"
-msgstr "Shanghai"
+msgstr "Shanghai Shi"
 
 # "CN-SN"
 msgid "Shaanxi Sheng"
-msgstr "Shaanxi"
+msgstr "Shaanxi Sheng"
 
 # "CN-SX"
 msgid "Shanxi Sheng"
-msgstr "Shanxi"
+msgstr "Shanxi Sheng"
 
 # "CN-TJ"
 msgid "Tianjin Shi"
-msgstr "Tianjin"
+msgstr "Tianjin Shi"
 
 # "CN-TW"
 msgid "Taiwan Sheng (see also separate country code entry under TW)"
@@ -2252,19 +2252,19 @@ msgstr ""
 
 # "CN-XJ"
 msgid "Xinjiang Uygur Zizhiqu"
-msgstr ""
+msgstr "Xinjiang Uygur Zizhiqu"
 
 # "CN-XZ"
 msgid "Xizang Zizhiqu"
-msgstr "Xizang"
+msgstr "Xizang Zizhiqu"
 
 # "CN-YN"
 msgid "Yunnan Sheng"
-msgstr "Yunnan"
+msgstr "Yunnan Sheng"
 
 # "CN-ZJ"
 msgid "Zhejiang Sheng"
-msgstr "Zhejiang"
+msgstr "Zhejiang Sheng"
 
 # "CO-ANT"
 msgid "Antioquia"
@@ -5184,15 +5184,15 @@ msgstr "Okinawa"
 
 # "KE-01"
 msgid "Baringo"
-msgstr "Bari"
+msgstr "Baringo"
 
 # "KE-02"
 msgid "Bomet"
-msgstr ""
+msgstr "Bomet"
 
 # "KE-03"
 msgid "Bungoma"
-msgstr "Kungota"
+msgstr "Bungoma"
 
 # "KE-04"
 msgid "Busia"
@@ -5200,7 +5200,7 @@ msgstr "Busia"
 
 # "KE-05"
 msgid "Elgeyo/Marakwet"
-msgstr ""
+msgstr "Elegeyo/Marakwet"
 
 # "KE-06"
 msgid "Embu"
@@ -5208,59 +5208,59 @@ msgstr "Embu"
 
 # "KE-07"
 msgid "Garissa"
-msgstr "Larissa"
+msgstr "Garissa"
 
 # "KE-08"
 msgid "Homa Bay"
-msgstr "Hawke's Bay"
+msgstr "Homa Bay"
 
 # "KE-09"
 msgid "Isiolo"
-msgstr ""
+msgstr "Isiolo"
 
 # "KE-10"
 msgid "Kajiado"
-msgstr ""
+msgstr "Kajiado"
 
 # "KE-11"
 msgid "Kakamega"
-msgstr "Makamba"
+msgstr "Kakamega"
 
 # "KE-12"
 msgid "Kericho"
-msgstr ""
+msgstr "Kericho"
 
 # "KE-13"
 msgid "Kiambu"
-msgstr "Hamburg"
+msgstr "Kiambu"
 
 # "KE-14"
 msgid "Kilifi"
-msgstr "Kili"
+msgstr "Kilifi"
 
 # "KE-15"
 msgid "Kirinyaga"
-msgstr "Shinyanga"
+msgstr "Kirinyaga"
 
 # "KE-16"
 msgid "Kisii"
-msgstr ""
+msgstr "Kisii"
 
 # "KE-17"
 msgid "Kisumu"
-msgstr ""
+msgstr "Kisumu"
 
 # "KE-18"
 msgid "Kitui"
-msgstr ""
+msgstr "Kitui"
 
 # "KE-19"
 msgid "Kwale"
-msgstr ""
+msgstr "Kwale"
 
 # "KE-20"
 msgid "Laikipia"
-msgstr ""
+msgstr "Laikipia"
 
 # "KE-21"
 msgid "Lamu"
@@ -5268,19 +5268,19 @@ msgstr "Lamu"
 
 # "KE-22"
 msgid "Machakos"
-msgstr "Maracha"
+msgstr "Machakos"
 
 # "KE-23"
 msgid "Makueni"
-msgstr ""
+msgstr "Makueni"
 
 # "KE-24"
 msgid "Mandera"
-msgstr "Mandiana"
+msgstr "Mandera"
 
 # "KE-25"
 msgid "Marsabit"
-msgstr "Marsa"
+msgstr "Marsabit"
 
 # "KE-26"
 msgid "Meru"
@@ -5288,15 +5288,15 @@ msgstr "Meru"
 
 # "KE-27"
 msgid "Migori"
-msgstr ""
+msgstr "Migori"
 
 # "KE-28"
 msgid "Mombasa"
-msgstr "Zomba"
+msgstr "Mombasa"
 
 # "KE-29"
 msgid "Murang'a"
-msgstr "Durango"
+msgstr "Muranga"
 
 # "KE-30"
 msgid "Nairobi City"
@@ -5304,7 +5304,7 @@ msgstr "Taipei"
 
 # "KE-31"
 msgid "Nakuru"
-msgstr ""
+msgstr "Nakuru"
 
 # "KE-32"
 msgid "Nandi"
@@ -5312,19 +5312,19 @@ msgstr "Nandi"
 
 # "KE-33"
 msgid "Narok"
-msgstr ""
+msgstr "Narok"
 
 # "KE-34"
 msgid "Nyamira"
-msgstr ""
+msgstr "Nyamira"
 
 # "KE-35"
 msgid "Nyandarua"
-msgstr "Bandarban"
+msgstr "Nyandarua"
 
 # "KE-36"
 msgid "Nyeri"
-msgstr ""
+msgstr "Nyeri"
 
 # "KE-37"
 msgid "Samburu"
@@ -5332,23 +5332,23 @@ msgstr "Samburu"
 
 # "KE-38"
 msgid "Siaya"
-msgstr ""
+msgstr "Siaya"
 
 # "KE-39"
 msgid "Taita/Taveta"
-msgstr ""
+msgstr "Taita/Taveta"
 
 # "KE-40"
 msgid "Tana River"
-msgstr "Central River"
+msgstr "Tana River"
 
 # "KE-41"
 msgid "Tharaka-Nithi"
-msgstr ""
+msgstr "Tharaka-Nithi"
 
 # "KE-42"
 msgid "Trans Nzoia"
-msgstr ""
+msgstr "Trans-Nzoia"
 
 # "KE-43"
 msgid "Turkana"
@@ -5356,19 +5356,19 @@ msgstr "Turkana"
 
 # "KE-44"
 msgid "Uasin Gishu"
-msgstr ""
+msgstr "Uasin Gishu"
 
 # "KE-45"
 msgid "Vihiga"
-msgstr "Shiga"
+msgstr "Vihiga"
 
 # "KE-46"
 msgid "Wajir"
-msgstr ""
+msgstr "Wajir"
 
 # "KE-47"
 msgid "West Pokot"
-msgstr "West Coast"
+msgstr "Västra Pokot"
 
 # "KG-B"
 msgid "Batken"
@@ -6620,7 +6620,7 @@ msgstr "Az Zāwiyah"
 
 # "MA-01"
 msgid "Tanger-Tétouan-Al Hoceïma"
-msgstr "Tanger-Tétouan"
+msgstr "Tanger-Tétouan-Al Hoceïma"
 
 # "MA-02"
 msgid "L'Oriental"
@@ -6628,31 +6628,31 @@ msgstr "L'Oriental"
 
 # "MA-03"
 msgid "Fès-Meknès"
-msgstr "Meknès"
+msgstr "Fès-Meknès"
 
 # "MA-04"
 msgid "Rabat-Salé-Kénitra"
-msgstr "Rabat-Salé-Zemmour-Zaer"
+msgstr "Rabat-Salé-Kénitra"
 
 # "MA-05"
 msgid "Béni Mellal-Khénifra"
-msgstr "Beni Mellal"
+msgstr "Béni Mellal-Khénifra"
 
 # "MA-06"
 msgid "Casablanca-Settat"
-msgstr "Grand Casablanca"
+msgstr "Casablanca-Settat"
 
 # "MA-07"
 msgid "Marrakech-Safi"
-msgstr "Marrakech-Medina"
+msgstr "Marrakech-Safi"
 
 # "MA-08"
 msgid "Drâa-Tafilalet"
-msgstr "Meknès-Tafilalet"
+msgstr "Drâa-Tafilalet"
 
 # "MA-09"
 msgid "Souss-Massa"
-msgstr "Sous-Massa-Draa"
+msgstr "Souss-Massa"
 
 # "MA-10"
 msgid "Guelmim-Oued Noun (EH-partial)"
@@ -8600,7 +8600,7 @@ msgstr "Jan Mayen (Arktiska regionen)"
 
 # "NO-50"
 msgid "Trøndelag"
-msgstr "Sør-Trøndelag"
+msgstr "Trøndelag"
 
 # "NP-1"
 msgid "Madhyamanchal"
@@ -11412,11 +11412,11 @@ msgstr "Wanica"
 
 # "SS-BN"
 msgid "Northern Bahr el Ghazal"
-msgstr "Northern Bahr el-Ghazal"
+msgstr "Norra Bahr el Ghazal"
 
 # "SS-BW"
 msgid "Western Bahr el Ghazal"
-msgstr "Western Bahr el-Ghazal"
+msgstr "Västra Bahr el-Ghazal"
 
 # "SS-EC"
 msgid "Central Equatoria"

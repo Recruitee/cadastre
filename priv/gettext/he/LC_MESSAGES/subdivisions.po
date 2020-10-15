@@ -1,90 +1,90 @@
 # "AD-02"
 msgid "Canillo"
-msgstr ""
+msgstr "קאנילו"
 
 # "AD-03"
 msgid "Encamp"
-msgstr ""
+msgstr "אנקאם"
 
 # "AD-04"
 msgid "La Massana"
-msgstr ""
+msgstr "לה מסאנה"
 
 # "AD-05"
 msgid "Ordino"
-msgstr ""
+msgstr "אורדינו"
 
 # "AD-06"
 msgid "Sant Julià de Lòria"
-msgstr ""
+msgstr "סן ג׳וליה דה לוריה"
 
 # "AD-07"
 msgid "Andorra la Vella"
-msgstr ""
+msgstr "אנדורה לה ולה"
 
 # "AD-08"
 msgid "Escaldes-Engordany"
-msgstr ""
+msgstr "אסקלדס-אנגורדני"
 
 # "AE-AJ"
 msgid "'Ajmān"
-msgstr ""
+msgstr "עג׳מאן"
 
 # "AE-AZ"
 msgid "Abū Ȥaby [Abu Dhabi]"
-msgstr ""
+msgstr "אבו דאבי"
 
 # "AE-DU"
 msgid "Dubayy"
-msgstr ""
+msgstr "דובאי"
 
 # "AE-FU"
 msgid "Al Fujayrah"
-msgstr ""
+msgstr "פוג׳יירה"
 
 # "AE-RK"
 msgid "Ra’s al Khaymah"
-msgstr ""
+msgstr "ראס אל-ח׳ימה"
 
 # "AE-SH"
 msgid "Ash Shāriqah"
-msgstr ""
+msgstr "שארג׳ה"
 
 # "AE-UQ"
 msgid "Umm al Qaywayn"
-msgstr ""
+msgstr "אום אל-קיוין"
 
 # "AF-BAL"
 msgid "Balkh"
-msgstr ""
+msgstr "בלך"
 
 # "AF-BAM"
 msgid "Bāmyān"
-msgstr ""
+msgstr "באמיאן"
 
 # "AF-BDG"
 msgid "Bādghīs"
-msgstr ""
+msgstr "באדגיס"
 
 # "AF-BDS"
 msgid "Badakhshān"
-msgstr ""
+msgstr "בדח׳שאן"
 
 # "AF-BGL"
 msgid "Baghlān"
-msgstr ""
+msgstr "בגלאן"
 
 # "AF-DAY"
 msgid "Dāykundī"
-msgstr ""
+msgstr "דאיקונדי"
 
 # "AF-FRA"
 msgid "Farāh"
-msgstr ""
+msgstr "פראה"
 
 # "AF-FYB"
 msgid "Fāryāb"
-msgstr ""
+msgstr "פאריאב"
 
 # "AF-GHA"
 msgid "Ghaznī"
@@ -688,39 +688,39 @@ msgstr ""
 
 # "AZ-QAB"
 msgid "Qəbələ"
-msgstr ""
+msgstr "גבלה"
 
 # "AZ-QAX"
 msgid "Qax"
-msgstr ""
+msgstr "קאח"
 
 # "AZ-QAZ"
 msgid "Qazax"
-msgstr ""
+msgstr "קאזאח"
 
 # "AZ-QBA"
 msgid "Quba"
-msgstr ""
+msgstr "קובה"
 
 # "AZ-QBI"
 msgid "Qubadlı"
-msgstr ""
+msgstr "קובטלי"
 
 # "AZ-QOB"
 msgid "Qobustan"
-msgstr ""
+msgstr "גובוסטאן"
 
 # "AZ-QUS"
 msgid "Qusar"
-msgstr ""
+msgstr "קוסאר"
 
 # "AZ-SA", "AZ-SAK"
 msgid "Şəki"
-msgstr ""
+msgstr "שקי"
 
 # "AZ-SAB"
 msgid "Sabirabad"
-msgstr ""
+msgstr "סביראבד"
 
 # "AZ-SAL"
 msgid "Salyan"
@@ -1632,7 +1632,7 @@ msgstr ""
 
 # "BZ-BZ"
 msgid "Belize"
-msgstr ""
+msgstr "בליז"
 
 # "BZ-CY"
 msgid "Cayo"
@@ -2648,7 +2648,7 @@ msgstr ""
 
 # "DJ-DJ"
 msgid "Djibouti"
-msgstr ""
+msgstr "ג׳יבוטי"
 
 # "DJ-OB"
 msgid "Obock"
@@ -3552,7 +3552,7 @@ msgstr ""
 
 # "FR-GUA"
 msgid "Guadeloupe"
-msgstr ""
+msgstr "גוואדלופ"
 
 # "FR-HDF"
 msgid "Hauts-de-France"
@@ -3560,63 +3560,63 @@ msgstr ""
 
 # "FR-IDF"
 msgid "Île-de-France"
-msgstr ""
+msgstr "איל-דה-פראנס"
 
 # "FR-LRE"
 msgid "La Réunion"
-msgstr ""
+msgstr "ראוניון"
 
 # "FR-MAY"
 msgid "Mayotte"
-msgstr ""
+msgstr "מיוט"
 
 # "FR-MF"
 msgid "Saint-Martin"
-msgstr ""
+msgstr "סן מרטן"
 
 # "FR-MQ"
 msgid "Martinique"
-msgstr ""
+msgstr "מרטיניק"
 
 # "FR-NAQ"
 msgid "Nouvelle-Aquitaine"
-msgstr ""
+msgstr "אקיטן החדשה"
 
 # "FR-NC"
 msgid "Nouvelle-Calédonie"
-msgstr ""
+msgstr "קלדוניה החדשה"
 
 # "FR-NOR"
 msgid "Normandie"
-msgstr ""
+msgstr "נורמנדי"
 
 # "FR-OCC"
 msgid "Occitanie"
-msgstr ""
+msgstr "אוקסיטניה"
 
 # "FR-PAC"
 msgid "Provence-Alpes-Côte-d’Azur"
-msgstr ""
+msgstr "פרובאנס-אלפ-קוט ד׳אזור"
 
 # "FR-PDL"
 msgid "Pays-de-la-Loire"
-msgstr ""
+msgstr "פיי דה לה לואר"
 
 # "FR-PF"
 msgid "Polynésie française"
-msgstr ""
+msgstr "פולינזיה הצרפתית"
 
 # "FR-PM"
 msgid "Saint-Pierre-et-Miquelon"
-msgstr ""
+msgstr "סן-פייר ומיקלון"
 
 # "FR-TF"
 msgid "Terres australes françaises"
-msgstr ""
+msgstr "הארצות הדרומיות והאנטרקטיות של צרפת"
 
 # "FR-WF"
 msgid "Wallis-et-Futuna"
-msgstr ""
+msgstr "ואליס ופוטונה"
 
 # "GA-1"
 msgid "Estuaire"
@@ -3676,7 +3676,7 @@ msgstr ""
 
 # "GB-UKM"
 msgid "United Kingdom"
-msgstr ""
+msgstr "הממלכה המאוחדת"
 
 # "GB-WLS"
 msgid "Wales; Cymru"
@@ -4432,31 +4432,31 @@ msgstr ""
 
 # "IL-D"
 msgid "HaDarom"
-msgstr ""
+msgstr "הדרום"
 
 # "IL-HA"
 msgid "Hefa"
-msgstr ""
+msgstr "חיפה"
 
 # "IL-JM"
 msgid "Yerushalayim Al Quds"
-msgstr ""
+msgstr "ירושלים"
 
 # "IL-M"
 msgid "HaMerkaz"
-msgstr ""
+msgstr "המרכז"
 
 # "IL-TA"
 msgid "Tel-Aviv"
-msgstr ""
+msgstr "תל אביב"
 
 # "IL-Z"
 msgid "HaZafon"
-msgstr ""
+msgstr "הצפון"
 
 # "IN-AN"
 msgid "Andaman and Nicobar Islands"
-msgstr ""
+msgstr "איי אנדמן וניקובר"
 
 # "IN-AP"
 msgid "Andhra Pradesh"
@@ -4572,7 +4572,7 @@ msgstr ""
 
 # "IN-SK"
 msgid "Sikkim"
-msgstr ""
+msgstr "סיקים"
 
 # "IN-TG"
 msgid "Telangana"
@@ -6048,7 +6048,7 @@ msgstr ""
 
 # "LU-L"
 msgid "Luxembourg"
-msgstr ""
+msgstr "לוקסמבורג"
 
 # "LV-001"
 msgid "Aglonas novads"
@@ -8356,7 +8356,7 @@ msgstr ""
 
 # "NG-NI"
 msgid "Niger"
-msgstr ""
+msgstr "ניז׳ר"
 
 # "NG-OG"
 msgid "Ogun"
@@ -8464,11 +8464,11 @@ msgstr ""
 
 # "NL-AW"
 msgid "Aruba"
-msgstr ""
+msgstr "ארובה"
 
 # "NL-CW"
 msgid "Curaçao"
-msgstr ""
+msgstr "קוראסאו"
 
 # "NL-DR"
 msgid "Drenthe"
@@ -11232,7 +11232,7 @@ msgstr ""
 
 # "SM-07"
 msgid "San Marino"
-msgstr ""
+msgstr "סן מרינו"
 
 # "SM-08"
 msgid "Montegiardino"
@@ -11652,71 +11652,71 @@ msgstr ""
 
 # "TD-TA"
 msgid "Tānjilī"
-msgstr ""
+msgstr "טאנז׳ילה"
 
 # "TD-TI"
 msgid "Tibastī"
-msgstr ""
+msgstr "טיבסטי"
 
 # "TD-WF"
 msgid "Wādī Fīrā"
-msgstr ""
+msgstr "ואדי פירה"
 
 # "TG-C"
 msgid "Région du Centre"
-msgstr ""
+msgstr "המרכז"
 
 # "TG-K"
 msgid "Région de la Kara"
-msgstr ""
+msgstr "קארא"
 
 # "TG-M"
 msgid "Région Maritime"
-msgstr ""
+msgstr "מאריטים"
 
 # "TG-P"
 msgid "Région des Plateaux"
-msgstr ""
+msgstr "פלאטאוק"
 
 # "TG-S"
 msgid "Région des Savannes"
-msgstr ""
+msgstr "סאבאנס"
 
 # "TH-10"
 msgid "Krung Thep Maha Nakhon Bangkok"
-msgstr ""
+msgstr "בנגקוק"
 
 # "TH-11"
 msgid "Samut Prakan"
-msgstr ""
+msgstr "סמוט פרקן"
 
 # "TH-12"
 msgid "Nonthaburi"
-msgstr ""
+msgstr "נונתאבורי"
 
 # "TH-13"
 msgid "Pathum Thani"
-msgstr ""
+msgstr "פתום טאני"
 
 # "TH-14"
 msgid "Phra Nakhon Si Ayutthaya"
-msgstr ""
+msgstr "איוטהאיה"
 
 # "TH-15"
 msgid "Ang Thong"
-msgstr ""
+msgstr "אנג טונג"
 
 # "TH-16"
 msgid "Lop Buri"
-msgstr ""
+msgstr "לופ בורי"
 
 # "TH-17"
 msgid "Sing Buri"
-msgstr ""
+msgstr "סינג בורי"
 
 # "TH-18"
 msgid "Chai Nat"
-msgstr ""
+msgstr "שאי נט"
 
 # "TH-19"
 msgid "Saraburi"
@@ -12544,7 +12544,7 @@ msgstr ""
 
 # "TT-POS"
 msgid "Port of Spain"
-msgstr ""
+msgstr "פורט אוף ספיין"
 
 # "TT-PRT"
 msgid "Princes Town"
@@ -12560,15 +12560,15 @@ msgstr ""
 
 # "TT-SFO"
 msgid "San Fernando"
-msgstr ""
+msgstr "סן פרננדו"
 
 # "TT-SGE"
 msgid "Sangre Grande"
-msgstr ""
+msgstr "סנגרה גראנדה"
 
 # "TT-SIP"
 msgid "Siparia"
-msgstr ""
+msgstr "סיפאריה"
 
 # "TT-SJL"
 msgid "San Juan-Laventille"
@@ -12584,35 +12584,35 @@ msgstr ""
 
 # "TV-FUN"
 msgid "Funafuti"
-msgstr ""
+msgstr "פונאפוטי"
 
 # "TV-NIT"
 msgid "Niutao"
-msgstr ""
+msgstr "ניוטאו"
 
 # "TV-NKF"
 msgid "Nukufetau"
-msgstr ""
+msgstr "נוקופטאו"
 
 # "TV-NKL"
 msgid "Nukulaelae"
-msgstr ""
+msgstr "נוקולאלאה"
 
 # "TV-NMA"
 msgid "Nanumea"
-msgstr ""
+msgstr "ננומאה"
 
 # "TV-NMG"
 msgid "Nanumanga"
-msgstr ""
+msgstr "ננומנגה"
 
 # "TV-NUI"
 msgid "Nui"
-msgstr ""
+msgstr "נואי"
 
 # "TV-VAI"
 msgid "Vaitupu"
-msgstr ""
+msgstr "ואיטופו"
 
 # "TW-CHA"
 msgid "Changhua"
@@ -12688,39 +12688,39 @@ msgstr ""
 
 # "TW-TPQ"
 msgid "Taipei"
-msgstr ""
+msgstr "טאיפיי"
 
 # "TW-TTT"
 msgid "Taitung"
-msgstr ""
+msgstr "טאיטונג"
 
 # "TW-TXG"
 msgid "Taichung City"
-msgstr ""
+msgstr "העיר טאיג׳ונג"
 
 # "TW-TXQ"
 msgid "Taichung"
-msgstr ""
+msgstr "טאיג׳ונג"
 
 # "TW-YUN"
 msgid "Yunlin"
-msgstr ""
+msgstr "יונלין"
 
 # "TZ-01"
 msgid "Arusha"
-msgstr ""
+msgstr "ארושה"
 
 # "TZ-02"
 msgid "Dar-es-Salaam"
-msgstr ""
+msgstr "דר א-סלאם"
 
 # "TZ-03"
 msgid "Dodoma"
-msgstr ""
+msgstr "דודומה"
 
 # "TZ-04"
 msgid "Iringa"
-msgstr ""
+msgstr "אירינגה"
 
 # "TZ-05"
 msgid "Kagera"
@@ -12760,7 +12760,7 @@ msgstr ""
 
 # "TZ-14"
 msgid "Mbeya"
-msgstr ""
+msgstr "מביה"
 
 # "TZ-15"
 msgid "Mjini Magharibi"
@@ -12808,141 +12808,141 @@ msgstr ""
 
 # "TZ-26"
 msgid "Manyara"
-msgstr ""
+msgstr "מניארה"
 
 # "UA-05"
 # original msgid: "Vinnyts'ka Oblast'"
 msgid "Vinnytska oblast"
-msgstr ""
+msgstr "מחוז ויניצה"
 
 # "UA-07"
 # original msgid: "Volyns'ka Oblast'"
 msgid "Volynska oblast"
-msgstr ""
+msgstr "מחוז ווהלין"
 
 # "UA-09"
 # original msgid: "Luhans'ka Oblast'"
 msgid "Luhanska oblast"
-msgstr ""
+msgstr "מחוז לוהנסק"
 
 # "UA-12"
 # original msgid: "Dnipropetrovs'ka Oblast'"
 msgid "Dnipropetrovska oblast"
-msgstr ""
+msgstr "מחוז דניפרופטרובסק"
 
 # "UA-14"
 # original msgid: "Donets'ka Oblast'"
 msgid "Donetska oblast"
-msgstr ""
+msgstr "מחוז דונצק"
 
 # "UA-18"
 # original msgid: "Zhytomyrs'ka Oblast'"
 msgid "Zhytomyrska oblast"
-msgstr ""
+msgstr "מחוז ז׳יטומיר"
 
 # "UA-21"
 # original msgid: "Zakarpats'ka Oblast'"
 msgid "Zakarpatska oblast"
-msgstr ""
+msgstr "מחוז זקרפטיה"
 
 # "UA-23"
 # original msgid: "Zaporiz'ka Oblast'"
 msgid "Zaporizka oblast"
-msgstr ""
+msgstr "מחוז זפוריז׳יה"
 
 # "UA-26"
 # original msgid: "Ivano-Frankivs'ka Oblast'"
 msgid "Ivano-Frankivska oblast"
-msgstr ""
+msgstr "מחוז איוונו-פרנקיבסק"
 
 # "UA-30"
 # original msgid: "Kyïvs'ka mis'ka rada"
 msgid "Kyiv"
-msgstr ""
+msgstr "המועצה האזורית המחוקקת קייב"
 
 # "UA-32"
 # original msgid: "Kyïvs'ka Oblast'"
 msgid "Kyivska oblast"
-msgstr ""
+msgstr "מחוז קייב"
 
 # "UA-35"
 # original msgid: "Kirovohrads'ka Oblast'"
 msgid "Kirovohradska oblast"
-msgstr ""
+msgstr "מחוז קירובוהראד"
 
 # "UA-40"
 msgid "Sevastopol"
-msgstr ""
+msgstr "סבסטופול"
 
 # "UA-43"
 # original msgid: "Respublika Krym"
 msgid "Avtonomna Respublika Krym"
-msgstr ""
+msgstr "רפובליקת קרים"
 
 # "UA-46"
 # original msgid: "L'vivs'ka Oblast'"
 msgid "Lvivska oblast"
-msgstr ""
+msgstr "מחוז לבוב"
 
 # "UA-48"
 # original msgid: "Mykolaïvs'ka Oblast'"
 msgid "Mykolaivska oblast"
-msgstr ""
+msgstr "מחוז מיקולאייב"
 
 # "UA-51"
 # original msgid: "Odes'ka Oblast'"
 msgid "Odeska oblast"
-msgstr ""
+msgstr "מחוז אודסה"
 
 # "UA-53"
 # original msgid: "Poltavs'ka Oblast'"
 msgid "Poltavska oblast"
-msgstr ""
+msgstr "מחוז פולטבה"
 
 # "UA-56"
 # original msgid: "Rivnens'ka Oblast'"
 msgid "Rivnenska oblast"
-msgstr ""
+msgstr "מחוז רובנו"
 
 # "UA-59"
 # original msgid: "Sums 'ka Oblast'"
 msgid "Sumska oblast"
-msgstr ""
+msgstr "מחוז סומי"
 
 # "UA-61"
 # original msgid: "Ternopil's'ka Oblast'"
 msgid "Ternopilska oblast"
-msgstr ""
+msgstr "מחוז טרנופול"
 
 # "UA-63"
 # original msgid: "Kharkivs'ka Oblast'"
 msgid "Kharkivska oblast"
-msgstr ""
+msgstr "מחוז חרקוב"
 
 # "UA-65"
 # original msgid: "Khersons'ka Oblast'"
 msgid "Khersonska oblast"
-msgstr ""
+msgstr "מחוז חרסון"
 
 # "UA-68"
 # original msgid: "Khmel'nyts'ka Oblast'"
 msgid "Khmelnytska oblast"
-msgstr ""
+msgstr "מחוז חמלניצקי"
 
 # "UA-71"
 # original msgid: "Cherkas'ka Oblast'"
 msgid "Cherkaska oblast"
-msgstr ""
+msgstr "מחוז צ׳רקאסי"
 
 # "UA-74"
 # original msgid: "Chernihivs'ka Oblast'"
 msgid "Chernihivska oblast"
-msgstr ""
+msgstr "מחוז צ׳רניהיב"
 
 # "UA-77"
 # original msgid: "Chernivets'ka Oblast'"
 msgid "Chernivetska oblast"
-msgstr ""
+msgstr "מחוז צ׳רנוביץ"
 
 # "UM-67"
 msgid "Johnston Atoll"
@@ -12950,255 +12950,255 @@ msgstr ""
 
 # "UM-71"
 msgid "Midway Islands"
-msgstr ""
+msgstr "אטול מידוויי"
 
 # "UM-76"
 msgid "Navassa Island"
-msgstr ""
+msgstr "האי נבאסה"
 
 # "UM-79"
 msgid "Wake Island"
-msgstr ""
+msgstr "האי וייק"
 
 # "UM-81"
 msgid "Baker Island"
-msgstr ""
+msgstr "האי בייקר"
 
 # "UM-84"
 msgid "Howland Island"
-msgstr ""
+msgstr "האי האולנד"
 
 # "UM-86"
 msgid "Jarvis Island"
-msgstr ""
+msgstr "האי ג׳רביס"
 
 # "UM-89"
 msgid "Kingman Reef"
-msgstr ""
+msgstr "שונית קינגמן"
 
 # "UM-95"
 msgid "Palmyra Atoll"
-msgstr ""
+msgstr "אטול פלמיירה"
 
 # "US-AK"
 msgid "Alaska"
-msgstr ""
+msgstr "אלסקה"
 
 # "US-AL"
 msgid "Alabama"
-msgstr ""
+msgstr "אלבמה"
 
 # "US-AR"
 msgid "Arkansas"
-msgstr ""
+msgstr "ארקנסס"
 
 # "US-AS"
 msgid "American Samoa"
-msgstr ""
+msgstr "סמואה האמריקנית"
 
 # "US-AZ"
 msgid "Arizona"
-msgstr ""
+msgstr "אריזונה"
 
 # "US-CA"
 msgid "California"
-msgstr ""
+msgstr "קליפורניה"
 
 # "US-CO"
 msgid "Colorado"
-msgstr ""
+msgstr "קולורדו"
 
 # "US-CT"
 msgid "Connecticut"
-msgstr ""
+msgstr "קונטיקט"
 
 # "US-DC"
 msgid "District of Columbia"
-msgstr ""
+msgstr "וושינגטון הבירה"
 
 # "US-DE"
 msgid "Delaware"
-msgstr ""
+msgstr "דלאוור"
 
 # "US-FL", "UY-FD"
 msgid "Florida"
-msgstr ""
+msgstr "פלורידה"
 
 # "US-GA"
 msgid "Georgia"
-msgstr ""
+msgstr "ג׳ורג׳יה"
 
 # "US-GU"
 msgid "Guam"
-msgstr ""
+msgstr "גואם"
 
 # "US-HI"
 msgid "Hawaii"
-msgstr ""
+msgstr "הוואי"
 
 # "US-IA"
 msgid "Iowa"
-msgstr ""
+msgstr "איווה"
 
 # "US-ID"
 msgid "Idaho"
-msgstr ""
+msgstr "איידהו"
 
 # "US-IL"
 msgid "Illinois"
-msgstr ""
+msgstr "אילינוי"
 
 # "US-IN"
 msgid "Indiana"
-msgstr ""
+msgstr "אינדיאנה"
 
 # "US-KS"
 msgid "Kansas"
-msgstr ""
+msgstr "קנזס"
 
 # "US-KY"
 msgid "Kentucky"
-msgstr ""
+msgstr "קנטקי"
 
 # "US-LA"
 msgid "Louisiana"
-msgstr ""
+msgstr "לואיזיאנה"
 
 # "US-MA"
 msgid "Massachusetts"
-msgstr ""
+msgstr "מסצ׳וסטס"
 
 # "US-ME"
 msgid "Maine"
-msgstr ""
+msgstr "מיין"
 
 # "US-MI"
 msgid "Michigan"
-msgstr ""
+msgstr "מישיגן"
 
 # "US-MN"
 msgid "Minnesota"
-msgstr ""
+msgstr "מינסוטה"
 
 # "US-MO"
 msgid "Missouri"
-msgstr ""
+msgstr "מיזורי"
 
 # "US-MP"
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "איי מריאנה הצפוניים"
 
 # "US-MS"
 msgid "Mississippi"
-msgstr ""
+msgstr "מיסיסיפי"
 
 # "US-NC"
 msgid "North Carolina"
-msgstr ""
+msgstr "קרוליינה הצפונית"
 
 # "US-ND"
 msgid "North Dakota"
-msgstr ""
+msgstr "דקוטה הצפונית"
 
 # "US-NE"
 msgid "Nebraska"
-msgstr ""
+msgstr "נברסקה"
 
 # "US-NH"
 msgid "New Hampshire"
-msgstr ""
+msgstr "ניו המפשייר"
 
 # "US-NJ"
 msgid "New Jersey"
-msgstr ""
+msgstr "ניו ג׳רזי"
 
 # "US-NM"
 msgid "New Mexico"
-msgstr ""
+msgstr "ניו מקסיקו"
 
 # "US-NV"
 msgid "Nevada"
-msgstr ""
+msgstr "נבדה"
 
 # "US-NY"
 msgid "New York"
-msgstr ""
+msgstr "ניו יורק"
 
 # "US-OH"
 msgid "Ohio"
-msgstr ""
+msgstr "אוהיו"
 
 # "US-OK"
 msgid "Oklahoma"
-msgstr ""
+msgstr "אוקלהומה"
 
 # "US-OR"
 msgid "Oregon"
-msgstr ""
+msgstr "אורגון"
 
 # "US-PA"
 msgid "Pennsylvania"
-msgstr ""
+msgstr "פנסילבניה"
 
 # "US-PR"
 msgid "Puerto Rico"
-msgstr ""
+msgstr "פוארטו ריקו"
 
 # "US-RI"
 msgid "Rhode Island"
-msgstr ""
+msgstr "רוד איילנד"
 
 # "US-SC"
 msgid "South Carolina"
-msgstr ""
+msgstr "קרוליינה הדרומית"
 
 # "US-SD"
 msgid "South Dakota"
-msgstr ""
+msgstr "דקוטה הדרומית"
 
 # "US-TN"
 msgid "Tennessee"
-msgstr ""
+msgstr "טנסי"
 
 # "US-TX"
 msgid "Texas"
-msgstr ""
+msgstr "טקסס"
 
 # "US-UM"
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "האיים המרוחקים הקטנים של ארצות הברית"
 
 # "US-UT"
 msgid "Utah"
-msgstr ""
+msgstr "יוטה"
 
 # "US-VA"
 msgid "Virginia"
-msgstr ""
+msgstr "וירג׳יניה"
 
 # "US-VI"
 msgid "Virgin Islands"
-msgstr ""
+msgstr "איי הבתולה"
 
 # "US-VT"
 msgid "Vermont"
-msgstr ""
+msgstr "ורמונט"
 
 # "US-WA"
 msgid "Washington"
-msgstr ""
+msgstr "וושינגטון"
 
 # "US-WI"
 msgid "Wisconsin"
-msgstr ""
+msgstr "ויסקונסין"
 
 # "US-WV"
 msgid "West Virginia"
-msgstr ""
+msgstr "מערב וירג׳יניה"
 
 # "US-WY"
 msgid "Wyoming"
-msgstr ""
+msgstr "ויומינג"
 
 # "UY-AR"
 msgid "Artigas"

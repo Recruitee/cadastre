@@ -440,7 +440,7 @@ msgstr "缅甸语"
 
 # "na"
 msgid "Nauru"
-msgstr "蒙古语"
+msgstr "瑙鲁"
 
 # "nb"
 # original msgid: "Bokmål, Norwegian; Norwegian Bokmål"

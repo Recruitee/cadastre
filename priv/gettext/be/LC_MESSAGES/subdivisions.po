@@ -5204,7 +5204,7 @@ msgstr ""
 
 # "KE-06"
 msgid "Embu"
-msgstr ""
+msgstr "Эмбу"
 
 # "KE-07"
 msgid "Garissa"

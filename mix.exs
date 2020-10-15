@@ -61,7 +61,7 @@ defmodule Cadastre.MixProject do
   defp package do
     [
       # These are the default files included in the package
-      files: ["lib", "priv/gettext", "priv/*.json", ".formatter.exs", "mix.exs", "README.md"],
+      files: ["lib", "priv/gettext", "priv/*.erl", ".formatter.exs", "mix.exs", "README.md"],
       links: %{"GitHub" => @source_url},
       licenses: ["MIT"]
     ]

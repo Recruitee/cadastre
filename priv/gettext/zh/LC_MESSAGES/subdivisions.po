@@ -2648,7 +2648,7 @@ msgstr "迪奇尔州"
 
 # "DJ-DJ"
 msgid "Djibouti"
-msgstr "吉布提市"
+msgstr "吉布提"
 
 # "DJ-OB"
 msgid "Obock"
@@ -11228,11 +11228,11 @@ msgstr "万象"
 
 # "SM-06"
 msgid "Borgo Maggiore"
-msgstr ""
+msgstr "博尔戈马焦雷"
 
 # "SM-07"
 msgid "San Marino"
-msgstr "圣马丁区域"
+msgstr "圣马力诺市"
 
 # "SM-08"
 msgid "Montegiardino"

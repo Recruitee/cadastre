@@ -141,7 +141,7 @@ msgstr "эве"
 # "el"
 # original msgid: "Greek, Modern (1453-)"
 msgid "Greek"
-msgstr "грэцкая (ад 1453)"
+msgstr "грэцкая (з 1453)"
 
 # "en"
 msgid "English"
@@ -294,7 +294,7 @@ msgstr "японская"
 
 # "jv"
 msgid "Javanese"
-msgstr "яванская"
+msgstr "яванскае"
 
 # "ka"
 msgid "Georgian"
@@ -363,7 +363,7 @@ msgstr "кіргізская"
 
 # "la"
 msgid "Latin"
-msgstr "лацінская"
+msgstr "лацінскае"
 
 # "lb"
 # original msgid: "Luxembourgish; Letzeburgesch"
@@ -385,7 +385,7 @@ msgstr "лінгала"
 
 # "lo"
 msgid "Lao"
-msgstr "лаоская"
+msgstr "лаоскае"
 
 # "lt"
 msgid "Lithuanian"
@@ -421,7 +421,7 @@ msgstr "малаялам"
 
 # "mn"
 msgid "Mongolian"
-msgstr "мангольская"
+msgstr "мангольскае"
 
 # "mr"
 msgid "Marathi"
@@ -620,7 +620,7 @@ msgstr "сесута"
 
 # "su"
 msgid "Sundanese"
-msgstr "сунданская"
+msgstr "сунданскае"
 
 # "sv"
 msgid "Swedish"
@@ -632,7 +632,7 @@ msgstr "суахілі"
 
 # "ta"
 msgid "Tamil"
-msgstr "тамільская"
+msgstr "тамільскае"
 
 # "te"
 msgid "Telugu"
@@ -644,7 +644,7 @@ msgstr "таджыцкая"
 
 # "th"
 msgid "Thai"
-msgstr "тайская"
+msgstr "тайскае"
 
 # "ti"
 msgid "Tigrinya"
