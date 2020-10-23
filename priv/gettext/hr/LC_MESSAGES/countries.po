@@ -927,7 +927,7 @@ msgstr "Uganda"
 
 # "UM"
 msgid "United States Minor Outlying Islands"
-msgstr "Američki Djevičanski Otoci"
+msgstr "Američki mali izvanjski otoci"
 
 # "US"
 msgid "United States"

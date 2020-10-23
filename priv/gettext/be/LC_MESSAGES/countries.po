@@ -104,7 +104,7 @@ msgstr "Сен-Бартэльмі"
 
 # "BM"
 msgid "Bermuda"
-msgstr "Бермуды"
+msgstr "Бермудскія астравы"
 
 # "BN"
 msgid "Brunei Darussalam"
@@ -959,7 +959,7 @@ msgstr "Віргінскія астравы Вялікабрытаніі"
 
 # "VI"
 msgid "Virgin Islands, U.S."
-msgstr "Віргінскія астравы ЗША"
+msgstr "Віргінскія астравы (ЗША)"
 
 # "VN"
 # original msgid: "Viet Nam"

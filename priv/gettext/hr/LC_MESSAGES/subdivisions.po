@@ -8600,7 +8600,7 @@ msgstr "Jan Mayen (arktička regija)"
 
 # "NO-50"
 msgid "Trøndelag"
-msgstr "Južni Trøndelag"
+msgstr "Trøndelag"
 
 # "NP-1"
 msgid "Madhyamanchal"

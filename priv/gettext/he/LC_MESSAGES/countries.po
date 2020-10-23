@@ -40,7 +40,7 @@ msgstr "ארגנטינה"
 
 # "AS"
 msgid "American Samoa"
-msgstr "סמואה האמריקאית"
+msgstr "סמואה האמריקנית"
 
 # "AT"
 msgid "Austria"
@@ -228,7 +228,7 @@ msgstr "גרמניה"
 
 # "DJ"
 msgid "Djibouti"
-msgstr "דג'יבוטי"
+msgstr "ג׳יבוטי"
 
 # "DK"
 msgid "Denmark"
@@ -312,7 +312,7 @@ msgstr "גרנדה"
 
 # "GE"
 msgid "Georgia"
-msgstr "גיאורגיה"
+msgstr "ג׳ורג׳יה"
 
 # "GF"
 msgid "French Guiana"
@@ -576,7 +576,7 @@ msgstr "צפון קלדוניה"
 
 # "ML"
 msgid "Mali"
-msgstr "מלי"
+msgstr "מאלי"
 
 # "MM"
 msgid "Myanmar"
@@ -592,7 +592,7 @@ msgstr "מאקאו"
 
 # "MP"
 msgid "Northern Mariana Islands"
-msgstr "איי מרינה הצפוניים"
+msgstr "איי מריאנה הצפוניים"
 
 # "MQ"
 msgid "Martinique"
@@ -644,7 +644,7 @@ msgstr "קלדוניה החדשה"
 
 # "NE"
 msgid "Niger"
-msgstr "ניז'ר"
+msgstr "ניז׳ר"
 
 # "NF"
 msgid "Norfolk Island"
@@ -724,7 +724,7 @@ msgstr "פיטקרן"
 
 # "PR"
 msgid "Puerto Rico"
-msgstr "פורטו ריקו"
+msgstr "פוארטו ריקו"
 
 # "PS"
 msgid "Palestine, State of"
@@ -813,7 +813,7 @@ msgstr "סיירה ליאון"
 
 # "SM"
 msgid "San Marino"
-msgstr "סאן מרינו"
+msgstr "סן מרינו"
 
 # "SN"
 msgid "Senegal"
@@ -927,7 +927,7 @@ msgstr "אוגנדה"
 
 # "UM"
 msgid "United States Minor Outlying Islands"
-msgstr "האיים הקטנים מסביב לארצות הברית"
+msgstr "האיים המרוחקים הקטנים של ארצות הברית"
 
 # "US"
 msgid "United States"
@@ -984,7 +984,7 @@ msgstr "תימן"
 
 # "YT"
 msgid "Mayotte"
-msgstr "מאיוט"
+msgstr "מיוט"
 
 # "ZA"
 msgid "South Africa"

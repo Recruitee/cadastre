@@ -312,7 +312,7 @@ msgstr "格林纳达"
 
 # "GE"
 msgid "Georgia"
-msgstr "格鲁吉亚"
+msgstr "佐治亚州"
 
 # "GF"
 msgid "French Guiana"
@@ -576,7 +576,7 @@ msgstr "北马其顿"
 
 # "ML"
 msgid "Mali"
-msgstr "马里"
+msgstr "马里省"
 
 # "MM"
 msgid "Myanmar"
@@ -644,7 +644,7 @@ msgstr "新喀里多尼亚"
 
 # "NE"
 msgid "Niger"
-msgstr "尼日尔"
+msgstr "尼日尔州"
 
 # "NF"
 msgid "Norfolk Island"
@@ -813,7 +813,7 @@ msgstr "塞拉利昂"
 
 # "SM"
 msgid "San Marino"
-msgstr "圣马力诺"
+msgstr "圣马力诺市"
 
 # "SN"
 msgid "Senegal"
@@ -906,7 +906,7 @@ msgstr "特里尼达和多巴哥"
 
 # "TV"
 msgid "Tuvalu"
-msgstr "图瓦鲁"
+msgstr "图瓦卢"
 
 # "TW"
 # original msgid: "Taiwan, Province of China"

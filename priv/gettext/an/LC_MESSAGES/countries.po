@@ -4,7 +4,7 @@ msgstr "Andorra"
 
 # "AE"
 msgid "United Arab Emirates"
-msgstr "Emiratos Arabes Unitos"
+msgstr "Emiratos Arabes Unius"
 
 # "AF"
 msgid "Afghanistan"
@@ -32,7 +32,7 @@ msgstr "Angola"
 
 # "AQ"
 msgid "Antarctica"
-msgstr ""
+msgstr "Antartida"
 
 # "AR"
 msgid "Argentina"
@@ -40,7 +40,7 @@ msgstr "Archentina"
 
 # "AS"
 msgid "American Samoa"
-msgstr ""
+msgstr "Samoa Americana"
 
 # "AT"
 msgid "Austria"
@@ -56,7 +56,7 @@ msgstr "Aruba"
 
 # "AX"
 msgid "Åland Islands"
-msgstr "Åland"
+msgstr "Islas Åland"
 
 # "AZ"
 msgid "Azerbaijan"
@@ -100,7 +100,7 @@ msgstr "Benín"
 
 # "BL"
 msgid "Saint Barthélemy"
-msgstr ""
+msgstr "Saint Barthélemy"
 
 # "BM"
 msgid "Bermuda"
@@ -108,15 +108,15 @@ msgstr "Bermudas"
 
 # "BN"
 msgid "Brunei Darussalam"
-msgstr ""
+msgstr "Brunei Darussalam"
 
 # "BO"
 msgid "Bolivia, Plurinational State of"
-msgstr ""
+msgstr "Bolivia, Estau Plurinacional de"
 
 # "BQ"
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "Bonaire, Sint Eustatius i Saba"
 
 # "BR"
 msgid "Brazil"
@@ -124,7 +124,7 @@ msgstr "Brasil"
 
 # "BS"
 msgid "Bahamas"
-msgstr ""
+msgstr "Bahamas"
 
 # "BT"
 msgid "Bhutan"
@@ -132,7 +132,7 @@ msgstr "Bután"
 
 # "BV"
 msgid "Bouvet Island"
-msgstr ""
+msgstr "Isla Bouvet"
 
 # "BW"
 msgid "Botswana"
@@ -862,7 +862,7 @@ msgstr "Chad"
 
 # "TF"
 msgid "French Southern Territories"
-msgstr ""
+msgstr "Territorios Franceses d'o Sud"
 
 # "TG"
 msgid "Togo"

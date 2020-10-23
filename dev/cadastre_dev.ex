@@ -64,24 +64,35 @@ defmodule CadastreDev do
   end
 
   defp write_languages(msgid_per_id, override_per_lang_per_id) do
-    overrided_msg_id_per_id(msgid_per_id, override_per_lang_per_id) |> write_json("languages")
+    msgid_per_id
+    |> overrided_msg_id_per_id(override_per_lang_per_id)
+    |> Enum.sort_by(fn {id, _} -> id end)
+    |> write_erl("languages")
   end
 
   defp write_countries(msgid_per_id, override_per_lang_per_id) do
-    msg_id_per_id = overrided_msg_id_per_id(msgid_per_id, override_per_lang_per_id)
-    msg_id_per_id |> write_json("countries")
+    msg_id_per_id = msgid_per_id
+    |> overrided_msg_id_per_id(override_per_lang_per_id)
+    |> Enum.sort_by(fn {id, _} -> id end)
 
-    Map.keys(msg_id_per_id)
+    write_erl(msg_id_per_id, "countries")
+
+    Enum.map(msg_id_per_id, &elem(&1, 0))
   end
 
   defp write_subdivisions(msgid_per_id, override_per_lang_per_id) do
-    overrided_msg_id_per_id(msgid_per_id, override_per_lang_per_id)
+    msgid_per_id
+    |> overrided_msg_id_per_id(override_per_lang_per_id)
     |> Enum.reduce(%{}, fn
       {<<country_id::binary-size(2), "-", subdivision_id::binary>>, msgid}, acc ->
         acc
-        |> Map.update(country_id, %{subdivision_id => msgid}, &Map.put(&1, subdivision_id, msgid))
+        |> Map.update(country_id, [{subdivision_id, msgid}], &([{subdivision_id, msgid} | &1 ]))
     end)
-    |> write_json("subdivisions")
+    |> Enum.sort_by(&elem(&1, 0))
+    |> Enum.map(fn {country_id, subdivisions} ->
+      {country_id, Enum.sort_by(subdivisions, &elem(&1, 1))}
+    end)
+    |> write_erl("subdivisions")
   end
 
   defp filter_by_countries(subdivisions_msgid_per_id, country_ids) do
@@ -107,8 +118,8 @@ defmodule CadastreDev do
     |> Enum.into(%{})
   end
 
-  defp write_json(map, domain) do
-    "priv/#{domain}.json" |> File.write!(Jason.encode_to_iodata!(map))
+  defp write_erl(map, domain) do
+    "priv/#{domain}.erl" |> File.write!(:erlang.term_to_binary(map))
   end
 
   defp await(task), do: Task.await(task, 120_000)

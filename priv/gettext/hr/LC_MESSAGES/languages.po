@@ -8,7 +8,7 @@ msgstr "Abhaski"
 
 # "ae"
 msgid "Avestan"
-msgstr "Avestanski"
+msgstr "Avestansko"
 
 # "af"
 msgid "Afrikaans"
@@ -64,7 +64,7 @@ msgstr "Bislama"
 
 # "bm"
 msgid "Bambara"
-msgstr "Bambarski"
+msgstr "Bambara"
 
 # "bn"
 # original msgid: "Bengali"
@@ -206,7 +206,7 @@ msgstr "Galicijski"
 
 # "gn"
 msgid "Guarani"
-msgstr "Paragvajski gvarani"
+msgstr "Guarani"
 
 # "gu"
 msgid "Gujarati"
@@ -256,7 +256,7 @@ msgstr ""
 # "ia"
 # original msgid: "Interlingua (International Auxiliary Language Association)"
 msgid "Interlingua"
-msgstr "Interlingua"
+msgstr "Interlingua (Međunarodno udruženje za pomoćne jezike)"
 
 # "id"
 msgid "Indonesian"
@@ -384,7 +384,7 @@ msgstr "Lingala"
 
 # "lo"
 msgid "Lao"
-msgstr "Laoško"
+msgstr "Laoški"
 
 # "lt"
 msgid "Lithuanian"
