@@ -548,31 +548,31 @@ msgstr "西澳大利亚州"
 
 # "AZ-ABS"
 msgid "Abşeron"
-msgstr "阿布歇隆"
+msgstr "阿布歇隆区"
 
 # "AZ-AGA"
 msgid "Ağstafa"
-msgstr "阿克斯塔法"
+msgstr "阿克斯塔法区"
 
 # "AZ-AGC"
 msgid "Ağcabədi"
-msgstr ""
+msgstr "阿格贾贝迪区"
 
 # "AZ-AGM"
 msgid "Ağdam"
-msgstr "阿达马瓦州"
+msgstr "阿格达姆区"
 
 # "AZ-AGS"
 msgid "Ağdaş"
-msgstr ""
+msgstr "阿格达什区"
 
 # "AZ-AGU"
 msgid "Ağsu"
-msgstr "艾斯尤特"
+msgstr "阿赫苏区"
 
 # "AZ-AST"
 msgid "Astara"
-msgstr "阿斯特拉"
+msgstr "阿斯塔拉区"
 
 # "AZ-BA"
 msgid "Bakı"
@@ -580,7 +580,7 @@ msgstr "巴库"
 
 # "AZ-BAL"
 msgid "Balakən"
-msgstr "巴拉卡县"
+msgstr "巴拉肯区"
 
 # "AZ-BAR"
 msgid "Bərdə"
@@ -892,7 +892,7 @@ msgstr ""
 
 # "BE-WAL"
 msgid "wallonne, Région"
-msgstr ""
+msgstr "瓦隆大区"
 
 # "BF-01"
 msgid "Boucle du Mouhoun"
@@ -2156,7 +2156,7 @@ msgstr "甘肃省"
 
 # "CN-GX"
 msgid "Guangxi Zhuangzu Zizhiqu"
-msgstr ""
+msgstr "广西壮族自治区"
 
 # "CN-GZ"
 msgid "Guizhou Sheng"
@@ -2180,7 +2180,7 @@ msgstr "海南省"
 
 # "CN-HK"
 msgid "Hong Kong SAR (see also separate country code entry under HK)"
-msgstr ""
+msgstr "香港特别行政区（还请参见 HK 下单独的国家地区代码条目）"
 
 # "CN-HL"
 msgid "Heilongjiang Sheng"
@@ -2208,7 +2208,7 @@ msgstr "辽宁省"
 
 # "CN-MO"
 msgid "Macao SAR (see also separate country code entry under MO)"
-msgstr ""
+msgstr "澳门特别行政区（还请参见 MO 下单独的国家地区代码条目）"
 
 # "CN-NM"
 msgid "Nei Mongol Zizhiqu"
@@ -2216,7 +2216,7 @@ msgstr "内蒙古自治区"
 
 # "CN-NX"
 msgid "Ningxia Huizi Zizhiqu"
-msgstr ""
+msgstr "宁夏回族自治区"
 
 # "CN-QH"
 msgid "Qinghai Sheng"
@@ -2248,11 +2248,11 @@ msgstr "天津市"
 
 # "CN-TW"
 msgid "Taiwan Sheng (see also separate country code entry under TW)"
-msgstr ""
+msgstr "台湾省（还请参见 TW下单独的国家地区代码条目）"
 
 # "CN-XJ"
 msgid "Xinjiang Uygur Zizhiqu"
-msgstr ""
+msgstr "新疆维吾尔自治区"
 
 # "CN-XZ"
 msgid "Xizang Zizhiqu"
@@ -5884,7 +5884,7 @@ msgstr ""
 
 # "LK-4"
 msgid "Uturu paḷāta"
-msgstr ""
+msgstr "北方省"
 
 # "LK-5"
 msgid "Næ̆gĕnahira paḷāta"
@@ -5892,7 +5892,7 @@ msgstr ""
 
 # "LK-6"
 msgid "Vayamba paḷāta"
-msgstr ""
+msgstr "西北省"
 
 # "LK-7"
 msgid "Uturumæ̆da paḷāta"
@@ -9860,7 +9860,7 @@ msgstr "梁赞州"
 
 # "RU-SA"
 msgid "Sakha, Respublika [Yakutiya]"
-msgstr "萨哈共和国"
+msgstr "萨哈（雅库特）共和国"
 
 # "RU-SAK"
 msgid "Sakhalinskaya oblast'"
