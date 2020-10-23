@@ -41,15 +41,16 @@ defmodule Cadastre.Backend.Subdivisions do
   @subdivision subdivisions_data
                |> Enum.flat_map(fn {country_id, subdivisions} ->
                  Enum.map(subdivisions, fn {id, name} ->
-                   {{String.downcase(country_id), String.downcase(id)},
+                   {{String.upcase(country_id), String.upcase(id)},
                     %Subdivision{country_id: country_id, id: id, name: name}}
                  end)
                end)
                |> Map.new()
 
   def subdivision(country_id, subdivision_id)
-      when is_binary(country_id) and is_binary(subdivision_id),
-      do: Map.get(@subdivision, {String.downcase(country_id), String.downcase(subdivision_id)})
+      when is_binary(country_id) and is_binary(subdivision_id) do
+    Map.get(@subdivision, {String.upcase(country_id), String.upcase(subdivision_id)})
+  end
 
   def subdivision(_country_id, _subdivision_id), do: nil
 end
