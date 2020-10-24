@@ -7,50 +7,49 @@ defmodule Cadastre.Backend.Subdivisions do
 
   @external_resource subdivisions_path
 
-  subdivisions_data =
-    subdivisions_path
-    |> File.read!()
-    |> :erlang.binary_to_term()
+  name_per_id_per_country_id = subdivisions_path |> File.read!() |> :erlang.binary_to_term()
 
-  Enum.each(subdivisions_data, fn {country_id, subdivisions_data} ->
-    subdivision_ids = subdivisions_data |> Enum.map(fn {id, _} -> id end)
+  name_per_id_per_country_id
+  |> Enum.each(fn {country_id, name_per_id} ->
+    subdivision_per_id =
+      name_per_id
+      |> Enum.map(fn {id, name} ->
+        {id, Macro.escape(%Subdivision{country_id: country_id, id: id, name: name})}
+      end)
 
-    [country_id, String.downcase(country_id)]
-    |> Enum.each(fn arg ->
-      def subdivision_ids(unquote(arg)), do: unquote(subdivision_ids)
+    subdivisions = subdivision_per_id |> Enum.map(fn {_, subdivision} -> subdivision end)
+    subdivision_ids = subdivision_per_id |> Enum.map(fn {id, _} -> id end)
+
+    def subdivision_ids(unquote(country_id)), do: unquote(subdivision_ids)
+    def subdivisions(unquote(country_id)), do: unquote(subdivisions)
+
+    subdivision_per_id
+    |> Enum.each(fn {id, subdivision} ->
+      def subdivision(unquote(country_id), unquote(id)), do: unquote(subdivision)
     end)
+  end)
+
+  name_per_id_per_country_id
+  |> Enum.each(fn {country_id, _} ->
+    downcased_country_id = country_id |> String.downcase()
+
+    def subdivision_ids(unquote(downcased_country_id)), do: subdivision_ids(unquote(country_id))
+    def subdivisions(unquote(downcased_country_id)), do: subdivisions(unquote(country_id))
+    def subdivision(unquote(downcased_country_id), id), do: subdivision(unquote(country_id), id)
+  end)
+
+  name_per_id_per_country_id
+  |> Enum.flat_map(fn {_, name_per_id} ->
+    name_per_id |> Enum.map(fn {id, _} -> id end)
+  end)
+  |> Enum.uniq()
+  |> Enum.map(&{&1, String.downcase(&1)})
+  |> Enum.reject(fn {id, downcased_id} -> id == downcased_id end)
+  |> Enum.each(fn {id, downcased_id} ->
+    def subdivision(country_id, unquote(downcased_id)), do: subdivision(country_id, unquote(id))
   end)
 
   def subdivision_ids(_), do: []
-
-  Enum.each(subdivisions_data, fn {country_id, subdivisions_data} ->
-    subdivisions =
-      subdivisions_data
-      |> Enum.map(fn {id, name} ->
-        Macro.escape(%Subdivision{country_id: country_id, id: id, name: name})
-      end)
-
-    [country_id, String.downcase(country_id)]
-    |> Enum.each(fn arg ->
-      def subdivisions(unquote(arg)), do: unquote(subdivisions)
-    end)
-  end)
-
   def subdivisions(_), do: []
-
-  @subdivision subdivisions_data
-               |> Enum.flat_map(fn {country_id, subdivisions} ->
-                 Enum.map(subdivisions, fn {id, name} ->
-                   {{String.upcase(country_id), String.upcase(id)},
-                    %Subdivision{country_id: country_id, id: id, name: name}}
-                 end)
-               end)
-               |> Map.new()
-
-  def subdivision(country_id, subdivision_id)
-      when is_binary(country_id) and is_binary(subdivision_id) do
-    Map.get(@subdivision, {String.upcase(country_id), String.upcase(subdivision_id)})
-  end
-
   def subdivision(_country_id, _subdivision_id), do: nil
 end

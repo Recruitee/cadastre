@@ -7,25 +7,27 @@ defmodule Cadastre.Backend.Languages do
 
   @external_resource languages_path
 
-  languages_data =
-    languages_path
-    |> File.read!()
-    |> :erlang.binary_to_term()
+  name_per_id = languages_path |> File.read!() |> :erlang.binary_to_term()
 
-  def languages do
-    unquote(
-      Enum.map(languages_data, fn {id, name} -> Macro.escape(%Language{id: id, name: name}) end)
-    )
-  end
+  language_per_id =
+    name_per_id
+    |> Enum.map(fn {id, name} -> {id, Macro.escape(%Language{id: id, name: name})} end)
 
-  def language_ids, do: unquote(Enum.map(languages_data, fn {id, _} -> id end))
+  languages = language_per_id |> Enum.map(fn {_, language} -> language end)
+  ids = language_per_id |> Enum.map(fn {id, _} -> id end)
 
-  languages_data
-  |> Enum.each(fn {id, name} ->
-    language = Macro.escape(%Language{id: id, name: name})
+  def languages, do: unquote(languages)
+  def language_ids, do: unquote(ids)
 
+  language_per_id
+  |> Enum.each(fn {id, language} ->
     def language(unquote(id)), do: unquote(language)
-    def language(unquote(String.upcase(id))), do: unquote(language)
+  end)
+
+  ids
+  |> Enum.each(fn id ->
+    upcased_id = id |> String.upcase()
+    def language(unquote(upcased_id)), do: language(unquote(id))
   end)
 
   def language(_), do: nil

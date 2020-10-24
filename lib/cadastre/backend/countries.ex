@@ -7,25 +7,26 @@ defmodule Cadastre.Backend.Countries do
 
   @external_resource countries_path
 
-  countries_data =
-    countries_path
-    |> File.read!()
-    |> :erlang.binary_to_term()
+  name_per_id = countries_path |> File.read!() |> :erlang.binary_to_term()
 
-  def countries do
-    unquote(
-      Enum.map(countries_data, fn {id, name} -> Macro.escape(%Country{id: id, name: name}) end)
-    )
-  end
+  country_per_id =
+    name_per_id |> Enum.map(fn {id, name} -> {id, Macro.escape(%Country{id: id, name: name})} end)
 
-  def country_ids, do: unquote(Enum.map(countries_data, fn {id, _} -> id end))
+  countries = country_per_id |> Enum.map(fn {_, country} -> country end)
+  ids = country_per_id |> Enum.map(fn {id, _} -> id end)
 
-  countries_data
-  |> Enum.each(fn {id, name} ->
-    country = Macro.escape(%Country{id: id, name: name})
+  def countries, do: unquote(countries)
+  def country_ids, do: unquote(ids)
 
+  country_per_id
+  |> Enum.each(fn {id, country} ->
     def country(unquote(id)), do: unquote(country)
-    def country(unquote(String.downcase(id))), do: unquote(country)
+  end)
+
+  ids
+  |> Enum.each(fn id ->
+    downcased_id = id |> String.downcase()
+    def country(unquote(downcased_id)), do: country(unquote(id))
   end)
 
   def country(_), do: nil

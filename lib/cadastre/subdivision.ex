@@ -79,6 +79,9 @@ defmodule Cadastre.Subdivision do
   iex> Cadastre.Subdivision.new("SL", "W")
   %Cadastre.Subdivision{country_id: "SL", id: "W", name: "Western Area (Freetown)"}
 
+  iex> Cadastre.Subdivision.new("sl", "w")
+  %Cadastre.Subdivision{country_id: "SL", id: "W", name: "Western Area (Freetown)"}
+
   iex> "SL" |> Cadastre.Country.new() |> Cadastre.Subdivision.new( "W")
   %Cadastre.Subdivision{country_id: "SL", id: "W", name: "Western Area (Freetown)"}
 
