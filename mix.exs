@@ -1,7 +1,7 @@
 defmodule Cadastre.MixProject do
   use Mix.Project
 
-  @version "0.1.4"
+  @version "0.2.0"
   @description "A repository of languages, countries and country subdivisions from the iso-codes Debian package."
   @source_url "https://github.com/Recruitee/cadastre"
 
@@ -33,16 +33,14 @@ defmodule Cadastre.MixProject do
   defp elixirc_paths(_), do: ["lib"]
 
   defp extra_applications(:dev), do: [:inets | extra_applications(:prod)]
-  defp extra_applications(_), do: [:gettext, :logger]
+  defp extra_applications(_), do: [:logger]
 
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:gettext, ">= 0.0.0"},
-
       # Updating data
+      {:gettext, ">= 0.0.0", only: :dev},
       {:jason, "~> 1.0", only: :dev},
-      {:nimble_csv, "~> 0.7", only: :dev},
 
       # Dev tools
       {:dialyxir, "~> 1.0", only: :dev, runtime: false},
@@ -61,7 +59,7 @@ defmodule Cadastre.MixProject do
   defp package do
     [
       # These are the default files included in the package
-      files: ["lib", "priv/gettext", "priv/*.erl", ".formatter.exs", "mix.exs", "README.md"],
+      files: ["lib", "priv/data/*.etf", ".formatter.exs", "mix.exs", "README.md"],
       links: %{"GitHub" => @source_url},
       licenses: ["MIT"]
     ]

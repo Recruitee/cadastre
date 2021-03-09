@@ -2,32 +2,16 @@ defmodule Cadastre.Language do
   @moduledoc """
   Language implementation
   """
-  alias Cadastre.Backend
+  @external_resource Application.app_dir(:cadastre, "priv/data/languages.etf")
 
-  @enforce_keys [:id, :name]
-  defstruct [:id, :name]
+  @enforce_keys [:id]
+  defstruct [:id]
 
   @type id :: <<_::16>>
-  @type t :: %__MODULE__{id: id, name: Cadastre.msgid()}
+  @type t :: %__MODULE__{id: id}
 
-  @doc """
-  Returns all languages
-
-  ## Examples
-  ```
-  iex> Cadastre.Language.all() |> Enum.take(3)
-  [
-    %Cadastre.Language{id: "aa", name: "Afar"},
-    %Cadastre.Language{id: "ab", name: "Abkhazian"},
-    %Cadastre.Language{id: "ae", name: "Avestan"}
-  ]
-
-  iex> Cadastre.Language.all() |> Enum.count()
-  178
-  ```
-  """
-  @spec all :: [t]
-  def all, do: Backend.languages()
+  external_data = @external_resource |> File.read!() |> :erlang.binary_to_term()
+  ids = external_data |> Enum.map(&elem(&1, 0))
 
   @doc """
   Return all ids (ISO_639-2)
@@ -39,7 +23,26 @@ defmodule Cadastre.Language do
   ```
   """
   @spec ids :: [id]
-  def ids, do: Backend.language_ids()
+  def ids, do: unquote(ids)
+
+  @doc """
+  Returns all languages
+
+  ## Examples
+  ```
+  iex> Cadastre.Language.all() |> Enum.take(3)
+  [
+    %Cadastre.Language{id: "aa"},
+    %Cadastre.Language{id: "ab"},
+    %Cadastre.Language{id: "ae"}
+  ]
+
+  iex> Cadastre.Language.all() |> Enum.count()
+  178
+  ```
+  """
+  @spec all :: [t]
+  def all, do: ids() |> Enum.map(&%__MODULE__{id: &1})
 
   @doc """
   Returns `%Cadastre.Language{}` for valid `id`.
@@ -48,17 +51,28 @@ defmodule Cadastre.Language do
   ## Examples
   ```
   iex> Cadastre.Language.new("nl")
-  %Cadastre.Language{id: "nl", name: "Dutch"}
+  %Cadastre.Language{id: "nl"}
 
   iex> Cadastre.Language.new("NL")
-  %Cadastre.Language{id: "nl", name: "Dutch"}
+  %Cadastre.Language{id: "nl"}
 
   iex> Cadastre.Language.new("xx")
   nil
   ```
   """
   @spec new(id | any) :: t | nil
-  def new(id), do: Backend.language(id)
+  def new(id) when id in unquote(ids), do: %__MODULE__{id: id}
+
+  def new(str) when is_binary(str) do
+    id = str |> String.downcase()
+
+    case id in ids() do
+      true -> %__MODULE__{id: id}
+      _ -> nil
+    end
+  end
+
+  def new(_), do: nil
 
   @doc """
   Returns language name translation for `locale`
@@ -77,7 +91,17 @@ defmodule Cadastre.Language do
   """
   @spec name(t, id) :: String.t()
   def name(language, locale)
-  def name(%__MODULE__{name: name}, locale), do: name |> Backend.translate("languages", locale)
+
+  external_data
+  |> Enum.each(fn {id, translations} ->
+    translations = translations |> Map.new()
+    en = translations |> Map.fetch!("en")
+
+    def name(%__MODULE__{id: unquote(id)}, locale) do
+      unquote(Macro.escape(translations)) |> Map.get(locale, unquote(en))
+    end
+  end)
+
   def name(_, _), do: nil
 
   @doc """

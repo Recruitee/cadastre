@@ -20,4 +20,5 @@ end
 
 The `lib` directory is compiled to the library, the `dev` directory is only for development (downloading data and creating *.json and *.po files).
 
-Run `mix update_data` to download new ISO data.
+Run `mix load_data` to download new ISO data.
+Run `mix update_data` to add it to the project.

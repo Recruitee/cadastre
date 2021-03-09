@@ -2,7 +2,6 @@ defmodule CadastreDev.Source.Languages do
   @moduledoc false
 
   alias CadastreDev.API
-  alias CadastreDev.CSV
   alias CadastreDev.Source
 
   @behaviour Source
@@ -29,19 +28,4 @@ defmodule CadastreDev.Source.Languages do
 
   @impl Source
   def msgstr_per_msgid_per_lang, do: Source.load_msgstr_per_msgid_per_lang(@po_dir)
-
-  @impl Source
-  def override_per_lang_per_id do
-    msgstr_per_lang_per_id =
-      "priv/dev/languages.csv"
-      |> CSV.load()
-      |> Enum.map(fn [id, name, native_name] -> {id, %{"en" => name, id => native_name}} end)
-      |> Enum.into(%{})
-
-    "languages"
-    |> Source.override_per_lang_per_id_from_csv()
-    |> Enum.reduce(msgstr_per_lang_per_id, fn {id, msgstr_per_lang}, acc ->
-      acc |> Map.update(id, msgstr_per_lang, &Map.merge(&1, msgstr_per_lang))
-    end)
-  end
 end

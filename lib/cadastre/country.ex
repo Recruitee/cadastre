@@ -1,35 +1,19 @@
 defmodule Cadastre.Country do
   @moduledoc """
-
   Country implementation
   """
-  alias Cadastre.Backend
   alias Cadastre.Language
 
-  @enforce_keys [:id, :name]
-  defstruct [:id, :name]
+  @external_resource Application.app_dir(:cadastre, "priv/data/countries.etf")
+
+  @enforce_keys [:id]
+  defstruct [:id]
 
   @type id :: <<_::16>>
-  @type t :: %__MODULE__{id: id, name: Cadastre.msgid()}
+  @type t :: %__MODULE__{id: id}
 
-  @doc """
-  Returns all countries
-
-  ## Examples
-  ```
-  iex> Cadastre.Country.all() |> Enum.take(3)
-  [
-    %Cadastre.Country{id: "AD", name: "Andorra"},
-    %Cadastre.Country{id: "AE", name: "United Arab Emirates"},
-    %Cadastre.Country{id: "AF", name: "Afghanistan"}
-  ]
-
-  iex> Cadastre.Country.all() |> Enum.count()
-  249
-  ```
-  """
-  @spec all :: [t]
-  def all, do: apply(Backend, :countries, [])
+  external_data = @external_resource |> File.read!() |> :erlang.binary_to_term()
+  ids = external_data |> Enum.map(&elem(&1, 0))
 
   @doc """
   Return all ids (ISO_3166-1)
@@ -41,7 +25,26 @@ defmodule Cadastre.Country do
   ```
   """
   @spec ids :: [id]
-  def ids, do: apply(Backend, :country_ids, [])
+  def ids, do: unquote(ids)
+
+  @doc """
+  Returns all countries
+
+  ## Examples
+  ```
+  iex> Cadastre.Country.all() |> Enum.take(3)
+  [
+    %Cadastre.Country{id: "AD"},
+    %Cadastre.Country{id: "AE"},
+    %Cadastre.Country{id: "AF"}
+  ]
+
+  iex> Cadastre.Country.all() |> Enum.count()
+  249
+  ```
+  """
+  @spec all :: [t]
+  def all, do: ids() |> Enum.map(&%__MODULE__{id: &1})
 
   @doc """
   Returns `%Cadastre.Country{}` for valid `id`.
@@ -50,17 +53,28 @@ defmodule Cadastre.Country do
   ## Examples
   ```
   iex> Cadastre.Country.new("NL")
-  %Cadastre.Country{id: "NL", name: "Netherlands"}
+  %Cadastre.Country{id: "NL"}
 
   iex> Cadastre.Country.new("nl")
-  %Cadastre.Country{id: "NL", name: "Netherlands"}
+  %Cadastre.Country{id: "NL"}
 
   iex> Cadastre.Country.new("xx")
   nil
   ```
   """
   @spec new(id | any) :: t | nil
-  def new(id), do: apply(Backend, :country, [id])
+  def new(id) when id in unquote(ids), do: %__MODULE__{id: id}
+
+  def new(str) when is_binary(str) do
+    id = str |> String.upcase()
+
+    case id in ids() do
+      true -> %__MODULE__{id: id}
+      _ -> nil
+    end
+  end
+
+  def new(_), do: nil
 
   @doc """
   Returns country name translation for `locale`
@@ -79,6 +93,16 @@ defmodule Cadastre.Country do
   """
   @spec name(t, Language.id()) :: String.t()
   def name(country, locale)
-  def name(%__MODULE__{name: name}, locale), do: name |> Backend.translate("countries", locale)
+
+  external_data
+  |> Enum.each(fn {id, translations} ->
+    translations = translations |> Map.new()
+    en = translations |> Map.fetch!("en")
+
+    def name(%__MODULE__{id: unquote(id)}, locale) do
+      unquote(Macro.escape(translations)) |> Map.get(locale, unquote(en))
+    end
+  end)
+
   def name(_, _), do: nil
 end

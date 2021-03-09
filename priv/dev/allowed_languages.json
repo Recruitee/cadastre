@@ -1,0 +1,714 @@
+{
+  "lo": [
+    "Lao",
+    "ພາສາ"
+  ],
+  "eo": [
+    "Esperanto",
+    "Esperanto"
+  ],
+  "rm": [
+    "Romansh",
+    "rumantsch grischun"
+  ],
+  "ja": [
+    "Japanese",
+    "日本語"
+  ],
+  "om": [
+    "Oromo",
+    "Afaan Oromoo"
+  ],
+  "cr": [
+    "Cree",
+    "ᓀᐦᐃᔭᐍᐏᐣ"
+  ],
+  "ne": [
+    "Nepali",
+    "नेपाली"
+  ],
+  "ae": [
+    "Avestan",
+    "avesta"
+  ],
+  "el": [
+    "Greek",
+    "ελληνικά"
+  ],
+  "fo": [
+    "Faroese",
+    "føroyskt"
+  ],
+  "ii": [
+    "Sichuan Yi",
+    "ꆈꌠ꒿ Nuosuhxop"
+  ],
+  "za": [
+    "Zhuang",
+    "Saɯ cueŋƅ"
+  ],
+  "hu": [
+    "Hungarian",
+    "magyar"
+  ],
+  "oc": [
+    "Occitan",
+    "occitan"
+  ],
+  "nr": [
+    "South Ndebele",
+    "isiNdebele"
+  ],
+  "sq": [
+    "Albanian",
+    "Shqip"
+  ],
+  "ug": [
+    "Uyghur",
+    "ئۇيغۇرچە‎"
+  ],
+  "rw": [
+    "Kinyarwanda",
+    "Ikinyarwanda"
+  ],
+  "cy": [
+    "Welsh",
+    "Cymraeg"
+  ],
+  "bi": [
+    "Bislama",
+    "Bislama"
+  ],
+  "tn": [
+    "Tswana",
+    "Setswana"
+  ],
+  "ch": [
+    "Chamorro",
+    "Chamoru"
+  ],
+  "da": [
+    "Danish",
+    "dansk"
+  ],
+  "su": [
+    "Sundanese",
+    "Basa Sunda"
+  ],
+  "ss": [
+    "Swati",
+    "SiSwati"
+  ],
+  "sv": [
+    "Swedish",
+    "svenska"
+  ],
+  "ee": [
+    "Ewe",
+    "Eʋegbe"
+  ],
+  "lu": [
+    "Luba-Katanga",
+    "Tshiluba"
+  ],
+  "ha": [
+    "Hausa",
+    "هَوُسَ"
+  ],
+  "ay": [
+    "Aymara",
+    "aymar aru"
+  ],
+  "ps": [
+    "Pashto",
+    "پښتو"
+  ],
+  "kn": [
+    "Kannada",
+    "ಕನ್ನಡ"
+  ],
+  "et": [
+    "Estonian",
+    "eesti"
+  ],
+  "ta": [
+    "Tamil",
+    "தமிழ்"
+  ],
+  "ff": [
+    "Fulah",
+    "Fulfulde"
+  ],
+  "nl": [
+    "Dutch",
+    "Nederlands"
+  ],
+  "ml": [
+    "Malayalam",
+    "മലയാളം"
+  ],
+  "vi": [
+    "Vietnamese",
+    "Tiếng Việt"
+  ],
+  "ba": [
+    "Bashkir",
+    "башҡорт теле"
+  ],
+  "nb": [
+    "Norwegian Bokmål",
+    "Norsk bokmål"
+  ],
+  "lv": [
+    "Latvian",
+    "latviešu valoda"
+  ],
+  "uz": [
+    "Uzbek",
+    "Ўзбек"
+  ],
+  "id": [
+    "Indonesian",
+    "Indonesian"
+  ],
+  "sg": [
+    "Sango",
+    "yângâ tî sängö"
+  ],
+  "zu": [
+    "Zulu",
+    "isiZulu"
+  ],
+  "gu": [
+    "Gujarati",
+    "ગુજરાતી"
+  ],
+  "ks": [
+    "Kashmiri",
+    "कश्मीरी"
+  ],
+  "lt": [
+    "Lithuanian",
+    "lietuvių kalba"
+  ],
+  "ig": [
+    "Igbo",
+    "Asụsụ Igbo"
+  ],
+  "my": [
+    "Burmese",
+    "ဗမာစာ"
+  ],
+  "jv": [
+    "Javanese",
+    "basa Jawa"
+  ],
+  "br": [
+    "Breton",
+    "brezhoneg"
+  ],
+  "tl": [
+    "Tagalog",
+    "Wikang Tagalog"
+  ],
+  "dz": [
+    "Dzongkha",
+    "རྫོང་ཁ"
+  ],
+  "mi": [
+    "Maori",
+    "te reo Māori"
+  ],
+  "cs": [
+    "Czech",
+    "Čeština"
+  ],
+  "ms": [
+    "Malay",
+    "هاس ملايو‎"
+  ],
+  "kk": [
+    "Kazakh",
+    "қазақ тілі"
+  ],
+  "te": [
+    "Telugu",
+    "తెలుగు"
+  ],
+  "fa": [
+    "Persian",
+    "فارسی"
+  ],
+  "kg": [
+    "Kongo",
+    "Kikongo"
+  ],
+  "bg": [
+    "Bulgarian",
+    "Български"
+  ],
+  "qu": [
+    "Quechua",
+    "Runa Simi"
+  ],
+  "es": [
+    "Spanish",
+    "Español"
+  ],
+  "ik": [
+    "Inupiaq",
+    "Iñupiaq"
+  ],
+  "ab": [
+    "Abkhazian",
+    "аҧсуа бызшәа"
+  ],
+  "en": [
+    "English",
+    "English"
+  ],
+  "cv": [
+    "Chuvash",
+    "чӑваш чӗлхи"
+  ],
+  "af": [
+    "Afrikaans",
+    "Afrikaans"
+  ],
+  "mt": [
+    "Maltese",
+    "Malti"
+  ],
+  "iu": [
+    "Inuktitut",
+    "ᐃᓄᒃᑎᑐᑦ"
+  ],
+  "am": [
+    "Amharic",
+    "አማርኛ"
+  ],
+  "lg": [
+    "Ganda",
+    "Luganda"
+  ],
+  "ca": [
+    "Catalan",
+    "català"
+  ],
+  "oj": [
+    "Ojibwa",
+    "ᐊᓂᔑᓈᐯᒧᐎᓐ"
+  ],
+  "mk": [
+    "Macedonian",
+    "Македонски"
+  ],
+  "tt": [
+    "Tatar",
+    "татар теле"
+  ],
+  "la": [
+    "Latin",
+    "latine"
+  ],
+  "ro": [
+    "Romanian",
+    "limba română"
+  ],
+  "wo": [
+    "Wolof",
+    "Wollof"
+  ],
+  "bm": [
+    "Bambara",
+    "bamanankan"
+  ],
+  "ka": [
+    "Georgian",
+    "ქართული"
+  ],
+  "sn": [
+    "Shona",
+    "chiShona"
+  ],
+  "co": [
+    "Corsican",
+    "corsu"
+  ],
+  "ce": [
+    "Chechen",
+    "нохчийн мотт"
+  ],
+  "hr": [
+    "Croatian",
+    "Hrvatski"
+  ],
+  "gl": [
+    "Galician",
+    "galego"
+  ],
+  "nn": [
+    "Norwegian Nynorsk",
+    "Norsk nynorsk"
+  ],
+  "ti": [
+    "Tigrinya",
+    "ትግርኛ"
+  ],
+  "hy": [
+    "Armenian",
+    "Հայերեն"
+  ],
+  "pa": [
+    "Punjabi",
+    "ਪੰਜਾਬੀ"
+  ],
+  "ht": [
+    "Haitian Creole",
+    "Kreyòl ayisyen"
+  ],
+  "no": [
+    "Norwegian",
+    "Norsk"
+  ],
+  "pt": [
+    "Portuguese",
+    "Português"
+  ],
+  "ki": [
+    "Kikuyu",
+    "Gĩkũyũ"
+  ],
+  "ln": [
+    "Lingala",
+    "Lingála"
+  ],
+  "ku": [
+    "Kurdish",
+    "Kurdî"
+  ],
+  "se": [
+    "Northern Sami",
+    "Davvisámegiella"
+  ],
+  "nd": [
+    "North Ndebele",
+    "isiNdebele"
+  ],
+  "he": [
+    "Hebrew",
+    "עברית"
+  ],
+  "fj": [
+    "Fijian",
+    "Vakaviti"
+  ],
+  "sc": [
+    "Sardinian",
+    "sardu"
+  ],
+  "yo": [
+    "Yoruba",
+    "Yorùbá"
+  ],
+  "ga": [
+    "Irish",
+    "Gaeilge"
+  ],
+  "sr": [
+    "Serbian",
+    "Српски"
+  ],
+  "hi": [
+    "Hindi",
+    "हिन्दी"
+  ],
+  "as": [
+    "Assamese",
+    "অসমীয়া"
+  ],
+  "nv": [
+    "Navajo",
+    "Diné bizaad"
+  ],
+  "mn": [
+    "Mongolian",
+    "Монгол хэл"
+  ],
+  "ky": [
+    "Kyrgyz",
+    "Кыргызча"
+  ],
+  "ng": [
+    "Ndonga",
+    "Owambo"
+  ],
+  "gv": [
+    "Manx",
+    "Gaelg"
+  ],
+  "kw": [
+    "Cornish",
+    "Kernewek"
+  ],
+  "ny": [
+    "Nyanja",
+    "chiCheŵa"
+  ],
+  "ko": [
+    "Korean",
+    "한국어"
+  ],
+  "ho": [
+    "Hiri Motu",
+    "Hiri Motu"
+  ],
+  "ur": [
+    "Urdu",
+    "اردو"
+  ],
+  "si": [
+    "Sinhala",
+    "සිංහල"
+  ],
+  "so": [
+    "Somali",
+    "Soomaaliga"
+  ],
+  "kl": [
+    "Kalaallisut",
+    "kalaallisut"
+  ],
+  "km": [
+    "Khmer",
+    "ខេមរភាសា"
+  ],
+  "sa": [
+    "Sanskrit",
+    "संस्कृतम्"
+  ],
+  "bo": [
+    "Tibetan",
+    "བོད་ཡིག"
+  ],
+  "sk": [
+    "Slovak",
+    "Slovenčina"
+  ],
+  "ru": [
+    "Russian",
+    "Русский"
+  ],
+  "mr": [
+    "Marathi",
+    "मराठी"
+  ],
+  "na": [
+    "Nauru",
+    "Ekakairũ Naoero"
+  ],
+  "kv": [
+    "Komi",
+    "коми кыв"
+  ],
+  "sm": [
+    "Samoan",
+    "gagana fa'a Samoa"
+  ],
+  "fy": [
+    "Western Frisian",
+    "Frysk"
+  ],
+  "eu": [
+    "Basque",
+    "euskara"
+  ],
+  "ia": [
+    "Interlingua",
+    "Interlingua"
+  ],
+  "mg": [
+    "Malagasy",
+    "fiteny malagasy"
+  ],
+  "os": [
+    "Ossetic",
+    "ирон æвзаг"
+  ],
+  "zh": [
+    "Chinese",
+    "汉语"
+  ],
+  "kj": [
+    "Kuanyama",
+    "Kuanyama"
+  ],
+  "av": [
+    "Avaric",
+    "авар мацӀ"
+  ],
+  "ts": [
+    "Tsonga",
+    "Xitsonga"
+  ],
+  "an": [
+    "Aragonese",
+    "aragonés"
+  ],
+  "de": [
+    "German",
+    "Deutsch"
+  ],
+  "fi": [
+    "Finnish",
+    "suomi"
+  ],
+  "it": [
+    "Italian",
+    "Italiano"
+  ],
+  "yi": [
+    "Yiddish",
+    "ייִדיש"
+  ],
+  "be": [
+    "Belarusian",
+    "Беларуская"
+  ],
+  "aa": [
+    "Afar",
+    "Afaraf"
+  ],
+  "rn": [
+    "Rundi",
+    "Ikirundi"
+  ],
+  "pl": [
+    "Polish",
+    "Polski"
+  ],
+  "az": [
+    "Azerbaijani",
+    "azərbaycan dili"
+  ],
+  "st": [
+    "Southern Sotho",
+    "Sesotho"
+  ],
+  "sw": [
+    "Swahili",
+    "Kiswahili"
+  ],
+  "gn": [
+    "Guarani",
+    "Avañe'ẽ"
+  ],
+  "tr": [
+    "Turkish",
+    "Türkçe"
+  ],
+  "ak": [
+    "Akan",
+    "Akan"
+  ],
+  "wa": [
+    "Walloon",
+    "walon"
+  ],
+  "ty": [
+    "Tahitian",
+    "Reo Tahiti"
+  ],
+  "gd": [
+    "Scottish Gaelic",
+    "Gàidhlig"
+  ],
+  "sd": [
+    "Sindhi",
+    "सिन्धी"
+  ],
+  "is": [
+    "Icelandic",
+    "Íslenska"
+  ],
+  "to": [
+    "Tongan",
+    "faka Tonga"
+  ],
+  "bn": [
+    "Bangla",
+    "বাংলা"
+  ],
+  "mh": [
+    "Marshallese",
+    "Kajin M̧ajeļ"
+  ],
+  "xh": [
+    "Xhosa",
+    "isiXhosa"
+  ],
+  "or": [
+    "Odia",
+    "ଓଡ଼ିଆ"
+  ],
+  "th": [
+    "Thai",
+    "ไทย"
+  ],
+  "li": [
+    "Limburgish",
+    "Limburgs"
+  ],
+  "tg": [
+    "Tajik",
+    "тоҷикӣ"
+  ],
+  "tk": [
+    "Turkmen",
+    "Türkmen"
+  ],
+  "dv": [
+    "Divehi",
+    "Dhivehi"
+  ],
+  "hz": [
+    "Herero",
+    "Otjiherero"
+  ],
+  "tw": [
+    "Twi",
+    "Twi"
+  ],
+  "kr": [
+    "Kanuri",
+    "Kanuri"
+  ],
+  "fr": [
+    "French",
+    "français"
+  ],
+  "sl": [
+    "Slovenian",
+    "Slovenščina"
+  ],
+  "lb": [
+    "Luxembourgish",
+    "Lëtzebuergesch"
+  ],
+  "bs": [
+    "Bosnian",
+    "Bosanski"
+  ],
+  "uk": [
+    "Ukrainian",
+    "Українська"
+  ],
+  "ve": [
+    "Venda",
+    "Tshivenḓa"
+  ],
+  "ar": [
+    "Arabic",
+    "اللغة العربية"
+  ]
+}

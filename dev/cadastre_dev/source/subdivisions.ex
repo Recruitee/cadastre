@@ -28,7 +28,4 @@ defmodule CadastreDev.Source.Subdivisions do
 
   @impl Source
   def msgstr_per_msgid_per_lang, do: Source.load_msgstr_per_msgid_per_lang(@po_dir)
-
-  @impl Source
-  def override_per_lang_per_id, do: Source.override_per_lang_per_id_from_csv("subdivisions")
 end

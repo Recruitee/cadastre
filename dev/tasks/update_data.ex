@@ -7,6 +7,6 @@ defmodule Mix.Tasks.UpdateData do
 
   @impl Mix.Task
   def run(_) do
-    CadastreDev.update_data()
+    CadastreDev.Updater.update_data()
   end
 end

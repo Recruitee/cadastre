@@ -1,0 +1,270 @@
+{
+  "VA": {
+    "de": "Vatikanstadt",
+    "fr": "Vatican"
+  },
+  "CD": {
+    "de": "Kongo, Demokratische Republik (ehem. Zaire)",
+    "nl": "Congo-Kinshasa"
+  },
+  "TW": {
+    "de": "Taiwan",
+    "en": "Taiwan",
+    "fr": "Taïwan"
+  },
+  "FO": {
+    "de": "Färöer",
+    "fr": "Îles Féroé"
+  },
+  "PS": {
+    "de": "Palästinensische Autonomiegebiete",
+    "fr": "Territoires Palestiniens",
+    "nl": "Palestijns Gebied"
+  },
+  "SB": {
+    "de": "Salomonen",
+    "fr": "Îles Salomon"
+  },
+  "KR": {
+    "de": "Korea, Republik (Südkorea)",
+    "fr": "Corée du Sud"
+  },
+  "GQ": {
+    "fr": "Guinée équatoriale"
+  },
+  "GF": {
+    "de": "Französisch-Guayana",
+    "fr": "Guyane"
+  },
+  "LA": {
+    "fr": "Laos",
+    "nl": "Laos"
+  },
+  "GG": {
+    "de": "Guernsey (Kanalinsel)"
+  },
+  "WF": {
+    "fr": "Wallis-et-Futuna"
+  },
+  "BZ": {
+    "fr": "Bélize"
+  },
+  "VN": {
+    "en": "Vietnam"
+  },
+  "PN": {
+    "de": "Pitcairninseln",
+    "fr": "Île Pitcairn",
+    "nl": "Pitcairn"
+  },
+  "GL": {
+    "fr": "Groenland"
+  },
+  "CV": {
+    "de": "Kap Verde"
+  },
+  "BV": {
+    "de": "Bouvetinsel",
+    "fr": "Île Bouvet"
+  },
+  "CK": {
+    "fr": "Îles Cook"
+  },
+  "BS": {
+    "nl": "Bahama’s"
+  },
+  "IR": {
+    "fr": "Iran"
+  },
+  "UM": {
+    "nl": "Amerikaanse kleinere afgelegen eilanden"
+  },
+  "BQ": {
+    "fr": "Pays-Bas caribéens"
+  },
+  "TL": {
+    "de": "Osttimor (Timor-Leste)",
+    "fr": "Timor-Oriental"
+  },
+  "CI": {
+    "de": "Côte d'Ivoire (Elfenbeinküste)"
+  },
+  "MG": {
+    "fr": "Malgache"
+  },
+  "PM": {
+    "de": "Saint-Pierre und Miquelon",
+    "nl": "Saint Pierre en Miquelon"
+  },
+  "RE": {
+    "fr": "La Réunion"
+  },
+  "CC": {
+    "de": "Kokosinseln",
+    "fr": "Îles Cocos"
+  },
+  "SZ": {
+    "de": "Swasiland",
+    "en": "Swaziland",
+    "fr": "Swaziland",
+    "nl": "Swaziland"
+  },
+  "HM": {
+    "fr": "Îles Heard-et-MacDonald",
+    "nl": "Heard- en McDonaldeilanden"
+  },
+  "FM": {
+    "de": "Mikronesien",
+    "fr": "Micronésie",
+    "nl": "Micronesië"
+  },
+  "MP": {
+    "nl": "Noordelijke Marianeneilanden"
+  },
+  "VE": {
+    "de": "Venezuela",
+    "fr": "Vénézuéla",
+    "nl": "Venezuela"
+  },
+  "KY": {
+    "de": "Kaimaninseln",
+    "fr": "Îles Caïmans",
+    "nl": "Caymaneilanden"
+  },
+  "CN": {
+    "de": "China, Volksrepublik"
+  },
+  "NU": {
+    "fr": "Niue"
+  },
+  "US": {
+    "de": "Vereinigte Staaten von Amerika"
+  },
+  "MS": {
+    "fr": "Montserrat (Antilles)"
+  },
+  "TC": {
+    "fr": "Îles Turques-et-Caïques"
+  },
+  "MM": {
+    "de": "Myanmar (Burma)",
+    "fr": "Myanmar"
+  },
+  "JE": {
+    "de": "Jersey (Kanalinsel)"
+  },
+  "AX": {
+    "de": "Åland",
+    "fr": "Åland",
+    "nl": "Alandeilanden"
+  },
+  "CX": {
+    "de": "Weihnachtsinsel",
+    "fr": "Île Christmas (Australie)"
+  },
+  "AS": {
+    "nl": "Amerikaans Samoa"
+  },
+  "CG": {
+    "de": "Republik Kongo",
+    "fr": "Congo"
+  },
+  "BO": {
+    "de": "Bolivien",
+    "fr": "Bolivie",
+    "nl": "Bolivia"
+  },
+  "MO": {
+    "fr": "Macao",
+    "nl": "Macao"
+  },
+  "SR": {
+    "fr": "Suriname"
+  },
+  "MF": {
+    "de": "Saint-Martin (franz. Teil)",
+    "fr": "Saint-Martin (Antilles françaises)"
+  },
+  "VG": {
+    "nl": "Britse Maagdeneilanden"
+  },
+  "NF": {
+    "fr": "Île Norfolk",
+    "nl": "Norfolkeiland"
+  },
+  "TZ": {
+    "fr": "Tanzanie"
+  },
+  "SH": {
+    "de": "St. Helena",
+    "nl": "Sint-Helena"
+  },
+  "GS": {
+    "de": "Südgeorgien und die Südlichen Sandwichinseln",
+    "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+    "nl": "Zuid-Georgië en Zuidelijke Sandwicheilanden"
+  },
+  "RU": {
+    "en": "Russia",
+    "fr": "Russie"
+  },
+  "MD": {
+    "de": "Moldawien (Republik Moldau)",
+    "fr": "Moldovie",
+    "nl": "Moldavië"
+  },
+  "SY": {
+    "fr": "Syrie"
+  },
+  "KP": {
+    "de": "Korea, Demokratische Volksrepublik (Nordkorea)",
+    "fr": "Corée du Nord"
+  },
+  "SJ": {
+    "fr": "Svalbard et Jan Mayen",
+    "nl": "Svalbard en Jan Mayen"
+  },
+  "BW": {
+    "de": "Botswana"
+  },
+  "IO": {
+    "nl": "Britse Gebieden in de Indische Oceaan"
+  },
+  "LY": {
+    "de": "Libysch-Arabische Dschamahirija (Libyen)"
+  },
+  "BN": {
+    "fr": "Brunei"
+  },
+  "IM": {
+    "nl": "Isle of Man"
+  },
+  "GE": {
+    "nl": "Georgië"
+  },
+  "BL": {
+    "nl": "Saint Barthélemy"
+  },
+  "LR": {
+    "fr": "Liberia"
+  },
+  "SX": {
+    "de": "Sint Maarten",
+    "fr": "Saint-Martin (Royaume des Pays-Bas)"
+  },
+  "FK": {
+    "de": "Falklandinseln",
+    "fr": "Îles Malouines"
+  },
+  "YE": {
+    "fr": "Yemen"
+  },
+  "BY": {
+    "de": "Belarus (Weißrussland)",
+    "fr": "Biélorussie"
+  },
+  "TF": {
+    "fr": "Terres australes et antarctiques françaises",
+    "nl": "Franse Gebieden in de zuidelijke Indische Oceaan"
+  }
+}

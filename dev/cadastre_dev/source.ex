@@ -2,7 +2,6 @@ defmodule CadastreDev.Source do
   @moduledoc false
 
   alias CadastreDev.API
-  alias CadastreDev.CSV
 
   @type lang :: <<_::16>>
   @type id :: binary
@@ -15,22 +14,12 @@ defmodule CadastreDev.Source do
 
   @callback msgid_per_id() :: msgid_per_id
   @callback msgstr_per_msgid_per_lang() :: msgstr_per_msgid_per_lang
-  @callback override_per_lang_per_id() :: override_per_lang_per_id
 
-  @langs "priv/dev/languages.csv" |> CSV.load() |> Enum.map(&List.first(&1)) |> Enum.sort()
+  @langs "priv/dev/allowed_languages.json" |> File.read!() |> Jason.decode!() |> Map.keys()
   @download_timeout 60_000
 
   @spec langs() :: [lang]
   def langs, do: @langs
-
-  @spec override_per_lang_per_id_from_csv(binary) :: override_per_lang_per_id
-  def override_per_lang_per_id_from_csv(filename) do
-    "priv/dev/overrides/#{filename}.csv"
-    |> CSV.load()
-    |> Enum.reduce(%{}, fn [id, lang, msgstr], acc ->
-      acc |> Map.update(id, %{lang => msgstr}, &Map.put(&1, lang, msgstr))
-    end)
-  end
 
   @spec load_msgstr_per_msgid_per_lang(binary) :: msgstr_per_msgid_per_lang
   def load_msgstr_per_msgid_per_lang(path) do
