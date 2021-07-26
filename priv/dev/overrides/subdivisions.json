@@ -81,5 +81,25 @@
     "77": {
       "en": "Chernivetska oblast"
     }
+  },
+  "NO": {
+    "30": {
+      "en": "Viken"
+    },
+    "34": {
+      "en": "Innlandet"
+    },
+    "38": {
+      "en": "Vestfold og Telemark"
+    },
+    "42": {
+      "en": "Agder"
+    },
+    "46": {
+      "en": "Vestland"
+    },
+    "54": {
+      "en": "Troms og Finnmark"
+    }
   }
 }
