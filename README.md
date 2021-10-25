@@ -11,7 +11,7 @@ by adding `cadastre` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:cadastre, "~> 0.1"}
+    {:cadastre, "~> 0.2"}
   ]
 end
 ```
