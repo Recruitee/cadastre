@@ -23,10 +23,10 @@ defmodule Cadastre.Subdivision do
   ## Examples
   ```
   iex> Cadastre.Subdivision.ids("SL")
-  ["E", "N", "S", "W"]
+  ["E", "N", "NW", "S", "W"]
 
   iex> "SL" |> Cadastre.Country.new() |> Cadastre.Subdivision.ids()
-  ["E", "N", "S", "W"]
+  ["E", "N", "NW", "S", "W"]
 
   iex> Cadastre.Subdivision.ids("XX")
   []
@@ -50,6 +50,7 @@ defmodule Cadastre.Subdivision do
   [
     %Cadastre.Subdivision{country_id: "SL", id: "E"},
     %Cadastre.Subdivision{country_id: "SL", id: "N"},
+    %Cadastre.Subdivision{country_id: "SL", id: "NW"},
     %Cadastre.Subdivision{country_id: "SL", id: "S"},
     %Cadastre.Subdivision{country_id: "SL", id: "W"}
   ]
@@ -58,6 +59,7 @@ defmodule Cadastre.Subdivision do
   [
     %Cadastre.Subdivision{country_id: "SL", id: "E"},
     %Cadastre.Subdivision{country_id: "SL", id: "N"},
+    %Cadastre.Subdivision{country_id: "SL", id: "NW"},
     %Cadastre.Subdivision{country_id: "SL", id: "S"},
     %Cadastre.Subdivision{country_id: "SL", id: "W"}
   ]
