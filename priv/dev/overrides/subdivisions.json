@@ -1,4 +1,27 @@
 {
+  "BY": {
+    "BR": {
+      "en": "Bresckaja voblasć"
+    },
+    "HM": {
+      "en": "Minsk"
+    },
+    "HO": {
+      "en": "Homieĺskaja voblasć"
+    },
+    "HR": {
+      "en": "Hrodzienskaja voblasć"
+    },
+    "MA": {
+      "en": "Mahilioŭskaja voblasć"
+    },
+    "MI": {
+      "en": "Minskaja voblasć"
+    },
+    "VI": {
+      "en": "Viciebskaja voblasć"
+    }
+  },
   "UA": {
     "05": {
       "en": "Vinnytska oblast"
@@ -80,26 +103,6 @@
     },
     "77": {
       "en": "Chernivetska oblast"
-    }
-  },
-  "NO": {
-    "30": {
-      "en": "Viken"
-    },
-    "34": {
-      "en": "Innlandet"
-    },
-    "38": {
-      "en": "Vestfold og Telemark"
-    },
-    "42": {
-      "en": "Agder"
-    },
-    "46": {
-      "en": "Vestland"
-    },
-    "54": {
-      "en": "Troms og Finnmark"
     }
   }
 }
