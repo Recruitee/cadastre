@@ -22,6 +22,35 @@
       "en": "Viciebskaja voblasć"
     }
   },
+  "FI": {
+    "06": {
+      "en": "Kanta-Häme"
+    },
+    "11": {
+      "en": "Pirkanmaa"
+    },
+    "13": {
+      "en": "Pohjois-Karjala"
+    },
+    "14": {
+      "en": "Pohjois-Pohjanmaa"
+    },
+    "15": {
+      "en": "Pohjois-Savo"
+    },
+    "16": {
+      "en": "Päijät-Häme"
+    },
+    "17": {
+      "en": "Satakunta"
+    },
+    "18": {
+      "en": "Uusimaa"
+    },
+    "19": {
+      "en": "Varsinais-Suomi"
+    }
+  },
   "UA": {
     "05": {
       "en": "Vinnytska oblast"
