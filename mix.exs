@@ -64,7 +64,7 @@ defmodule Cadastre.MixProject do
       description:
         "A repository of languages, countries and country " <>
           " subdivisions from the iso-codes Debian package.",
-      maintainers: ["Serge Karpiesz"],
+      maintainers: ["Recruitee B.V."],
       files: ["lib", "priv/data/*.etf", ".formatter.exs", "mix.exs", "README.md"],
       licenses: ["MIT"],
       links: %{"GitHub" => @source_url}

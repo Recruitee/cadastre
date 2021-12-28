@@ -31,6 +31,6 @@ Run `mix update_data` to add it to the project.
 
 ## Copyright and License
 
-Copyright (c) 2020 Serge Karpiesz
+Copyright (c) 2020 Recruitee B.V.
 
 This library is released under [MIT licensed](./LICENSE.md).
