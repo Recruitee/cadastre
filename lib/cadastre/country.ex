@@ -1,6 +1,6 @@
 defmodule Cadastre.Country do
   @moduledoc """
-  Country implementation
+  Country implementation.
   """
   alias Cadastre.Language
 
@@ -16,51 +16,50 @@ defmodule Cadastre.Country do
   ids = external_data |> Enum.map(&elem(&1, 0))
 
   @doc """
-  Return all ids (ISO_3166-1)
+  Returns all ids (ISO_3166-1).
 
   ## Examples
-  ```
-  iex> Cadastre.Country.ids() |> Enum.take(10)
-  ["AD", "AE", "AF", "AG", "AI", "AL", "AM", "AO", "AQ", "AR"]
-  ```
+
+      iex> Cadastre.Country.ids() |> Enum.take(10)
+      ["AD", "AE", "AF", "AG", "AI", "AL", "AM", "AO", "AQ", "AR"]
+
   """
   @spec ids :: [id]
   def ids, do: unquote(ids)
 
   @doc """
-  Returns all countries
+  Returns all countries.
 
   ## Examples
-  ```
-  iex> Cadastre.Country.all() |> Enum.take(3)
-  [
-    %Cadastre.Country{id: "AD"},
-    %Cadastre.Country{id: "AE"},
-    %Cadastre.Country{id: "AF"}
-  ]
 
-  iex> Cadastre.Country.all() |> Enum.count()
-  249
-  ```
+      iex> Cadastre.Country.all() |> Enum.take(3)
+      [
+        %Cadastre.Country{id: "AD"},
+        %Cadastre.Country{id: "AE"},
+        %Cadastre.Country{id: "AF"}
+      ]
+
+      iex> Cadastre.Country.all() |> Enum.count()
+      249
+
   """
   @spec all :: [t]
   def all, do: ids() |> Enum.map(&%__MODULE__{id: &1})
 
   @doc """
-  Returns `%Cadastre.Country{}` for valid `id`.
-  Returns `nil` for invalid `id`.
+  Returns `%Cadastre.Country{}` for valid `id` or `nil` for invalid `id`.
 
   ## Examples
-  ```
-  iex> Cadastre.Country.new("NL")
-  %Cadastre.Country{id: "NL"}
 
-  iex> Cadastre.Country.new("nl")
-  %Cadastre.Country{id: "NL"}
+      iex> Cadastre.Country.new("NL")
+      %Cadastre.Country{id: "NL"}
 
-  iex> Cadastre.Country.new("xx")
-  nil
-  ```
+      iex> Cadastre.Country.new("nl")
+      %Cadastre.Country{id: "NL"}
+
+      iex> Cadastre.Country.new("xx")
+      nil
+
   """
   @spec new(id | any) :: t | nil
   def new(id) when id in unquote(ids), do: %__MODULE__{id: id}
@@ -80,16 +79,16 @@ defmodule Cadastre.Country do
   Returns country name translation for `locale`
 
   ## Examples
-  ```
-  iex> Cadastre.Country.new("NL") |> Cadastre.Country.name("be")
-  "Нідэрланды"
 
-  iex> Cadastre.Country.new("NL") |> Cadastre.Country.name(":)")
-  "Netherlands"
+      iex> Cadastre.Country.new("NL") |> Cadastre.Country.name("be")
+      "Нідэрланды"
 
-  iex> Cadastre.Country.name("something wrong", "be")
-  nil
-  ```
+      iex> Cadastre.Country.new("NL") |> Cadastre.Country.name(":)")
+      "Netherlands"
+
+      iex> Cadastre.Country.name("something wrong", "be")
+      nil
+
   """
   @spec name(t, Language.id()) :: String.t()
   def name(country, locale)

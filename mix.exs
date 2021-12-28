@@ -1,9 +1,8 @@
 defmodule Cadastre.MixProject do
   use Mix.Project
 
-  @version "0.2.4"
-  @description "A repository of languages, countries and country subdivisions from the iso-codes Debian package."
   @source_url "https://github.com/Recruitee/cadastre"
+  @version "0.2.4"
 
   def project do
     [
@@ -11,8 +10,6 @@ defmodule Cadastre.MixProject do
       app: :cadastre,
       version: @version,
       elixir: "~> 1.8",
-      description: @description,
-      source_url: @source_url,
       elixirc_paths: elixirc_paths(Mix.env()),
       start_permanent: Mix.env() == :prod,
       deps: deps(),
@@ -45,23 +42,32 @@ defmodule Cadastre.MixProject do
       # Dev tools
       {:dialyxir, "~> 1.0", only: :dev, runtime: false},
       {:credo, "~> 1.1", only: :dev, runtime: false},
-      {:ex_doc, "~> 0.21", only: :dev, runtime: false}
+      {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
     ]
   end
 
   def docs do
     [
+      extras: [
+        "LICENSE.md": [title: "License"],
+        "README.md": [title: "Overview"]
+      ],
       main: "readme",
-      extras: ["README.md"]
+      source_url: @source_url,
+      source_ref: "v#{@version}",
+      formatters: ["html"]
     ]
   end
 
   defp package do
     [
-      # These are the default files included in the package
+      description:
+        "A repository of languages, countries and country " <>
+          " subdivisions from the iso-codes Debian package.",
+      maintainers: ["Serge Karpiesz"],
       files: ["lib", "priv/data/*.etf", ".formatter.exs", "mix.exs", "README.md"],
-      links: %{"GitHub" => @source_url},
-      licenses: ["MIT"]
+      licenses: ["MIT"],
+      links: %{"GitHub" => @source_url}
     ]
   end
 end
