@@ -27,7 +27,7 @@ defmodule CadastreDev.Loader do
     |> Map.new(fn {id, [en, native]} ->
       value =
         msgstr_per_en_per_lang
-        |> build_translations(Map.fetch!(msgid_per_id, id), allowed_language_ids)
+        |> build_translations(Map.get(msgid_per_id, id), allowed_language_ids)
         |> Map.put("en", en)
         |> Map.put(id, native)
 

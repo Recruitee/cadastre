@@ -11501,7 +11501,7 @@
       "cs": "Stát/Provincie",
       "da": "Delstat/provins",
       "en": "Uva Province",
-      "eo": "Ŝtato/Provinco",
+      "eo": "Provinco Uvo",
       "es": "Estado/Provincia",
       "eu": "Estatua/Probintzia",
       "fr": "Province de la Montagne",
@@ -38711,7 +38711,7 @@
       "tr": "Kunar",
       "uk": "Кунар",
       "vi": "Kunar",
-      "zh": "库纳尔省"
+      "zh": "库纳尔"
     },
     "BDG": {
       "be": "Бадгіс",
@@ -44908,7 +44908,7 @@
       "zh": "第聂伯罗波得罗夫斯克州",
       "id": "Dnipropetrovs'ka Oblast'",
       "ga": "Málta",
-      "eo": "Malto",
+      "eo": "Provinco Dnepropetrurbo",
       "bg": "Днепропетровска област",
       "sr": "Дњепропетровска област",
       "bs": "Palau",
@@ -45253,7 +45253,7 @@
       "zh": "利沃夫州",
       "id": "L'vivs'ka Oblast'",
       "ga": "Málta",
-      "eo": "Lvovio",
+      "eo": "Provinco Lvovio",
       "sc": "Regione de Minsk",
       "bg": "Лвовска област",
       "sr": "Лавовска област",
@@ -45326,7 +45326,7 @@
       "zh": "敖德萨州",
       "id": "Odes'ka Oblast'",
       "ga": "Málta",
-      "eo": "Malto",
+      "eo": "Provinco Odeso",
       "sc": "Regione de Brest",
       "bg": "Одеска област",
       "sr": "Одеска област",
@@ -48349,7 +48349,8 @@
       "he": "אבו דאבי",
       "nl": "Abu Dhabi",
       "ru": "Абу-Даби",
-      "uk": "Абу-Дабі"
+      "uk": "Абу-Дабі",
+      "zh": "阿布扎比"
     },
     "DU": {
       "uk": "Дубаї",
@@ -72261,7 +72262,7 @@
       "cs": "Gabon",
       "da": "Tabor",
       "en": "Laborie",
-      "eo": "Gabono",
+      "eo": "Laborio",
       "es": "Gabón",
       "eu": "Gabon",
       "fr": "Tabor",
@@ -74987,7 +74988,8 @@
       "be": "Лоры",
       "en": "Loṙi",
       "nl": "Lori",
-      "uk": "Лорі"
+      "uk": "Лорі",
+      "zh": "洛里省"
     },
     "SH": {
       "be": "Шырак",

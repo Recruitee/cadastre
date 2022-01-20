@@ -38,7 +38,7 @@ defmodule Cadastre.Language do
       ]
 
       iex> Cadastre.Language.all() |> Enum.count()
-      178
+      179
 
   """
   @spec all :: [t]
