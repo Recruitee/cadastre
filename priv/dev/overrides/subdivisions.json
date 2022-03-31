@@ -29,6 +29,35 @@
       "de": "Freiburg"
     }
   },
+  "ES": {
+    "AS": {
+      "en": "Principado de Asturias",
+      "fr": "Principauté des Asturies",
+      "nl": "Vorstendom Asturië"
+    },
+    "MC": {
+      "en": "Región de Murcia",
+      "fr": "Région de Murcie",
+      "nl": "Regio Murcia"
+    },
+    "MD": {
+      "en": "Comunidad de Madrid",
+      "fr": "Communauté de Madrid",
+      "nl": "Gemeenschap Madrid"
+    },
+    "NC": {
+      "en": "Nafarroako Foru Komunitatea",
+      "fr": "Communauté florale de Navarre, ",
+      "nl": "Autonome Gemeenschap Navarra",
+      "sv": "Comunidad Foral de Navarra / Nafarroako Foru Komunitatea"
+    },
+    "VC": {
+      "en": "Comunidad Valenciana",
+      "fr": "Communauté valencienne",
+      "nl": "Autonome Gemeenschap Valencia",
+      "sv": "Comunidad Valenciana / Comunitat Valenciana"
+    }
+  },
   "FI": {
     "06": {
       "en": "Kanta-Häme"
