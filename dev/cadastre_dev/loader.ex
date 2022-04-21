@@ -53,13 +53,21 @@ defmodule CadastreDev.Loader do
   end
 
   def load_subdivisions(allowed_language_ids, allowed_country_ids) do
-    msgstr_per_en_per_lang = Subdivisions.msgstr_per_msgid_per_lang()
+    msgstr_per_en_per_lang =
+      Subdivisions.msgstr_per_msgid_per_lang()
+      |> Map.new(fn {lang, msgstr_per_msgid} ->
+        msgstr_per_msgid
+        |> Map.new(fn {msgid, msgstr} ->
+          {delete_dagger_symbol(msgid), delete_dagger_symbol(msgstr)}
+        end)
+        |> then(& {lang, &1})
+      end)
 
     Subdivisions.msgid_per_id()
     |> Enum.reduce(%{}, fn {id, en}, acc ->
       with <<country_id::binary-size(2), "-", subdivision_id::binary>> <- id,
            true <- country_id in allowed_country_ids do
-        value = msgstr_per_en_per_lang |> build_translations(en, allowed_language_ids)
+        value = msgstr_per_en_per_lang |> build_translations(delete_dagger_symbol(en), allowed_language_ids)
 
         acc
         |> Map.update(country_id, %{subdivision_id => value}, &Map.put(&1, subdivision_id, value))
@@ -80,6 +88,10 @@ defmodule CadastreDev.Loader do
       end
     end)
     |> Map.put("en", en)
+  end
+
+  defp delete_dagger_symbol(msgstr) do
+    msgstr |> String.replace("†", "") |> String.trim()
   end
 
   defp write_json(map, domain) do
