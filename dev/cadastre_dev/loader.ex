@@ -18,7 +18,7 @@ defmodule CadastreDev.Loader do
   end
 
   def load_languages do
-    allowed_languages = load_allowed_langugaes()
+    allowed_languages = load_allowed_languages()
     allowed_language_ids = allowed_languages |> Map.keys()
     msgid_per_id = Languages.msgid_per_id()
     msgstr_per_en_per_lang = Languages.msgstr_per_msgid_per_lang()
@@ -99,7 +99,7 @@ defmodule CadastreDev.Loader do
     Application.app_dir(:cadastre, "priv/dev/data/#{domain}.json") |> File.write!(iodata)
   end
 
-  defp load_allowed_langugaes do
+  defp load_allowed_languages do
     Application.app_dir(:cadastre, "priv/dev/allowed_languages.json")
     |> File.read!()
     |> Jason.decode!()
