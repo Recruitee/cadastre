@@ -59,6 +59,10 @@
     }
   },
   "FI": {
+    "01": {
+      "en": "Ahvenanmaa",
+      "sv": "Åland"
+    },
     "06": {
       "en": "Kanta-Häme"
     },
