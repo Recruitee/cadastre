@@ -1,4 +1,27 @@
 {
+  "AE": {
+    "AJ": {
+      "en": "Ajman"
+    },
+    "AZ": {
+      "en": "Abu Dhabi"
+    },
+    "DU": {
+      "en": "Dubai"
+    },
+    "FU": {
+      "en": "Fujairah"
+    },
+    "RK": {
+      "en": "Ras Al Khaimah"
+    },
+    "SH": {
+      "en": "Sharjah"
+    },
+    "UQ": {
+      "en": "Umm Al Quwain"
+    }
+  },
   "BY": {
     "BR": {
       "en": "Bresckaja voblasć"
