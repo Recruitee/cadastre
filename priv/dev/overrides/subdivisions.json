@@ -134,6 +134,47 @@
       "en": "HaTsafon"
     }
   },
+  "SA": {
+    "01": {
+      "en": "Riyadh Province"
+    },
+    "02": {
+      "en": "Mecca Province"
+    },
+    "03": {
+      "en": "Medina Province"
+    },
+    "04": {
+      "en": "Eastern Province"
+    },
+    "05": {
+      "en": "Qassim Province"
+    },
+    "06": {
+      "en": "Ha'il Province"
+    },
+    "07": {
+      "en": "Tabuk Province"
+    },
+    "08": {
+      "en": "Northern Borders Province"
+    },
+    "09": {
+      "en": "Jazan Province"
+    },
+    "10": {
+      "en": "Najran Province"
+    },
+    "11": {
+      "en": "Al-Bahah Province"
+    },
+    "12": {
+      "en": "Al-Jawf Province"
+    },
+    "14": {
+      "en": "Asir Province"
+    }
+  },
   "UA": {
     "05": {
       "en": "Vinnytska oblast"
