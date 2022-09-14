@@ -6944,7 +6944,7 @@
       "lt": "Batkeno sritis",
       "lv": "Botsvāna",
       "nl": "Batken, Provincie",
-      "pl": "obwót batkeński",
+      "pl": "obwód batkeński",
       "ru": "Баткен",
       "sr": "Баткен",
       "uk": "Баткенська область",
@@ -6986,7 +6986,7 @@
       "vi": "Miền Kurskaya",
       "fr": "Koursk",
       "lt": "Kursko sritis",
-      "pl": "obwód kurski",
+      "pl": "obwód czujski",
       "lv": "Malta"
     },
     "GB": {
@@ -7026,6 +7026,7 @@
     "GO": {
       "en": "Gorod Osh",
       "nl": "Oš (stad)",
+      "pl": "Osz",
       "uk": "Місто Ош"
     },
     "J": {
@@ -7061,7 +7062,7 @@
       "vi": "Miền Samaraskaya",
       "fr": "Samara",
       "lt": "Samaros sritis",
-      "pl": "obwód samarski",
+      "pl": "obwód dżalalabadzki",
       "lv": "Malta"
     },
     "N": {
@@ -7164,7 +7165,7 @@
       "vi": "Miền Tul'skaya",
       "fr": "Toula",
       "lt": "Tulos sritis",
-      "pl": "obwód tulski",
+      "pl": "obwód issykkulski",
       "lv": "Malta"
     }
   },
@@ -44969,7 +44970,7 @@
       "vi": "Al `Aqabah",
       "fr": "Al ‘Aqabah",
       "lt": "Al Džahros muchafaza",
-      "pl": "Akaba",
+      "pl": "Prowincja Stołeczna",
       "lv": "Alabama"
     },
     "AQ": {
