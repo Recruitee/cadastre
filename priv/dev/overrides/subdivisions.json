@@ -149,6 +149,47 @@
       "sv": "Amman"
     }
   },
+  "NL": {
+    "BQ1": {
+      "es": "Bonaire"
+    },
+    "BQ2": {
+      "es": "Saba"
+    },
+    "BQ3": {
+      "es": "San Eustaquio"
+    },
+    "DR": {
+      "es": "Drente"
+    },
+    "FL": {
+      "es": "Flevoland"
+    },
+    "GR": {
+      "es": "Provincia de Groninga"
+    },
+    "LI": {
+      "es": "Limburgo"
+    },
+    "NB": {
+      "es": "Brabante Septentrional"
+    },
+    "NH": {
+      "es": "Holanda Septentrional"
+    },
+    "OV": {
+      "es": "Overijssel"
+    },
+    "UT": {
+      "es": "Provincia de Utrecht"
+    },
+    "ZE": {
+      "es": "Zelanda"
+    },
+    "ZH": {
+      "es": "Holanda Meridional"
+    }
+  },
   "SA": {
     "01": {
       "en": "Riyadh Province"
