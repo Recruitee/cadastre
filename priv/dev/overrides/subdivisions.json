@@ -245,6 +245,75 @@
       "en": "Asir Province"
     }
   },
+  "SE": {
+    "AB": {
+      "en": "Stockholms län",
+      "eo": "Kantono Stokholmo"
+    },
+    "AC": {
+      "en": "Västerbottens län"
+    },
+    "BD": {
+      "en": "Norrbottens län"
+    },
+    "C": {
+      "eo": "Kantono Upsalo",
+      "en": "Uppsala län"
+    },
+    "D": {
+      "en": "Södermanlands län"
+    },
+    "E": {
+      "en": "Östergötlands län"
+    },
+    "F": {
+      "en": "Jönköpings län"
+    },
+    "G": {
+      "en": "Kronobergs län"
+    },
+    "H": {
+      "en": "Kalmar län"
+    },
+    "I": {
+      "en": "Gotlands län",
+      "eo": "Kantono Gotlando"
+    },
+    "K": {
+      "en": "Blekinge län"
+    },
+    "M": {
+      "en": "Skåne län"
+    },
+    "N": {
+      "en": "Hallands län"
+    },
+    "O": {
+      "en": "Västra Götalands län"
+    },
+    "S": {
+      "en": "Värmlands län"
+    },
+    "T": {
+      "en": "Örebro län"
+    },
+    "U": {
+      "en": "Västmanlands län"
+    },
+    "W": {
+      "en": "Dalarnas län"
+    },
+    "X": {
+      "en": "Gävleborgs län"
+    },
+    "Y": {
+      "en": "Västernorrlands län",
+      "eo": "Kantono Uestnordlando"
+    },
+    "Z": {
+      "en": "Jämtlands län"
+    }
+  },
   "UA": {
     "05": {
       "en": "Vinnytska oblast"
