@@ -45,6 +45,14 @@
       "en": "Viciebskaja voblasć"
     }
   },
+  "BE": {
+    "VLG": {
+      "fr": "Région Flamande"
+    },
+    "WAL": {
+      "en": "Région Wallonne"
+    }
+  },
   "CH": {
     "FR": {
       "en": "Fribourg",
