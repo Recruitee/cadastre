@@ -40,7 +40,7 @@ defmodule Cadastre.Country do
       ]
 
       iex> Cadastre.Country.all() |> Enum.count()
-      249
+      250
 
   """
   @spec all :: [t]
