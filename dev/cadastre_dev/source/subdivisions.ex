@@ -15,7 +15,7 @@ defmodule CadastreDev.Source.Subdivisions do
   def msgid_per_id do
     case API.download_json(@json_path) do
       %{"3166-2" => list} when is_list(list) ->
-        list = list |> Enum.filter(&is_valid?/1) |> Enum.map(&Map.put_new(&1, "parent", nil))
+        list = list |> Enum.filter(&valid?/1) |> Enum.map(&Map.put_new(&1, "parent", nil))
 
         list
         |> fetch_country_ids()
@@ -58,6 +58,6 @@ defmodule CadastreDev.Source.Subdivisions do
     end)
   end
 
-  defp is_valid?(%{"code" => _code, "name" => _name}), do: true
-  defp is_valid?(_), do: false
+  defp valid?(%{"code" => _code, "name" => _name}), do: true
+  defp valid?(_), do: false
 end
