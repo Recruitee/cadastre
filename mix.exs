@@ -2,7 +2,7 @@ defmodule Cadastre.MixProject do
   use Mix.Project
 
   @source_url "https://github.com/Recruitee/cadastre"
-  @version "0.2.14"
+  @version "0.2.15"
 
   def project do
     [
