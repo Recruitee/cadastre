@@ -58,7 +58,12 @@
       "fr": "Région Flamande"
     },
     "WAL": {
-      "en": "Région Wallonne"
+      "en": "Walloon Region",
+      "de": "Wallonische Region",
+      "fr": "Région wallonne",
+      "nl": "Wallonië",
+      "se": "Vallonien",
+      "fi": "Vallonian alue"
     }
   },
   "CH": {
