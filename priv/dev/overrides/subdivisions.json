@@ -171,6 +171,20 @@
   "LV": {
     "JUR": {
       "lv": "Jūrmala"
+    },
+    "113": {
+      "da": "Valmiera-distriktet",
+      "cs": "Okres Valmiera",
+      "nl": "Valmiera",
+      "sv": "Valmiera-distriktet",
+      "es": "Distrito de Valmiera",
+      "en": "Valmiera District",
+      "vi": "Salavan",
+      "fr": "District de Valmiera",
+      "de": "Bezirk Valmiera",
+      "lt": "Valmieras Novads",
+      "pl": "Valmieras Novads",
+      "lv": "Valmieras Novads"
     }
   },
   "NL": {
