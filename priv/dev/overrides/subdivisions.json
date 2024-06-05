@@ -69,6 +69,11 @@
     }
   },
   "ES": {
+    "AN": {
+      "bs": "Andaluzija",
+      "cs": "Andalusie",
+      "es": "Andalucia"
+    },
     "AS": {
       "en": "Principado de Asturias",
       "fr": "Principauté des Asturies",
