@@ -144,6 +144,15 @@
     }
   },
   "GB": {
+    "ENG": {
+      "da": "England",
+      "sl": "Anglija",
+      "id": "Inggris",
+      "it": "Inghilterra",
+      "sv": "England",
+      "tr": "İngiltere",
+      "fr": "Angleterre"
+    },
     "WLS": {
       "en": "Wales",
       "uk": "Уельс"
