@@ -54,8 +54,14 @@
     "BRU": {
       "en": "Brussels"
     },
+    "LI": {
+      "fr": "Limbourg"
+    },
     "VLG": {
       "fr": "Région Flamande"
+    },
+    "VLI": {
+      "fr": "Limbourg"
     },
     "WAL": {
       "en": "Walloon Region",
@@ -71,6 +77,23 @@
       "en": "Fribourg",
       "fr": "Fribourg",
       "de": "Freiburg"
+    }
+  },
+  "DE": {
+    "BE": {
+      "es": "Berlín"
+    },
+    "BY": {
+      "es": "Baviera"
+    },
+    "HB": {
+      "es": "Bremen"
+    },
+    "SL": {
+      "es": "Sarre"
+    },
+    "SN": {
+      "es": "Sajonia"
     }
   },
   "ES": {
@@ -161,6 +184,11 @@
       "en": "Greater London"
     }
   },
+  "HR": {
+    "21": {
+      "es": "Zagreb"
+    }
+  },
   "IL": {
     "D": {
       "en": "HaDarom"
@@ -209,6 +237,155 @@
       "lv": "Valmieras Novads"
     }
   },
+  "MT": {
+    "47": {
+      "es": "Safi"
+    },
+    "01": {
+      "es": "Attard"
+    },
+    "27": {
+      "es": "Marsaskala"
+    },
+    "43": {
+      "es": "Qormi"
+    },
+    "25": {
+      "es": "Luqa"
+    },
+    "14": {
+      "es": "Għarb"
+    },
+    "36": {
+      "es": "Munxar"
+    },
+    "20": {
+      "es": "Senglea"
+    },
+    "31": {
+      "es": "Mġarr"
+    },
+    "09": {
+      "es": "Floriana"
+    },
+    "64": {
+      "es": "Żabbar"
+    },
+    "54": {
+      "es": "Santa Venera"
+    },
+    "02": {
+      "es": "Balzan"
+    },
+    "33": {
+      "es": "Mqabba"
+    },
+    "52": {
+      "es": "Sannat"
+    },
+    "34": {
+      "es": "Msida"
+    },
+    "61": {
+      "es": "Xagħra"
+    },
+    "60": {
+      "es": "La Valeta"
+    },
+    "56": {
+      "es": "Sliema"
+    },
+    "26": {
+      "es": "Marsa"
+    },
+    "21": {
+      "es": "Kalkara"
+    },
+    "03": {
+      "es": "Birgu"
+    },
+    "23": {
+      "es": "Kirkop"
+    },
+    "45": {
+      "es": "Victoria"
+    },
+    "12": {
+      "es": "Gżira"
+    },
+    "11": {
+      "es": "Gudja"
+    },
+    "10": {
+      "es": "Fontana"
+    },
+    "40": {
+      "es": "Pembroke"
+    },
+    "06": {
+      "es": "Bormla"
+    },
+    "39": {
+      "es": "Paola"
+    },
+    "50": {
+      "es": "San Lawrenz"
+    },
+    "07": {
+      "es": "Dingli"
+    },
+    "41": {
+      "es": "Pietà"
+    },
+    "38": {
+      "es": "Naxxar"
+    },
+    "53": {
+      "es": "Santa Luċija"
+    },
+    "35": {
+      "es": "Mtarfa"
+    },
+    "08": {
+      "es": "Fgura"
+    },
+    "32": {
+      "es": "Mosta"
+    },
+    "28": {
+      "es": "Marsaxlokk"
+    },
+    "29": {
+      "es": "Mdina"
+    },
+    "59": {
+      "es": "Tarxien"
+    },
+    "49": {
+      "es": "San Ġwann"
+    },
+    "30": {
+      "es": "Mellieħa"
+    },
+    "24": {
+      "es": "Lija"
+    },
+    "42": {
+      "es": "Qala"
+    },
+    "48": {
+      "es": "San Julián"
+    },
+    "37": {
+      "es": "Nadur"
+    },
+    "51": {
+      "es": "San Pawl il-Baħar"
+    },
+    "19": {
+      "es": "Iklin"
+    }
+  },
   "NL": {
     "BQ1": {
       "es": "Bonaire"
@@ -254,6 +431,26 @@
     },
     "ZH": {
       "es": "Holanda Meridional"
+    }
+  },
+  "RS": {
+    "00": {
+      "es": "Belgrado"
+    },
+    "09": {
+      "es": "Distrito de Kolubara"
+    },
+    "11": {
+      "es": "Distrito de Braničevo"
+    },
+    "13": {
+      "es": "Distrito de Pomoravlje"
+    },
+    "16": {
+      "es": "Distrito de Zlatibor"
+    },
+    "22": {
+      "es": "Distrito de Pirot"
     }
   },
   "SA": {
@@ -364,6 +561,77 @@
     },
     "Z": {
       "en": "Jämtlands län"
+    }
+  },
+  "TH": {
+    "15": {
+      "es": "Provincia de Ang Thong"
+    },
+    "17": {
+      "es": "Provincia de Sing Buri"
+    },
+    "18": {
+      "es": "Provincia de Chainat"
+    },
+    "19": {
+      "es": "Provincia de Saraburi"
+    },
+    "21": {
+      "es": "Rayong"
+    },
+    "31": {
+      "es": "Provincia de Buri Ram"
+    },
+    "32": {
+      "es": "Surin"
+    },
+    "35": {
+      "es": "Provincia de Yasothon"
+    },
+    "42": {
+      "es": "Provincia de Loei"
+    },
+    "46": {
+      "es": "Provincia de Kalasin"
+    },
+    "49": {
+      "es": "Mukdahan"
+    },
+    "50": {
+      "es": "Provincia de Chiang Mai"
+    },
+    "52": {
+      "es": "Provincia de Lampang"
+    },
+    "57": {
+      "es": "Provincia de Chiang Rai"
+    },
+    "58": {
+      "es": "Provincia de Mae Hong Son"
+    },
+    "81": {
+      "es": "Provincia de Krabi"
+    },
+    "82": {
+      "es": "Provincia de Phang Nga"
+    },
+    "85": {
+      "es": "Provincia de Ranong"
+    },
+    "90": {
+      "es": "Provincia de Songkhla"
+    },
+    "91": {
+      "es": "Provincia de Satun"
+    },
+    "92": {
+      "es": "Provincia de Trang"
+    },
+    "94": {
+      "es": "Provincia de Pattani"
+    },
+    "95": {
+      "es": "Provincia de Yala"
     }
   },
   "UA": {
