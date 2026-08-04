@@ -217,7 +217,17 @@
   },
   "LV": {
     "JUR": {
-      "lv": "Jūrmala"
+      "lv": "Jūrmala",
+      "az": "Jūrmala",
+      "bg": "Jūrmala",
+      "bs": "Jūrmala",
+      "ca": "Jūrmala",
+      "cs": "Jūrmala",
+      "eo": "Jūrmala",
+      "es": "Jūrmala",
+      "eu": "Jūrmala",
+      "ko": "Jūrmala",
+      "ve": "Jūrmala"
     },
     "113": {
       "da": "Valmiera-distriktet",
@@ -226,12 +236,77 @@
       "sv": "Valmiera-distriktet",
       "es": "Distrito de Valmiera",
       "en": "Valmiera District",
-      "vi": "Salavan",
+      "vi": "Valmiera District",
       "fr": "District de Valmiera",
       "de": "Bezirk Valmiera",
       "lt": "Valmieras Novads",
       "pl": "Valmieras Novads",
-      "lv": "Valmieras Novads"
+      "lv": "Valmieras Novads",
+      "sl": "Valmiera District",
+      "az": "Valmiera District",
+      "zh": "Valmiera District",
+      "eo": "Valmiera District",
+      "bg": "Valmiera District",
+      "bs": "Valmiera District",
+      "eu": "Valmiera District",
+      "ko": "Valmiera District",
+      "ca": "Valmiera District",
+      "ve": "Valmiera District",
+      "wa": "Valmiera District"
+    },
+    "111": {
+      "da": "Augšdaugavas novads",
+      "sl": "Augšdaugavas novads",
+      "az": "Augšdaugavas novads",
+      "zh": "Augšdaugavas novads",
+      "eo": "Augšdaugavas novads",
+      "bg": "Augšdaugavas novads",
+      "bs": "Augšdaugavas novads",
+      "eu": "Augšdaugavas novads",
+      "cs": "Augšdaugavas novads",
+      "ko": "Augšdaugavas novads",
+      "ca": "Augšdaugavas novads",
+      "ve": "Augšdaugavas novads",
+      "wa": "Augšdaugavas novads",
+      "es": "Augšdaugavas novads",
+      "vi": "Augšdaugavas novads",
+      "lt": "Augšdaugavas novads",
+      "lv": "Augšdaugavas novads"
+    },
+    "REZ": {
+      "az": "Rēzekne",
+      "bg": "Rēzekne",
+      "bs": "Rēzekne",
+      "ca": "Rēzekne",
+      "cs": "Rēzekne"
+    },
+    "077": {
+      "az": "Rēzeknes novads",
+      "bg": "Rēzeknes novads",
+      "bs": "Rēzeknes novads",
+      "ca": "Rēzeknes novads",
+      "cs": "Rēzeknes novads"
+    },
+    "RIX": {
+      "wa": "Rīga"
+    },
+    "059": {
+      "az": "Madonas novads",
+      "bg": "Madonas novads",
+      "bs": "Madonas novads",
+      "ca": "Madonas novads",
+      "cs": "Madonas novads",
+      "da": "Madonas novads",
+      "eo": "Madonas novads",
+      "es": "Madonas novads",
+      "eu": "Madonas novads",
+      "ko": "Madonas novads",
+      "lt": "Madonas novads",
+      "lv": "Madonas novads",
+      "sl": "Madonas novads",
+      "ve": "Madonas novads",
+      "vi": "Madonas novads",
+      "zh": "Madonas novads"
     }
   },
   "MT": {
